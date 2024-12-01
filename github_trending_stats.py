@@ -52,7 +52,24 @@ class GitHubTrendingStats:
         try:
             response = requests.get(url, headers=self.headers, params=params)
             response.raise_for_status()
-            return response.json()['items']
+            repos = response.json()['items']
+            
+            # 获取每个仓库的社交预览图
+            for repo in repos:
+                try:
+                    # 获取仓库详细信息，包括社交预览图
+                    repo_url = f"{self.base_url}/repos/{repo['full_name']}"
+                    repo_response = requests.get(repo_url, headers=self.headers)
+                    repo_response.raise_for_status()
+                    repo_data = repo_response.json()
+                    
+                    # 添加社交预览图 URL
+                    repo['social_preview_url'] = f"https://opengraph.githubassets.com/1/{repo['full_name']}"
+                except Exception as e:
+                    print(f"Error fetching social preview for {repo['full_name']}: {e}")
+                    repo['social_preview_url'] = None
+            
+            return repos
         except Exception as e:
             print(f"Error fetching trending repositories: {e}")
             return []
@@ -74,7 +91,8 @@ class GitHubTrendingStats:
                     'avatar_url': repo['owner']['avatar_url']
                 },
                 'forks': repo['forks_count'],
-                'issues': repo['open_issues_count']
+                'issues': repo['open_issues_count'],
+                'social_preview_url': repo.get('social_preview_url')
             })
 
         # 保存JSON文件
@@ -119,6 +137,10 @@ class GitHubTrendingStats:
                 for idx, repo in enumerate(self.all_stats[period], 1):
                     content += f"## {idx}. [{repo['name']}]({repo['url']})\n\n"
                     
+                    # 添加项目预览图
+                    if repo.get('social_preview_url'):
+                        content += f"![项目预览图]({repo['social_preview_url']})\n\n"
+                    
                     if repo['description']:
                         content += f"📝 **项目描述**: {repo['description']}\n\n"
                     
@@ -129,7 +151,6 @@ class GitHubTrendingStats:
                     
                     content += f"📅 **创建时间**: {repo['created_at'][:10]}\n\n"
                     content += f"👤 **作者**: [{repo['owner']['login']}]({repo['owner']['url']})\n\n"
-                    content += f"![作者头像]({repo['owner']['avatar_url']})\n\n"
                     content += f"🔄 **Fork 数量**: {repo['forks']:,}\n\n"
                     content += f"⚠️ **未解决 Issues**: {repo['issues']:,}\n\n"
                     content += "---\n\n"
