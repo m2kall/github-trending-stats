@@ -1,1 +1,452 @@
-[]
+[
+  {
+    "name": "richards199999/Thinking-Claude",
+    "description": "Let your Claude able to think",
+    "stars": 8767,
+    "language": "JavaScript",
+    "url": "https://github.com/richards199999/Thinking-Claude",
+    "created_at": "2024-11-13T10:19:21Z",
+    "owner": {
+      "login": "richards199999",
+      "url": "https://github.com/richards199999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142148415?v=4"
+    },
+    "forks": 1007,
+    "issues": 2
+  },
+  {
+    "name": "google-deepmind/alphafold3",
+    "description": "AlphaFold 3 inference pipeline.",
+    "stars": 5280,
+    "language": "Python",
+    "url": "https://github.com/google-deepmind/alphafold3",
+    "created_at": "2024-11-11T10:38:11Z",
+    "owner": {
+      "login": "google-deepmind",
+      "url": "https://github.com/google-deepmind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8596759?v=4"
+    },
+    "forks": 604,
+    "issues": 19
+  },
+  {
+    "name": "yangchris11/samurai",
+    "description": "Official repository of \"SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory\"",
+    "stars": 5257,
+    "language": "Python",
+    "url": "https://github.com/yangchris11/samurai",
+    "created_at": "2024-11-06T22:46:05Z",
+    "owner": {
+      "login": "yangchris11",
+      "url": "https://github.com/yangchris11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20741287?v=4"
+    },
+    "forks": 294,
+    "issues": 16
+  },
+  {
+    "name": "modelcontextprotocol/servers",
+    "description": "Model Context Protocol Servers",
+    "stars": 3232,
+    "language": "JavaScript",
+    "url": "https://github.com/modelcontextprotocol/servers",
+    "created_at": "2024-11-19T01:10:17Z",
+    "owner": {
+      "login": "modelcontextprotocol",
+      "url": "https://github.com/modelcontextprotocol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182288589?v=4"
+    },
+    "forks": 273,
+    "issues": 63
+  },
+  {
+    "name": "hyperlight-dev/hyperlight",
+    "description": "Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.",
+    "stars": 2218,
+    "language": "Rust",
+    "url": "https://github.com/hyperlight-dev/hyperlight",
+    "created_at": "2024-11-05T16:39:07Z",
+    "owner": {
+      "login": "hyperlight-dev",
+      "url": "https://github.com/hyperlight-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183128577?v=4"
+    },
+    "forks": 75,
+    "issues": 14
+  },
+  {
+    "name": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
+    "description": "A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!",
+    "stars": 2196,
+    "language": "Python",
+    "url": "https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama",
+    "created_at": "2024-11-20T07:50:38Z",
+    "owner": {
+      "login": "TheBlewish",
+      "url": "https://github.com/TheBlewish",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169735170?v=4"
+    },
+    "forks": 220,
+    "issues": 10
+  },
+  {
+    "name": "SylphAI-Inc/LLM-engineer-handbook",
+    "description": "A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.",
+    "stars": 2057,
+    "language": null,
+    "url": "https://github.com/SylphAI-Inc/LLM-engineer-handbook",
+    "created_at": "2024-11-04T20:53:14Z",
+    "owner": {
+      "login": "SylphAI-Inc",
+      "url": "https://github.com/SylphAI-Inc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109630329?v=4"
+    },
+    "forks": 238,
+    "issues": 2
+  },
+  {
+    "name": "magic-quill/MagicQuill",
+    "description": "Official Implementations for Paper - MagicQuill: An Intelligent Interactive Image Editing System",
+    "stars": 1896,
+    "language": "Python",
+    "url": "https://github.com/magic-quill/MagicQuill",
+    "created_at": "2024-11-12T12:52:36Z",
+    "owner": {
+      "login": "magic-quill",
+      "url": "https://github.com/magic-quill",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181313602?v=4"
+    },
+    "forks": 148,
+    "issues": 12
+  },
+  {
+    "name": "Standard-Intelligence/hertz-dev",
+    "description": "first base model for full-duplex conversational audio",
+    "stars": 1620,
+    "language": "Python",
+    "url": "https://github.com/Standard-Intelligence/hertz-dev",
+    "created_at": "2024-11-03T14:41:39Z",
+    "owner": {
+      "login": "Standard-Intelligence",
+      "url": "https://github.com/Standard-Intelligence",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167654684?v=4"
+    },
+    "forks": 102,
+    "issues": 14
+  },
+  {
+    "name": "Nutlope/llama-ocr",
+    "description": "Document to Markdown OCR library with Llama 3.2 vision",
+    "stars": 1595,
+    "language": "TypeScript",
+    "url": "https://github.com/Nutlope/llama-ocr",
+    "created_at": "2024-11-12T01:26:25Z",
+    "owner": {
+      "login": "Nutlope",
+      "url": "https://github.com/Nutlope",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63742054?v=4"
+    },
+    "forks": 125,
+    "issues": 13
+  },
+  {
+    "name": "Lightricks/LTX-Video",
+    "description": "Official repository for LTX-Video",
+    "stars": 1581,
+    "language": "Python",
+    "url": "https://github.com/Lightricks/LTX-Video",
+    "created_at": "2024-11-20T20:06:28Z",
+    "owner": {
+      "login": "Lightricks",
+      "url": "https://github.com/Lightricks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3170348?v=4"
+    },
+    "forks": 91,
+    "issues": 32
+  },
+  {
+    "name": "PKU-YuanGroup/LLaVA-CoT",
+    "description": "LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning",
+    "stars": 1467,
+    "language": "Python",
+    "url": "https://github.com/PKU-YuanGroup/LLaVA-CoT",
+    "created_at": "2024-11-17T06:01:19Z",
+    "owner": {
+      "login": "PKU-YuanGroup",
+      "url": "https://github.com/PKU-YuanGroup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135824553?v=4"
+    },
+    "forks": 53,
+    "issues": 5
+  },
+  {
+    "name": "antgroup/echomimic_v2",
+    "description": "EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation",
+    "stars": 1387,
+    "language": "Python",
+    "url": "https://github.com/antgroup/echomimic_v2",
+    "created_at": "2024-11-20T08:35:35Z",
+    "owner": {
+      "login": "antgroup",
+      "url": "https://github.com/antgroup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37703784?v=4"
+    },
+    "forks": 155,
+    "issues": 22
+  },
+  {
+    "name": "Nutlope/logocreator",
+    "description": "A free + OSS logo generator powered by Flux on Together AI",
+    "stars": 1314,
+    "language": "TypeScript",
+    "url": "https://github.com/Nutlope/logocreator",
+    "created_at": "2024-11-06T03:55:48Z",
+    "owner": {
+      "login": "Nutlope",
+      "url": "https://github.com/Nutlope",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63742054?v=4"
+    },
+    "forks": 153,
+    "issues": 5
+  },
+  {
+    "name": "jwohlwend/boltz",
+    "description": "Official repository for the Boltz-1 biomolecular interaction model",
+    "stars": 1261,
+    "language": "Python",
+    "url": "https://github.com/jwohlwend/boltz",
+    "created_at": "2024-11-17T15:10:01Z",
+    "owner": {
+      "login": "jwohlwend",
+      "url": "https://github.com/jwohlwend",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7190650?v=4"
+    },
+    "forks": 127,
+    "issues": 36
+  },
+  {
+    "name": "folke/snacks.nvim",
+    "description": "🍿 A collection of small QoL plugins for Neovim",
+    "stars": 1215,
+    "language": "Lua",
+    "url": "https://github.com/folke/snacks.nvim",
+    "created_at": "2024-11-02T22:24:00Z",
+    "owner": {
+      "login": "folke",
+      "url": "https://github.com/folke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292349?v=4"
+    },
+    "forks": 23,
+    "issues": 7
+  },
+  {
+    "name": "huggingface/smollm",
+    "description": "Everything about the SmolLM & SmolLM2 family of models ",
+    "stars": 1191,
+    "language": "Python",
+    "url": "https://github.com/huggingface/smollm",
+    "created_at": "2024-11-04T13:01:54Z",
+    "owner": {
+      "login": "huggingface",
+      "url": "https://github.com/huggingface",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    "forks": 49,
+    "issues": 5
+  },
+  {
+    "name": "BAndysc/AvaloniaVisualBasic6",
+    "description": "A recreation of the classic Visual Basic 6 IDE and language in C# with Avalonia",
+    "stars": 1171,
+    "language": "C#",
+    "url": "https://github.com/BAndysc/AvaloniaVisualBasic6",
+    "created_at": "2024-11-07T01:32:16Z",
+    "owner": {
+      "login": "BAndysc",
+      "url": "https://github.com/BAndysc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5689666?v=4"
+    },
+    "forks": 68,
+    "issues": 10
+  },
+  {
+    "name": "nishant-Tiwari24/coding-resources",
+    "description": null,
+    "stars": 1118,
+    "language": null,
+    "url": "https://github.com/nishant-Tiwari24/coding-resources",
+    "created_at": "2024-11-02T07:19:23Z",
+    "owner": {
+      "login": "nishant-Tiwari24",
+      "url": "https://github.com/nishant-Tiwari24",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124623023?v=4"
+    },
+    "forks": 178,
+    "issues": 5
+  },
+  {
+    "name": "BemiHQ/BemiDB",
+    "description": "Postgres read replica optimized for analytics",
+    "stars": 1104,
+    "language": "Go",
+    "url": "https://github.com/BemiHQ/BemiDB",
+    "created_at": "2024-11-04T22:09:10Z",
+    "owner": {
+      "login": "BemiHQ",
+      "url": "https://github.com/BemiHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145176674?v=4"
+    },
+    "forks": 21,
+    "issues": 8
+  },
+  {
+    "name": "DocumindHQ/documind",
+    "description": "Open-source platform for extracting structured data from documents using AI.",
+    "stars": 1084,
+    "language": "TypeScript",
+    "url": "https://github.com/DocumindHQ/documind",
+    "created_at": "2024-11-17T00:17:23Z",
+    "owner": {
+      "login": "DocumindHQ",
+      "url": "https://github.com/DocumindHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187449251?v=4"
+    },
+    "forks": 32,
+    "issues": 5
+  },
+  {
+    "name": "bddicken/languages",
+    "description": "Compare languages",
+    "stars": 1010,
+    "language": "Shell",
+    "url": "https://github.com/bddicken/languages",
+    "created_at": "2024-11-20T03:26:36Z",
+    "owner": {
+      "login": "bddicken",
+      "url": "https://github.com/bddicken",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1181638?v=4"
+    },
+    "forks": 201,
+    "issues": 60
+  },
+  {
+    "name": "wenqsun/DimensionX",
+    "description": "DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion",
+    "stars": 988,
+    "language": "Python",
+    "url": "https://github.com/wenqsun/DimensionX",
+    "created_at": "2024-11-07T16:47:09Z",
+    "owner": {
+      "login": "wenqsun",
+      "url": "https://github.com/wenqsun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93043187?v=4"
+    },
+    "forks": 56,
+    "issues": 19
+  },
+  {
+    "name": "EinGuterWaran/awesome-opensource-boilerplates",
+    "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
+    "stars": 937,
+    "language": null,
+    "url": "https://github.com/EinGuterWaran/awesome-opensource-boilerplates",
+    "created_at": "2024-11-10T09:09:06Z",
+    "owner": {
+      "login": "EinGuterWaran",
+      "url": "https://github.com/EinGuterWaran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14865414?v=4"
+    },
+    "forks": 38,
+    "issues": 1
+  },
+  {
+    "name": "doxx/darkflare",
+    "description": "DarkFlare Firewall Piercing (TCP over CDN)",
+    "stars": 921,
+    "language": "Go",
+    "url": "https://github.com/doxx/darkflare",
+    "created_at": "2024-11-20T17:05:00Z",
+    "owner": {
+      "login": "doxx",
+      "url": "https://github.com/doxx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2159481?v=4"
+    },
+    "forks": 50,
+    "issues": 4
+  },
+  {
+    "name": "anonymous-en/ss_extractor_gui",
+    "description": null,
+    "stars": 880,
+    "language": "Python",
+    "url": "https://github.com/anonymous-en/ss_extractor_gui",
+    "created_at": "2024-11-13T03:25:22Z",
+    "owner": {
+      "login": "anonymous-en",
+      "url": "https://github.com/anonymous-en",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188286139?v=4"
+    },
+    "forks": 179,
+    "issues": 1
+  },
+  {
+    "name": "Lesterpaintstheworld/terminal-velocity",
+    "description": "A novel created autonomously by a team of 10 AI agents",
+    "stars": 855,
+    "language": "Python",
+    "url": "https://github.com/Lesterpaintstheworld/terminal-velocity",
+    "created_at": "2024-11-16T23:15:46Z",
+    "owner": {
+      "login": "Lesterpaintstheworld",
+      "url": "https://github.com/Lesterpaintstheworld",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5920204?v=4"
+    },
+    "forks": 53,
+    "issues": 1
+  },
+  {
+    "name": "facebookresearch/watermark-anything",
+    "description": "Official implementation of the paper \"Watermark Anything with Localized Messages\"",
+    "stars": 817,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/facebookresearch/watermark-anything",
+    "created_at": "2024-11-11T23:28:26Z",
+    "owner": {
+      "login": "facebookresearch",
+      "url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "forks": 20,
+    "issues": 3
+  },
+  {
+    "name": "Acmesec/PromptJailbreakManual",
+    "description": "Prompt越狱手册",
+    "stars": 782,
+    "language": null,
+    "url": "https://github.com/Acmesec/PromptJailbreakManual",
+    "created_at": "2024-11-25T15:10:33Z",
+    "owner": {
+      "login": "Acmesec",
+      "url": "https://github.com/Acmesec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43740052?v=4"
+    },
+    "forks": 79,
+    "issues": 1
+  },
+  {
+    "name": "bRAGAI/bRAG-langchain",
+    "description": "Everything you need to know to build your own RAG application",
+    "stars": 758,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/bRAGAI/bRAG-langchain",
+    "created_at": "2024-11-16T07:41:36Z",
+    "owner": {
+      "login": "bRAGAI",
+      "url": "https://github.com/bRAGAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188657705?v=4"
+    },
+    "forks": 56,
+    "issues": 4
+  }
+]

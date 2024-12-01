@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "name": "xai-org/grok-1",
+    "description": "Grok open release",
+    "stars": 49643,
+    "language": "Python",
+    "url": "https://github.com/xai-org/grok-1",
+    "created_at": "2024-03-17T08:53:38Z",
+    "owner": {
+      "login": "xai-org",
+      "url": "https://github.com/xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "forks": 8330,
+    "issues": 105
+  },
+  {
+    "name": "All-Hands-AI/OpenHands",
+    "description": "🙌 OpenHands: Code Less, Make More",
+    "stars": 37695,
+    "language": "Python",
+    "url": "https://github.com/All-Hands-AI/OpenHands",
+    "created_at": "2024-03-13T03:33:31Z",
+    "owner": {
+      "login": "All-Hands-AI",
+      "url": "https://github.com/All-Hands-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169105795?v=4"
+    },
+    "forks": 4259,
+    "issues": 245
+  },
+  {
+    "name": "RVC-Boss/GPT-SoVITS",
+    "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+    "stars": 36319,
+    "language": "Python",
+    "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+    "created_at": "2024-01-14T18:05:21Z",
+    "owner": {
+      "login": "RVC-Boss",
+      "url": "https://github.com/RVC-Boss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129054828?v=4"
+    },
+    "forks": 4147,
+    "issues": 677
+  }
+]

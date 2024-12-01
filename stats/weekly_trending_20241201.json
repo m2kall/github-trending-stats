@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "name": "Acmesec/PromptJailbreakManual",
+    "description": "Prompt越狱手册",
+    "stars": 782,
+    "language": null,
+    "url": "https://github.com/Acmesec/PromptJailbreakManual",
+    "created_at": "2024-11-25T15:10:33Z",
+    "owner": {
+      "login": "Acmesec",
+      "url": "https://github.com/Acmesec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43740052?v=4"
+    },
+    "forks": 79,
+    "issues": 1
+  },
+  {
+    "name": "xuanli199/weekly",
+    "description": "保存玄离199每周科技补全中提到的各种软件和项目",
+    "stars": 584,
+    "language": null,
+    "url": "https://github.com/xuanli199/weekly",
+    "created_at": "2024-11-28T14:08:15Z",
+    "owner": {
+      "login": "xuanli199",
+      "url": "https://github.com/xuanli199",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108920354?v=4"
+    },
+    "forks": 12,
+    "issues": 1
+  },
+  {
+    "name": "BeeSyncAI/BeeSync",
+    "description": null,
+    "stars": 361,
+    "language": "TypeScript",
+    "url": "https://github.com/BeeSyncAI/BeeSync",
+    "created_at": "2024-11-26T20:56:10Z",
+    "owner": {
+      "login": "BeeSyncAI",
+      "url": "https://github.com/BeeSyncAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189791032?v=4"
+    },
+    "forks": 122,
+    "issues": 0
+  },
+  {
+    "name": "oop7/YTSage",
+    "description": "Modern YouTube downloader with a clean PyQt6 interface. Download videos in any quality, extract audio, fetch subtitles (including auto-generated), and view video metadata. Built with yt-dlp for reliable performance.",
+    "stars": 339,
+    "language": "Python",
+    "url": "https://github.com/oop7/YTSage",
+    "created_at": "2024-11-29T17:15:45Z",
+    "owner": {
+      "login": "oop7",
+      "url": "https://github.com/oop7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110548351?v=4"
+    },
+    "forks": 15,
+    "issues": 4
+  },
+  {
+    "name": "xzitlou/jsontr.ee",
+    "description": "Effortlessly visualize JSON structures as dynamic tree diagrams",
+    "stars": 316,
+    "language": "JavaScript",
+    "url": "https://github.com/xzitlou/jsontr.ee",
+    "created_at": "2024-11-25T19:04:10Z",
+    "owner": {
+      "login": "xzitlou",
+      "url": "https://github.com/xzitlou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1903014?v=4"
+    },
+    "forks": 11,
+    "issues": 2
+  },
+  {
+    "name": "erwold/qwen2vl-flux",
+    "description": null,
+    "stars": 254,
+    "language": "Python",
+    "url": "https://github.com/erwold/qwen2vl-flux",
+    "created_at": "2024-11-25T11:54:06Z",
+    "owner": {
+      "login": "erwold",
+      "url": "https://github.com/erwold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14935942?v=4"
+    },
+    "forks": 22,
+    "issues": 10
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "stars": 228,
+    "language": "Python",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "created_at": "2024-11-29T16:30:01Z",
+    "owner": {
+      "login": "virattt",
+      "url": "https://github.com/virattt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/901795?v=4"
+    },
+    "forks": 30,
+    "issues": 1
+  },
+  {
+    "name": "punkpeye/awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "stars": 222,
+    "language": null,
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "created_at": "2024-11-30T04:49:10Z",
+    "owner": {
+      "login": "punkpeye",
+      "url": "https://github.com/punkpeye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108313943?v=4"
+    },
+    "forks": 16,
+    "issues": 2
+  },
+  {
+    "name": "stalkermustang/llm-bulls-and-cows-benchmark",
+    "description": "A mini-framework for evaluating LLM performance on the Bulls and Cows number guessing game, supporting multiple LLM providers.",
+    "stars": 211,
+    "language": "HTML",
+    "url": "https://github.com/stalkermustang/llm-bulls-and-cows-benchmark",
+    "created_at": "2024-11-26T07:58:12Z",
+    "owner": {
+      "login": "stalkermustang",
+      "url": "https://github.com/stalkermustang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26546178?v=4"
+    },
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "name": "troaaa/roblox-solara-executors",
+    "description": "Roblox Solara - Executor is a powerful open source automation tool designed to simplify and streamline the execution of tasks and processes for Roblox. With its user friendly interface and robust functionality, Solara Executor is perfect for automating a wide range of activities in different industries.",
+    "stars": 210,
+    "language": "CSS",
+    "url": "https://github.com/troaaa/roblox-solara-executors",
+    "created_at": "2024-11-30T21:36:55Z",
+    "owner": {
+      "login": "troaaa",
+      "url": "https://github.com/troaaa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186374563?v=4"
+    },
+    "forks": 60,
+    "issues": 0
+  }
+]

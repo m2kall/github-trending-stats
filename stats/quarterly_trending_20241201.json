@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "name": "HKUDS/LightRAG",
+    "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "stars": 10164,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/LightRAG",
+    "created_at": "2024-10-02T11:57:54Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 1274,
+    "issues": 99
+  },
+  {
+    "name": "stackblitz/bolt.new",
+    "description": "Prompt, run, edit, and deploy full-stack web applications",
+    "stars": 9134,
+    "language": "TypeScript",
+    "url": "https://github.com/stackblitz/bolt.new",
+    "created_at": "2024-09-24T16:07:49Z",
+    "owner": {
+      "login": "stackblitz",
+      "url": "https://github.com/stackblitz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28635252?v=4"
+    },
+    "forks": 3647,
+    "issues": 1719
+  },
+  {
+    "name": "richards199999/Thinking-Claude",
+    "description": "Let your Claude able to think",
+    "stars": 8767,
+    "language": "JavaScript",
+    "url": "https://github.com/richards199999/Thinking-Claude",
+    "created_at": "2024-11-13T10:19:21Z",
+    "owner": {
+      "login": "richards199999",
+      "url": "https://github.com/richards199999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142148415?v=4"
+    },
+    "forks": 1007,
+    "issues": 2
+  },
+  {
+    "name": "voideditor/void",
+    "description": null,
+    "stars": 8330,
+    "language": "TypeScript",
+    "url": "https://github.com/voideditor/void",
+    "created_at": "2024-09-11T02:37:00Z",
+    "owner": {
+      "login": "voideditor",
+      "url": "https://github.com/voideditor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181171420?v=4"
+    },
+    "forks": 420,
+    "issues": 21
+  },
+  {
+    "name": "SWivid/F5-TTS",
+    "description": "Official code for \"F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching\"",
+    "stars": 7616,
+    "language": "Python",
+    "url": "https://github.com/SWivid/F5-TTS",
+    "created_at": "2024-10-08T13:36:55Z",
+    "owner": {
+      "login": "SWivid",
+      "url": "https://github.com/SWivid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45333109?v=4"
+    },
+    "forks": 951,
+    "issues": 32
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": null,
+    "stars": 7242,
+    "language": "Batchfile",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "created_at": "2024-10-08T20:02:28Z",
+    "owner": {
+      "login": "Flowseal",
+      "url": "https://github.com/Flowseal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50780822?v=4"
+    },
+    "forks": 328,
+    "issues": 205
+  },
+  {
+    "name": "community-scripts/ProxmoxVE",
+    "description": "Proxmox VE Helper-Scripts (Community Edition) ",
+    "stars": 5661,
+    "language": "Shell",
+    "url": "https://github.com/community-scripts/ProxmoxVE",
+    "created_at": "2024-11-01T14:06:43Z",
+    "owner": {
+      "login": "community-scripts",
+      "url": "https://github.com/community-scripts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187033296?v=4"
+    },
+    "forks": 345,
+    "issues": 32
+  },
+  {
+    "name": "leerob/next-saas-starter",
+    "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+    "stars": 5655,
+    "language": "TypeScript",
+    "url": "https://github.com/leerob/next-saas-starter",
+    "created_at": "2024-09-10T00:18:56Z",
+    "owner": {
+      "login": "leerob",
+      "url": "https://github.com/leerob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9113740?v=4"
+    },
+    "forks": 649,
+    "issues": 11
+  },
+  {
+    "name": "GreemDev/Ryujinx",
+    "description": "Experimental Switch emulator written in C#",
+    "stars": 5427,
+    "language": "C#",
+    "url": "https://github.com/GreemDev/Ryujinx",
+    "created_at": "2024-10-06T20:58:11Z",
+    "owner": {
+      "login": "GreemDev",
+      "url": "https://github.com/GreemDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28578990?v=4"
+    },
+    "forks": 437,
+    "issues": 106
+  },
+  {
+    "name": "hijkzzz/Awesome-LLM-Strawberry",
+    "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.",
+    "stars": 5411,
+    "language": null,
+    "url": "https://github.com/hijkzzz/Awesome-LLM-Strawberry",
+    "created_at": "2024-09-15T04:40:16Z",
+    "owner": {
+      "login": "hijkzzz",
+      "url": "https://github.com/hijkzzz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19810594?v=4"
+    },
+    "forks": 296,
+    "issues": 13
+  }
+]
