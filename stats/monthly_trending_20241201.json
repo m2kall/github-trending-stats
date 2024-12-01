@@ -11,8 +11,9 @@
       "url": "https://github.com/richards199999",
       "avatar_url": "https://avatars.githubusercontent.com/u/142148415?v=4"
     },
-    "forks": 1007,
-    "issues": 2
+    "forks": 1008,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/richards199999/Thinking-Claude"
   },
   {
     "name": "google-deepmind/alphafold3",
@@ -27,12 +28,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/8596759?v=4"
     },
     "forks": 604,
-    "issues": 19
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-deepmind/alphafold3"
   },
   {
     "name": "yangchris11/samurai",
     "description": "Official repository of \"SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory\"",
-    "stars": 5257,
+    "stars": 5258,
     "language": "Python",
     "url": "https://github.com/yangchris11/samurai",
     "created_at": "2024-11-06T22:46:05Z",
@@ -42,12 +44,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/20741287?v=4"
     },
     "forks": 294,
-    "issues": 16
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yangchris11/samurai"
   },
   {
     "name": "modelcontextprotocol/servers",
     "description": "Model Context Protocol Servers",
-    "stars": 3232,
+    "stars": 3233,
     "language": "JavaScript",
     "url": "https://github.com/modelcontextprotocol/servers",
     "created_at": "2024-11-19T01:10:17Z",
@@ -57,7 +60,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/182288589?v=4"
     },
     "forks": 273,
-    "issues": 63
+    "issues": 63,
+    "social_preview_url": "https://opengraph.githubassets.com/1/modelcontextprotocol/servers"
   },
   {
     "name": "hyperlight-dev/hyperlight",
@@ -72,7 +76,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/183128577?v=4"
     },
     "forks": 75,
-    "issues": 14
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hyperlight-dev/hyperlight"
   },
   {
     "name": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
@@ -87,7 +92,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/169735170?v=4"
     },
     "forks": 220,
-    "issues": 10
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/TheBlewish/Automated-AI-Web-Researcher-Ollama"
   },
   {
     "name": "SylphAI-Inc/LLM-engineer-handbook",
@@ -102,7 +108,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/109630329?v=4"
     },
     "forks": 238,
-    "issues": 2
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SylphAI-Inc/LLM-engineer-handbook"
   },
   {
     "name": "magic-quill/MagicQuill",
@@ -117,7 +124,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/181313602?v=4"
     },
     "forks": 148,
-    "issues": 12
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/magic-quill/MagicQuill"
   },
   {
     "name": "Standard-Intelligence/hertz-dev",
@@ -132,12 +140,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/167654684?v=4"
     },
     "forks": 102,
-    "issues": 14
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Standard-Intelligence/hertz-dev"
   },
   {
     "name": "Nutlope/llama-ocr",
     "description": "Document to Markdown OCR library with Llama 3.2 vision",
-    "stars": 1595,
+    "stars": 1596,
     "language": "TypeScript",
     "url": "https://github.com/Nutlope/llama-ocr",
     "created_at": "2024-11-12T01:26:25Z",
@@ -147,7 +156,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/63742054?v=4"
     },
     "forks": 125,
-    "issues": 13
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Nutlope/llama-ocr"
   },
   {
     "name": "Lightricks/LTX-Video",
@@ -162,7 +172,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/3170348?v=4"
     },
     "forks": 91,
-    "issues": 32
+    "issues": 32,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Lightricks/LTX-Video"
   },
   {
     "name": "PKU-YuanGroup/LLaVA-CoT",
@@ -177,7 +188,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/135824553?v=4"
     },
     "forks": 53,
-    "issues": 5
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/PKU-YuanGroup/LLaVA-CoT"
   },
   {
     "name": "antgroup/echomimic_v2",
@@ -192,7 +204,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/37703784?v=4"
     },
     "forks": 155,
-    "issues": 22
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antgroup/echomimic_v2"
   },
   {
     "name": "Nutlope/logocreator",
@@ -207,7 +220,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/63742054?v=4"
     },
     "forks": 153,
-    "issues": 5
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Nutlope/logocreator"
   },
   {
     "name": "jwohlwend/boltz",
@@ -222,12 +236,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/7190650?v=4"
     },
     "forks": 127,
-    "issues": 36
+    "issues": 36,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jwohlwend/boltz"
   },
   {
     "name": "folke/snacks.nvim",
     "description": "🍿 A collection of small QoL plugins for Neovim",
-    "stars": 1215,
+    "stars": 1216,
     "language": "Lua",
     "url": "https://github.com/folke/snacks.nvim",
     "created_at": "2024-11-02T22:24:00Z",
@@ -237,7 +252,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/292349?v=4"
     },
     "forks": 23,
-    "issues": 7
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/folke/snacks.nvim"
   },
   {
     "name": "huggingface/smollm",
@@ -252,7 +268,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
     },
     "forks": 49,
-    "issues": 5
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/huggingface/smollm"
   },
   {
     "name": "BAndysc/AvaloniaVisualBasic6",
@@ -267,7 +284,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/5689666?v=4"
     },
     "forks": 68,
-    "issues": 10
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/BAndysc/AvaloniaVisualBasic6"
   },
   {
     "name": "nishant-Tiwari24/coding-resources",
@@ -282,7 +300,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/124623023?v=4"
     },
     "forks": 178,
-    "issues": 5
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nishant-Tiwari24/coding-resources"
   },
   {
     "name": "BemiHQ/BemiDB",
@@ -297,7 +316,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/145176674?v=4"
     },
     "forks": 21,
-    "issues": 8
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/BemiHQ/BemiDB"
   },
   {
     "name": "DocumindHQ/documind",
@@ -312,7 +332,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/187449251?v=4"
     },
     "forks": 32,
-    "issues": 5
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/DocumindHQ/documind"
   },
   {
     "name": "bddicken/languages",
@@ -327,7 +348,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/1181638?v=4"
     },
     "forks": 201,
-    "issues": 60
+    "issues": 60,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bddicken/languages"
   },
   {
     "name": "wenqsun/DimensionX",
@@ -342,7 +364,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/93043187?v=4"
     },
     "forks": 56,
-    "issues": 19
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wenqsun/DimensionX"
   },
   {
     "name": "EinGuterWaran/awesome-opensource-boilerplates",
@@ -357,7 +380,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/14865414?v=4"
     },
     "forks": 38,
-    "issues": 1
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/EinGuterWaran/awesome-opensource-boilerplates"
   },
   {
     "name": "doxx/darkflare",
@@ -372,7 +396,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/2159481?v=4"
     },
     "forks": 50,
-    "issues": 4
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/doxx/darkflare"
   },
   {
     "name": "anonymous-en/ss_extractor_gui",
@@ -387,12 +412,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/188286139?v=4"
     },
     "forks": 179,
-    "issues": 1
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anonymous-en/ss_extractor_gui"
   },
   {
     "name": "Lesterpaintstheworld/terminal-velocity",
     "description": "A novel created autonomously by a team of 10 AI agents",
-    "stars": 855,
+    "stars": 856,
     "language": "Python",
     "url": "https://github.com/Lesterpaintstheworld/terminal-velocity",
     "created_at": "2024-11-16T23:15:46Z",
@@ -402,7 +428,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/5920204?v=4"
     },
     "forks": 53,
-    "issues": 1
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Lesterpaintstheworld/terminal-velocity"
   },
   {
     "name": "facebookresearch/watermark-anything",
@@ -417,7 +444,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
     },
     "forks": 20,
-    "issues": 3
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebookresearch/watermark-anything"
   },
   {
     "name": "Acmesec/PromptJailbreakManual",
@@ -432,7 +460,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/43740052?v=4"
     },
     "forks": 79,
-    "issues": 1
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Acmesec/PromptJailbreakManual"
   },
   {
     "name": "bRAGAI/bRAG-langchain",
@@ -447,6 +476,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/188657705?v=4"
     },
     "forks": 56,
-    "issues": 4
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bRAGAI/bRAG-langchain"
   }
 ]

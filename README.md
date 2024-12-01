@@ -1,1052 +1,1080 @@
-# GitHub Trending Statistics
+# GitHub 热门项目统计
 
-自动统计GitHub趋势项目的数据分析工具。该工具会定期收集不同时间维度的热门项目信息。
+## 项目简介
 
-最后更新时间: 2024-12-01 08:38:44
+这是一个自动追踪 GitHub 热门项目的统计工具，每周自动更新。统计维度包括：
 
-## 周榜
+- 📊 **周榜**：过去7天内创建的最受欢迎项目（TOP 10）
+- 📈 **月榜**：过去30天内创建的最受欢迎项目（TOP 30）
+- 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
+- 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-### [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual)
+🕒 **最后更新时间**: 2024-12-01 08:46:58
 
-📝 **描述**: Prompt越狱手册
+---
 
-⭐ **Stars**: 782
+# 📊 周榜 (过去7天)
+
+## 1. [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual)
+
+![项目预览图](https://opengraph.githubassets.com/1/Acmesec/PromptJailbreakManual)
+
+📝 **项目描述**: Prompt越狱手册
+
+⭐ **获得 Star**: 782
 
 📅 **创建时间**: 2024-11-25
 
 👤 **作者**: [Acmesec](https://github.com/Acmesec)
 
-![作者头像](https://avatars.githubusercontent.com/u/43740052?v=4)
+🔄 **Fork 数量**: 79
 
-🔄 **Forks**: 79
-
-⚠️ **Issues**: 1
+⚠️ **未解决 Issues**: 1
 
 ---
 
-### [xuanli199/weekly](https://github.com/xuanli199/weekly)
+## 2. [xuanli199/weekly](https://github.com/xuanli199/weekly)
 
-📝 **描述**: 保存玄离199每周科技补全中提到的各种软件和项目
+![项目预览图](https://opengraph.githubassets.com/1/xuanli199/weekly)
 
-⭐ **Stars**: 584
+📝 **项目描述**: 保存玄离199每周科技补全中提到的各种软件和项目
+
+⭐ **获得 Star**: 586
 
 📅 **创建时间**: 2024-11-28
 
 👤 **作者**: [xuanli199](https://github.com/xuanli199)
 
-![作者头像](https://avatars.githubusercontent.com/u/108920354?v=4)
+🔄 **Fork 数量**: 12
 
-🔄 **Forks**: 12
-
-⚠️ **Issues**: 1
+⚠️ **未解决 Issues**: 1
 
 ---
 
-### [BeeSyncAI/BeeSync](https://github.com/BeeSyncAI/BeeSync)
+## 3. [BeeSyncAI/BeeSync](https://github.com/BeeSyncAI/BeeSync)
 
-⭐ **Stars**: 361
+![项目预览图](https://opengraph.githubassets.com/1/BeeSyncAI/BeeSync)
 
-📊 **主要语言**: TypeScript
+⭐ **获得 Star**: 361
+
+💻 **主要编程语言**: TypeScript
 
 📅 **创建时间**: 2024-11-26
 
 👤 **作者**: [BeeSyncAI](https://github.com/BeeSyncAI)
 
-![作者头像](https://avatars.githubusercontent.com/u/189791032?v=4)
+🔄 **Fork 数量**: 122
 
-🔄 **Forks**: 122
-
-⚠️ **Issues**: 0
+⚠️ **未解决 Issues**: 0
 
 ---
 
-### [oop7/YTSage](https://github.com/oop7/YTSage)
+## 4. [oop7/YTSage](https://github.com/oop7/YTSage)
 
-📝 **描述**: Modern YouTube downloader with a clean PyQt6 interface. Download videos in any quality, extract audio, fetch subtitles (including auto-generated), and view video metadata. Built with yt-dlp for reliable performance.
+![项目预览图](https://opengraph.githubassets.com/1/oop7/YTSage)
 
-⭐ **Stars**: 339
+📝 **项目描述**: Modern YouTube downloader with a clean PyQt6 interface. Download videos in any quality, extract audio, fetch subtitles (including auto-generated), and view video metadata. Built with yt-dlp for reliable performance.
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 339
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-29
 
 👤 **作者**: [oop7](https://github.com/oop7)
 
-![作者头像](https://avatars.githubusercontent.com/u/110548351?v=4)
+🔄 **Fork 数量**: 15
 
-🔄 **Forks**: 15
-
-⚠️ **Issues**: 4
+⚠️ **未解决 Issues**: 4
 
 ---
 
-### [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee)
+## 5. [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee)
 
-📝 **描述**: Effortlessly visualize JSON structures as dynamic tree diagrams
+![项目预览图](https://opengraph.githubassets.com/1/xzitlou/jsontr.ee)
 
-⭐ **Stars**: 316
+📝 **项目描述**: Effortlessly visualize JSON structures as dynamic tree diagrams
 
-📊 **主要语言**: JavaScript
+⭐ **获得 Star**: 316
+
+💻 **主要编程语言**: JavaScript
 
 📅 **创建时间**: 2024-11-25
 
 👤 **作者**: [xzitlou](https://github.com/xzitlou)
 
-![作者头像](https://avatars.githubusercontent.com/u/1903014?v=4)
+🔄 **Fork 数量**: 11
 
-🔄 **Forks**: 11
-
-⚠️ **Issues**: 2
+⚠️ **未解决 Issues**: 2
 
 ---
 
-### [erwold/qwen2vl-flux](https://github.com/erwold/qwen2vl-flux)
+## 6. [erwold/qwen2vl-flux](https://github.com/erwold/qwen2vl-flux)
 
-⭐ **Stars**: 254
+![项目预览图](https://opengraph.githubassets.com/1/erwold/qwen2vl-flux)
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 254
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-25
 
 👤 **作者**: [erwold](https://github.com/erwold)
 
-![作者头像](https://avatars.githubusercontent.com/u/14935942?v=4)
+🔄 **Fork 数量**: 22
 
-🔄 **Forks**: 22
-
-⚠️ **Issues**: 10
+⚠️ **未解决 Issues**: 10
 
 ---
 
-### [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+## 7. [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 
-📝 **描述**: An AI Hedge Fund Team
+![项目预览图](https://opengraph.githubassets.com/1/virattt/ai-hedge-fund)
 
-⭐ **Stars**: 228
+📝 **项目描述**: An AI Hedge Fund Team
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 229
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-29
 
 👤 **作者**: [virattt](https://github.com/virattt)
 
-![作者头像](https://avatars.githubusercontent.com/u/901795?v=4)
+🔄 **Fork 数量**: 30
 
-🔄 **Forks**: 30
-
-⚠️ **Issues**: 1
+⚠️ **未解决 Issues**: 1
 
 ---
 
-### [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+## 8. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 
-📝 **描述**: A collection of MCP servers.
+![项目预览图](https://opengraph.githubassets.com/1/punkpeye/awesome-mcp-servers)
 
-⭐ **Stars**: 222
+📝 **项目描述**: A collection of MCP servers.
+
+⭐ **获得 Star**: 223
 
 📅 **创建时间**: 2024-11-30
 
 👤 **作者**: [punkpeye](https://github.com/punkpeye)
 
-![作者头像](https://avatars.githubusercontent.com/u/108313943?v=4)
+🔄 **Fork 数量**: 16
 
-🔄 **Forks**: 16
-
-⚠️ **Issues**: 2
+⚠️ **未解决 Issues**: 2
 
 ---
 
-### [stalkermustang/llm-bulls-and-cows-benchmark](https://github.com/stalkermustang/llm-bulls-and-cows-benchmark)
+## 9. [stalkermustang/llm-bulls-and-cows-benchmark](https://github.com/stalkermustang/llm-bulls-and-cows-benchmark)
 
-📝 **描述**: A mini-framework for evaluating LLM performance on the Bulls and Cows number guessing game, supporting multiple LLM providers.
+![项目预览图](https://opengraph.githubassets.com/1/stalkermustang/llm-bulls-and-cows-benchmark)
 
-⭐ **Stars**: 211
+📝 **项目描述**: A mini-framework for evaluating LLM performance on the Bulls and Cows number guessing game, supporting multiple LLM providers.
 
-📊 **主要语言**: HTML
+⭐ **获得 Star**: 211
+
+💻 **主要编程语言**: HTML
 
 📅 **创建时间**: 2024-11-26
 
 👤 **作者**: [stalkermustang](https://github.com/stalkermustang)
 
-![作者头像](https://avatars.githubusercontent.com/u/26546178?v=4)
+🔄 **Fork 数量**: 1
 
-🔄 **Forks**: 1
-
-⚠️ **Issues**: 0
+⚠️ **未解决 Issues**: 0
 
 ---
 
-### [troaaa/roblox-solara-executors](https://github.com/troaaa/roblox-solara-executors)
+## 10. [troaaa/roblox-solara-executors](https://github.com/troaaa/roblox-solara-executors)
 
-📝 **描述**: Roblox Solara - Executor is a powerful open source automation tool designed to simplify and streamline the execution of tasks and processes for Roblox. With its user friendly interface and robust functionality, Solara Executor is perfect for automating a wide range of activities in different industries.
+![项目预览图](https://opengraph.githubassets.com/1/troaaa/roblox-solara-executors)
 
-⭐ **Stars**: 210
+📝 **项目描述**: Roblox Solara - Executor is a powerful open source automation tool designed to simplify and streamline the execution of tasks and processes for Roblox. With its user friendly interface and robust functionality, Solara Executor is perfect for automating a wide range of activities in different industries.
 
-📊 **主要语言**: CSS
+⭐ **获得 Star**: 210
+
+💻 **主要编程语言**: CSS
 
 📅 **创建时间**: 2024-11-30
 
 👤 **作者**: [troaaa](https://github.com/troaaa)
 
-![作者头像](https://avatars.githubusercontent.com/u/186374563?v=4)
+🔄 **Fork 数量**: 60
 
-🔄 **Forks**: 60
-
-⚠️ **Issues**: 0
+⚠️ **未解决 Issues**: 0
 
 ---
 
-## 月榜
+# 📊 月榜 (过去30天)
 
-### [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude)
+## 1. [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude)
 
-📝 **描述**: Let your Claude able to think
+![项目预览图](https://opengraph.githubassets.com/1/richards199999/Thinking-Claude)
 
-⭐ **Stars**: 8,767
+📝 **项目描述**: Let your Claude able to think
 
-📊 **主要语言**: JavaScript
+⭐ **获得 Star**: 8,767
+
+💻 **主要编程语言**: JavaScript
 
 📅 **创建时间**: 2024-11-13
 
 👤 **作者**: [richards199999](https://github.com/richards199999)
 
-![作者头像](https://avatars.githubusercontent.com/u/142148415?v=4)
+🔄 **Fork 数量**: 1,008
 
-🔄 **Forks**: 1,007
-
-⚠️ **Issues**: 2
+⚠️ **未解决 Issues**: 2
 
 ---
 
-### [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)
+## 2. [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)
 
-📝 **描述**: AlphaFold 3 inference pipeline.
+![项目预览图](https://opengraph.githubassets.com/1/google-deepmind/alphafold3)
 
-⭐ **Stars**: 5,280
+📝 **项目描述**: AlphaFold 3 inference pipeline.
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 5,280
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-11
 
 👤 **作者**: [google-deepmind](https://github.com/google-deepmind)
 
-![作者头像](https://avatars.githubusercontent.com/u/8596759?v=4)
+🔄 **Fork 数量**: 604
 
-🔄 **Forks**: 604
-
-⚠️ **Issues**: 19
+⚠️ **未解决 Issues**: 19
 
 ---
 
-### [yangchris11/samurai](https://github.com/yangchris11/samurai)
+## 3. [yangchris11/samurai](https://github.com/yangchris11/samurai)
 
-📝 **描述**: Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
+![项目预览图](https://opengraph.githubassets.com/1/yangchris11/samurai)
 
-⭐ **Stars**: 5,257
+📝 **项目描述**: Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 5,258
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-06
 
 👤 **作者**: [yangchris11](https://github.com/yangchris11)
 
-![作者头像](https://avatars.githubusercontent.com/u/20741287?v=4)
+🔄 **Fork 数量**: 294
 
-🔄 **Forks**: 294
-
-⚠️ **Issues**: 16
+⚠️ **未解决 Issues**: 16
 
 ---
 
-### [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+## 4. [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 
-📝 **描述**: Model Context Protocol Servers
+![项目预览图](https://opengraph.githubassets.com/1/modelcontextprotocol/servers)
 
-⭐ **Stars**: 3,232
+📝 **项目描述**: Model Context Protocol Servers
 
-📊 **主要语言**: JavaScript
+⭐ **获得 Star**: 3,233
+
+💻 **主要编程语言**: JavaScript
 
 📅 **创建时间**: 2024-11-19
 
 👤 **作者**: [modelcontextprotocol](https://github.com/modelcontextprotocol)
 
-![作者头像](https://avatars.githubusercontent.com/u/182288589?v=4)
+🔄 **Fork 数量**: 273
 
-🔄 **Forks**: 273
-
-⚠️ **Issues**: 63
+⚠️ **未解决 Issues**: 63
 
 ---
 
-### [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)
+## 5. [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)
 
-📝 **描述**: Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
+![项目预览图](https://opengraph.githubassets.com/1/hyperlight-dev/hyperlight)
 
-⭐ **Stars**: 2,218
+📝 **项目描述**: Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
 
-📊 **主要语言**: Rust
+⭐ **获得 Star**: 2,218
+
+💻 **主要编程语言**: Rust
 
 📅 **创建时间**: 2024-11-05
 
 👤 **作者**: [hyperlight-dev](https://github.com/hyperlight-dev)
 
-![作者头像](https://avatars.githubusercontent.com/u/183128577?v=4)
+🔄 **Fork 数量**: 75
 
-🔄 **Forks**: 75
-
-⚠️ **Issues**: 14
+⚠️ **未解决 Issues**: 14
 
 ---
 
-### [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama)
+## 6. [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama)
 
-📝 **描述**: A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!
+![项目预览图](https://opengraph.githubassets.com/1/TheBlewish/Automated-AI-Web-Researcher-Ollama)
 
-⭐ **Stars**: 2,196
+📝 **项目描述**: A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 2,196
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-20
 
 👤 **作者**: [TheBlewish](https://github.com/TheBlewish)
 
-![作者头像](https://avatars.githubusercontent.com/u/169735170?v=4)
+🔄 **Fork 数量**: 220
 
-🔄 **Forks**: 220
-
-⚠️ **Issues**: 10
+⚠️ **未解决 Issues**: 10
 
 ---
 
-### [SylphAI-Inc/LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook)
+## 7. [SylphAI-Inc/LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook)
 
-📝 **描述**: A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.
+![项目预览图](https://opengraph.githubassets.com/1/SylphAI-Inc/LLM-engineer-handbook)
 
-⭐ **Stars**: 2,057
+📝 **项目描述**: A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.
+
+⭐ **获得 Star**: 2,057
 
 📅 **创建时间**: 2024-11-04
 
 👤 **作者**: [SylphAI-Inc](https://github.com/SylphAI-Inc)
 
-![作者头像](https://avatars.githubusercontent.com/u/109630329?v=4)
+🔄 **Fork 数量**: 238
 
-🔄 **Forks**: 238
-
-⚠️ **Issues**: 2
+⚠️ **未解决 Issues**: 2
 
 ---
 
-### [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)
+## 8. [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill)
 
-📝 **描述**: Official Implementations for Paper - MagicQuill: An Intelligent Interactive Image Editing System
+![项目预览图](https://opengraph.githubassets.com/1/magic-quill/MagicQuill)
 
-⭐ **Stars**: 1,896
+📝 **项目描述**: Official Implementations for Paper - MagicQuill: An Intelligent Interactive Image Editing System
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 1,896
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-12
 
 👤 **作者**: [magic-quill](https://github.com/magic-quill)
 
-![作者头像](https://avatars.githubusercontent.com/u/181313602?v=4)
+🔄 **Fork 数量**: 148
 
-🔄 **Forks**: 148
-
-⚠️ **Issues**: 12
+⚠️ **未解决 Issues**: 12
 
 ---
 
-### [Standard-Intelligence/hertz-dev](https://github.com/Standard-Intelligence/hertz-dev)
+## 9. [Standard-Intelligence/hertz-dev](https://github.com/Standard-Intelligence/hertz-dev)
 
-📝 **描述**: first base model for full-duplex conversational audio
+![项目预览图](https://opengraph.githubassets.com/1/Standard-Intelligence/hertz-dev)
 
-⭐ **Stars**: 1,620
+📝 **项目描述**: first base model for full-duplex conversational audio
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 1,620
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-03
 
 👤 **作者**: [Standard-Intelligence](https://github.com/Standard-Intelligence)
 
-![作者头像](https://avatars.githubusercontent.com/u/167654684?v=4)
+🔄 **Fork 数量**: 102
 
-🔄 **Forks**: 102
-
-⚠️ **Issues**: 14
+⚠️ **未解决 Issues**: 14
 
 ---
 
-### [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr)
+## 10. [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr)
 
-📝 **描述**: Document to Markdown OCR library with Llama 3.2 vision
+![项目预览图](https://opengraph.githubassets.com/1/Nutlope/llama-ocr)
 
-⭐ **Stars**: 1,595
+📝 **项目描述**: Document to Markdown OCR library with Llama 3.2 vision
 
-📊 **主要语言**: TypeScript
+⭐ **获得 Star**: 1,596
+
+💻 **主要编程语言**: TypeScript
 
 📅 **创建时间**: 2024-11-12
 
 👤 **作者**: [Nutlope](https://github.com/Nutlope)
 
-![作者头像](https://avatars.githubusercontent.com/u/63742054?v=4)
+🔄 **Fork 数量**: 125
 
-🔄 **Forks**: 125
-
-⚠️ **Issues**: 13
+⚠️ **未解决 Issues**: 13
 
 ---
 
-### [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)
+## 11. [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)
 
-📝 **描述**: Official repository for LTX-Video
+![项目预览图](https://opengraph.githubassets.com/1/Lightricks/LTX-Video)
 
-⭐ **Stars**: 1,581
+📝 **项目描述**: Official repository for LTX-Video
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 1,581
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-20
 
 👤 **作者**: [Lightricks](https://github.com/Lightricks)
 
-![作者头像](https://avatars.githubusercontent.com/u/3170348?v=4)
+🔄 **Fork 数量**: 91
 
-🔄 **Forks**: 91
-
-⚠️ **Issues**: 32
+⚠️ **未解决 Issues**: 32
 
 ---
 
-### [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT)
+## 12. [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT)
 
-📝 **描述**: LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
+![项目预览图](https://opengraph.githubassets.com/1/PKU-YuanGroup/LLaVA-CoT)
 
-⭐ **Stars**: 1,467
+📝 **项目描述**: LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 1,467
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-17
 
 👤 **作者**: [PKU-YuanGroup](https://github.com/PKU-YuanGroup)
 
-![作者头像](https://avatars.githubusercontent.com/u/135824553?v=4)
+🔄 **Fork 数量**: 53
 
-🔄 **Forks**: 53
-
-⚠️ **Issues**: 5
+⚠️ **未解决 Issues**: 5
 
 ---
 
-### [antgroup/echomimic_v2](https://github.com/antgroup/echomimic_v2)
+## 13. [antgroup/echomimic_v2](https://github.com/antgroup/echomimic_v2)
 
-📝 **描述**: EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation
+![项目预览图](https://opengraph.githubassets.com/1/antgroup/echomimic_v2)
 
-⭐ **Stars**: 1,387
+📝 **项目描述**: EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 1,387
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-20
 
 👤 **作者**: [antgroup](https://github.com/antgroup)
 
-![作者头像](https://avatars.githubusercontent.com/u/37703784?v=4)
+🔄 **Fork 数量**: 155
 
-🔄 **Forks**: 155
-
-⚠️ **Issues**: 22
+⚠️ **未解决 Issues**: 22
 
 ---
 
-### [Nutlope/logocreator](https://github.com/Nutlope/logocreator)
+## 14. [Nutlope/logocreator](https://github.com/Nutlope/logocreator)
 
-📝 **描述**: A free + OSS logo generator powered by Flux on Together AI
+![项目预览图](https://opengraph.githubassets.com/1/Nutlope/logocreator)
 
-⭐ **Stars**: 1,314
+📝 **项目描述**: A free + OSS logo generator powered by Flux on Together AI
 
-📊 **主要语言**: TypeScript
+⭐ **获得 Star**: 1,314
+
+💻 **主要编程语言**: TypeScript
 
 📅 **创建时间**: 2024-11-06
 
 👤 **作者**: [Nutlope](https://github.com/Nutlope)
 
-![作者头像](https://avatars.githubusercontent.com/u/63742054?v=4)
+🔄 **Fork 数量**: 153
 
-🔄 **Forks**: 153
-
-⚠️ **Issues**: 5
+⚠️ **未解决 Issues**: 5
 
 ---
 
-### [jwohlwend/boltz](https://github.com/jwohlwend/boltz)
+## 15. [jwohlwend/boltz](https://github.com/jwohlwend/boltz)
 
-📝 **描述**: Official repository for the Boltz-1 biomolecular interaction model
+![项目预览图](https://opengraph.githubassets.com/1/jwohlwend/boltz)
 
-⭐ **Stars**: 1,261
+📝 **项目描述**: Official repository for the Boltz-1 biomolecular interaction model
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 1,261
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-17
 
 👤 **作者**: [jwohlwend](https://github.com/jwohlwend)
 
-![作者头像](https://avatars.githubusercontent.com/u/7190650?v=4)
+🔄 **Fork 数量**: 127
 
-🔄 **Forks**: 127
-
-⚠️ **Issues**: 36
+⚠️ **未解决 Issues**: 36
 
 ---
 
-### [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+## 16. [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 
-📝 **描述**: 🍿 A collection of small QoL plugins for Neovim
+![项目预览图](https://opengraph.githubassets.com/1/folke/snacks.nvim)
 
-⭐ **Stars**: 1,215
+📝 **项目描述**: 🍿 A collection of small QoL plugins for Neovim
 
-📊 **主要语言**: Lua
+⭐ **获得 Star**: 1,216
+
+💻 **主要编程语言**: Lua
 
 📅 **创建时间**: 2024-11-02
 
 👤 **作者**: [folke](https://github.com/folke)
 
-![作者头像](https://avatars.githubusercontent.com/u/292349?v=4)
+🔄 **Fork 数量**: 23
 
-🔄 **Forks**: 23
-
-⚠️ **Issues**: 7
+⚠️ **未解决 Issues**: 7
 
 ---
 
-### [huggingface/smollm](https://github.com/huggingface/smollm)
+## 17. [huggingface/smollm](https://github.com/huggingface/smollm)
 
-📝 **描述**: Everything about the SmolLM & SmolLM2 family of models 
+![项目预览图](https://opengraph.githubassets.com/1/huggingface/smollm)
 
-⭐ **Stars**: 1,191
+📝 **项目描述**: Everything about the SmolLM & SmolLM2 family of models 
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 1,191
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-04
 
 👤 **作者**: [huggingface](https://github.com/huggingface)
 
-![作者头像](https://avatars.githubusercontent.com/u/25720743?v=4)
+🔄 **Fork 数量**: 49
 
-🔄 **Forks**: 49
-
-⚠️ **Issues**: 5
+⚠️ **未解决 Issues**: 5
 
 ---
 
-### [BAndysc/AvaloniaVisualBasic6](https://github.com/BAndysc/AvaloniaVisualBasic6)
+## 18. [BAndysc/AvaloniaVisualBasic6](https://github.com/BAndysc/AvaloniaVisualBasic6)
 
-📝 **描述**: A recreation of the classic Visual Basic 6 IDE and language in C# with Avalonia
+![项目预览图](https://opengraph.githubassets.com/1/BAndysc/AvaloniaVisualBasic6)
 
-⭐ **Stars**: 1,171
+📝 **项目描述**: A recreation of the classic Visual Basic 6 IDE and language in C# with Avalonia
 
-📊 **主要语言**: C#
+⭐ **获得 Star**: 1,171
+
+💻 **主要编程语言**: C#
 
 📅 **创建时间**: 2024-11-07
 
 👤 **作者**: [BAndysc](https://github.com/BAndysc)
 
-![作者头像](https://avatars.githubusercontent.com/u/5689666?v=4)
+🔄 **Fork 数量**: 68
 
-🔄 **Forks**: 68
-
-⚠️ **Issues**: 10
+⚠️ **未解决 Issues**: 10
 
 ---
 
-### [nishant-Tiwari24/coding-resources](https://github.com/nishant-Tiwari24/coding-resources)
+## 19. [nishant-Tiwari24/coding-resources](https://github.com/nishant-Tiwari24/coding-resources)
 
-⭐ **Stars**: 1,118
+![项目预览图](https://opengraph.githubassets.com/1/nishant-Tiwari24/coding-resources)
+
+⭐ **获得 Star**: 1,118
 
 📅 **创建时间**: 2024-11-02
 
 👤 **作者**: [nishant-Tiwari24](https://github.com/nishant-Tiwari24)
 
-![作者头像](https://avatars.githubusercontent.com/u/124623023?v=4)
+🔄 **Fork 数量**: 178
 
-🔄 **Forks**: 178
-
-⚠️ **Issues**: 5
+⚠️ **未解决 Issues**: 5
 
 ---
 
-### [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB)
+## 20. [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB)
 
-📝 **描述**: Postgres read replica optimized for analytics
+![项目预览图](https://opengraph.githubassets.com/1/BemiHQ/BemiDB)
 
-⭐ **Stars**: 1,104
+📝 **项目描述**: Postgres read replica optimized for analytics
 
-📊 **主要语言**: Go
+⭐ **获得 Star**: 1,104
+
+💻 **主要编程语言**: Go
 
 📅 **创建时间**: 2024-11-04
 
 👤 **作者**: [BemiHQ](https://github.com/BemiHQ)
 
-![作者头像](https://avatars.githubusercontent.com/u/145176674?v=4)
+🔄 **Fork 数量**: 21
 
-🔄 **Forks**: 21
-
-⚠️ **Issues**: 8
+⚠️ **未解决 Issues**: 8
 
 ---
 
-### [DocumindHQ/documind](https://github.com/DocumindHQ/documind)
+## 21. [DocumindHQ/documind](https://github.com/DocumindHQ/documind)
 
-📝 **描述**: Open-source platform for extracting structured data from documents using AI.
+![项目预览图](https://opengraph.githubassets.com/1/DocumindHQ/documind)
 
-⭐ **Stars**: 1,084
+📝 **项目描述**: Open-source platform for extracting structured data from documents using AI.
 
-📊 **主要语言**: TypeScript
+⭐ **获得 Star**: 1,084
+
+💻 **主要编程语言**: TypeScript
 
 📅 **创建时间**: 2024-11-17
 
 👤 **作者**: [DocumindHQ](https://github.com/DocumindHQ)
 
-![作者头像](https://avatars.githubusercontent.com/u/187449251?v=4)
+🔄 **Fork 数量**: 32
 
-🔄 **Forks**: 32
-
-⚠️ **Issues**: 5
+⚠️ **未解决 Issues**: 5
 
 ---
 
-### [bddicken/languages](https://github.com/bddicken/languages)
+## 22. [bddicken/languages](https://github.com/bddicken/languages)
 
-📝 **描述**: Compare languages
+![项目预览图](https://opengraph.githubassets.com/1/bddicken/languages)
 
-⭐ **Stars**: 1,010
+📝 **项目描述**: Compare languages
 
-📊 **主要语言**: Shell
+⭐ **获得 Star**: 1,010
+
+💻 **主要编程语言**: Shell
 
 📅 **创建时间**: 2024-11-20
 
 👤 **作者**: [bddicken](https://github.com/bddicken)
 
-![作者头像](https://avatars.githubusercontent.com/u/1181638?v=4)
+🔄 **Fork 数量**: 201
 
-🔄 **Forks**: 201
-
-⚠️ **Issues**: 60
+⚠️ **未解决 Issues**: 60
 
 ---
 
-### [wenqsun/DimensionX](https://github.com/wenqsun/DimensionX)
+## 23. [wenqsun/DimensionX](https://github.com/wenqsun/DimensionX)
 
-📝 **描述**: DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion
+![项目预览图](https://opengraph.githubassets.com/1/wenqsun/DimensionX)
 
-⭐ **Stars**: 988
+📝 **项目描述**: DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 988
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-07
 
 👤 **作者**: [wenqsun](https://github.com/wenqsun)
 
-![作者头像](https://avatars.githubusercontent.com/u/93043187?v=4)
+🔄 **Fork 数量**: 56
 
-🔄 **Forks**: 56
-
-⚠️ **Issues**: 19
+⚠️ **未解决 Issues**: 19
 
 ---
 
-### [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates)
+## 24. [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates)
 
-📝 **描述**: A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
+![项目预览图](https://opengraph.githubassets.com/1/EinGuterWaran/awesome-opensource-boilerplates)
 
-⭐ **Stars**: 937
+📝 **项目描述**: A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
+
+⭐ **获得 Star**: 937
 
 📅 **创建时间**: 2024-11-10
 
 👤 **作者**: [EinGuterWaran](https://github.com/EinGuterWaran)
 
-![作者头像](https://avatars.githubusercontent.com/u/14865414?v=4)
+🔄 **Fork 数量**: 38
 
-🔄 **Forks**: 38
-
-⚠️ **Issues**: 1
+⚠️ **未解决 Issues**: 1
 
 ---
 
-### [doxx/darkflare](https://github.com/doxx/darkflare)
+## 25. [doxx/darkflare](https://github.com/doxx/darkflare)
 
-📝 **描述**: DarkFlare Firewall Piercing (TCP over CDN)
+![项目预览图](https://opengraph.githubassets.com/1/doxx/darkflare)
 
-⭐ **Stars**: 921
+📝 **项目描述**: DarkFlare Firewall Piercing (TCP over CDN)
 
-📊 **主要语言**: Go
+⭐ **获得 Star**: 921
+
+💻 **主要编程语言**: Go
 
 📅 **创建时间**: 2024-11-20
 
 👤 **作者**: [doxx](https://github.com/doxx)
 
-![作者头像](https://avatars.githubusercontent.com/u/2159481?v=4)
+🔄 **Fork 数量**: 50
 
-🔄 **Forks**: 50
-
-⚠️ **Issues**: 4
+⚠️ **未解决 Issues**: 4
 
 ---
 
-### [anonymous-en/ss_extractor_gui](https://github.com/anonymous-en/ss_extractor_gui)
+## 26. [anonymous-en/ss_extractor_gui](https://github.com/anonymous-en/ss_extractor_gui)
 
-⭐ **Stars**: 880
+![项目预览图](https://opengraph.githubassets.com/1/anonymous-en/ss_extractor_gui)
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 880
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-13
 
 👤 **作者**: [anonymous-en](https://github.com/anonymous-en)
 
-![作者头像](https://avatars.githubusercontent.com/u/188286139?v=4)
+🔄 **Fork 数量**: 179
 
-🔄 **Forks**: 179
-
-⚠️ **Issues**: 1
+⚠️ **未解决 Issues**: 1
 
 ---
 
-### [Lesterpaintstheworld/terminal-velocity](https://github.com/Lesterpaintstheworld/terminal-velocity)
+## 27. [Lesterpaintstheworld/terminal-velocity](https://github.com/Lesterpaintstheworld/terminal-velocity)
 
-📝 **描述**: A novel created autonomously by a team of 10 AI agents
+![项目预览图](https://opengraph.githubassets.com/1/Lesterpaintstheworld/terminal-velocity)
 
-⭐ **Stars**: 855
+📝 **项目描述**: A novel created autonomously by a team of 10 AI agents
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 856
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-11-16
 
 👤 **作者**: [Lesterpaintstheworld](https://github.com/Lesterpaintstheworld)
 
-![作者头像](https://avatars.githubusercontent.com/u/5920204?v=4)
+🔄 **Fork 数量**: 53
 
-🔄 **Forks**: 53
-
-⚠️ **Issues**: 1
+⚠️ **未解决 Issues**: 1
 
 ---
 
-### [facebookresearch/watermark-anything](https://github.com/facebookresearch/watermark-anything)
+## 28. [facebookresearch/watermark-anything](https://github.com/facebookresearch/watermark-anything)
 
-📝 **描述**: Official implementation of the paper "Watermark Anything with Localized Messages"
+![项目预览图](https://opengraph.githubassets.com/1/facebookresearch/watermark-anything)
 
-⭐ **Stars**: 817
+📝 **项目描述**: Official implementation of the paper "Watermark Anything with Localized Messages"
 
-📊 **主要语言**: Jupyter Notebook
+⭐ **获得 Star**: 817
+
+💻 **主要编程语言**: Jupyter Notebook
 
 📅 **创建时间**: 2024-11-11
 
 👤 **作者**: [facebookresearch](https://github.com/facebookresearch)
 
-![作者头像](https://avatars.githubusercontent.com/u/16943930?v=4)
+🔄 **Fork 数量**: 20
 
-🔄 **Forks**: 20
-
-⚠️ **Issues**: 3
+⚠️ **未解决 Issues**: 3
 
 ---
 
-### [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual)
+## 29. [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual)
 
-📝 **描述**: Prompt越狱手册
+![项目预览图](https://opengraph.githubassets.com/1/Acmesec/PromptJailbreakManual)
 
-⭐ **Stars**: 782
+📝 **项目描述**: Prompt越狱手册
+
+⭐ **获得 Star**: 782
 
 📅 **创建时间**: 2024-11-25
 
 👤 **作者**: [Acmesec](https://github.com/Acmesec)
 
-![作者头像](https://avatars.githubusercontent.com/u/43740052?v=4)
+🔄 **Fork 数量**: 79
 
-🔄 **Forks**: 79
-
-⚠️ **Issues**: 1
+⚠️ **未解决 Issues**: 1
 
 ---
 
-### [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain)
+## 30. [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain)
 
-📝 **描述**: Everything you need to know to build your own RAG application
+![项目预览图](https://opengraph.githubassets.com/1/bRAGAI/bRAG-langchain)
 
-⭐ **Stars**: 758
+📝 **项目描述**: Everything you need to know to build your own RAG application
 
-📊 **主要语言**: Jupyter Notebook
+⭐ **获得 Star**: 758
+
+💻 **主要编程语言**: Jupyter Notebook
 
 📅 **创建时间**: 2024-11-16
 
 👤 **作者**: [bRAGAI](https://github.com/bRAGAI)
 
-![作者头像](https://avatars.githubusercontent.com/u/188657705?v=4)
+🔄 **Fork 数量**: 56
 
-🔄 **Forks**: 56
-
-⚠️ **Issues**: 4
+⚠️ **未解决 Issues**: 4
 
 ---
 
-## 季榜
+# 📊 季榜 (过去90天)
 
-### [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
+## 1. [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
 
-📝 **描述**: "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+![项目预览图](https://opengraph.githubassets.com/1/HKUDS/LightRAG)
 
-⭐ **Stars**: 10,164
+📝 **项目描述**: "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 10,164
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-10-02
 
 👤 **作者**: [HKUDS](https://github.com/HKUDS)
 
-![作者头像](https://avatars.githubusercontent.com/u/118165258?v=4)
+🔄 **Fork 数量**: 1,275
 
-🔄 **Forks**: 1,274
-
-⚠️ **Issues**: 99
+⚠️ **未解决 Issues**: 99
 
 ---
 
-### [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
+## 2. [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
 
-📝 **描述**: Prompt, run, edit, and deploy full-stack web applications
+![项目预览图](https://opengraph.githubassets.com/1/stackblitz/bolt.new)
 
-⭐ **Stars**: 9,134
+📝 **项目描述**: Prompt, run, edit, and deploy full-stack web applications
 
-📊 **主要语言**: TypeScript
+⭐ **获得 Star**: 9,135
+
+💻 **主要编程语言**: TypeScript
 
 📅 **创建时间**: 2024-09-24
 
 👤 **作者**: [stackblitz](https://github.com/stackblitz)
 
-![作者头像](https://avatars.githubusercontent.com/u/28635252?v=4)
+🔄 **Fork 数量**: 3,648
 
-🔄 **Forks**: 3,647
-
-⚠️ **Issues**: 1,719
+⚠️ **未解决 Issues**: 1,719
 
 ---
 
-### [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude)
+## 3. [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude)
 
-📝 **描述**: Let your Claude able to think
+![项目预览图](https://opengraph.githubassets.com/1/richards199999/Thinking-Claude)
 
-⭐ **Stars**: 8,767
+📝 **项目描述**: Let your Claude able to think
 
-📊 **主要语言**: JavaScript
+⭐ **获得 Star**: 8,767
+
+💻 **主要编程语言**: JavaScript
 
 📅 **创建时间**: 2024-11-13
 
 👤 **作者**: [richards199999](https://github.com/richards199999)
 
-![作者头像](https://avatars.githubusercontent.com/u/142148415?v=4)
+🔄 **Fork 数量**: 1,008
 
-🔄 **Forks**: 1,007
-
-⚠️ **Issues**: 2
+⚠️ **未解决 Issues**: 2
 
 ---
 
-### [voideditor/void](https://github.com/voideditor/void)
+## 4. [voideditor/void](https://github.com/voideditor/void)
 
-⭐ **Stars**: 8,330
+![项目预览图](https://opengraph.githubassets.com/1/voideditor/void)
 
-📊 **主要语言**: TypeScript
+⭐ **获得 Star**: 8,330
+
+💻 **主要编程语言**: TypeScript
 
 📅 **创建时间**: 2024-09-11
 
 👤 **作者**: [voideditor](https://github.com/voideditor)
 
-![作者头像](https://avatars.githubusercontent.com/u/181171420?v=4)
+🔄 **Fork 数量**: 420
 
-🔄 **Forks**: 420
-
-⚠️ **Issues**: 21
+⚠️ **未解决 Issues**: 21
 
 ---
 
-### [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS)
+## 5. [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS)
 
-📝 **描述**: Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
+![项目预览图](https://opengraph.githubassets.com/1/SWivid/F5-TTS)
 
-⭐ **Stars**: 7,616
+📝 **项目描述**: Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 7,616
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-10-08
 
 👤 **作者**: [SWivid](https://github.com/SWivid)
 
-![作者头像](https://avatars.githubusercontent.com/u/45333109?v=4)
+🔄 **Fork 数量**: 951
 
-🔄 **Forks**: 951
-
-⚠️ **Issues**: 32
+⚠️ **未解决 Issues**: 32
 
 ---
 
-### [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+## 6. [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 
-⭐ **Stars**: 7,242
+![项目预览图](https://opengraph.githubassets.com/1/Flowseal/zapret-discord-youtube)
 
-📊 **主要语言**: Batchfile
+⭐ **获得 Star**: 7,243
+
+💻 **主要编程语言**: Batchfile
 
 📅 **创建时间**: 2024-10-08
 
 👤 **作者**: [Flowseal](https://github.com/Flowseal)
 
-![作者头像](https://avatars.githubusercontent.com/u/50780822?v=4)
+🔄 **Fork 数量**: 328
 
-🔄 **Forks**: 328
-
-⚠️ **Issues**: 205
+⚠️ **未解决 Issues**: 205
 
 ---
 
-### [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+## 7. [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
 
-📝 **描述**: Proxmox VE Helper-Scripts (Community Edition) 
+![项目预览图](https://opengraph.githubassets.com/1/community-scripts/ProxmoxVE)
 
-⭐ **Stars**: 5,661
+📝 **项目描述**: Proxmox VE Helper-Scripts (Community Edition) 
 
-📊 **主要语言**: Shell
+⭐ **获得 Star**: 5,662
+
+💻 **主要编程语言**: Shell
 
 📅 **创建时间**: 2024-11-01
 
 👤 **作者**: [community-scripts](https://github.com/community-scripts)
 
-![作者头像](https://avatars.githubusercontent.com/u/187033296?v=4)
+🔄 **Fork 数量**: 345
 
-🔄 **Forks**: 345
-
-⚠️ **Issues**: 32
+⚠️ **未解决 Issues**: 32
 
 ---
 
-### [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)
+## 8. [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)
 
-📝 **描述**: Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+![项目预览图](https://opengraph.githubassets.com/1/leerob/next-saas-starter)
 
-⭐ **Stars**: 5,655
+📝 **项目描述**: Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 
-📊 **主要语言**: TypeScript
+⭐ **获得 Star**: 5,655
+
+💻 **主要编程语言**: TypeScript
 
 📅 **创建时间**: 2024-09-10
 
 👤 **作者**: [leerob](https://github.com/leerob)
 
-![作者头像](https://avatars.githubusercontent.com/u/9113740?v=4)
+🔄 **Fork 数量**: 649
 
-🔄 **Forks**: 649
-
-⚠️ **Issues**: 11
+⚠️ **未解决 Issues**: 11
 
 ---
 
-### [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx)
+## 9. [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx)
 
-📝 **描述**: Experimental Switch emulator written in C#
+![项目预览图](https://opengraph.githubassets.com/1/GreemDev/Ryujinx)
 
-⭐ **Stars**: 5,427
+📝 **项目描述**: Experimental Switch emulator written in C#
 
-📊 **主要语言**: C#
+⭐ **获得 Star**: 5,427
+
+💻 **主要编程语言**: C#
 
 📅 **创建时间**: 2024-10-06
 
 👤 **作者**: [GreemDev](https://github.com/GreemDev)
 
-![作者头像](https://avatars.githubusercontent.com/u/28578990?v=4)
+🔄 **Fork 数量**: 437
 
-🔄 **Forks**: 437
-
-⚠️ **Issues**: 106
+⚠️ **未解决 Issues**: 106
 
 ---
 
-### [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
+## 10. [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
 
-📝 **描述**: A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.
+![项目预览图](https://opengraph.githubassets.com/1/hijkzzz/Awesome-LLM-Strawberry)
 
-⭐ **Stars**: 5,411
+📝 **项目描述**: A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.
+
+⭐ **获得 Star**: 5,411
 
 📅 **创建时间**: 2024-09-15
 
 👤 **作者**: [hijkzzz](https://github.com/hijkzzz)
 
-![作者头像](https://avatars.githubusercontent.com/u/19810594?v=4)
+🔄 **Fork 数量**: 296
 
-🔄 **Forks**: 296
-
-⚠️ **Issues**: 13
+⚠️ **未解决 Issues**: 13
 
 ---
 
-## 年榜
+# 📊 年榜 (过去365天)
 
-### [xai-org/grok-1](https://github.com/xai-org/grok-1)
+## 1. [xai-org/grok-1](https://github.com/xai-org/grok-1)
 
-📝 **描述**: Grok open release
+![项目预览图](https://opengraph.githubassets.com/1/xai-org/grok-1)
 
-⭐ **Stars**: 49,643
+📝 **项目描述**: Grok open release
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 49,643
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-03-17
 
 👤 **作者**: [xai-org](https://github.com/xai-org)
 
-![作者头像](https://avatars.githubusercontent.com/u/130314967?v=4)
+🔄 **Fork 数量**: 8,330
 
-🔄 **Forks**: 8,330
-
-⚠️ **Issues**: 105
+⚠️ **未解决 Issues**: 105
 
 ---
 
-### [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+## 2. [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
 
-📝 **描述**: 🙌 OpenHands: Code Less, Make More
+![项目预览图](https://opengraph.githubassets.com/1/All-Hands-AI/OpenHands)
 
-⭐ **Stars**: 37,695
+📝 **项目描述**: 🙌 OpenHands: Code Less, Make More
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 37,695
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-03-13
 
 👤 **作者**: [All-Hands-AI](https://github.com/All-Hands-AI)
 
-![作者头像](https://avatars.githubusercontent.com/u/169105795?v=4)
+🔄 **Fork 数量**: 4,259
 
-🔄 **Forks**: 4,259
-
-⚠️ **Issues**: 245
+⚠️ **未解决 Issues**: 245
 
 ---
 
-### [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+## 3. [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
-📝 **描述**: 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+![项目预览图](https://opengraph.githubassets.com/1/RVC-Boss/GPT-SoVITS)
 
-⭐ **Stars**: 36,319
+📝 **项目描述**: 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 
-📊 **主要语言**: Python
+⭐ **获得 Star**: 36,319
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-01-14
 
 👤 **作者**: [RVC-Boss](https://github.com/RVC-Boss)
 
-![作者头像](https://avatars.githubusercontent.com/u/129054828?v=4)
+🔄 **Fork 数量**: 4,147
 
-🔄 **Forks**: 4,147
-
-⚠️ **Issues**: 677
+⚠️ **未解决 Issues**: 677
 
 ---
 
-## 关于本项目
+# ℹ️ 关于本项目
 
-- 本项目由 GitHub Actions 自动运行
-- 每周日自动更新一次数据
-- 统计数据包括：周榜、月榜、季榜、年榜
-- 详细数据存储在 [stats](./stats) 目录下的 JSON 文件中
+## 🔄 自动更新机制
+
+- 🤖 本项目由 GitHub Actions 自动运行
+- ⏰ 每周日早上8点（北京时间）自动更新数据
+- 📊 统计数据分为：周榜、月榜、季榜、年榜
+- 💾 历史数据以 JSON 格式存储在 [stats](./stats) 目录
+
+## 📋 统计规则
+
+1. **数据来源**：GitHub API
+2. **排序依据**：按照 Star 数量降序排序
+3. **统计范围**：
+   - 周榜：采集过去7天内创建的项目，展示前10名
+   - 月榜：采集过去30天内创建的项目，展示前30名
+   - 季榜：采集过去90天内创建的项目，展示前10名
+   - 年榜：采集过去365天内创建的项目，展示前3名
+4. **更新频率**：每周自动更新一次
+
+## 🤝 贡献指南
+
+欢迎提交 Issue 或 Pull Request 来改进这个项目！
+
+如果这个项目对你有帮助，欢迎给它一个 Star ⭐

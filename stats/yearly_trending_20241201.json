@@ -12,7 +12,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
     },
     "forks": 8330,
-    "issues": 105
+    "issues": 105,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xai-org/grok-1"
   },
   {
     "name": "All-Hands-AI/OpenHands",
@@ -27,7 +28,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/169105795?v=4"
     },
     "forks": 4259,
-    "issues": 245
+    "issues": 245,
+    "social_preview_url": "https://opengraph.githubassets.com/1/All-Hands-AI/OpenHands"
   },
   {
     "name": "RVC-Boss/GPT-SoVITS",
@@ -42,6 +44,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/129054828?v=4"
     },
     "forks": 4147,
-    "issues": 677
+    "issues": 677,
+    "social_preview_url": "https://opengraph.githubassets.com/1/RVC-Boss/GPT-SoVITS"
   }
 ]
