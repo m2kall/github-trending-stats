@@ -14,6 +14,7 @@ class GitHubTrendingStats:
         self.base_url = 'https://api.github.com'
         self.output_dir = Path('stats')
         self.output_dir.mkdir(exist_ok=True)
+        self.all_stats = {}
 
     def get_trending_repositories(self, since='weekly'):
         """获取GitHub trending repositories"""
@@ -57,8 +58,7 @@ class GitHubTrendingStats:
             return []
 
     def save_stats(self, repos, period):
-        """保存统计结果到JSON和README"""
-        # 保存JSON统计数据
+        """保存统计结果到JSON"""
         stats = []
         for repo in repos:
             stats.append({
@@ -84,28 +84,56 @@ class GitHubTrendingStats:
         with open(json_filename, 'w', encoding='utf-8') as f:
             json.dump(stats, f, ensure_ascii=False, indent=2)
         
-        # 更新README.md
-        self.update_readme(stats, period)
+        # 保存到内存中用于更新README
+        self.all_stats[period] = stats
         
         print(f"Saved {period} stats to {json_filename}")
 
-    def update_readme(self, stats, period):
-        """更新README.md文件"""
-        detailed = (period == "yearly")
-        content = f"# GitHub Trending Repositories ({period.capitalize()})\n\n"
+    def update_readme(self):
+        """更新README.md文件，显示所有时期的数据"""
+        content = "# GitHub Trending Statistics\n\n"
+        content += "自动统计GitHub趋势项目的数据分析工具。该工具会定期收集不同时间维度的热门项目信息。\n\n"
         
-        for repo in stats:
-            content += f"## [{repo['name']}]({repo['url']})\n"
-            content += f"**Description**: {repo['description']}\n\n"
-            content += f"**Stars**: {repo['stars']}\n\n"
-            content += f"**Created At**: {repo['created_at']}\n\n"
-            content += f"**Owner**: [{repo['owner']['login']}]({repo['owner']['url']})\n\n"
-            content += f"![Owner's Avatar]({repo['owner']['avatar_url']})\n\n"
-            
-            if detailed:
-                content += f"**Language**: {repo['language']}\n\n"
-                content += f"**Forks**: {repo['forks']}\n\n"
-                content += f"**Issues**: {repo['issues']}\n\n"
+        # 添加最后更新时间
+        content += f"最后更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
+        
+        # 按时间维度顺序显示
+        periods = ['weekly', 'monthly', 'quarterly', 'yearly']
+        period_names = {
+            'weekly': '周榜',
+            'monthly': '月榜',
+            'quarterly': '季榜',
+            'yearly': '年榜'
+        }
+        
+        for period in periods:
+            if period in self.all_stats:
+                content += f"## {period_names[period]}\n\n"
+                
+                for repo in self.all_stats[period]:
+                    content += f"### [{repo['name']}]({repo['url']})\n\n"
+                    
+                    if repo['description']:
+                        content += f"📝 **描述**: {repo['description']}\n\n"
+                    
+                    content += f"⭐ **Stars**: {repo['stars']:,}\n\n"
+                    
+                    if repo['language']:
+                        content += f"📊 **主要语言**: {repo['language']}\n\n"
+                    
+                    content += f"📅 **创建时间**: {repo['created_at'][:10]}\n\n"
+                    content += f"👤 **作者**: [{repo['owner']['login']}]({repo['owner']['url']})\n\n"
+                    content += f"![作者头像]({repo['owner']['avatar_url']})\n\n"
+                    content += f"🔄 **Forks**: {repo['forks']:,}\n\n"
+                    content += f"⚠️ **Issues**: {repo['issues']:,}\n\n"
+                    content += "---\n\n"
+        
+        # 添加项目信息
+        content += "## 关于本项目\n\n"
+        content += "- 本项目由 GitHub Actions 自动运行\n"
+        content += "- 每周日自动更新一次数据\n"
+        content += "- 统计数据包括：周榜、月榜、季榜、年榜\n"
+        content += "- 详细数据存储在 [stats](./stats) 目录下的 JSON 文件中\n"
         
         with open('README.md', 'w', encoding='utf-8') as f:
             f.write(content)
@@ -123,6 +151,9 @@ class GitHubTrendingStats:
             print(f"Fetching {period_name} trending repositories...")
             repos = self.get_trending_repositories(period_value)
             self.save_stats(repos, period_name)
+        
+        # 更新README
+        self.update_readme()
 
 if __name__ == '__main__':
     stats = GitHubTrendingStats()
