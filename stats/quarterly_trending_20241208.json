@@ -1,0 +1,162 @@
+[
+  {
+    "name": "HKUDS/LightRAG",
+    "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "stars": 10851,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/LightRAG",
+    "created_at": "2024-10-02T11:57:54Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 1393,
+    "issues": 115,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/LightRAG"
+  },
+  {
+    "name": "stackblitz/bolt.new",
+    "description": "Prompt, run, edit, and deploy full-stack web applications",
+    "stars": 9726,
+    "language": "TypeScript",
+    "url": "https://github.com/stackblitz/bolt.new",
+    "created_at": "2024-09-24T16:07:49Z",
+    "owner": {
+      "login": "stackblitz",
+      "url": "https://github.com/stackblitz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28635252?v=4"
+    },
+    "forks": 4001,
+    "issues": 2007,
+    "social_preview_url": "https://opengraph.githubassets.com/1/stackblitz/bolt.new"
+  },
+  {
+    "name": "richards199999/Thinking-Claude",
+    "description": "Let your Claude able to think",
+    "stars": 9517,
+    "language": "TypeScript",
+    "url": "https://github.com/richards199999/Thinking-Claude",
+    "created_at": "2024-11-13T10:19:21Z",
+    "owner": {
+      "login": "richards199999",
+      "url": "https://github.com/richards199999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142148415?v=4"
+    },
+    "forks": 1099,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/richards199999/Thinking-Claude"
+  },
+  {
+    "name": "voideditor/void",
+    "description": null,
+    "stars": 8417,
+    "language": "TypeScript",
+    "url": "https://github.com/voideditor/void",
+    "created_at": "2024-09-11T02:37:00Z",
+    "owner": {
+      "login": "voideditor",
+      "url": "https://github.com/voideditor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181171420?v=4"
+    },
+    "forks": 427,
+    "issues": 20,
+    "social_preview_url": "https://opengraph.githubassets.com/1/voideditor/void"
+  },
+  {
+    "name": "SWivid/F5-TTS",
+    "description": "Official code for \"F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching\"",
+    "stars": 7801,
+    "language": "Python",
+    "url": "https://github.com/SWivid/F5-TTS",
+    "created_at": "2024-10-08T13:36:55Z",
+    "owner": {
+      "login": "SWivid",
+      "url": "https://github.com/SWivid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45333109?v=4"
+    },
+    "forks": 981,
+    "issues": 45,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SWivid/F5-TTS"
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": null,
+    "stars": 7533,
+    "language": "Batchfile",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "created_at": "2024-10-08T20:02:28Z",
+    "owner": {
+      "login": "Flowseal",
+      "url": "https://github.com/Flowseal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50780822?v=4"
+    },
+    "forks": 348,
+    "issues": 213,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "name": "community-scripts/ProxmoxVE",
+    "description": "Proxmox VE Helper-Scripts (Community Edition) ",
+    "stars": 6189,
+    "language": "Shell",
+    "url": "https://github.com/community-scripts/ProxmoxVE",
+    "created_at": "2024-11-01T14:06:43Z",
+    "owner": {
+      "login": "community-scripts",
+      "url": "https://github.com/community-scripts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187033296?v=4"
+    },
+    "forks": 379,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/community-scripts/ProxmoxVE"
+  },
+  {
+    "name": "yangchris11/samurai",
+    "description": "Official repository of \"SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory\"",
+    "stars": 5738,
+    "language": "Python",
+    "url": "https://github.com/yangchris11/samurai",
+    "created_at": "2024-11-06T22:46:05Z",
+    "owner": {
+      "login": "yangchris11",
+      "url": "https://github.com/yangchris11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20741287?v=4"
+    },
+    "forks": 336,
+    "issues": 21,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yangchris11/samurai"
+  },
+  {
+    "name": "leerob/next-saas-starter",
+    "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+    "stars": 5738,
+    "language": "TypeScript",
+    "url": "https://github.com/leerob/next-saas-starter",
+    "created_at": "2024-09-10T00:18:56Z",
+    "owner": {
+      "login": "leerob",
+      "url": "https://github.com/leerob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9113740?v=4"
+    },
+    "forks": 661,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/leerob/next-saas-starter"
+  },
+  {
+    "name": "GreemDev/Ryujinx",
+    "description": "Experimental Switch emulator written in C#",
+    "stars": 5622,
+    "language": "C#",
+    "url": "https://github.com/GreemDev/Ryujinx",
+    "created_at": "2024-10-06T20:58:11Z",
+    "owner": {
+      "login": "GreemDev",
+      "url": "https://github.com/GreemDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28578990?v=4"
+    },
+    "forks": 454,
+    "issues": 116,
+    "social_preview_url": "https://opengraph.githubassets.com/1/GreemDev/Ryujinx"
+  }
+]

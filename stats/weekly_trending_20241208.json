@@ -1,0 +1,162 @@
+[
+  {
+    "name": "microsoft/TRELLIS",
+    "description": "Official repo for paper \"Structured 3D Latents for Scalable and Versatile 3D Generation\".",
+    "stars": 1218,
+    "language": "Python",
+    "url": "https://github.com/microsoft/TRELLIS",
+    "created_at": "2024-12-02T05:44:19Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 61,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/TRELLIS"
+  },
+  {
+    "name": "kijai/ComfyUI-HunyuanVideoWrapper",
+    "description": null,
+    "stars": 412,
+    "language": "Python",
+    "url": "https://github.com/kijai/ComfyUI-HunyuanVideoWrapper",
+    "created_at": "2024-12-03T17:09:58Z",
+    "owner": {
+      "login": "kijai",
+      "url": "https://github.com/kijai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40791699?v=4"
+    },
+    "forks": 14,
+    "issues": 48,
+    "social_preview_url": "https://opengraph.githubassets.com/1/kijai/ComfyUI-HunyuanVideoWrapper"
+  },
+  {
+    "name": "Priyanshuu-2109/GATE-CSE-notes",
+    "description": "Handwritten notes of all the subjects in GATE CSE.",
+    "stars": 410,
+    "language": null,
+    "url": "https://github.com/Priyanshuu-2109/GATE-CSE-notes",
+    "created_at": "2024-12-05T06:46:25Z",
+    "owner": {
+      "login": "Priyanshuu-2109",
+      "url": "https://github.com/Priyanshuu-2109",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190696198?v=4"
+    },
+    "forks": 32,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Priyanshuu-2109/GATE-CSE-notes"
+  },
+  {
+    "name": "PolymathicAI/the_well",
+    "description": "A 15TB Collection of Physics Simulation Datasets",
+    "stars": 401,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/PolymathicAI/the_well",
+    "created_at": "2024-12-02T12:04:15Z",
+    "owner": {
+      "login": "PolymathicAI",
+      "url": "https://github.com/PolymathicAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137177858?v=4"
+    },
+    "forks": 17,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/PolymathicAI/the_well"
+  },
+  {
+    "name": "swissipissi/Adopt-Me-",
+    "description": null,
+    "stars": 359,
+    "language": null,
+    "url": "https://github.com/swissipissi/Adopt-Me-",
+    "created_at": "2024-12-04T17:25:04Z",
+    "owner": {
+      "login": "swissipissi",
+      "url": "https://github.com/swissipissi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190640589?v=4"
+    },
+    "forks": 2,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/swissipissi/Adopt-Me-"
+  },
+  {
+    "name": "akile-network/akile_monitor",
+    "description": "Akile Monitor",
+    "stars": 323,
+    "language": "Shell",
+    "url": "https://github.com/akile-network/akile_monitor",
+    "created_at": "2024-12-02T15:46:35Z",
+    "owner": {
+      "login": "akile-network",
+      "url": "https://github.com/akile-network",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126368991?v=4"
+    },
+    "forks": 33,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/akile-network/akile_monitor"
+  },
+  {
+    "name": "mcpservers/mcp-server-chatsum",
+    "description": "Query and Summarize your chat messages.",
+    "stars": 268,
+    "language": "TypeScript",
+    "url": "https://github.com/mcpservers/mcp-server-chatsum",
+    "created_at": "2024-12-03T16:08:19Z",
+    "owner": {
+      "login": "mcpservers",
+      "url": "https://github.com/mcpservers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189829237?v=4"
+    },
+    "forks": 23,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mcpservers/mcp-server-chatsum"
+  },
+  {
+    "name": "vitec4791ga/kms",
+    "description": null,
+    "stars": 254,
+    "language": null,
+    "url": "https://github.com/vitec4791ga/kms",
+    "created_at": "2024-12-05T22:46:49Z",
+    "owner": {
+      "login": "vitec4791ga",
+      "url": "https://github.com/vitec4791ga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186401545?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vitec4791ga/kms"
+  },
+  {
+    "name": "yformer/EfficientTAM",
+    "description": "Efficient Track Anything",
+    "stars": 221,
+    "language": "Python",
+    "url": "https://github.com/yformer/EfficientTAM",
+    "created_at": "2024-12-02T05:41:04Z",
+    "owner": {
+      "login": "yformer",
+      "url": "https://github.com/yformer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89545561?v=4"
+    },
+    "forks": 8,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yformer/EfficientTAM"
+  },
+  {
+    "name": "crazywolf132/ultimate-gomake",
+    "description": "The ultimate makefile for any golang project",
+    "stars": 212,
+    "language": "Makefile",
+    "url": "https://github.com/crazywolf132/ultimate-gomake",
+    "created_at": "2024-12-03T21:51:20Z",
+    "owner": {
+      "login": "crazywolf132",
+      "url": "https://github.com/crazywolf132",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6337115?v=4"
+    },
+    "forks": 12,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/crazywolf132/ultimate-gomake"
+  }
+]
