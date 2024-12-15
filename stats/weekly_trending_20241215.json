@@ -1,0 +1,162 @@
+[
+  {
+    "name": "yuaotian/go-cursor-help",
+    "description": "解决Cursor在免费订阅期间出现以下提示的问题:  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+    "stars": 728,
+    "language": "Go",
+    "url": "https://github.com/yuaotian/go-cursor-help",
+    "created_at": "2024-12-09T07:07:09Z",
+    "owner": {
+      "login": "yuaotian",
+      "url": "https://github.com/yuaotian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50616060?v=4"
+    },
+    "forks": 129,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yuaotian/go-cursor-help"
+  },
+  {
+    "name": "google-gemini/multimodal-live-api-web-console",
+    "description": "A react-based starter app for using the Multimodal Live API over websockets with Gemini",
+    "stars": 676,
+    "language": "TypeScript",
+    "url": "https://github.com/google-gemini/multimodal-live-api-web-console",
+    "created_at": "2024-12-09T17:35:48Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 95,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/multimodal-live-api-web-console"
+  },
+  {
+    "name": "baaivision/See3D",
+    "description": "You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale",
+    "stars": 368,
+    "language": "Python",
+    "url": "https://github.com/baaivision/See3D",
+    "created_at": "2024-12-09T04:46:29Z",
+    "owner": {
+      "login": "baaivision",
+      "url": "https://github.com/baaivision",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118160626?v=4"
+    },
+    "forks": 10,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/baaivision/See3D"
+  },
+  {
+    "name": "facebookresearch/blt",
+    "description": "Code for BLT research paper",
+    "stars": 362,
+    "language": "Python",
+    "url": "https://github.com/facebookresearch/blt",
+    "created_at": "2024-12-09T18:14:11Z",
+    "owner": {
+      "login": "facebookresearch",
+      "url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "forks": 22,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebookresearch/blt"
+  },
+  {
+    "name": "tiki-boy59/fortnite-hack-external",
+    "description": "The Fortnite Hack 2024 is the definitive tool for players who want to take their skills to the next level. With state-of-the-art features like Aimbot, ESP, Speed Hack, and No Recoil, this hack is crafted to give you the edge in every encounter. Whether you're pushing for Victory Royales or dominating in creative mode ",
+    "stars": 339,
+    "language": null,
+    "url": "https://github.com/tiki-boy59/fortnite-hack-external",
+    "created_at": "2024-12-12T21:39:59Z",
+    "owner": {
+      "login": "tiki-boy59",
+      "url": "https://github.com/tiki-boy59",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186466209?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tiki-boy59/fortnite-hack-external"
+  },
+  {
+    "name": "vlasenko1853/roblox-script",
+    "description": "Roblox Solara - Executor is a powerful open source automation tool designed to simplify and streamline the execution of tasks and processes for Roblox. With its user friendly interface and robust functionality, Solara Executor is perfect for automating a wide range of activities in different industries.",
+    "stars": 316,
+    "language": null,
+    "url": "https://github.com/vlasenko1853/roblox-script",
+    "created_at": "2024-12-13T09:55:16Z",
+    "owner": {
+      "login": "vlasenko1853",
+      "url": "https://github.com/vlasenko1853",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186467198?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vlasenko1853/roblox-script"
+  },
+  {
+    "name": "Cakaramakaa/SketchUp-Pro-free-2024",
+    "description": "Autodesk Inventor is a professional 3D CAD (Computer-Aided Design) software developed by Autodesk. It is widely used in mechanical engineering and other industries for designing, modeling, visualizing, and simulating digital prototypes. The main advantage of Inventor is its ability to integrate 2D and 3D data in a single environment,",
+    "stars": 266,
+    "language": null,
+    "url": "https://github.com/Cakaramakaa/SketchUp-Pro-free-2024",
+    "created_at": "2024-12-13T02:27:39Z",
+    "owner": {
+      "login": "Cakaramakaa",
+      "url": "https://github.com/Cakaramakaa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156666783?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Cakaramakaa/SketchUp-Pro-free-2024"
+  },
+  {
+    "name": "vernu/vps-audit",
+    "description": "lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.",
+    "stars": 247,
+    "language": "Shell",
+    "url": "https://github.com/vernu/vps-audit",
+    "created_at": "2024-12-13T10:30:53Z",
+    "owner": {
+      "login": "vernu",
+      "url": "https://github.com/vernu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7479824?v=4"
+    },
+    "forks": 15,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vernu/vps-audit"
+  },
+  {
+    "name": "yuvraj15932y/SilenceGen",
+    "description": "Solana Wallet Creator. Generator the address and private key of the Solana wallet. Automatically generate seed phrases and check balances for Solana networks. If a wallet with a non-zero balance is found, the wallet's information (address, mnemonic, private key, and balances) is logged and saved to a file named result.txt.",
+    "stars": 228,
+    "language": null,
+    "url": "https://github.com/yuvraj15932y/SilenceGen",
+    "created_at": "2024-12-15T00:50:22Z",
+    "owner": {
+      "login": "yuvraj15932y",
+      "url": "https://github.com/yuvraj15932y",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179712982?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yuvraj15932y/SilenceGen"
+  },
+  {
+    "name": "Gorion2k9/SketchUp-Pro-free-2024",
+    "description": "Autodesk Inventor is a professional 3D CAD (Computer-Aided Design) software developed by Autodesk. It is widely used in mechanical engineering and other industries for designing, modeling, visualizing, and simulating digital prototypes. The main advantage of Inventor is its ability to integrate 2D and 3D data in a single environment,",
+    "stars": 227,
+    "language": null,
+    "url": "https://github.com/Gorion2k9/SketchUp-Pro-free-2024",
+    "created_at": "2024-12-15T00:49:59Z",
+    "owner": {
+      "login": "Gorion2k9",
+      "url": "https://github.com/Gorion2k9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128614264?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Gorion2k9/SketchUp-Pro-free-2024"
+  }
+]

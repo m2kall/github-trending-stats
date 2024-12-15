@@ -1,0 +1,162 @@
+[
+  {
+    "name": "HKUDS/LightRAG",
+    "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "stars": 11444,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/LightRAG",
+    "created_at": "2024-10-02T11:57:54Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 1501,
+    "issues": 133,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/LightRAG"
+  },
+  {
+    "name": "stackblitz/bolt.new",
+    "description": "Prompt, run, edit, and deploy full-stack web applications",
+    "stars": 10236,
+    "language": "TypeScript",
+    "url": "https://github.com/stackblitz/bolt.new",
+    "created_at": "2024-09-24T16:07:49Z",
+    "owner": {
+      "login": "stackblitz",
+      "url": "https://github.com/stackblitz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28635252?v=4"
+    },
+    "forks": 4471,
+    "issues": 2347,
+    "social_preview_url": "https://opengraph.githubassets.com/1/stackblitz/bolt.new"
+  },
+  {
+    "name": "richards199999/Thinking-Claude",
+    "description": "Let your Claude able to think",
+    "stars": 9947,
+    "language": "TypeScript",
+    "url": "https://github.com/richards199999/Thinking-Claude",
+    "created_at": "2024-11-13T10:19:21Z",
+    "owner": {
+      "login": "richards199999",
+      "url": "https://github.com/richards199999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142148415?v=4"
+    },
+    "forks": 1138,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/richards199999/Thinking-Claude"
+  },
+  {
+    "name": "SWivid/F5-TTS",
+    "description": "Official code for \"F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching\"",
+    "stars": 7984,
+    "language": "Python",
+    "url": "https://github.com/SWivid/F5-TTS",
+    "created_at": "2024-10-08T13:36:55Z",
+    "owner": {
+      "login": "SWivid",
+      "url": "https://github.com/SWivid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45333109?v=4"
+    },
+    "forks": 1009,
+    "issues": 38,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SWivid/F5-TTS"
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": null,
+    "stars": 7840,
+    "language": "Batchfile",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "created_at": "2024-10-08T20:02:28Z",
+    "owner": {
+      "login": "Flowseal",
+      "url": "https://github.com/Flowseal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50780822?v=4"
+    },
+    "forks": 372,
+    "issues": 231,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "name": "community-scripts/ProxmoxVE",
+    "description": "Proxmox VE Helper-Scripts (Community Edition) ",
+    "stars": 6664,
+    "language": "Shell",
+    "url": "https://github.com/community-scripts/ProxmoxVE",
+    "created_at": "2024-11-01T14:06:43Z",
+    "owner": {
+      "login": "community-scripts",
+      "url": "https://github.com/community-scripts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187033296?v=4"
+    },
+    "forks": 404,
+    "issues": 33,
+    "social_preview_url": "https://opengraph.githubassets.com/1/community-scripts/ProxmoxVE"
+  },
+  {
+    "name": "yangchris11/samurai",
+    "description": "Official repository of \"SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory\"",
+    "stars": 5890,
+    "language": "Python",
+    "url": "https://github.com/yangchris11/samurai",
+    "created_at": "2024-11-06T22:46:05Z",
+    "owner": {
+      "login": "yangchris11",
+      "url": "https://github.com/yangchris11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20741287?v=4"
+    },
+    "forks": 346,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yangchris11/samurai"
+  },
+  {
+    "name": "Tencent/HunyuanVideo",
+    "description": "HunyuanVideo: A Systematic Framework For Large Video Generation Model",
+    "stars": 5806,
+    "language": "Python",
+    "url": "https://github.com/Tencent/HunyuanVideo",
+    "created_at": "2024-11-28T08:38:31Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 413,
+    "issues": 94,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/HunyuanVideo"
+  },
+  {
+    "name": "GreemDev/Ryujinx",
+    "description": "Nintendo Switch emulator written in C#, originally created by gdkchan.",
+    "stars": 5790,
+    "language": "C#",
+    "url": "https://github.com/GreemDev/Ryujinx",
+    "created_at": "2024-10-06T20:58:11Z",
+    "owner": {
+      "login": "GreemDev",
+      "url": "https://github.com/GreemDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28578990?v=4"
+    },
+    "forks": 463,
+    "issues": 131,
+    "social_preview_url": "https://opengraph.githubassets.com/1/GreemDev/Ryujinx"
+  },
+  {
+    "name": "google-deepmind/alphafold3",
+    "description": "AlphaFold 3 inference pipeline.",
+    "stars": 5560,
+    "language": "Python",
+    "url": "https://github.com/google-deepmind/alphafold3",
+    "created_at": "2024-11-11T10:38:11Z",
+    "owner": {
+      "login": "google-deepmind",
+      "url": "https://github.com/google-deepmind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8596759?v=4"
+    },
+    "forks": 652,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-deepmind/alphafold3"
+  }
+]
