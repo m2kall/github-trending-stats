@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Tencent/HunyuanVideo",
+    "description": "HunyuanVideo: A Systematic Framework For Large Video Generation Model",
+    "stars": 6531,
+    "language": "Python",
+    "url": "https://github.com/Tencent/HunyuanVideo",
+    "created_at": "2024-11-28T08:38:31Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 488,
+    "issues": 108,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/HunyuanVideo"
+  },
+  {
+    "name": "microsoft/TRELLIS",
+    "description": "Official repo for paper \"Structured 3D Latents for Scalable and Versatile 3D Generation\".",
+    "stars": 4989,
+    "language": "Python",
+    "url": "https://github.com/microsoft/TRELLIS",
+    "created_at": "2024-12-02T05:44:19Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 292,
+    "issues": 60,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/TRELLIS"
+  },
+  {
+    "name": "huggingface/smol-course",
+    "description": "A course on aligning smol models.",
+    "stars": 3497,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/huggingface/smol-course",
+    "created_at": "2024-11-25T19:22:43Z",
+    "owner": {
+      "login": "huggingface",
+      "url": "https://github.com/huggingface",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    "forks": 1072,
+    "issues": 34,
+    "social_preview_url": "https://opengraph.githubassets.com/1/huggingface/smol-course"
+  },
+  {
+    "name": "yuaotian/go-cursor-help",
+    "description": "解决Cursor在免费订阅期间出现以下提示的问题:  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+    "stars": 3122,
+    "language": "Go",
+    "url": "https://github.com/yuaotian/go-cursor-help",
+    "created_at": "2024-12-09T07:07:09Z",
+    "owner": {
+      "login": "yuaotian",
+      "url": "https://github.com/yuaotian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50616060?v=4"
+    },
+    "forks": 510,
+    "issues": 45,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yuaotian/go-cursor-help"
+  },
+  {
+    "name": "cyclotruc/gitingest",
+    "description": "Replace 'hub' with 'ingest' in any github url to get a prompt-friendly (con)text to paste into any LLM",
+    "stars": 2075,
+    "language": "Python",
+    "url": "https://github.com/cyclotruc/gitingest",
+    "created_at": "2024-11-29T08:27:18Z",
+    "owner": {
+      "login": "cyclotruc",
+      "url": "https://github.com/cyclotruc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26753474?v=4"
+    },
+    "forks": 155,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cyclotruc/gitingest"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "stars": 1721,
+    "language": "Python",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "created_at": "2024-11-29T16:30:01Z",
+    "owner": {
+      "login": "virattt",
+      "url": "https://github.com/virattt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/901795?v=4"
+    },
+    "forks": 314,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/virattt/ai-hedge-fund"
+  },
+  {
+    "name": "NeverSinkDev/NeverSink-PoE2litefilter",
+    "description": "This is a lootfilter for the game \"Path of Exile 2\". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user",
+    "stars": 1670,
+    "language": null,
+    "url": "https://github.com/NeverSinkDev/NeverSink-PoE2litefilter",
+    "created_at": "2024-12-08T21:20:57Z",
+    "owner": {
+      "login": "NeverSinkDev",
+      "url": "https://github.com/NeverSinkDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2942999?v=4"
+    },
+    "forks": 108,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NeverSinkDev/NeverSink-PoE2litefilter"
+  },
+  {
+    "name": "facebookresearch/flow_matching",
+    "description": "A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.",
+    "stars": 1504,
+    "language": "Python",
+    "url": "https://github.com/facebookresearch/flow_matching",
+    "created_at": "2024-12-07T21:02:50Z",
+    "owner": {
+      "login": "facebookresearch",
+      "url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "forks": 58,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebookresearch/flow_matching"
+  },
+  {
+    "name": "xuanli199/weekly",
+    "description": "保存玄离199每周科技补全中提到的各种软件和项目",
+    "stars": 1431,
+    "language": null,
+    "url": "https://github.com/xuanli199/weekly",
+    "created_at": "2024-11-28T14:08:15Z",
+    "owner": {
+      "login": "xuanli199",
+      "url": "https://github.com/xuanli199",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108920354?v=4"
+    },
+    "forks": 34,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xuanli199/weekly"
+  },
+  {
+    "name": "punkpeye/awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "stars": 1385,
+    "language": null,
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "created_at": "2024-11-30T04:49:10Z",
+    "owner": {
+      "login": "punkpeye",
+      "url": "https://github.com/punkpeye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108313943?v=4"
+    },
+    "forks": 128,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/punkpeye/awesome-mcp-servers"
+  },
+  {
+    "name": "chiphuyen/aie-book",
+    "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+    "stars": 1307,
+    "language": null,
+    "url": "https://github.com/chiphuyen/aie-book",
+    "created_at": "2024-12-03T19:43:36Z",
+    "owner": {
+      "login": "chiphuyen",
+      "url": "https://github.com/chiphuyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11997567?v=4"
+    },
+    "forks": 151,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/chiphuyen/aie-book"
+  },
+  {
+    "name": "kijai/ComfyUI-HunyuanVideoWrapper",
+    "description": null,
+    "stars": 1209,
+    "language": "Python",
+    "url": "https://github.com/kijai/ComfyUI-HunyuanVideoWrapper",
+    "created_at": "2024-12-03T17:09:58Z",
+    "owner": {
+      "login": "kijai",
+      "url": "https://github.com/kijai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40791699?v=4"
+    },
+    "forks": 82,
+    "issues": 108,
+    "social_preview_url": "https://opengraph.githubassets.com/1/kijai/ComfyUI-HunyuanVideoWrapper"
+  },
+  {
+    "name": "bestK/cursor-fake-machine",
+    "description": null,
+    "stars": 1189,
+    "language": "JavaScript",
+    "url": "https://github.com/bestK/cursor-fake-machine",
+    "created_at": "2024-11-28T05:25:40Z",
+    "owner": {
+      "login": "bestK",
+      "url": "https://github.com/bestK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14979305?v=4"
+    },
+    "forks": 187,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bestK/cursor-fake-machine"
+  },
+  {
+    "name": "google-gemini/multimodal-live-api-web-console",
+    "description": "A react-based starter app for using the Multimodal Live API over websockets with Gemini",
+    "stars": 1102,
+    "language": "TypeScript",
+    "url": "https://github.com/google-gemini/multimodal-live-api-web-console",
+    "created_at": "2024-12-09T17:35:48Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 193,
+    "issues": 21,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/multimodal-live-api-web-console"
+  },
+  {
+    "name": "Acmesec/PromptJailbreakManual",
+    "description": "Prompt越狱手册",
+    "stars": 1037,
+    "language": null,
+    "url": "https://github.com/Acmesec/PromptJailbreakManual",
+    "created_at": "2024-11-25T15:10:33Z",
+    "owner": {
+      "login": "Acmesec",
+      "url": "https://github.com/Acmesec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43740052?v=4"
+    },
+    "forks": 104,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Acmesec/PromptJailbreakManual"
+  },
+  {
+    "name": "facebookresearch/blt",
+    "description": "Code for BLT research paper",
+    "stars": 994,
+    "language": "Python",
+    "url": "https://github.com/facebookresearch/blt",
+    "created_at": "2024-12-09T18:14:11Z",
+    "owner": {
+      "login": "facebookresearch",
+      "url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "forks": 62,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebookresearch/blt"
+  },
+  {
+    "name": "BeeSyncAI/BeeSync",
+    "description": null,
+    "stars": 983,
+    "language": "TypeScript",
+    "url": "https://github.com/BeeSyncAI/BeeSync",
+    "created_at": "2024-11-26T20:56:10Z",
+    "owner": {
+      "login": "BeeSyncAI",
+      "url": "https://github.com/BeeSyncAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189791032?v=4"
+    },
+    "forks": 339,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/BeeSyncAI/BeeSync"
+  },
+  {
+    "name": "athina-ai/rag-cookbooks",
+    "description": "This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.",
+    "stars": 901,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/athina-ai/rag-cookbooks",
+    "created_at": "2024-11-27T06:50:35Z",
+    "owner": {
+      "login": "athina-ai",
+      "url": "https://github.com/athina-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139258696?v=4"
+    },
+    "forks": 51,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/athina-ai/rag-cookbooks"
+  },
+  {
+    "name": "Francis-Rings/StableAnimator",
+    "description": "We present StableAnimator, the first end-to-end ID-preserving video diffusion framework, which synthesizes high-quality videos without any post-processing, conditioned on a reference image and a sequence of poses.",
+    "stars": 854,
+    "language": "Python",
+    "url": "https://github.com/Francis-Rings/StableAnimator",
+    "created_at": "2024-11-26T07:40:38Z",
+    "owner": {
+      "login": "Francis-Rings",
+      "url": "https://github.com/Francis-Rings",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66824433?v=4"
+    },
+    "forks": 41,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Francis-Rings/StableAnimator"
+  },
+  {
+    "name": "privastead/privastead",
+    "description": null,
+    "stars": 791,
+    "language": "Rust",
+    "url": "https://github.com/privastead/privastead",
+    "created_at": "2024-11-26T04:02:05Z",
+    "owner": {
+      "login": "privastead",
+      "url": "https://github.com/privastead",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189398952?v=4"
+    },
+    "forks": 13,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/privastead/privastead"
+  },
+  {
+    "name": "lmnr-ai/flow",
+    "description": "A lightweight task engine for building stateful AI agents that prioritizes simplicity and flexibility.",
+    "stars": 783,
+    "language": "Python",
+    "url": "https://github.com/lmnr-ai/flow",
+    "created_at": "2024-11-30T19:34:02Z",
+    "owner": {
+      "login": "lmnr-ai",
+      "url": "https://github.com/lmnr-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161496104?v=4"
+    },
+    "forks": 26,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lmnr-ai/flow"
+  },
+  {
+    "name": "DenisSergeevitch/chatgpt-custom-instructions",
+    "description": "My own Prompts for Custom instructions ChatGPT",
+    "stars": 737,
+    "language": null,
+    "url": "https://github.com/DenisSergeevitch/chatgpt-custom-instructions",
+    "created_at": "2024-11-29T14:13:10Z",
+    "owner": {
+      "login": "DenisSergeevitch",
+      "url": "https://github.com/DenisSergeevitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2140110?v=4"
+    },
+    "forks": 21,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/DenisSergeevitch/chatgpt-custom-instructions"
+  },
+  {
+    "name": "whotto/Video_note_generator",
+    "description": "一键将视频转换为优质小红书笔记，自动优化内容和配图",
+    "stars": 728,
+    "language": "Python",
+    "url": "https://github.com/whotto/Video_note_generator",
+    "created_at": "2024-12-11T07:47:13Z",
+    "owner": {
+      "login": "whotto",
+      "url": "https://github.com/whotto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17972078?v=4"
+    },
+    "forks": 83,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/whotto/Video_note_generator"
+  },
+  {
+    "name": "thepersonalaicompany/amurex",
+    "description": "World's first AI meeting copilot",
+    "stars": 725,
+    "language": "JavaScript",
+    "url": "https://github.com/thepersonalaicompany/amurex",
+    "created_at": "2024-11-26T16:09:12Z",
+    "owner": {
+      "login": "thepersonalaicompany",
+      "url": "https://github.com/thepersonalaicompany",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188107804?v=4"
+    },
+    "forks": 20,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/thepersonalaicompany/amurex"
+  },
+  {
+    "name": "saulamsal/react-native-sheet-transitions",
+    "description": "Beautiful iOS-like sheet transitions for React Native",
+    "stars": 713,
+    "language": "TypeScript",
+    "url": "https://github.com/saulamsal/react-native-sheet-transitions",
+    "created_at": "2024-11-28T07:10:04Z",
+    "owner": {
+      "login": "saulamsal",
+      "url": "https://github.com/saulamsal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28447850?v=4"
+    },
+    "forks": 14,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/saulamsal/react-native-sheet-transitions"
+  },
+  {
+    "name": "nishuzumi/gemini-teacher",
+    "description": "English pronunciation correction teacher built with gemini",
+    "stars": 712,
+    "language": "Python",
+    "url": "https://github.com/nishuzumi/gemini-teacher",
+    "created_at": "2024-12-15T05:55:16Z",
+    "owner": {
+      "login": "nishuzumi",
+      "url": "https://github.com/nishuzumi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13927203?v=4"
+    },
+    "forks": 77,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nishuzumi/gemini-teacher"
+  },
+  {
+    "name": "huggingface/search-and-learn",
+    "description": null,
+    "stars": 691,
+    "language": "Python",
+    "url": "https://github.com/huggingface/search-and-learn",
+    "created_at": "2024-12-09T08:41:37Z",
+    "owner": {
+      "login": "huggingface",
+      "url": "https://github.com/huggingface",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    "forks": 48,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/huggingface/search-and-learn"
+  },
+  {
+    "name": "jlowin/fastmcp",
+    "description": "The fast, Pythonic way to build Model Context Protocol servers 🚀 ",
+    "stars": 684,
+    "language": "Python",
+    "url": "https://github.com/jlowin/fastmcp",
+    "created_at": "2024-11-30T01:47:40Z",
+    "owner": {
+      "login": "jlowin",
+      "url": "https://github.com/jlowin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153965?v=4"
+    },
+    "forks": 33,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jlowin/fastmcp"
+  },
+  {
+    "name": "qwqwgfdgdfgdf/Nodepay-Auto-Farmer",
+    "description": "NodePay Auto Farmer is an advanced automation tool designed to simplify farming operations within the NodePay ecosystem. With its robust features and intuitive interface, it allows users to maximize their efficiency by automating repetitive tasks such as farming, account management, and transaction handling.",
+    "stars": 656,
+    "language": null,
+    "url": "https://github.com/qwqwgfdgdfgdf/Nodepay-Auto-Farmer",
+    "created_at": "2024-12-22T20:31:08Z",
+    "owner": {
+      "login": "qwqwgfdgdfgdf",
+      "url": "https://github.com/qwqwgfdgdfgdf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192540322?v=4"
+    },
+    "forks": 1,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/qwqwgfdgdfgdf/Nodepay-Auto-Farmer"
+  },
+  {
+    "name": "ui-layouts/cursify",
+    "description": "Cursor Animation Library for React & Next.js",
+    "stars": 644,
+    "language": "TypeScript",
+    "url": "https://github.com/ui-layouts/cursify",
+    "created_at": "2024-11-24T20:57:38Z",
+    "owner": {
+      "login": "ui-layouts",
+      "url": "https://github.com/ui-layouts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188906022?v=4"
+    },
+    "forks": 34,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ui-layouts/cursify"
+  }
+]

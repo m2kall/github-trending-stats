@@ -1,0 +1,162 @@
+[
+  {
+    "name": "qwqwgfdgdfgdf/Nodepay-Auto-Farmer",
+    "description": "NodePay Auto Farmer is an advanced automation tool designed to simplify farming operations within the NodePay ecosystem. With its robust features and intuitive interface, it allows users to maximize their efficiency by automating repetitive tasks such as farming, account management, and transaction handling.",
+    "stars": 656,
+    "language": null,
+    "url": "https://github.com/qwqwgfdgdfgdf/Nodepay-Auto-Farmer",
+    "created_at": "2024-12-22T20:31:08Z",
+    "owner": {
+      "login": "qwqwgfdgdfgdf",
+      "url": "https://github.com/qwqwgfdgdfgdf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192540322?v=4"
+    },
+    "forks": 1,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/qwqwgfdgdfgdf/Nodepay-Auto-Farmer"
+  },
+  {
+    "name": "lvwzhen/medicine",
+    "description": "原研药列表",
+    "stars": 432,
+    "language": "Vue",
+    "url": "https://github.com/lvwzhen/medicine",
+    "created_at": "2024-12-20T03:56:13Z",
+    "owner": {
+      "login": "lvwzhen",
+      "url": "https://github.com/lvwzhen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2337506?v=4"
+    },
+    "forks": 51,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lvwzhen/medicine"
+  },
+  {
+    "name": "leverimmy/THU-Annual-Eat",
+    "description": "一年过去了，你在华子食堂里花的钱都花在哪儿了？",
+    "stars": 417,
+    "language": "Python",
+    "url": "https://github.com/leverimmy/THU-Annual-Eat",
+    "created_at": "2024-12-20T17:48:42Z",
+    "owner": {
+      "login": "leverimmy",
+      "url": "https://github.com/leverimmy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47663913?v=4"
+    },
+    "forks": 75,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/leverimmy/THU-Annual-Eat"
+  },
+  {
+    "name": "moonbitlang/moonbit-compiler",
+    "description": null,
+    "stars": 385,
+    "language": "OCaml",
+    "url": "https://github.com/moonbitlang/moonbit-compiler",
+    "created_at": "2024-12-18T02:41:23Z",
+    "owner": {
+      "login": "moonbitlang",
+      "url": "https://github.com/moonbitlang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124848646?v=4"
+    },
+    "forks": 25,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/moonbitlang/moonbit-compiler"
+  },
+  {
+    "name": "DepthAnything/PromptDA",
+    "description": "Prompt Depth Anything",
+    "stars": 343,
+    "language": "Python",
+    "url": "https://github.com/DepthAnything/PromptDA",
+    "created_at": "2024-12-17T06:56:47Z",
+    "owner": {
+      "login": "DepthAnything",
+      "url": "https://github.com/DepthAnything",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172110102?v=4"
+    },
+    "forks": 14,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/DepthAnything/PromptDA"
+  },
+  {
+    "name": "TahaSh/blendy",
+    "description": "🧈 Smoothly transition one element into another with just a few lines of code.",
+    "stars": 343,
+    "language": "TypeScript",
+    "url": "https://github.com/TahaSh/blendy",
+    "created_at": "2024-12-17T15:04:08Z",
+    "owner": {
+      "login": "TahaSh",
+      "url": "https://github.com/TahaSh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5775341?v=4"
+    },
+    "forks": 4,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/TahaSh/blendy"
+  },
+  {
+    "name": "nesaorg/Equivariant-Encryption-for-AI",
+    "description": "The world's AI blockchain.",
+    "stars": 307,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/nesaorg/Equivariant-Encryption-for-AI",
+    "created_at": "2024-12-22T04:53:59Z",
+    "owner": {
+      "login": "nesaorg",
+      "url": "https://github.com/nesaorg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162369208?v=4"
+    },
+    "forks": 4,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nesaorg/Equivariant-Encryption-for-AI"
+  },
+  {
+    "name": "yihao-meng/AniDoc",
+    "description": "Official Implementations for Paper - AniDoc: Animation Creation Made Easier",
+    "stars": 280,
+    "language": "Python",
+    "url": "https://github.com/yihao-meng/AniDoc",
+    "created_at": "2024-12-18T11:55:26Z",
+    "owner": {
+      "login": "yihao-meng",
+      "url": "https://github.com/yihao-meng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74102179?v=4"
+    },
+    "forks": 16,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yihao-meng/AniDoc"
+  },
+  {
+    "name": "wgpsec/cloudsword",
+    "description": "一款帮助云租户发现和测试云上风险、增强云上防护能力的综合性开源工具",
+    "stars": 263,
+    "language": "Go",
+    "url": "https://github.com/wgpsec/cloudsword",
+    "created_at": "2024-12-21T02:07:40Z",
+    "owner": {
+      "login": "wgpsec",
+      "url": "https://github.com/wgpsec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20661677?v=4"
+    },
+    "forks": 18,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wgpsec/cloudsword"
+  },
+  {
+    "name": "teddy-tsai/solara-github-download",
+    "description": "Roblox Solara Executor is a powerful open source automation tool designed to simplify and streamline the execution of tasks and processes for Roblox. With its user friendly interface and robust functionality, Solara Executor is perfect for automating a wide range of activities in different industries.",
+    "stars": 259,
+    "language": "CSS",
+    "url": "https://github.com/teddy-tsai/solara-github-download",
+    "created_at": "2024-12-20T21:17:28Z",
+    "owner": {
+      "login": "teddy-tsai",
+      "url": "https://github.com/teddy-tsai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186483535?v=4"
+    },
+    "forks": 1,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/teddy-tsai/solara-github-download"
+  }
+]
