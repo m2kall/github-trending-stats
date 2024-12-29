@@ -1,0 +1,482 @@
+[
+  {
+    "name": "microsoft/TRELLIS",
+    "description": "Official repo for paper \"Structured 3D Latents for Scalable and Versatile 3D Generation\".",
+    "stars": 5580,
+    "language": "Python",
+    "url": "https://github.com/microsoft/TRELLIS",
+    "created_at": "2024-12-02T05:44:19Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 343,
+    "issues": 58,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/TRELLIS"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": null,
+    "stars": 5458,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "created_at": "2024-12-26T09:52:40Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 322,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "name": "yuaotian/go-cursor-help",
+    "description": "解决Cursor在免费订阅期间出现以下提示的问题:  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+    "stars": 3998,
+    "language": "Go",
+    "url": "https://github.com/yuaotian/go-cursor-help",
+    "created_at": "2024-12-09T07:07:09Z",
+    "owner": {
+      "login": "yuaotian",
+      "url": "https://github.com/yuaotian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50616060?v=4"
+    },
+    "forks": 627,
+    "issues": 54,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yuaotian/go-cursor-help"
+  },
+  {
+    "name": "NeverSinkDev/NeverSink-PoE2litefilter",
+    "description": "This is a lootfilter for the game \"Path of Exile 2\". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user",
+    "stars": 1885,
+    "language": null,
+    "url": "https://github.com/NeverSinkDev/NeverSink-PoE2litefilter",
+    "created_at": "2024-12-08T21:20:57Z",
+    "owner": {
+      "login": "NeverSinkDev",
+      "url": "https://github.com/NeverSinkDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2942999?v=4"
+    },
+    "forks": 138,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NeverSinkDev/NeverSink-PoE2litefilter"
+  },
+  {
+    "name": "facebookresearch/flow_matching",
+    "description": "A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.",
+    "stars": 1603,
+    "language": "Python",
+    "url": "https://github.com/facebookresearch/flow_matching",
+    "created_at": "2024-12-07T21:02:50Z",
+    "owner": {
+      "login": "facebookresearch",
+      "url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "forks": 63,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebookresearch/flow_matching"
+  },
+  {
+    "name": "punkpeye/awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "stars": 1511,
+    "language": null,
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "created_at": "2024-11-30T04:49:10Z",
+    "owner": {
+      "login": "punkpeye",
+      "url": "https://github.com/punkpeye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108313943?v=4"
+    },
+    "forks": 143,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/punkpeye/awesome-mcp-servers"
+  },
+  {
+    "name": "chiphuyen/aie-book",
+    "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+    "stars": 1392,
+    "language": null,
+    "url": "https://github.com/chiphuyen/aie-book",
+    "created_at": "2024-12-03T19:43:36Z",
+    "owner": {
+      "login": "chiphuyen",
+      "url": "https://github.com/chiphuyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11997567?v=4"
+    },
+    "forks": 164,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/chiphuyen/aie-book"
+  },
+  {
+    "name": "kijai/ComfyUI-HunyuanVideoWrapper",
+    "description": null,
+    "stars": 1314,
+    "language": "Python",
+    "url": "https://github.com/kijai/ComfyUI-HunyuanVideoWrapper",
+    "created_at": "2024-12-03T17:09:58Z",
+    "owner": {
+      "login": "kijai",
+      "url": "https://github.com/kijai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40791699?v=4"
+    },
+    "forks": 98,
+    "issues": 124,
+    "social_preview_url": "https://opengraph.githubassets.com/1/kijai/ComfyUI-HunyuanVideoWrapper"
+  },
+  {
+    "name": "gabriel-pineda/git-wrapped-api",
+    "description": null,
+    "stars": 1282,
+    "language": "TypeScript",
+    "url": "https://github.com/gabriel-pineda/git-wrapped-api",
+    "created_at": "2024-12-21T11:31:21Z",
+    "owner": {
+      "login": "gabriel-pineda",
+      "url": "https://github.com/gabriel-pineda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98309935?v=4"
+    },
+    "forks": 8,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/gabriel-pineda/git-wrapped-api"
+  },
+  {
+    "name": "google-gemini/multimodal-live-api-web-console",
+    "description": "A react-based starter app for using the Multimodal Live API over websockets with Gemini",
+    "stars": 1190,
+    "language": "TypeScript",
+    "url": "https://github.com/google-gemini/multimodal-live-api-web-console",
+    "created_at": "2024-12-09T17:35:48Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 221,
+    "issues": 25,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/multimodal-live-api-web-console"
+  },
+  {
+    "name": "facebookresearch/blt",
+    "description": "Code for BLT research paper",
+    "stars": 1141,
+    "language": "Python",
+    "url": "https://github.com/facebookresearch/blt",
+    "created_at": "2024-12-09T18:14:11Z",
+    "owner": {
+      "login": "facebookresearch",
+      "url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "forks": 74,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebookresearch/blt"
+  },
+  {
+    "name": "Jaennaet/pISSStream",
+    "description": "macOS menu bar app that shows how full the International Space Station's urine tank is in real time",
+    "stars": 953,
+    "language": "Swift",
+    "url": "https://github.com/Jaennaet/pISSStream",
+    "created_at": "2024-12-18T16:20:56Z",
+    "owner": {
+      "login": "Jaennaet",
+      "url": "https://github.com/Jaennaet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191785648?v=4"
+    },
+    "forks": 19,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Jaennaet/pISSStream"
+  },
+  {
+    "name": "facebookresearch/large_concept_model",
+    "description": "Large Concept Models: Language modeling in a sentence representation space",
+    "stars": 931,
+    "language": "Python",
+    "url": "https://github.com/facebookresearch/large_concept_model",
+    "created_at": "2024-12-12T21:59:57Z",
+    "owner": {
+      "login": "facebookresearch",
+      "url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "forks": 68,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebookresearch/large_concept_model"
+  },
+  {
+    "name": "whotto/Video_note_generator",
+    "description": "一键将视频转换为优质小红书笔记，自动优化内容和配图",
+    "stars": 805,
+    "language": "Python",
+    "url": "https://github.com/whotto/Video_note_generator",
+    "created_at": "2024-12-11T07:47:13Z",
+    "owner": {
+      "login": "whotto",
+      "url": "https://github.com/whotto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17972078?v=4"
+    },
+    "forks": 92,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/whotto/Video_note_generator"
+  },
+  {
+    "name": "lmnr-ai/flow",
+    "description": "A lightweight task engine for building stateful AI agents that prioritizes simplicity and flexibility.",
+    "stars": 795,
+    "language": "Python",
+    "url": "https://github.com/lmnr-ai/flow",
+    "created_at": "2024-11-30T19:34:02Z",
+    "owner": {
+      "login": "lmnr-ai",
+      "url": "https://github.com/lmnr-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161496104?v=4"
+    },
+    "forks": 26,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lmnr-ai/flow"
+  },
+  {
+    "name": "nishuzumi/gemini-teacher",
+    "description": "English pronunciation correction teacher built with gemini",
+    "stars": 774,
+    "language": "Python",
+    "url": "https://github.com/nishuzumi/gemini-teacher",
+    "created_at": "2024-12-15T05:55:16Z",
+    "owner": {
+      "login": "nishuzumi",
+      "url": "https://github.com/nishuzumi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13927203?v=4"
+    },
+    "forks": 90,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nishuzumi/gemini-teacher"
+  },
+  {
+    "name": "huggingface/search-and-learn",
+    "description": null,
+    "stars": 767,
+    "language": "Python",
+    "url": "https://github.com/huggingface/search-and-learn",
+    "created_at": "2024-12-09T08:41:37Z",
+    "owner": {
+      "login": "huggingface",
+      "url": "https://github.com/huggingface",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    "forks": 59,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/huggingface/search-and-learn"
+  },
+  {
+    "name": "Germanos21/Roblox-Blox-Fruits-Script",
+    "description": "Blox Fruit script is a powerful Roblox script designed for advanced script execution, optimized performance, and a seamless user experience. Fully compatible with the latest Roblox updates, Blox Fruit script is secure, easy to use, and perfect for gamers, developers, and modding enthusiasts looking to enhance their Blox Fruits gameplay.",
+    "stars": 750,
+    "language": null,
+    "url": "https://github.com/Germanos21/Roblox-Blox-Fruits-Script",
+    "created_at": "2024-12-27T22:23:26Z",
+    "owner": {
+      "login": "Germanos21",
+      "url": "https://github.com/Germanos21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89093952?v=4"
+    },
+    "forks": 2,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Germanos21/Roblox-Blox-Fruits-Script"
+  },
+  {
+    "name": "Germanos21/BrtWallet",
+    "description": "Brute force multiple wallet mnemonics. Multi-threaded and suprisingly fast. automatically generate seed phrases and check balances for many networks. If a wallet with a non-zero balance is found, the wallet's information (address, mnemonic, private key, and balances) is logged and saved",
+    "stars": 748,
+    "language": null,
+    "url": "https://github.com/Germanos21/BrtWallet",
+    "created_at": "2024-12-27T22:25:54Z",
+    "owner": {
+      "login": "Germanos21",
+      "url": "https://github.com/Germanos21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89093952?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Germanos21/BrtWallet"
+  },
+  {
+    "name": "Germanos21/Nexus-Roblox",
+    "description": "Nexus Executor offers free and lifetime packages, and is hosted directly on the website. It supports execution of all Luau scripts and has no reported bans, though it features a limited number of games and a small script hub.",
+    "stars": 747,
+    "language": null,
+    "url": "https://github.com/Germanos21/Nexus-Roblox",
+    "created_at": "2024-12-27T23:08:57Z",
+    "owner": {
+      "login": "Germanos21",
+      "url": "https://github.com/Germanos21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89093952?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Germanos21/Nexus-Roblox"
+  },
+  {
+    "name": "Germanos21/r0blox-synapse-x-free",
+    "description": "roblox cheat roblox-lua roblox-scripts roblox-script roblox-api-wrapperroblox-injector roblox-lua-script roblox-uwp injector-roblox roblox-injector-downloadinjector-roblox-download linjector roblox-executor-pc-2024 roblox-uwp-executor-2024 roblox-hack-new roblox-hacks-new",
+    "stars": 747,
+    "language": null,
+    "url": "https://github.com/Germanos21/r0blox-synapse-x-free",
+    "created_at": "2024-12-28T00:06:02Z",
+    "owner": {
+      "login": "Germanos21",
+      "url": "https://github.com/Germanos21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89093952?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Germanos21/r0blox-synapse-x-free"
+  },
+  {
+    "name": "Germanos21/Solara-Executor-Roblox",
+    "description": "Solara-Executor is a powerful open-source automation tool designed to simplify and streamline the execution of tasks and processes. With its user-friendly interface and robust functionality, Solara-Executor is perfect for automating a wide range of activities in different industries.",
+    "stars": 747,
+    "language": null,
+    "url": "https://github.com/Germanos21/Solara-Executor-Roblox",
+    "created_at": "2024-12-27T23:12:16Z",
+    "owner": {
+      "login": "Germanos21",
+      "url": "https://github.com/Germanos21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89093952?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Germanos21/Solara-Executor-Roblox"
+  },
+  {
+    "name": "hkchengrex/MMAudio",
+    "description": "[arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis",
+    "stars": 741,
+    "language": "Python",
+    "url": "https://github.com/hkchengrex/MMAudio",
+    "created_at": "2024-12-07T07:47:39Z",
+    "owner": {
+      "login": "hkchengrex",
+      "url": "https://github.com/hkchengrex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7107196?v=4"
+    },
+    "forks": 69,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hkchengrex/MMAudio"
+  },
+  {
+    "name": "midday-ai/languine",
+    "description": "Translate your application with Languine CLI powered by AI.",
+    "stars": 732,
+    "language": "TypeScript",
+    "url": "https://github.com/midday-ai/languine",
+    "created_at": "2024-12-11T12:59:06Z",
+    "owner": {
+      "login": "midday-ai",
+      "url": "https://github.com/midday-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145366395?v=4"
+    },
+    "forks": 37,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/midday-ai/languine"
+  },
+  {
+    "name": "franciszzj/Leffa",
+    "description": "Learning Flow Fields in Attention for Controllable Person Image Generation",
+    "stars": 728,
+    "language": "Python",
+    "url": "https://github.com/franciszzj/Leffa",
+    "created_at": "2024-12-05T14:45:51Z",
+    "owner": {
+      "login": "franciszzj",
+      "url": "https://github.com/franciszzj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16440889?v=4"
+    },
+    "forks": 72,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/franciszzj/Leffa"
+  },
+  {
+    "name": "jlowin/fastmcp",
+    "description": "The fast, Pythonic way to build Model Context Protocol servers 🚀 ",
+    "stars": 718,
+    "language": "Python",
+    "url": "https://github.com/jlowin/fastmcp",
+    "created_at": "2024-11-30T01:47:40Z",
+    "owner": {
+      "login": "jlowin",
+      "url": "https://github.com/jlowin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153965?v=4"
+    },
+    "forks": 36,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jlowin/fastmcp"
+  },
+  {
+    "name": "zsyOAOA/InvSR",
+    "description": "Arbitrary-steps Image Super-resolution via Diffusion Inversion",
+    "stars": 680,
+    "language": "Python",
+    "url": "https://github.com/zsyOAOA/InvSR",
+    "created_at": "2024-12-07T08:06:57Z",
+    "owner": {
+      "login": "zsyOAOA",
+      "url": "https://github.com/zsyOAOA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11041787?v=4"
+    },
+    "forks": 45,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zsyOAOA/InvSR"
+  },
+  {
+    "name": "PolymathicAI/the_well",
+    "description": "A 15TB Collection of Physics Simulation Datasets",
+    "stars": 664,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/PolymathicAI/the_well",
+    "created_at": "2024-12-02T12:04:15Z",
+    "owner": {
+      "login": "PolymathicAI",
+      "url": "https://github.com/PolymathicAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137177858?v=4"
+    },
+    "forks": 41,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/PolymathicAI/the_well"
+  },
+  {
+    "name": "lvwzhen/medicine",
+    "description": "原研药列表",
+    "stars": 600,
+    "language": "Vue",
+    "url": "https://github.com/lvwzhen/medicine",
+    "created_at": "2024-12-20T03:56:13Z",
+    "owner": {
+      "login": "lvwzhen",
+      "url": "https://github.com/lvwzhen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2337506?v=4"
+    },
+    "forks": 67,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lvwzhen/medicine"
+  },
+  {
+    "name": "baaivision/See3D",
+    "description": "You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale",
+    "stars": 576,
+    "language": "Python",
+    "url": "https://github.com/baaivision/See3D",
+    "created_at": "2024-12-09T04:46:29Z",
+    "owner": {
+      "login": "baaivision",
+      "url": "https://github.com/baaivision",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118160626?v=4"
+    },
+    "forks": 13,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/baaivision/See3D"
+  }
+]

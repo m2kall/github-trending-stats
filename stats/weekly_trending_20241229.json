@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": null,
+    "stars": 5458,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "created_at": "2024-12-26T09:52:40Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 322,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "name": "Germanos21/Roblox-Blox-Fruits-Script",
+    "description": "Blox Fruit script is a powerful Roblox script designed for advanced script execution, optimized performance, and a seamless user experience. Fully compatible with the latest Roblox updates, Blox Fruit script is secure, easy to use, and perfect for gamers, developers, and modding enthusiasts looking to enhance their Blox Fruits gameplay.",
+    "stars": 750,
+    "language": null,
+    "url": "https://github.com/Germanos21/Roblox-Blox-Fruits-Script",
+    "created_at": "2024-12-27T22:23:26Z",
+    "owner": {
+      "login": "Germanos21",
+      "url": "https://github.com/Germanos21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89093952?v=4"
+    },
+    "forks": 2,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Germanos21/Roblox-Blox-Fruits-Script"
+  },
+  {
+    "name": "Germanos21/BrtWallet",
+    "description": "Brute force multiple wallet mnemonics. Multi-threaded and suprisingly fast. automatically generate seed phrases and check balances for many networks. If a wallet with a non-zero balance is found, the wallet's information (address, mnemonic, private key, and balances) is logged and saved",
+    "stars": 748,
+    "language": null,
+    "url": "https://github.com/Germanos21/BrtWallet",
+    "created_at": "2024-12-27T22:25:54Z",
+    "owner": {
+      "login": "Germanos21",
+      "url": "https://github.com/Germanos21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89093952?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Germanos21/BrtWallet"
+  },
+  {
+    "name": "Germanos21/Nexus-Roblox",
+    "description": "Nexus Executor offers free and lifetime packages, and is hosted directly on the website. It supports execution of all Luau scripts and has no reported bans, though it features a limited number of games and a small script hub.",
+    "stars": 747,
+    "language": null,
+    "url": "https://github.com/Germanos21/Nexus-Roblox",
+    "created_at": "2024-12-27T23:08:57Z",
+    "owner": {
+      "login": "Germanos21",
+      "url": "https://github.com/Germanos21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89093952?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Germanos21/Nexus-Roblox"
+  },
+  {
+    "name": "Germanos21/r0blox-synapse-x-free",
+    "description": "roblox cheat roblox-lua roblox-scripts roblox-script roblox-api-wrapperroblox-injector roblox-lua-script roblox-uwp injector-roblox roblox-injector-downloadinjector-roblox-download linjector roblox-executor-pc-2024 roblox-uwp-executor-2024 roblox-hack-new roblox-hacks-new",
+    "stars": 747,
+    "language": null,
+    "url": "https://github.com/Germanos21/r0blox-synapse-x-free",
+    "created_at": "2024-12-28T00:06:02Z",
+    "owner": {
+      "login": "Germanos21",
+      "url": "https://github.com/Germanos21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89093952?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Germanos21/r0blox-synapse-x-free"
+  },
+  {
+    "name": "Germanos21/Solara-Executor-Roblox",
+    "description": "Solara-Executor is a powerful open-source automation tool designed to simplify and streamline the execution of tasks and processes. With its user-friendly interface and robust functionality, Solara-Executor is perfect for automating a wide range of activities in different industries.",
+    "stars": 747,
+    "language": null,
+    "url": "https://github.com/Germanos21/Solara-Executor-Roblox",
+    "created_at": "2024-12-27T23:12:16Z",
+    "owner": {
+      "login": "Germanos21",
+      "url": "https://github.com/Germanos21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89093952?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Germanos21/Solara-Executor-Roblox"
+  },
+  {
+    "name": "llmgenai/LLMInterviewQuestions",
+    "description": "This repository contains LLM (Large language model) interview question asked in top companies like Google, Nvidia , Meta , Microsoft & fortune 500 companies.",
+    "stars": 317,
+    "language": null,
+    "url": "https://github.com/llmgenai/LLMInterviewQuestions",
+    "created_at": "2024-12-26T07:09:53Z",
+    "owner": {
+      "login": "llmgenai",
+      "url": "https://github.com/llmgenai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159616503?v=4"
+    },
+    "forks": 68,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/llmgenai/LLMInterviewQuestions"
+  },
+  {
+    "name": "estelle18kemmergec/Solara-v3.0",
+    "description": null,
+    "stars": 286,
+    "language": null,
+    "url": "https://github.com/estelle18kemmergec/Solara-v3.0",
+    "created_at": "2024-12-27T21:48:14Z",
+    "owner": {
+      "login": "estelle18kemmergec",
+      "url": "https://github.com/estelle18kemmergec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191172077?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/estelle18kemmergec/Solara-v3.0"
+  },
+  {
+    "name": "ena88parkerpsh/Wave-Executor",
+    "description": null,
+    "stars": 286,
+    "language": null,
+    "url": "https://github.com/ena88parkerpsh/Wave-Executor",
+    "created_at": "2024-12-27T21:40:03Z",
+    "owner": {
+      "login": "ena88parkerpsh",
+      "url": "https://github.com/ena88parkerpsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191142633?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ena88parkerpsh/Wave-Executor"
+  },
+  {
+    "name": "togaevate/roblox-script",
+    "description": null,
+    "stars": 247,
+    "language": null,
+    "url": "https://github.com/togaevate/roblox-script",
+    "created_at": "2024-12-28T10:53:46Z",
+    "owner": {
+      "login": "togaevate",
+      "url": "https://github.com/togaevate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186510209?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/togaevate/roblox-script"
+  }
+]
