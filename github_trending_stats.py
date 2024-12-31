@@ -27,7 +27,7 @@ class GitHubTrendingStats:
             limit = 10
         elif since == 'monthly':
             date_from = now - timedelta(days=30)
-            limit = 30
+            limit = 10  # 修改月度榜单的限制为10个
         elif since == 'quarterly':
             date_from = now - timedelta(days=90)
             limit = 10
@@ -40,8 +40,8 @@ class GitHubTrendingStats:
 
         date_query = date_from.strftime('%Y-%m-%d')
         
-        # 构建查询参数
-        query = f'created:>{date_query} sort:stars'
+        # 构建查询参数，移除特定类别的限制
+        query = f'created:>{date_query}'
         params = {
             'q': query,
             'sort': 'stars',
@@ -54,8 +54,11 @@ class GitHubTrendingStats:
             response.raise_for_status()
             repos = response.json()['items']
             
+            # 过滤掉私有仓库
+            public_repos = [repo for repo in repos if not repo['private']]
+            
             # 获取每个仓库的社交预览图
-            for repo in repos:
+            for repo in public_repos:
                 try:
                     # 获取仓库详细信息，包括社交预览图
                     repo_url = f"{self.base_url}/repos/{repo['full_name']}"
@@ -69,7 +72,7 @@ class GitHubTrendingStats:
                     print(f"Error fetching social preview for {repo['full_name']}: {e}")
                     repo['social_preview_url'] = None
             
-            return repos
+            return public_repos
         except Exception as e:
             print(f"Error fetching trending repositories: {e}")
             return []
