@@ -116,7 +116,7 @@ class GitHubTrendingStats:
         content += "## 项目简介\n\n"
         content += "这是一个自动追踪 GitHub 热门项目的统计工具，每周自动更新。统计维度包括：\n\n"
         content += "- 📊 **周榜**：过去7天内创建的最受欢迎项目（TOP 10）\n"
-        content += "- 📈 **月榜**：过去30天内创建的最受欢迎项目（TOP 30）\n"
+        content += "- 📈 **月榜**：过去30天内创建的最受欢迎项目（TOP 10）\n"
         content += "- 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）\n"
         content += "- 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）\n\n"
         
@@ -177,6 +177,7 @@ class GitHubTrendingStats:
         content += "4. **更新频率**：每周自动更新一次\n\n"
         
         content += "## 🤝 贡献指南\n\n"
+
         content += "欢迎提交 Issue 或 Pull Request 来改进这个项目！\n\n"
         content += "如果这个项目对你有帮助，欢迎给它一个 Star ⭐\n"
         
