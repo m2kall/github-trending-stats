@@ -2,7 +2,7 @@
   {
     "name": "deepseek-ai/DeepSeek-V3",
     "description": null,
-    "stars": 11388,
+    "stars": 11390,
     "language": "Python",
     "url": "https://github.com/deepseek-ai/DeepSeek-V3",
     "created_at": "2024-12-26T09:52:40Z",
@@ -11,7 +11,7 @@
       "url": "https://github.com/deepseek-ai",
       "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
     },
-    "forks": 774,
+    "forks": 775,
     "issues": 22,
     "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3"
   },
