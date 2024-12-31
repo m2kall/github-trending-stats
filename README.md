@@ -9,7 +9,7 @@
 - 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
 - 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-🕒 **最后更新时间**: 2024-12-29 01:51:21
+🕒 **最后更新时间**: 2024-12-31 17:41:49
 
 ---
 
@@ -19,7 +19,7 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3)
 
-⭐ **获得 Star**: 5,458
+⭐ **获得 Star**: 11,388
 
 💻 **主要编程语言**: Python
 
@@ -27,161 +27,177 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 322
+🔄 **Fork 数量**: 774
 
-⚠️ **未解决 Issues**: 16
-
----
-
-## 2. [Germanos21/Roblox-Blox-Fruits-Script](https://github.com/Germanos21/Roblox-Blox-Fruits-Script)
-
-![项目预览图](https://opengraph.githubassets.com/1/Germanos21/Roblox-Blox-Fruits-Script)
-
-📝 **项目描述**: Blox Fruit script is a powerful Roblox script designed for advanced script execution, optimized performance, and a seamless user experience. Fully compatible with the latest Roblox updates, Blox Fruit script is secure, easy to use, and perfect for gamers, developers, and modding enthusiasts looking to enhance their Blox Fruits gameplay.
-
-⭐ **获得 Star**: 750
-
-📅 **创建时间**: 2024-12-27
-
-👤 **作者**: [Germanos21](https://github.com/Germanos21)
-
-🔄 **Fork 数量**: 2
-
-⚠️ **未解决 Issues**: 0
+⚠️ **未解决 Issues**: 22
 
 ---
 
-## 3. [Germanos21/BrtWallet](https://github.com/Germanos21/BrtWallet)
-
-![项目预览图](https://opengraph.githubassets.com/1/Germanos21/BrtWallet)
-
-📝 **项目描述**: Brute force multiple wallet mnemonics. Multi-threaded and suprisingly fast. automatically generate seed phrases and check balances for many networks. If a wallet with a non-zero balance is found, the wallet's information (address, mnemonic, private key, and balances) is logged and saved
-
-⭐ **获得 Star**: 748
-
-📅 **创建时间**: 2024-12-27
-
-👤 **作者**: [Germanos21](https://github.com/Germanos21)
-
-🔄 **Fork 数量**: 0
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 4. [Germanos21/Nexus-Roblox](https://github.com/Germanos21/Nexus-Roblox)
-
-![项目预览图](https://opengraph.githubassets.com/1/Germanos21/Nexus-Roblox)
-
-📝 **项目描述**: Nexus Executor offers free and lifetime packages, and is hosted directly on the website. It supports execution of all Luau scripts and has no reported bans, though it features a limited number of games and a small script hub.
-
-⭐ **获得 Star**: 747
-
-📅 **创建时间**: 2024-12-27
-
-👤 **作者**: [Germanos21](https://github.com/Germanos21)
-
-🔄 **Fork 数量**: 0
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 5. [Germanos21/r0blox-synapse-x-free](https://github.com/Germanos21/r0blox-synapse-x-free)
-
-![项目预览图](https://opengraph.githubassets.com/1/Germanos21/r0blox-synapse-x-free)
-
-📝 **项目描述**: roblox cheat roblox-lua roblox-scripts roblox-script roblox-api-wrapperroblox-injector roblox-lua-script roblox-uwp injector-roblox roblox-injector-downloadinjector-roblox-download linjector roblox-executor-pc-2024 roblox-uwp-executor-2024 roblox-hack-new roblox-hacks-new
-
-⭐ **获得 Star**: 747
-
-📅 **创建时间**: 2024-12-28
-
-👤 **作者**: [Germanos21](https://github.com/Germanos21)
-
-🔄 **Fork 数量**: 0
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 6. [Germanos21/Solara-Executor-Roblox](https://github.com/Germanos21/Solara-Executor-Roblox)
-
-![项目预览图](https://opengraph.githubassets.com/1/Germanos21/Solara-Executor-Roblox)
-
-📝 **项目描述**: Solara-Executor is a powerful open-source automation tool designed to simplify and streamline the execution of tasks and processes. With its user-friendly interface and robust functionality, Solara-Executor is perfect for automating a wide range of activities in different industries.
-
-⭐ **获得 Star**: 747
-
-📅 **创建时间**: 2024-12-27
-
-👤 **作者**: [Germanos21](https://github.com/Germanos21)
-
-🔄 **Fork 数量**: 0
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 7. [llmgenai/LLMInterviewQuestions](https://github.com/llmgenai/LLMInterviewQuestions)
+## 2. [llmgenai/LLMInterviewQuestions](https://github.com/llmgenai/LLMInterviewQuestions)
 
 ![项目预览图](https://opengraph.githubassets.com/1/llmgenai/LLMInterviewQuestions)
 
 📝 **项目描述**: This repository contains LLM (Large language model) interview question asked in top companies like Google, Nvidia , Meta , Microsoft & fortune 500 companies.
 
-⭐ **获得 Star**: 317
+⭐ **获得 Star**: 527
 
 📅 **创建时间**: 2024-12-26
 
 👤 **作者**: [llmgenai](https://github.com/llmgenai)
 
-🔄 **Fork 数量**: 68
+🔄 **Fork 数量**: 111
 
 ⚠️ **未解决 Issues**: 0
 
 ---
 
-## 8. [estelle18kemmergec/Solara-v3.0](https://github.com/estelle18kemmergec/Solara-v3.0)
+## 3. [DishpitDev/Slopify](https://github.com/DishpitDev/Slopify)
 
-![项目预览图](https://opengraph.githubassets.com/1/estelle18kemmergec/Solara-v3.0)
+![项目预览图](https://opengraph.githubassets.com/1/DishpitDev/Slopify)
 
-⭐ **获得 Star**: 286
+📝 **项目描述**: The ideomotor effect of software
 
-📅 **创建时间**: 2024-12-27
+⭐ **获得 Star**: 508
 
-👤 **作者**: [estelle18kemmergec](https://github.com/estelle18kemmergec)
+💻 **主要编程语言**: HTML
 
-🔄 **Fork 数量**: 0
+📅 **创建时间**: 2024-12-29
+
+👤 **作者**: [DishpitDev](https://github.com/DishpitDev)
+
+🔄 **Fork 数量**: 145
+
+⚠️ **未解决 Issues**: 26
+
+---
+
+## 4. [Doriandarko/deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer)
+
+![项目预览图](https://opengraph.githubassets.com/1/Doriandarko/deepseek-engineer)
+
+📝 **项目描述**: A powerful coding assistant application that integrates with the DeepSeek API to process user conversations and generate structured JSON responses. Through an intuitive command-line interface, it can read local file contents, create new files, and apply diff edits to existing files in real time.
+
+⭐ **获得 Star**: 304
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2024-12-26
+
+👤 **作者**: [Doriandarko](https://github.com/Doriandarko)
+
+🔄 **Fork 数量**: 55
+
+⚠️ **未解决 Issues**: 4
+
+---
+
+## 5. [tinytoy-sec/UefiVarMonitor](https://github.com/tinytoy-sec/UefiVarMonitor)
+
+![项目预览图](https://opengraph.githubassets.com/1/tinytoy-sec/UefiVarMonitor)
+
+⭐ **获得 Star**: 292
+
+💻 **主要编程语言**: C
+
+📅 **创建时间**: 2024-12-25
+
+👤 **作者**: [tinytoy-sec](https://github.com/tinytoy-sec)
+
+🔄 **Fork 数量**: 66
 
 ⚠️ **未解决 Issues**: 0
 
 ---
 
-## 9. [ena88parkerpsh/Wave-Executor](https://github.com/ena88parkerpsh/Wave-Executor)
+## 6. [echohive42/AI-reads-books-page-by-page](https://github.com/echohive42/AI-reads-books-page-by-page)
 
-![项目预览图](https://opengraph.githubassets.com/1/ena88parkerpsh/Wave-Executor)
+![项目预览图](https://opengraph.githubassets.com/1/echohive42/AI-reads-books-page-by-page)
 
-⭐ **获得 Star**: 286
+📝 **项目描述**: AI reads books: Page-by-Page PDF Knowledge Extractor & Summarizer. script performs an intelligent page-by-page analysis of PDF books, methodically extracting knowledge points and generating progressive summaries at specified intervals
 
-📅 **创建时间**: 2024-12-27
+⭐ **获得 Star**: 257
 
-👤 **作者**: [ena88parkerpsh](https://github.com/ena88parkerpsh)
-
-🔄 **Fork 数量**: 0
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 10. [togaevate/roblox-script](https://github.com/togaevate/roblox-script)
-
-![项目预览图](https://opengraph.githubassets.com/1/togaevate/roblox-script)
-
-⭐ **获得 Star**: 247
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2024-12-28
 
-👤 **作者**: [togaevate](https://github.com/togaevate)
+👤 **作者**: [echohive42](https://github.com/echohive42)
+
+🔄 **Fork 数量**: 35
+
+⚠️ **未解决 Issues**: 1
+
+---
+
+## 7. [levywang/random_web_player](https://github.com/levywang/random_web_player)
+
+![项目预览图](https://opengraph.githubassets.com/1/levywang/random_web_player)
+
+📝 **项目描述**: 配合接口实现类似抖音效果的在线播放器
+
+⭐ **获得 Star**: 205
+
+💻 **主要编程语言**: HTML
+
+📅 **创建时间**: 2024-12-26
+
+👤 **作者**: [levywang](https://github.com/levywang)
+
+🔄 **Fork 数量**: 53
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 8. [EvanZhouDev/open-genmoji](https://github.com/EvanZhouDev/open-genmoji)
+
+![项目预览图](https://opengraph.githubassets.com/1/EvanZhouDev/open-genmoji)
+
+📝 **项目描述**: Generative Emoji for the rest of us.
+
+⭐ **获得 Star**: 172
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2024-12-26
+
+👤 **作者**: [EvanZhouDev](https://github.com/EvanZhouDev)
+
+🔄 **Fork 数量**: 12
+
+⚠️ **未解决 Issues**: 1
+
+---
+
+## 9. [fatwang2/fasturl](https://github.com/fatwang2/fasturl)
+
+![项目预览图](https://opengraph.githubassets.com/1/fatwang2/fasturl)
+
+⭐ **获得 Star**: 171
+
+💻 **主要编程语言**: JavaScript
+
+📅 **创建时间**: 2024-12-26
+
+👤 **作者**: [fatwang2](https://github.com/fatwang2)
+
+🔄 **Fork 数量**: 16
+
+⚠️ **未解决 Issues**: 4
+
+---
+
+## 10. [frieda24bartonhuu/Solara-Roblox-Executor-v3](https://github.com/frieda24bartonhuu/Solara-Roblox-Executor-v3)
+
+![项目预览图](https://opengraph.githubassets.com/1/frieda24bartonhuu/Solara-Roblox-Executor-v3)
+
+📝 **项目描述**:  Solara is a Roblox script executor that unlocks custom scripts
+
+⭐ **获得 Star**: 158
+
+📅 **创建时间**: 2024-12-31
+
+👤 **作者**: [frieda24bartonhuu](https://github.com/frieda24bartonhuu)
 
 🔄 **Fork 数量**: 0
 
@@ -191,31 +207,11 @@
 
 # 📊 月榜 (过去30天)
 
-## 1. [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
-
-![项目预览图](https://opengraph.githubassets.com/1/microsoft/TRELLIS)
-
-📝 **项目描述**: Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation".
-
-⭐ **获得 Star**: 5,580
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-12-02
-
-👤 **作者**: [microsoft](https://github.com/microsoft)
-
-🔄 **Fork 数量**: 343
-
-⚠️ **未解决 Issues**: 58
-
----
-
-## 2. [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+## 1. [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3)
 
-⭐ **获得 Star**: 5,458
+⭐ **获得 Star**: 11,388
 
 💻 **主要编程语言**: Python
 
@@ -223,9 +219,29 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 322
+🔄 **Fork 数量**: 774
 
-⚠️ **未解决 Issues**: 16
+⚠️ **未解决 Issues**: 22
+
+---
+
+## 2. [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
+
+![项目预览图](https://opengraph.githubassets.com/1/microsoft/TRELLIS)
+
+📝 **项目描述**: Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation".
+
+⭐ **获得 Star**: 5,728
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2024-12-02
+
+👤 **作者**: [microsoft](https://github.com/microsoft)
+
+🔄 **Fork 数量**: 357
+
+⚠️ **未解决 Issues**: 61
 
 ---
 
@@ -235,7 +251,7 @@
 
 📝 **项目描述**: 解决Cursor在免费订阅期间出现以下提示的问题:  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
-⭐ **获得 Star**: 3,998
+⭐ **获得 Star**: 4,431
 
 💻 **主要编程语言**: Go
 
@@ -243,9 +259,9 @@
 
 👤 **作者**: [yuaotian](https://github.com/yuaotian)
 
-🔄 **Fork 数量**: 627
+🔄 **Fork 数量**: 686
 
-⚠️ **未解决 Issues**: 54
+⚠️ **未解决 Issues**: 56
 
 ---
 
@@ -255,15 +271,15 @@
 
 📝 **项目描述**: This is a lootfilter for the game "Path of Exile 2". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
 
-⭐ **获得 Star**: 1,885
+⭐ **获得 Star**: 1,943
 
 📅 **创建时间**: 2024-12-08
 
 👤 **作者**: [NeverSinkDev](https://github.com/NeverSinkDev)
 
-🔄 **Fork 数量**: 138
+🔄 **Fork 数量**: 153
 
-⚠️ **未解决 Issues**: 6
+⚠️ **未解决 Issues**: 8
 
 ---
 
@@ -273,7 +289,7 @@
 
 📝 **项目描述**: A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
 
-⭐ **获得 Star**: 1,603
+⭐ **获得 Star**: 1,632
 
 💻 **主要编程语言**: Python
 
@@ -287,47 +303,29 @@
 
 ---
 
-## 6. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-
-![项目预览图](https://opengraph.githubassets.com/1/punkpeye/awesome-mcp-servers)
-
-📝 **项目描述**: A collection of MCP servers.
-
-⭐ **获得 Star**: 1,511
-
-📅 **创建时间**: 2024-11-30
-
-👤 **作者**: [punkpeye](https://github.com/punkpeye)
-
-🔄 **Fork 数量**: 143
-
-⚠️ **未解决 Issues**: 2
-
----
-
-## 7. [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
+## 6. [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
 
 ![项目预览图](https://opengraph.githubassets.com/1/chiphuyen/aie-book)
 
 📝 **项目描述**: [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 
-⭐ **获得 Star**: 1,392
+⭐ **获得 Star**: 1,469
 
 📅 **创建时间**: 2024-12-03
 
 👤 **作者**: [chiphuyen](https://github.com/chiphuyen)
 
-🔄 **Fork 数量**: 164
+🔄 **Fork 数量**: 172
 
 ⚠️ **未解决 Issues**: 3
 
 ---
 
-## 8. [kijai/ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper)
+## 7. [kijai/ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper)
 
 ![项目预览图](https://opengraph.githubassets.com/1/kijai/ComfyUI-HunyuanVideoWrapper)
 
-⭐ **获得 Star**: 1,314
+⭐ **获得 Star**: 1,357
 
 💻 **主要编程语言**: Python
 
@@ -335,17 +333,17 @@
 
 👤 **作者**: [kijai](https://github.com/kijai)
 
-🔄 **Fork 数量**: 98
+🔄 **Fork 数量**: 101
 
-⚠️ **未解决 Issues**: 124
+⚠️ **未解决 Issues**: 132
 
 ---
 
-## 9. [gabriel-pineda/git-wrapped-api](https://github.com/gabriel-pineda/git-wrapped-api)
+## 8. [gabriel-pineda/git-wrapped-api](https://github.com/gabriel-pineda/git-wrapped-api)
 
 ![项目预览图](https://opengraph.githubassets.com/1/gabriel-pineda/git-wrapped-api)
 
-⭐ **获得 Star**: 1,282
+⭐ **获得 Star**: 1,301
 
 💻 **主要编程语言**: TypeScript
 
@@ -353,19 +351,19 @@
 
 👤 **作者**: [gabriel-pineda](https://github.com/gabriel-pineda)
 
-🔄 **Fork 数量**: 8
+🔄 **Fork 数量**: 9
 
 ⚠️ **未解决 Issues**: 5
 
 ---
 
-## 10. [google-gemini/multimodal-live-api-web-console](https://github.com/google-gemini/multimodal-live-api-web-console)
+## 9. [google-gemini/multimodal-live-api-web-console](https://github.com/google-gemini/multimodal-live-api-web-console)
 
 ![项目预览图](https://opengraph.githubassets.com/1/google-gemini/multimodal-live-api-web-console)
 
 📝 **项目描述**: A react-based starter app for using the Multimodal Live API over websockets with Gemini
 
-⭐ **获得 Star**: 1,190
+⭐ **获得 Star**: 1,226
 
 💻 **主要编程语言**: TypeScript
 
@@ -373,19 +371,19 @@
 
 👤 **作者**: [google-gemini](https://github.com/google-gemini)
 
-🔄 **Fork 数量**: 221
+🔄 **Fork 数量**: 233
 
-⚠️ **未解决 Issues**: 25
+⚠️ **未解决 Issues**: 27
 
 ---
 
-## 11. [facebookresearch/blt](https://github.com/facebookresearch/blt)
+## 10. [facebookresearch/blt](https://github.com/facebookresearch/blt)
 
 ![项目预览图](https://opengraph.githubassets.com/1/facebookresearch/blt)
 
 📝 **项目描述**: Code for BLT research paper
 
-⭐ **获得 Star**: 1,141
+⭐ **获得 Star**: 1,201
 
 💻 **主要编程语言**: Python
 
@@ -393,377 +391,9 @@
 
 👤 **作者**: [facebookresearch](https://github.com/facebookresearch)
 
-🔄 **Fork 数量**: 74
-
-⚠️ **未解决 Issues**: 10
-
----
-
-## 12. [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream)
-
-![项目预览图](https://opengraph.githubassets.com/1/Jaennaet/pISSStream)
-
-📝 **项目描述**: macOS menu bar app that shows how full the International Space Station's urine tank is in real time
-
-⭐ **获得 Star**: 953
-
-💻 **主要编程语言**: Swift
-
-📅 **创建时间**: 2024-12-18
-
-👤 **作者**: [Jaennaet](https://github.com/Jaennaet)
-
-🔄 **Fork 数量**: 19
-
-⚠️ **未解决 Issues**: 8
-
----
-
-## 13. [facebookresearch/large_concept_model](https://github.com/facebookresearch/large_concept_model)
-
-![项目预览图](https://opengraph.githubassets.com/1/facebookresearch/large_concept_model)
-
-📝 **项目描述**: Large Concept Models: Language modeling in a sentence representation space
-
-⭐ **获得 Star**: 931
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-12-12
-
-👤 **作者**: [facebookresearch](https://github.com/facebookresearch)
-
-🔄 **Fork 数量**: 68
-
-⚠️ **未解决 Issues**: 4
-
----
-
-## 14. [whotto/Video_note_generator](https://github.com/whotto/Video_note_generator)
-
-![项目预览图](https://opengraph.githubassets.com/1/whotto/Video_note_generator)
-
-📝 **项目描述**: 一键将视频转换为优质小红书笔记，自动优化内容和配图
-
-⭐ **获得 Star**: 805
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-12-11
-
-👤 **作者**: [whotto](https://github.com/whotto)
-
-🔄 **Fork 数量**: 92
+🔄 **Fork 数量**: 83
 
 ⚠️ **未解决 Issues**: 13
-
----
-
-## 15. [lmnr-ai/flow](https://github.com/lmnr-ai/flow)
-
-![项目预览图](https://opengraph.githubassets.com/1/lmnr-ai/flow)
-
-📝 **项目描述**: A lightweight task engine for building stateful AI agents that prioritizes simplicity and flexibility.
-
-⭐ **获得 Star**: 795
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-11-30
-
-👤 **作者**: [lmnr-ai](https://github.com/lmnr-ai)
-
-🔄 **Fork 数量**: 26
-
-⚠️ **未解决 Issues**: 3
-
----
-
-## 16. [nishuzumi/gemini-teacher](https://github.com/nishuzumi/gemini-teacher)
-
-![项目预览图](https://opengraph.githubassets.com/1/nishuzumi/gemini-teacher)
-
-📝 **项目描述**: English pronunciation correction teacher built with gemini
-
-⭐ **获得 Star**: 774
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-12-15
-
-👤 **作者**: [nishuzumi](https://github.com/nishuzumi)
-
-🔄 **Fork 数量**: 90
-
-⚠️ **未解决 Issues**: 5
-
----
-
-## 17. [huggingface/search-and-learn](https://github.com/huggingface/search-and-learn)
-
-![项目预览图](https://opengraph.githubassets.com/1/huggingface/search-and-learn)
-
-⭐ **获得 Star**: 767
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-12-09
-
-👤 **作者**: [huggingface](https://github.com/huggingface)
-
-🔄 **Fork 数量**: 59
-
-⚠️ **未解决 Issues**: 14
-
----
-
-## 18. [Germanos21/Roblox-Blox-Fruits-Script](https://github.com/Germanos21/Roblox-Blox-Fruits-Script)
-
-![项目预览图](https://opengraph.githubassets.com/1/Germanos21/Roblox-Blox-Fruits-Script)
-
-📝 **项目描述**: Blox Fruit script is a powerful Roblox script designed for advanced script execution, optimized performance, and a seamless user experience. Fully compatible with the latest Roblox updates, Blox Fruit script is secure, easy to use, and perfect for gamers, developers, and modding enthusiasts looking to enhance their Blox Fruits gameplay.
-
-⭐ **获得 Star**: 750
-
-📅 **创建时间**: 2024-12-27
-
-👤 **作者**: [Germanos21](https://github.com/Germanos21)
-
-🔄 **Fork 数量**: 2
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 19. [Germanos21/BrtWallet](https://github.com/Germanos21/BrtWallet)
-
-![项目预览图](https://opengraph.githubassets.com/1/Germanos21/BrtWallet)
-
-📝 **项目描述**: Brute force multiple wallet mnemonics. Multi-threaded and suprisingly fast. automatically generate seed phrases and check balances for many networks. If a wallet with a non-zero balance is found, the wallet's information (address, mnemonic, private key, and balances) is logged and saved
-
-⭐ **获得 Star**: 748
-
-📅 **创建时间**: 2024-12-27
-
-👤 **作者**: [Germanos21](https://github.com/Germanos21)
-
-🔄 **Fork 数量**: 0
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 20. [Germanos21/Nexus-Roblox](https://github.com/Germanos21/Nexus-Roblox)
-
-![项目预览图](https://opengraph.githubassets.com/1/Germanos21/Nexus-Roblox)
-
-📝 **项目描述**: Nexus Executor offers free and lifetime packages, and is hosted directly on the website. It supports execution of all Luau scripts and has no reported bans, though it features a limited number of games and a small script hub.
-
-⭐ **获得 Star**: 747
-
-📅 **创建时间**: 2024-12-27
-
-👤 **作者**: [Germanos21](https://github.com/Germanos21)
-
-🔄 **Fork 数量**: 0
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 21. [Germanos21/r0blox-synapse-x-free](https://github.com/Germanos21/r0blox-synapse-x-free)
-
-![项目预览图](https://opengraph.githubassets.com/1/Germanos21/r0blox-synapse-x-free)
-
-📝 **项目描述**: roblox cheat roblox-lua roblox-scripts roblox-script roblox-api-wrapperroblox-injector roblox-lua-script roblox-uwp injector-roblox roblox-injector-downloadinjector-roblox-download linjector roblox-executor-pc-2024 roblox-uwp-executor-2024 roblox-hack-new roblox-hacks-new
-
-⭐ **获得 Star**: 747
-
-📅 **创建时间**: 2024-12-28
-
-👤 **作者**: [Germanos21](https://github.com/Germanos21)
-
-🔄 **Fork 数量**: 0
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 22. [Germanos21/Solara-Executor-Roblox](https://github.com/Germanos21/Solara-Executor-Roblox)
-
-![项目预览图](https://opengraph.githubassets.com/1/Germanos21/Solara-Executor-Roblox)
-
-📝 **项目描述**: Solara-Executor is a powerful open-source automation tool designed to simplify and streamline the execution of tasks and processes. With its user-friendly interface and robust functionality, Solara-Executor is perfect for automating a wide range of activities in different industries.
-
-⭐ **获得 Star**: 747
-
-📅 **创建时间**: 2024-12-27
-
-👤 **作者**: [Germanos21](https://github.com/Germanos21)
-
-🔄 **Fork 数量**: 0
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 23. [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio)
-
-![项目预览图](https://opengraph.githubassets.com/1/hkchengrex/MMAudio)
-
-📝 **项目描述**: [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
-
-⭐ **获得 Star**: 741
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-12-07
-
-👤 **作者**: [hkchengrex](https://github.com/hkchengrex)
-
-🔄 **Fork 数量**: 69
-
-⚠️ **未解决 Issues**: 4
-
----
-
-## 24. [midday-ai/languine](https://github.com/midday-ai/languine)
-
-![项目预览图](https://opengraph.githubassets.com/1/midday-ai/languine)
-
-📝 **项目描述**: Translate your application with Languine CLI powered by AI.
-
-⭐ **获得 Star**: 732
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2024-12-11
-
-👤 **作者**: [midday-ai](https://github.com/midday-ai)
-
-🔄 **Fork 数量**: 37
-
-⚠️ **未解决 Issues**: 6
-
----
-
-## 25. [franciszzj/Leffa](https://github.com/franciszzj/Leffa)
-
-![项目预览图](https://opengraph.githubassets.com/1/franciszzj/Leffa)
-
-📝 **项目描述**: Learning Flow Fields in Attention for Controllable Person Image Generation
-
-⭐ **获得 Star**: 728
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-12-05
-
-👤 **作者**: [franciszzj](https://github.com/franciszzj)
-
-🔄 **Fork 数量**: 72
-
-⚠️ **未解决 Issues**: 17
-
----
-
-## 26. [jlowin/fastmcp](https://github.com/jlowin/fastmcp)
-
-![项目预览图](https://opengraph.githubassets.com/1/jlowin/fastmcp)
-
-📝 **项目描述**: The fast, Pythonic way to build Model Context Protocol servers 🚀 
-
-⭐ **获得 Star**: 718
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-11-30
-
-👤 **作者**: [jlowin](https://github.com/jlowin)
-
-🔄 **Fork 数量**: 36
-
-⚠️ **未解决 Issues**: 17
-
----
-
-## 27. [zsyOAOA/InvSR](https://github.com/zsyOAOA/InvSR)
-
-![项目预览图](https://opengraph.githubassets.com/1/zsyOAOA/InvSR)
-
-📝 **项目描述**: Arbitrary-steps Image Super-resolution via Diffusion Inversion
-
-⭐ **获得 Star**: 680
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-12-07
-
-👤 **作者**: [zsyOAOA](https://github.com/zsyOAOA)
-
-🔄 **Fork 数量**: 45
-
-⚠️ **未解决 Issues**: 8
-
----
-
-## 28. [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well)
-
-![项目预览图](https://opengraph.githubassets.com/1/PolymathicAI/the_well)
-
-📝 **项目描述**: A 15TB Collection of Physics Simulation Datasets
-
-⭐ **获得 Star**: 664
-
-💻 **主要编程语言**: Jupyter Notebook
-
-📅 **创建时间**: 2024-12-02
-
-👤 **作者**: [PolymathicAI](https://github.com/PolymathicAI)
-
-🔄 **Fork 数量**: 41
-
-⚠️ **未解决 Issues**: 2
-
----
-
-## 29. [lvwzhen/medicine](https://github.com/lvwzhen/medicine)
-
-![项目预览图](https://opengraph.githubassets.com/1/lvwzhen/medicine)
-
-📝 **项目描述**: 原研药列表
-
-⭐ **获得 Star**: 600
-
-💻 **主要编程语言**: Vue
-
-📅 **创建时间**: 2024-12-20
-
-👤 **作者**: [lvwzhen](https://github.com/lvwzhen)
-
-🔄 **Fork 数量**: 67
-
-⚠️ **未解决 Issues**: 3
-
----
-
-## 30. [baaivision/See3D](https://github.com/baaivision/See3D)
-
-![项目预览图](https://opengraph.githubassets.com/1/baaivision/See3D)
-
-📝 **项目描述**: You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale
-
-⭐ **获得 Star**: 576
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-12-09
-
-👤 **作者**: [baaivision](https://github.com/baaivision)
-
-🔄 **Fork 数量**: 13
-
-⚠️ **未解决 Issues**: 12
 
 ---
 
@@ -775,7 +405,7 @@
 
 📝 **项目描述**: Python tool for converting files and office documents to Markdown.
 
-⭐ **获得 Star**: 28,576
+⭐ **获得 Star**: 29,537
 
 💻 **主要编程语言**: Python
 
@@ -783,29 +413,27 @@
 
 👤 **作者**: [microsoft](https://github.com/microsoft)
 
-🔄 **Fork 数量**: 1,121
+🔄 **Fork 数量**: 1,173
 
-⚠️ **未解决 Issues**: 118
+⚠️ **未解决 Issues**: 128
 
 ---
 
-## 2. [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
+## 2. [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 
-![项目预览图](https://opengraph.githubassets.com/1/HKUDS/LightRAG)
+![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3)
 
-📝 **项目描述**: "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-
-⭐ **获得 Star**: 12,332
+⭐ **获得 Star**: 11,388
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2024-10-02
+📅 **创建时间**: 2024-12-26
 
-👤 **作者**: [HKUDS](https://github.com/HKUDS)
+👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 1,680
+🔄 **Fork 数量**: 774
 
-⚠️ **未解决 Issues**: 166
+⚠️ **未解决 Issues**: 22
 
 ---
 
@@ -815,7 +443,7 @@
 
 📝 **项目描述**: Let your Claude able to think
 
-⭐ **获得 Star**: 10,518
+⭐ **获得 Star**: 10,624
 
 💻 **主要编程语言**: TypeScript
 
@@ -823,9 +451,9 @@
 
 👤 **作者**: [richards199999](https://github.com/richards199999)
 
-🔄 **Fork 数量**: 1,207
+🔄 **Fork 数量**: 1,218
 
-⚠️ **未解决 Issues**: 4
+⚠️ **未解决 Issues**: 5
 
 ---
 
@@ -833,7 +461,7 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/Flowseal/zapret-discord-youtube)
 
-⭐ **获得 Star**: 8,848
+⭐ **获得 Star**: 8,952
 
 💻 **主要编程语言**: Batchfile
 
@@ -841,9 +469,9 @@
 
 👤 **作者**: [Flowseal](https://github.com/Flowseal)
 
-🔄 **Fork 数量**: 469
+🔄 **Fork 数量**: 477
 
-⚠️ **未解决 Issues**: 278
+⚠️ **未解决 Issues**: 276
 
 ---
 
@@ -853,7 +481,7 @@
 
 📝 **项目描述**: Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 
-⭐ **获得 Star**: 8,467
+⭐ **获得 Star**: 8,538
 
 💻 **主要编程语言**: Python
 
@@ -861,39 +489,19 @@
 
 👤 **作者**: [SWivid](https://github.com/SWivid)
 
-🔄 **Fork 数量**: 1,088
+🔄 **Fork 数量**: 1,095
 
 ⚠️ **未解决 Issues**: 35
 
 ---
 
-## 6. [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-
-![项目预览图](https://opengraph.githubassets.com/1/community-scripts/ProxmoxVE)
-
-📝 **项目描述**: Proxmox VE Helper-Scripts (Community Edition) 
-
-⭐ **获得 Star**: 7,512
-
-💻 **主要编程语言**: Shell
-
-📅 **创建时间**: 2024-11-01
-
-👤 **作者**: [community-scripts](https://github.com/community-scripts)
-
-🔄 **Fork 数量**: 480
-
-⚠️ **未解决 Issues**: 24
-
----
-
-## 7. [browser-use/browser-use](https://github.com/browser-use/browser-use)
+## 6. [browser-use/browser-use](https://github.com/browser-use/browser-use)
 
 ![项目预览图](https://opengraph.githubassets.com/1/browser-use/browser-use)
 
 📝 **项目描述**: Make websites accessible for AI agents
 
-⭐ **获得 Star**: 7,453
+⭐ **获得 Star**: 8,089
 
 💻 **主要编程语言**: Python
 
@@ -901,9 +509,29 @@
 
 👤 **作者**: [browser-use](https://github.com/browser-use)
 
-🔄 **Fork 数量**: 536
+🔄 **Fork 数量**: 592
 
-⚠️ **未解决 Issues**: 47
+⚠️ **未解决 Issues**: 50
+
+---
+
+## 7. [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+
+![项目预览图](https://opengraph.githubassets.com/1/community-scripts/ProxmoxVE)
+
+📝 **项目描述**: Proxmox VE Helper-Scripts (Community Edition) 
+
+⭐ **获得 Star**: 7,705
+
+💻 **主要编程语言**: Shell
+
+📅 **创建时间**: 2024-11-01
+
+👤 **作者**: [community-scripts](https://github.com/community-scripts)
+
+🔄 **Fork 数量**: 495
+
+⚠️ **未解决 Issues**: 30
 
 ---
 
@@ -913,7 +541,7 @@
 
 📝 **项目描述**: HunyuanVideo: A Systematic Framework For Large Video Generation Model
 
-⭐ **获得 Star**: 6,780
+⭐ **获得 Star**: 6,872
 
 💻 **主要编程语言**: Python
 
@@ -921,9 +549,9 @@
 
 👤 **作者**: [Tencent](https://github.com/Tencent)
 
-🔄 **Fork 数量**: 511
+🔄 **Fork 数量**: 519
 
-⚠️ **未解决 Issues**: 92
+⚠️ **未解决 Issues**: 93
 
 ---
 
@@ -933,7 +561,7 @@
 
 📝 **项目描述**: Nintendo Switch emulator written in C#, originally created by gdkchan.
 
-⭐ **获得 Star**: 6,239
+⭐ **获得 Star**: 6,324
 
 💻 **主要编程语言**: C#
 
@@ -941,9 +569,9 @@
 
 👤 **作者**: [Ryubing](https://github.com/Ryubing)
 
-🔄 **Fork 数量**: 502
+🔄 **Fork 数量**: 503
 
-⚠️ **未解决 Issues**: 144
+⚠️ **未解决 Issues**: 146
 
 ---
 
@@ -953,7 +581,7 @@
 
 📝 **项目描述**: Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
 
-⭐ **获得 Star**: 6,181
+⭐ **获得 Star**: 6,211
 
 💻 **主要编程语言**: Python
 
@@ -961,9 +589,9 @@
 
 👤 **作者**: [yangchris11](https://github.com/yangchris11)
 
-🔄 **Fork 数量**: 370
+🔄 **Fork 数量**: 376
 
-⚠️ **未解决 Issues**: 15
+⚠️ **未解决 Issues**: 16
 
 ---
 
@@ -975,7 +603,7 @@
 
 📝 **项目描述**: Grok open release
 
-⭐ **获得 Star**: 49,756
+⭐ **获得 Star**: 49,746
 
 💻 **主要编程语言**: Python
 
@@ -989,33 +617,13 @@
 
 ---
 
-## 2. [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
-
-![项目预览图](https://opengraph.githubassets.com/1/All-Hands-AI/OpenHands)
-
-📝 **项目描述**: 🙌 OpenHands: Code Less, Make More
-
-⭐ **获得 Star**: 39,302
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-03-13
-
-👤 **作者**: [All-Hands-AI](https://github.com/All-Hands-AI)
-
-🔄 **Fork 数量**: 4,428
-
-⚠️ **未解决 Issues**: 283
-
----
-
-## 3. [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
+## 2. [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
 
 ![项目预览图](https://opengraph.githubassets.com/1/DigitalPlatDev/FreeDomain)
 
 📝 **项目描述**: DigitalPlat FreeDomain: Free Domain For Everyone
 
-⭐ **获得 Star**: 38,476
+⭐ **获得 Star**: 39,608
 
 💻 **主要编程语言**: HTML
 
@@ -1023,9 +631,29 @@
 
 👤 **作者**: [DigitalPlatDev](https://github.com/DigitalPlatDev)
 
-🔄 **Fork 数量**: 882
+🔄 **Fork 数量**: 893
 
-⚠️ **未解决 Issues**: 73
+⚠️ **未解决 Issues**: 36
+
+---
+
+## 3. [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+
+![项目预览图](https://opengraph.githubassets.com/1/All-Hands-AI/OpenHands)
+
+📝 **项目描述**: 🙌 OpenHands: Code Less, Make More
+
+⭐ **获得 Star**: 39,560
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2024-03-13
+
+👤 **作者**: [All-Hands-AI](https://github.com/All-Hands-AI)
+
+🔄 **Fork 数量**: 4,450
+
+⚠️ **未解决 Issues**: 270
 
 ---
 

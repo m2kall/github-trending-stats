@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": null,
+    "stars": 11388,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "created_at": "2024-12-26T09:52:40Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 774,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "name": "llmgenai/LLMInterviewQuestions",
+    "description": "This repository contains LLM (Large language model) interview question asked in top companies like Google, Nvidia , Meta , Microsoft & fortune 500 companies.",
+    "stars": 527,
+    "language": null,
+    "url": "https://github.com/llmgenai/LLMInterviewQuestions",
+    "created_at": "2024-12-26T07:09:53Z",
+    "owner": {
+      "login": "llmgenai",
+      "url": "https://github.com/llmgenai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159616503?v=4"
+    },
+    "forks": 111,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/llmgenai/LLMInterviewQuestions"
+  },
+  {
+    "name": "DishpitDev/Slopify",
+    "description": "The ideomotor effect of software",
+    "stars": 508,
+    "language": "HTML",
+    "url": "https://github.com/DishpitDev/Slopify",
+    "created_at": "2024-12-29T00:42:04Z",
+    "owner": {
+      "login": "DishpitDev",
+      "url": "https://github.com/DishpitDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178606204?v=4"
+    },
+    "forks": 145,
+    "issues": 26,
+    "social_preview_url": "https://opengraph.githubassets.com/1/DishpitDev/Slopify"
+  },
+  {
+    "name": "Doriandarko/deepseek-engineer",
+    "description": "A powerful coding assistant application that integrates with the DeepSeek API to process user conversations and generate structured JSON responses. Through an intuitive command-line interface, it can read local file contents, create new files, and apply diff edits to existing files in real time.",
+    "stars": 304,
+    "language": "Python",
+    "url": "https://github.com/Doriandarko/deepseek-engineer",
+    "created_at": "2024-12-26T20:22:01Z",
+    "owner": {
+      "login": "Doriandarko",
+      "url": "https://github.com/Doriandarko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1247180?v=4"
+    },
+    "forks": 55,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Doriandarko/deepseek-engineer"
+  },
+  {
+    "name": "tinytoy-sec/UefiVarMonitor",
+    "description": null,
+    "stars": 292,
+    "language": "C",
+    "url": "https://github.com/tinytoy-sec/UefiVarMonitor",
+    "created_at": "2024-12-25T03:23:06Z",
+    "owner": {
+      "login": "tinytoy-sec",
+      "url": "https://github.com/tinytoy-sec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192760762?v=4"
+    },
+    "forks": 66,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tinytoy-sec/UefiVarMonitor"
+  },
+  {
+    "name": "echohive42/AI-reads-books-page-by-page",
+    "description": "AI reads books: Page-by-Page PDF Knowledge Extractor & Summarizer. script performs an intelligent page-by-page analysis of PDF books, methodically extracting knowledge points and generating progressive summaries at specified intervals",
+    "stars": 257,
+    "language": "Python",
+    "url": "https://github.com/echohive42/AI-reads-books-page-by-page",
+    "created_at": "2024-12-28T20:03:17Z",
+    "owner": {
+      "login": "echohive42",
+      "url": "https://github.com/echohive42",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122702381?v=4"
+    },
+    "forks": 35,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/echohive42/AI-reads-books-page-by-page"
+  },
+  {
+    "name": "levywang/random_web_player",
+    "description": "配合接口实现类似抖音效果的在线播放器",
+    "stars": 205,
+    "language": "HTML",
+    "url": "https://github.com/levywang/random_web_player",
+    "created_at": "2024-12-26T08:42:03Z",
+    "owner": {
+      "login": "levywang",
+      "url": "https://github.com/levywang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16538263?v=4"
+    },
+    "forks": 53,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/levywang/random_web_player"
+  },
+  {
+    "name": "EvanZhouDev/open-genmoji",
+    "description": "Generative Emoji for the rest of us.",
+    "stars": 172,
+    "language": "Python",
+    "url": "https://github.com/EvanZhouDev/open-genmoji",
+    "created_at": "2024-12-26T21:37:10Z",
+    "owner": {
+      "login": "EvanZhouDev",
+      "url": "https://github.com/EvanZhouDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62189478?v=4"
+    },
+    "forks": 12,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/EvanZhouDev/open-genmoji"
+  },
+  {
+    "name": "fatwang2/fasturl",
+    "description": null,
+    "stars": 171,
+    "language": "JavaScript",
+    "url": "https://github.com/fatwang2/fasturl",
+    "created_at": "2024-12-26T06:06:07Z",
+    "owner": {
+      "login": "fatwang2",
+      "url": "https://github.com/fatwang2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134143178?v=4"
+    },
+    "forks": 16,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/fatwang2/fasturl"
+  },
+  {
+    "name": "frieda24bartonhuu/Solara-Roblox-Executor-v3",
+    "description": " Solara is a Roblox script executor that unlocks custom scripts",
+    "stars": 158,
+    "language": null,
+    "url": "https://github.com/frieda24bartonhuu/Solara-Roblox-Executor-v3",
+    "created_at": "2024-12-31T12:52:33Z",
+    "owner": {
+      "login": "frieda24bartonhuu",
+      "url": "https://github.com/frieda24bartonhuu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191142904?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/frieda24bartonhuu/Solara-Roblox-Executor-v3"
+  }
+]

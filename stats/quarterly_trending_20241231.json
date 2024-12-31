@@ -1,0 +1,162 @@
+[
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "stars": 29537,
+    "language": "Python",
+    "url": "https://github.com/microsoft/markitdown",
+    "created_at": "2024-11-13T19:56:40Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 1173,
+    "issues": 128,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/markitdown"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": null,
+    "stars": 11388,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "created_at": "2024-12-26T09:52:40Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 774,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "name": "richards199999/Thinking-Claude",
+    "description": "Let your Claude able to think",
+    "stars": 10624,
+    "language": "TypeScript",
+    "url": "https://github.com/richards199999/Thinking-Claude",
+    "created_at": "2024-11-13T10:19:21Z",
+    "owner": {
+      "login": "richards199999",
+      "url": "https://github.com/richards199999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142148415?v=4"
+    },
+    "forks": 1218,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/richards199999/Thinking-Claude"
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": null,
+    "stars": 8952,
+    "language": "Batchfile",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "created_at": "2024-10-08T20:02:28Z",
+    "owner": {
+      "login": "Flowseal",
+      "url": "https://github.com/Flowseal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50780822?v=4"
+    },
+    "forks": 477,
+    "issues": 276,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "name": "SWivid/F5-TTS",
+    "description": "Official code for \"F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching\"",
+    "stars": 8538,
+    "language": "Python",
+    "url": "https://github.com/SWivid/F5-TTS",
+    "created_at": "2024-10-08T13:36:55Z",
+    "owner": {
+      "login": "SWivid",
+      "url": "https://github.com/SWivid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45333109?v=4"
+    },
+    "forks": 1095,
+    "issues": 35,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SWivid/F5-TTS"
+  },
+  {
+    "name": "browser-use/browser-use",
+    "description": "Make websites accessible for AI agents",
+    "stars": 8089,
+    "language": "Python",
+    "url": "https://github.com/browser-use/browser-use",
+    "created_at": "2024-10-31T16:00:56Z",
+    "owner": {
+      "login": "browser-use",
+      "url": "https://github.com/browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "forks": 592,
+    "issues": 50,
+    "social_preview_url": "https://opengraph.githubassets.com/1/browser-use/browser-use"
+  },
+  {
+    "name": "community-scripts/ProxmoxVE",
+    "description": "Proxmox VE Helper-Scripts (Community Edition) ",
+    "stars": 7705,
+    "language": "Shell",
+    "url": "https://github.com/community-scripts/ProxmoxVE",
+    "created_at": "2024-11-01T14:06:43Z",
+    "owner": {
+      "login": "community-scripts",
+      "url": "https://github.com/community-scripts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187033296?v=4"
+    },
+    "forks": 495,
+    "issues": 30,
+    "social_preview_url": "https://opengraph.githubassets.com/1/community-scripts/ProxmoxVE"
+  },
+  {
+    "name": "Tencent/HunyuanVideo",
+    "description": "HunyuanVideo: A Systematic Framework For Large Video Generation Model",
+    "stars": 6872,
+    "language": "Python",
+    "url": "https://github.com/Tencent/HunyuanVideo",
+    "created_at": "2024-11-28T08:38:31Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 519,
+    "issues": 93,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/HunyuanVideo"
+  },
+  {
+    "name": "Ryubing/Ryujinx",
+    "description": "Nintendo Switch emulator written in C#, originally created by gdkchan.",
+    "stars": 6324,
+    "language": "C#",
+    "url": "https://github.com/Ryubing/Ryujinx",
+    "created_at": "2024-10-06T20:58:11Z",
+    "owner": {
+      "login": "Ryubing",
+      "url": "https://github.com/Ryubing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192939710?v=4"
+    },
+    "forks": 503,
+    "issues": 146,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Ryubing/Ryujinx"
+  },
+  {
+    "name": "yangchris11/samurai",
+    "description": "Official repository of \"SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory\"",
+    "stars": 6211,
+    "language": "Python",
+    "url": "https://github.com/yangchris11/samurai",
+    "created_at": "2024-11-06T22:46:05Z",
+    "owner": {
+      "login": "yangchris11",
+      "url": "https://github.com/yangchris11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20741287?v=4"
+    },
+    "forks": 376,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yangchris11/samurai"
+  }
+]
