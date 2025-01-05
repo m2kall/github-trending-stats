@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ericciarla/trendFinder",
+    "description": "Stay on top of trending topics on social media with AI and Firecrawl",
+    "stars": 2018,
+    "language": "TypeScript",
+    "url": "https://github.com/ericciarla/trendFinder",
+    "created_at": "2024-12-31T17:15:49Z",
+    "owner": {
+      "login": "ericciarla",
+      "url": "https://github.com/ericciarla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43451761?v=4"
+    },
+    "forks": 214,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ericciarla/trendFinder"
+  },
+  {
+    "name": "Ackites/Nrfr",
+    "description": "🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，优化信号显示，突破区域限制",
+    "stars": 546,
+    "language": "TypeScript",
+    "url": "https://github.com/Ackites/Nrfr",
+    "created_at": "2025-01-01T05:57:30Z",
+    "owner": {
+      "login": "Ackites",
+      "url": "https://github.com/Ackites",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91859281?v=4"
+    },
+    "forks": 39,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Ackites/Nrfr"
+  },
+  {
+    "name": "addyosmani/firew0rks",
+    "description": "Fireworks in your terminal 🎆",
+    "stars": 446,
+    "language": "JavaScript",
+    "url": "https://github.com/addyosmani/firew0rks",
+    "created_at": "2024-12-31T21:39:29Z",
+    "owner": {
+      "login": "addyosmani",
+      "url": "https://github.com/addyosmani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110953?v=4"
+    },
+    "forks": 22,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/addyosmani/firew0rks"
+  },
+  {
+    "name": "SafeBreach-Labs/CVE-2024-49113",
+    "description": "LdapNightmare is a PoC tool that tests a vulnerable Windows Server against CVE-2024-49113",
+    "stars": 336,
+    "language": "Python",
+    "url": "https://github.com/SafeBreach-Labs/CVE-2024-49113",
+    "created_at": "2025-01-01T15:48:38Z",
+    "owner": {
+      "login": "SafeBreach-Labs",
+      "url": "https://github.com/SafeBreach-Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19378730?v=4"
+    },
+    "forks": 76,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SafeBreach-Labs/CVE-2024-49113"
+  },
+  {
+    "name": "TermoraDev/termora",
+    "description": "Termora 是一个终端模拟器和 SSH 客户端，支持 Windows，macOS 和 Linux。",
+    "stars": 310,
+    "language": "Kotlin",
+    "url": "https://github.com/TermoraDev/termora",
+    "created_at": "2025-01-02T02:41:09Z",
+    "owner": {
+      "login": "TermoraDev",
+      "url": "https://github.com/TermoraDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191319894?v=4"
+    },
+    "forks": 8,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/TermoraDev/termora"
+  },
+  {
+    "name": "PRIME-RL/PRIME",
+    "description": null,
+    "stars": 278,
+    "language": "Python",
+    "url": "https://github.com/PRIME-RL/PRIME",
+    "created_at": "2024-12-31T06:49:31Z",
+    "owner": {
+      "login": "PRIME-RL",
+      "url": "https://github.com/PRIME-RL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193307489?v=4"
+    },
+    "forks": 15,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/PRIME-RL/PRIME"
+  },
+  {
+    "name": "MarioSieg/magnetron",
+    "description": "(WIP) A small but powerful, homemade PyTorch from scratch.",
+    "stars": 235,
+    "language": "C++",
+    "url": "https://github.com/MarioSieg/magnetron",
+    "created_at": "2025-01-02T21:25:56Z",
+    "owner": {
+      "login": "MarioSieg",
+      "url": "https://github.com/MarioSieg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49988901?v=4"
+    },
+    "forks": 8,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MarioSieg/magnetron"
+  },
+  {
+    "name": "ccbikai/RSS.Beauty",
+    "description": "Make Your RSS Beautiful!",
+    "stars": 233,
+    "language": "Astro",
+    "url": "https://github.com/ccbikai/RSS.Beauty",
+    "created_at": "2024-12-31T11:14:20Z",
+    "owner": {
+      "login": "ccbikai",
+      "url": "https://github.com/ccbikai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2959393?v=4"
+    },
+    "forks": 21,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ccbikai/RSS.Beauty"
+  },
+  {
+    "name": "leerob/next-minimal-store",
+    "description": "Minimal ecommerce store built with Next.js, inspired by yeezy.com.",
+    "stars": 232,
+    "language": "TypeScript",
+    "url": "https://github.com/leerob/next-minimal-store",
+    "created_at": "2024-12-30T14:53:05Z",
+    "owner": {
+      "login": "leerob",
+      "url": "https://github.com/leerob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9113740?v=4"
+    },
+    "forks": 29,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/leerob/next-minimal-store"
+  },
+  {
+    "name": "Swung0x48/TriangleBin",
+    "description": null,
+    "stars": 208,
+    "language": "C",
+    "url": "https://github.com/Swung0x48/TriangleBin",
+    "created_at": "2025-01-02T05:28:49Z",
+    "owner": {
+      "login": "Swung0x48",
+      "url": "https://github.com/Swung0x48",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16967689?v=4"
+    },
+    "forks": 13,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Swung0x48/TriangleBin"
+  }
+]
