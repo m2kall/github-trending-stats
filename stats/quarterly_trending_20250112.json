@@ -1,0 +1,162 @@
+[
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "stars": 33576,
+    "language": "Python",
+    "url": "https://github.com/microsoft/markitdown",
+    "created_at": "2024-11-13T19:56:40Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 1445,
+    "issues": 143,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/markitdown"
+  },
+  {
+    "name": "inkonchain/ink-kit",
+    "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+    "stars": 22481,
+    "language": "TypeScript",
+    "url": "https://github.com/inkonchain/ink-kit",
+    "created_at": "2024-11-04T16:32:17Z",
+    "owner": {
+      "login": "inkonchain",
+      "url": "https://github.com/inkonchain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168584369?v=4"
+    },
+    "forks": 234,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/inkonchain/ink-kit"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": null,
+    "stars": 18263,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "created_at": "2024-12-26T09:52:40Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1455,
+    "issues": 59,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "name": "richards199999/Thinking-Claude",
+    "description": "Let your Claude able to think",
+    "stars": 13250,
+    "language": "TypeScript",
+    "url": "https://github.com/richards199999/Thinking-Claude",
+    "created_at": "2024-11-13T10:19:21Z",
+    "owner": {
+      "login": "richards199999",
+      "url": "https://github.com/richards199999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142148415?v=4"
+    },
+    "forks": 1557,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/richards199999/Thinking-Claude"
+  },
+  {
+    "name": "browser-use/browser-use",
+    "description": "Make websites accessible for AI agents",
+    "stars": 12958,
+    "language": "Python",
+    "url": "https://github.com/browser-use/browser-use",
+    "created_at": "2024-10-31T16:00:56Z",
+    "owner": {
+      "login": "browser-use",
+      "url": "https://github.com/browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "forks": 1100,
+    "issues": 97,
+    "social_preview_url": "https://opengraph.githubassets.com/1/browser-use/browser-use"
+  },
+  {
+    "name": "community-scripts/ProxmoxVE",
+    "description": "Proxmox VE Helper-Scripts (Community Edition) ",
+    "stars": 8430,
+    "language": "Shell",
+    "url": "https://github.com/community-scripts/ProxmoxVE",
+    "created_at": "2024-11-01T14:06:43Z",
+    "owner": {
+      "login": "community-scripts",
+      "url": "https://github.com/community-scripts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187033296?v=4"
+    },
+    "forks": 572,
+    "issues": 25,
+    "social_preview_url": "https://opengraph.githubassets.com/1/community-scripts/ProxmoxVE"
+  },
+  {
+    "name": "Tencent/HunyuanVideo",
+    "description": "HunyuanVideo: A Systematic Framework For Large Video Generation Model",
+    "stars": 7279,
+    "language": "Python",
+    "url": "https://github.com/Tencent/HunyuanVideo",
+    "created_at": "2024-11-28T08:38:31Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 555,
+    "issues": 111,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/HunyuanVideo"
+  },
+  {
+    "name": "modelcontextprotocol/servers",
+    "description": "Model Context Protocol Servers",
+    "stars": 6643,
+    "language": "JavaScript",
+    "url": "https://github.com/modelcontextprotocol/servers",
+    "created_at": "2024-11-19T01:10:17Z",
+    "owner": {
+      "login": "modelcontextprotocol",
+      "url": "https://github.com/modelcontextprotocol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182288589?v=4"
+    },
+    "forks": 789,
+    "issues": 141,
+    "social_preview_url": "https://opengraph.githubassets.com/1/modelcontextprotocol/servers"
+  },
+  {
+    "name": "microsoft/TRELLIS",
+    "description": "Official repo for paper \"Structured 3D Latents for Scalable and Versatile 3D Generation\".",
+    "stars": 6456,
+    "language": "Python",
+    "url": "https://github.com/microsoft/TRELLIS",
+    "created_at": "2024-12-02T05:44:19Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 426,
+    "issues": 94,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/TRELLIS"
+  },
+  {
+    "name": "yangchris11/samurai",
+    "description": "Official repository of \"SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory\"",
+    "stars": 6299,
+    "language": "Python",
+    "url": "https://github.com/yangchris11/samurai",
+    "created_at": "2024-11-06T22:46:05Z",
+    "owner": {
+      "login": "yangchris11",
+      "url": "https://github.com/yangchris11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20741287?v=4"
+    },
+    "forks": 386,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yangchris11/samurai"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": null,
+    "stars": 18263,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "created_at": "2024-12-26T09:52:40Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1455,
+    "issues": 59,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "name": "NVIDIA/Cosmos",
+    "description": "Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.",
+    "stars": 6269,
+    "language": "Python",
+    "url": "https://github.com/NVIDIA/Cosmos",
+    "created_at": "2024-12-30T17:21:14Z",
+    "owner": {
+      "login": "NVIDIA",
+      "url": "https://github.com/NVIDIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
+    },
+    "forks": 372,
+    "issues": 34,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NVIDIA/Cosmos"
+  },
+  {
+    "name": "nesaorg/nesa",
+    "description": "Run AI models end-to-end encrypted.",
+    "stars": 2647,
+    "language": null,
+    "url": "https://github.com/nesaorg/nesa",
+    "created_at": "2024-12-22T04:53:59Z",
+    "owner": {
+      "login": "nesaorg",
+      "url": "https://github.com/nesaorg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162369208?v=4"
+    },
+    "forks": 343,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nesaorg/nesa"
+  },
+  {
+    "name": "ericciarla/trendFinder",
+    "description": "Stay on top of trending topics on social media and the web with AI",
+    "stars": 2399,
+    "language": "TypeScript",
+    "url": "https://github.com/ericciarla/trendFinder",
+    "created_at": "2024-12-31T17:15:49Z",
+    "owner": {
+      "login": "ericciarla",
+      "url": "https://github.com/ericciarla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43451761?v=4"
+    },
+    "forks": 255,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ericciarla/trendFinder"
+  },
+  {
+    "name": "browser-use/web-ui",
+    "description": "Run AI Agent in your browser.",
+    "stars": 2354,
+    "language": "Python",
+    "url": "https://github.com/browser-use/web-ui",
+    "created_at": "2025-01-02T01:29:44Z",
+    "owner": {
+      "login": "browser-use",
+      "url": "https://github.com/browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "forks": 293,
+    "issues": 42,
+    "social_preview_url": "https://opengraph.githubassets.com/1/browser-use/web-ui"
+  },
+  {
+    "name": "chengazhen/cursor-auto-free",
+    "description": "auto sign cursor",
+    "stars": 2056,
+    "language": "Python",
+    "url": "https://github.com/chengazhen/cursor-auto-free",
+    "created_at": "2024-12-28T14:22:25Z",
+    "owner": {
+      "login": "chengazhen",
+      "url": "https://github.com/chengazhen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52627267?v=4"
+    },
+    "forks": 281,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/chengazhen/cursor-auto-free"
+  },
+  {
+    "name": "ammaarreshi/Gemini-Search",
+    "description": "Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding",
+    "stars": 1585,
+    "language": "TypeScript",
+    "url": "https://github.com/ammaarreshi/Gemini-Search",
+    "created_at": "2025-01-04T14:07:19Z",
+    "owner": {
+      "login": "ammaarreshi",
+      "url": "https://github.com/ammaarreshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159876365?v=4"
+    },
+    "forks": 311,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ammaarreshi/Gemini-Search"
+  },
+  {
+    "name": "ahmedkhaleel2004/gitdiagram",
+    "description": "Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram",
+    "stars": 1335,
+    "language": "TypeScript",
+    "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+    "created_at": "2024-12-15T10:32:03Z",
+    "owner": {
+      "login": "ahmedkhaleel2004",
+      "url": "https://github.com/ahmedkhaleel2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111161052?v=4"
+    },
+    "forks": 90,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ahmedkhaleel2004/gitdiagram"
+  },
+  {
+    "name": "gabriel-pineda/git-wrapped-api",
+    "description": null,
+    "stars": 1316,
+    "language": "TypeScript",
+    "url": "https://github.com/gabriel-pineda/git-wrapped-api",
+    "created_at": "2024-12-21T11:31:21Z",
+    "owner": {
+      "login": "gabriel-pineda",
+      "url": "https://github.com/gabriel-pineda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98309935?v=4"
+    },
+    "forks": 13,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/gabriel-pineda/git-wrapped-api"
+  },
+  {
+    "name": "henrythe9th/AI-Crash-Course",
+    "description": "AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks",
+    "stars": 1227,
+    "language": null,
+    "url": "https://github.com/henrythe9th/AI-Crash-Course",
+    "created_at": "2025-01-08T05:43:56Z",
+    "owner": {
+      "login": "henrythe9th",
+      "url": "https://github.com/henrythe9th",
+      "avatar_url": "https://avatars.githubusercontent.com/u/644176?v=4"
+    },
+    "forks": 291,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/henrythe9th/AI-Crash-Course"
+  }
+]
