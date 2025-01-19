@@ -9,199 +9,201 @@
 - 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
 - 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-🕒 **最后更新时间**: 2025-01-12 01:52:16
+🕒 **最后更新时间**: 2025-01-19 01:46:43
 
 ---
 
 # 📊 周榜 (过去7天)
 
-## 1. [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course)
+## 1. [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01)
 
-![项目预览图](https://opengraph.githubassets.com/1/henrythe9th/AI-Crash-Course)
+![项目预览图](https://opengraph.githubassets.com/1/MiniMax-AI/MiniMax-01)
 
-📝 **项目描述**: AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks
-
-⭐ **获得 Star**: 1,227
-
-📅 **创建时间**: 2025-01-08
-
-👤 **作者**: [henrythe9th](https://github.com/henrythe9th)
-
-🔄 **Fork 数量**: 291
-
-⚠️ **未解决 Issues**: 1
-
----
-
-## 2. [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)
-
-![项目预览图](https://opengraph.githubassets.com/1/t3dotgg/stripe-recommendations)
-
-📝 **项目描述**: I've built with Stripe for years. This is how I do it without going mad.
-
-⭐ **获得 Star**: 1,197
-
-📅 **创建时间**: 2025-01-11
-
-👤 **作者**: [t3dotgg](https://github.com/t3dotgg)
-
-🔄 **Fork 数量**: 49
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 3. [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory)
-
-![项目预览图](https://opengraph.githubassets.com/1/SamuelSchmidgall/AgentLaboratory)
-
-📝 **项目描述**: Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
-
-⭐ **获得 Star**: 1,173
+⭐ **获得 Star**: 1,639
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-01-08
+📅 **创建时间**: 2025-01-14
 
-👤 **作者**: [SamuelSchmidgall](https://github.com/SamuelSchmidgall)
-
-🔄 **Fork 数量**: 139
-
-⚠️ **未解决 Issues**: 8
-
----
-
-## 4. [SagiPolaczek/NeuralSVG](https://github.com/SagiPolaczek/NeuralSVG)
-
-![项目预览图](https://opengraph.githubassets.com/1/SagiPolaczek/NeuralSVG)
-
-📝 **项目描述**: Official implementation of NerualSVG
-
-⭐ **获得 Star**: 949
-
-📅 **创建时间**: 2025-01-07
-
-👤 **作者**: [SagiPolaczek](https://github.com/SagiPolaczek)
-
-🔄 **Fork 数量**: 9
-
-⚠️ **未解决 Issues**: 3
-
----
-
-## 5. [PollensAI/Pollens](https://github.com/PollensAI/Pollens)
-
-![项目预览图](https://opengraph.githubassets.com/1/PollensAI/Pollens)
-
-📝 **项目描述**: Buzz Together in Real Time: Your BeeSync for Collaborative Creation and Connection.
-
-⭐ **获得 Star**: 943
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2025-01-09
-
-👤 **作者**: [PollensAI](https://github.com/PollensAI)
-
-🔄 **Fork 数量**: 256
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 6. [paulreapz/lumen_validators_ai](https://github.com/paulreapz/lumen_validators_ai)
-
-![项目预览图](https://opengraph.githubassets.com/1/paulreapz/lumen_validators_ai)
-
-📝 **项目描述**: LUMEN: AI-Powered Solana Validator Manager
-
-⭐ **获得 Star**: 511
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-01-08
-
-👤 **作者**: [paulreapz](https://github.com/paulreapz)
+👤 **作者**: [MiniMax-AI](https://github.com/MiniMax-AI)
 
 🔄 **Fork 数量**: 106
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 7. [gj3ka1/animaengine](https://github.com/gj3ka1/animaengine)
-
-![项目预览图](https://opengraph.githubassets.com/1/gj3ka1/animaengine)
-
-⭐ **获得 Star**: 510
-
-📅 **创建时间**: 2025-01-09
-
-👤 **作者**: [gj3ka1](https://github.com/gj3ka1)
-
-🔄 **Fork 数量**: 103
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 8. [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack)
-
-![项目预览图](https://opengraph.githubassets.com/1/hybridgroup/go-haystack)
-
-📝 **项目描述**: Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
-
-⭐ **获得 Star**: 446
-
-💻 **主要编程语言**: Go
-
-📅 **创建时间**: 2025-01-09
-
-👤 **作者**: [hybridgroup](https://github.com/hybridgroup)
-
-🔄 **Fork 数量**: 6
 
 ⚠️ **未解决 Issues**: 4
 
 ---
 
-## 9. [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
+## 2. [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant)
 
-![项目预览图](https://opengraph.githubassets.com/1/zhangchenchen/self-consistent-coder)
+![项目预览图](https://opengraph.githubassets.com/1/langchain-ai/executive-ai-assistant)
 
-📝 **项目描述**: 如何成为一名自洽的程序员
-
-⭐ **获得 Star**: 446
-
-💻 **主要编程语言**: HTML
-
-📅 **创建时间**: 2025-01-09
-
-👤 **作者**: [zhangchenchen](https://github.com/zhangchenchen)
-
-🔄 **Fork 数量**: 25
-
-⚠️ **未解决 Issues**: 5
-
----
-
-## 10. [norris61w/astra_ai_framework](https://github.com/norris61w/astra_ai_framework)
-
-![项目预览图](https://opengraph.githubassets.com/1/norris61w/astra_ai_framework)
-
-📝 **项目描述**: AstraAI Framework streamlines on-chain operations with three integrated components: gateways, validators and AI agents
-
-⭐ **获得 Star**: 410
+⭐ **获得 Star**: 1,162
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-01-07
+📅 **创建时间**: 2025-01-14
 
-👤 **作者**: [norris61w](https://github.com/norris61w)
+👤 **作者**: [langchain-ai](https://github.com/langchain-ai)
 
-🔄 **Fork 数量**: 111
+🔄 **Fork 数量**: 266
+
+⚠️ **未解决 Issues**: 9
+
+---
+
+## 3. [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents)
+
+![项目预览图](https://opengraph.githubassets.com/1/openai/openai-realtime-agents)
+
+📝 **项目描述**: This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
+
+⭐ **获得 Star**: 1,041
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-01-16
+
+👤 **作者**: [openai](https://github.com/openai)
+
+🔄 **Fork 数量**: 106
+
+⚠️ **未解决 Issues**: 3
+
+---
+
+## 4. [KingMenes/awesome-launch](https://github.com/KingMenes/awesome-launch)
+
+![项目预览图](https://opengraph.githubassets.com/1/KingMenes/awesome-launch)
+
+📝 **项目描述**: A directory for free and friendly communities to get eyes on your side projects! Contributors are welcome!
+
+⭐ **获得 Star**: 596
+
+📅 **创建时间**: 2025-01-13
+
+👤 **作者**: [KingMenes](https://github.com/KingMenes)
+
+🔄 **Fork 数量**: 19
+
+⚠️ **未解决 Issues**: 2
+
+---
+
+## 5. [facebookresearch/coconut](https://github.com/facebookresearch/coconut)
+
+![项目预览图](https://opengraph.githubassets.com/1/facebookresearch/coconut)
+
+📝 **项目描述**: Training Large Language Model to Reason in a Continuous Latent Space
+
+⭐ **获得 Star**: 562
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-01-15
+
+👤 **作者**: [facebookresearch](https://github.com/facebookresearch)
+
+🔄 **Fork 数量**: 38
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 6. [santinic/audiblez](https://github.com/santinic/audiblez)
+
+![项目预览图](https://opengraph.githubassets.com/1/santinic/audiblez)
+
+📝 **项目描述**: Generate audiobooks from e-books
+
+⭐ **获得 Star**: 510
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-01-14
+
+👤 **作者**: [santinic](https://github.com/santinic)
+
+🔄 **Fork 数量**: 29
+
+⚠️ **未解决 Issues**: 8
+
+---
+
+## 7. [SwoxApp/Swox](https://github.com/SwoxApp/Swox)
+
+![项目预览图](https://opengraph.githubassets.com/1/SwoxApp/Swox)
+
+📝 **项目描述**: About We are the next generation social network in the WEB3
+
+⭐ **获得 Star**: 400
+
+💻 **主要编程语言**: JavaScript
+
+📅 **创建时间**: 2025-01-16
+
+👤 **作者**: [SwoxApp](https://github.com/SwoxApp)
+
+🔄 **Fork 数量**: 250
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 8. [antfu/are-we-esm](https://github.com/antfu/are-we-esm)
+
+![项目预览图](https://opengraph.githubassets.com/1/antfu/are-we-esm)
+
+📝 **项目描述**: Are we fully ESM yet?
+
+⭐ **获得 Star**: 281
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-01-15
+
+👤 **作者**: [antfu](https://github.com/antfu)
+
+🔄 **Fork 数量**: 2
 
 ⚠️ **未解决 Issues**: 1
+
+---
+
+## 9. [JaredC01/LabStack](https://github.com/JaredC01/LabStack)
+
+![项目预览图](https://opengraph.githubassets.com/1/JaredC01/LabStack)
+
+📝 **项目描述**: Modular rackmount solutions for Raspberry Pi's and other SBC's and accessories.
+
+⭐ **获得 Star**: 274
+
+📅 **创建时间**: 2025-01-17
+
+👤 **作者**: [JaredC01](https://github.com/JaredC01)
+
+🔄 **Fork 数量**: 6
+
+⚠️ **未解决 Issues**: 13
+
+---
+
+## 10. [midudev/curso-python](https://github.com/midudev/curso-python)
+
+![项目预览图](https://opengraph.githubassets.com/1/midudev/curso-python)
+
+📝 **项目描述**: Curso de Python desde cero y para todos los públicos con ejercicios
+
+⭐ **获得 Star**: 245
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-01-15
+
+👤 **作者**: [midudev](https://github.com/midudev)
+
+🔄 **Fork 数量**: 29
+
+⚠️ **未解决 Issues**: 0
 
 ---
 
@@ -211,7 +213,7 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3)
 
-⭐ **获得 Star**: 18,263
+⭐ **获得 Star**: 19,598
 
 💻 **主要编程语言**: Python
 
@@ -219,9 +221,9 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 1,455
+🔄 **Fork 数量**: 1,592
 
-⚠️ **未解决 Issues**: 59
+⚠️ **未解决 Issues**: 72
 
 ---
 
@@ -231,7 +233,7 @@
 
 📝 **项目描述**: Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
 
-⭐ **获得 Star**: 6,269
+⭐ **获得 Star**: 7,019
 
 💻 **主要编程语言**: Python
 
@@ -239,57 +241,39 @@
 
 👤 **作者**: [NVIDIA](https://github.com/NVIDIA)
 
-🔄 **Fork 数量**: 372
+🔄 **Fork 数量**: 427
+
+⚠️ **未解决 Issues**: 54
+
+---
+
+## 3. [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory)
+
+![项目预览图](https://opengraph.githubassets.com/1/SamuelSchmidgall/AgentLaboratory)
+
+📝 **项目描述**: Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
+
+⭐ **获得 Star**: 3,112
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-01-08
+
+👤 **作者**: [SamuelSchmidgall](https://github.com/SamuelSchmidgall)
+
+🔄 **Fork 数量**: 384
 
 ⚠️ **未解决 Issues**: 34
 
 ---
 
-## 3. [nesaorg/nesa](https://github.com/nesaorg/nesa)
-
-![项目预览图](https://opengraph.githubassets.com/1/nesaorg/nesa)
-
-📝 **项目描述**: Run AI models end-to-end encrypted.
-
-⭐ **获得 Star**: 2,647
-
-📅 **创建时间**: 2024-12-22
-
-👤 **作者**: [nesaorg](https://github.com/nesaorg)
-
-🔄 **Fork 数量**: 343
-
-⚠️ **未解决 Issues**: 1
-
----
-
-## 4. [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder)
-
-![项目预览图](https://opengraph.githubassets.com/1/ericciarla/trendFinder)
-
-📝 **项目描述**: Stay on top of trending topics on social media and the web with AI
-
-⭐ **获得 Star**: 2,399
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2024-12-31
-
-👤 **作者**: [ericciarla](https://github.com/ericciarla)
-
-🔄 **Fork 数量**: 255
-
-⚠️ **未解决 Issues**: 15
-
----
-
-## 5. [browser-use/web-ui](https://github.com/browser-use/web-ui)
+## 4. [browser-use/web-ui](https://github.com/browser-use/web-ui)
 
 ![项目预览图](https://opengraph.githubassets.com/1/browser-use/web-ui)
 
 📝 **项目描述**: Run AI Agent in your browser.
 
-⭐ **获得 Star**: 2,354
+⭐ **获得 Star**: 3,057
 
 💻 **主要编程语言**: Python
 
@@ -297,9 +281,27 @@
 
 👤 **作者**: [browser-use](https://github.com/browser-use)
 
-🔄 **Fork 数量**: 293
+🔄 **Fork 数量**: 409
 
-⚠️ **未解决 Issues**: 42
+⚠️ **未解决 Issues**: 52
+
+---
+
+## 5. [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)
+
+![项目预览图](https://opengraph.githubassets.com/1/t3dotgg/stripe-recommendations)
+
+📝 **项目描述**: I've built with Stripe for years. This is how I do it without going mad.
+
+⭐ **获得 Star**: 2,731
+
+📅 **创建时间**: 2025-01-11
+
+👤 **作者**: [t3dotgg](https://github.com/t3dotgg)
+
+🔄 **Fork 数量**: 112
+
+⚠️ **未解决 Issues**: 4
 
 ---
 
@@ -309,7 +311,7 @@
 
 📝 **项目描述**: auto sign cursor
 
-⭐ **获得 Star**: 2,056
+⭐ **获得 Star**: 2,529
 
 💻 **主要编程语言**: Python
 
@@ -317,85 +319,87 @@
 
 👤 **作者**: [chengazhen](https://github.com/chengazhen)
 
-🔄 **Fork 数量**: 281
+🔄 **Fork 数量**: 352
+
+⚠️ **未解决 Issues**: 5
+
+---
+
+## 7. [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder)
+
+![项目预览图](https://opengraph.githubassets.com/1/ericciarla/trendFinder)
+
+📝 **项目描述**: Stay on top of trending topics on social media and the web with AI
+
+⭐ **获得 Star**: 2,472
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2024-12-31
+
+👤 **作者**: [ericciarla](https://github.com/ericciarla)
+
+🔄 **Fork 数量**: 264
+
+⚠️ **未解决 Issues**: 15
+
+---
+
+## 8. [nesaorg/nesa](https://github.com/nesaorg/nesa)
+
+![项目预览图](https://opengraph.githubassets.com/1/nesaorg/nesa)
+
+📝 **项目描述**: Run AI models end-to-end encrypted.
+
+⭐ **获得 Star**: 2,331
+
+📅 **创建时间**: 2024-12-22
+
+👤 **作者**: [nesaorg](https://github.com/nesaorg)
+
+🔄 **Fork 数量**: 367
+
+⚠️ **未解决 Issues**: 1
+
+---
+
+## 9. [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent)
+
+![项目预览图](https://opengraph.githubassets.com/1/David-patrick-chuks/Riona-AI-Agent)
+
+📝 **项目描述**: Riona 🌸 is built with Node.js and TypeScript 🛠️. Designed to run jobs 📸 effortlessly. Lightweight, efficient, and a work in progress 🚧—more features coming soon! 🌟
+
+⭐ **获得 Star**: 2,165
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-01-11
+
+👤 **作者**: [David-patrick-chuks](https://github.com/David-patrick-chuks)
+
+🔄 **Fork 数量**: 303
 
 ⚠️ **未解决 Issues**: 16
 
 ---
 
-## 7. [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search)
+## 10. [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought)
 
-![项目预览图](https://opengraph.githubassets.com/1/ammaarreshi/Gemini-Search)
+![项目预览图](https://opengraph.githubassets.com/1/NovaSky-AI/SkyThought)
 
-📝 **项目描述**: Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
+📝 **项目描述**: Sky-T1: Train your own O1 preview model within $450
 
-⭐ **获得 Star**: 1,585
+⭐ **获得 Star**: 1,876
 
-💻 **主要编程语言**: TypeScript
+💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-01-04
+📅 **创建时间**: 2025-01-09
 
-👤 **作者**: [ammaarreshi](https://github.com/ammaarreshi)
+👤 **作者**: [NovaSky-AI](https://github.com/NovaSky-AI)
 
-🔄 **Fork 数量**: 311
+🔄 **Fork 数量**: 198
 
-⚠️ **未解决 Issues**: 12
-
----
-
-## 8. [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
-
-![项目预览图](https://opengraph.githubassets.com/1/ahmedkhaleel2004/gitdiagram)
-
-📝 **项目描述**: Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
-
-⭐ **获得 Star**: 1,335
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2024-12-15
-
-👤 **作者**: [ahmedkhaleel2004](https://github.com/ahmedkhaleel2004)
-
-🔄 **Fork 数量**: 90
-
-⚠️ **未解决 Issues**: 7
-
----
-
-## 9. [gabriel-pineda/git-wrapped-api](https://github.com/gabriel-pineda/git-wrapped-api)
-
-![项目预览图](https://opengraph.githubassets.com/1/gabriel-pineda/git-wrapped-api)
-
-⭐ **获得 Star**: 1,316
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2024-12-21
-
-👤 **作者**: [gabriel-pineda](https://github.com/gabriel-pineda)
-
-🔄 **Fork 数量**: 13
-
-⚠️ **未解决 Issues**: 7
-
----
-
-## 10. [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course)
-
-![项目预览图](https://opengraph.githubassets.com/1/henrythe9th/AI-Crash-Course)
-
-📝 **项目描述**: AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks
-
-⭐ **获得 Star**: 1,227
-
-📅 **创建时间**: 2025-01-08
-
-👤 **作者**: [henrythe9th](https://github.com/henrythe9th)
-
-🔄 **Fork 数量**: 291
-
-⚠️ **未解决 Issues**: 1
+⚠️ **未解决 Issues**: 10
 
 ---
 
@@ -407,7 +411,7 @@
 
 📝 **项目描述**: Python tool for converting files and office documents to Markdown.
 
-⭐ **获得 Star**: 33,576
+⭐ **获得 Star**: 34,556
 
 💻 **主要编程语言**: Python
 
@@ -415,9 +419,9 @@
 
 👤 **作者**: [microsoft](https://github.com/microsoft)
 
-🔄 **Fork 数量**: 1,445
+🔄 **Fork 数量**: 1,521
 
-⚠️ **未解决 Issues**: 143
+⚠️ **未解决 Issues**: 155
 
 ---
 
@@ -427,7 +431,7 @@
 
 📝 **项目描述**: Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨
 
-⭐ **获得 Star**: 22,481
+⭐ **获得 Star**: 28,446
 
 💻 **主要编程语言**: TypeScript
 
@@ -435,9 +439,9 @@
 
 👤 **作者**: [inkonchain](https://github.com/inkonchain)
 
-🔄 **Fork 数量**: 234
+🔄 **Fork 数量**: 292
 
-⚠️ **未解决 Issues**: 5
+⚠️ **未解决 Issues**: 7
 
 ---
 
@@ -445,7 +449,7 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3)
 
-⭐ **获得 Star**: 18,263
+⭐ **获得 Star**: 19,598
 
 💻 **主要编程语言**: Python
 
@@ -453,39 +457,19 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 1,455
+🔄 **Fork 数量**: 1,592
 
-⚠️ **未解决 Issues**: 59
-
----
-
-## 4. [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude)
-
-![项目预览图](https://opengraph.githubassets.com/1/richards199999/Thinking-Claude)
-
-📝 **项目描述**: Let your Claude able to think
-
-⭐ **获得 Star**: 13,250
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2024-11-13
-
-👤 **作者**: [richards199999](https://github.com/richards199999)
-
-🔄 **Fork 数量**: 1,557
-
-⚠️ **未解决 Issues**: 7
+⚠️ **未解决 Issues**: 72
 
 ---
 
-## 5. [browser-use/browser-use](https://github.com/browser-use/browser-use)
+## 4. [browser-use/browser-use](https://github.com/browser-use/browser-use)
 
 ![项目预览图](https://opengraph.githubassets.com/1/browser-use/browser-use)
 
 📝 **项目描述**: Make websites accessible for AI agents
 
-⭐ **获得 Star**: 12,958
+⭐ **获得 Star**: 15,053
 
 💻 **主要编程语言**: Python
 
@@ -493,9 +477,29 @@
 
 👤 **作者**: [browser-use](https://github.com/browser-use)
 
-🔄 **Fork 数量**: 1,100
+🔄 **Fork 数量**: 1,410
 
-⚠️ **未解决 Issues**: 97
+⚠️ **未解决 Issues**: 148
+
+---
+
+## 5. [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude)
+
+![项目预览图](https://opengraph.githubassets.com/1/richards199999/Thinking-Claude)
+
+📝 **项目描述**: Let your Claude able to think
+
+⭐ **获得 Star**: 13,628
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2024-11-13
+
+👤 **作者**: [richards199999](https://github.com/richards199999)
+
+🔄 **Fork 数量**: 1,602
+
+⚠️ **未解决 Issues**: 7
 
 ---
 
@@ -505,7 +509,7 @@
 
 📝 **项目描述**: Proxmox VE Helper-Scripts (Community Edition) 
 
-⭐ **获得 Star**: 8,430
+⭐ **获得 Star**: 8,833
 
 💻 **主要编程语言**: Shell
 
@@ -513,7 +517,7 @@
 
 👤 **作者**: [community-scripts](https://github.com/community-scripts)
 
-🔄 **Fork 数量**: 572
+🔄 **Fork 数量**: 620
 
 ⚠️ **未解决 Issues**: 25
 
@@ -525,7 +529,7 @@
 
 📝 **项目描述**: HunyuanVideo: A Systematic Framework For Large Video Generation Model
 
-⭐ **获得 Star**: 7,279
+⭐ **获得 Star**: 7,489
 
 💻 **主要编程语言**: Python
 
@@ -533,19 +537,39 @@
 
 👤 **作者**: [Tencent](https://github.com/Tencent)
 
-🔄 **Fork 数量**: 555
+🔄 **Fork 数量**: 583
 
-⚠️ **未解决 Issues**: 111
+⚠️ **未解决 Issues**: 114
 
 ---
 
-## 8. [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+## 8. [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos)
+
+![项目预览图](https://opengraph.githubassets.com/1/NVIDIA/Cosmos)
+
+📝 **项目描述**: Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
+
+⭐ **获得 Star**: 7,019
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2024-12-30
+
+👤 **作者**: [NVIDIA](https://github.com/NVIDIA)
+
+🔄 **Fork 数量**: 427
+
+⚠️ **未解决 Issues**: 54
+
+---
+
+## 9. [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 
 ![项目预览图](https://opengraph.githubassets.com/1/modelcontextprotocol/servers)
 
 📝 **项目描述**: Model Context Protocol Servers
 
-⭐ **获得 Star**: 6,643
+⭐ **获得 Star**: 7,003
 
 💻 **主要编程语言**: JavaScript
 
@@ -553,19 +577,19 @@
 
 👤 **作者**: [modelcontextprotocol](https://github.com/modelcontextprotocol)
 
-🔄 **Fork 数量**: 789
+🔄 **Fork 数量**: 844
 
-⚠️ **未解决 Issues**: 141
+⚠️ **未解决 Issues**: 147
 
 ---
 
-## 9. [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
+## 10. [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
 
 ![项目预览图](https://opengraph.githubassets.com/1/microsoft/TRELLIS)
 
 📝 **项目描述**: Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation".
 
-⭐ **获得 Star**: 6,456
+⭐ **获得 Star**: 6,933
 
 💻 **主要编程语言**: Python
 
@@ -573,29 +597,9 @@
 
 👤 **作者**: [microsoft](https://github.com/microsoft)
 
-🔄 **Fork 数量**: 426
+🔄 **Fork 数量**: 477
 
-⚠️ **未解决 Issues**: 94
-
----
-
-## 10. [yangchris11/samurai](https://github.com/yangchris11/samurai)
-
-![项目预览图](https://opengraph.githubassets.com/1/yangchris11/samurai)
-
-📝 **项目描述**: Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
-
-⭐ **获得 Star**: 6,299
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-11-06
-
-👤 **作者**: [yangchris11](https://github.com/yangchris11)
-
-🔄 **Fork 数量**: 386
-
-⚠️ **未解决 Issues**: 13
+⚠️ **未解决 Issues**: 105
 
 ---
 
@@ -607,7 +611,7 @@
 
 📝 **项目描述**: Grok open release
 
-⭐ **获得 Star**: 49,787
+⭐ **获得 Star**: 49,845
 
 💻 **主要编程语言**: Python
 
@@ -615,7 +619,7 @@
 
 👤 **作者**: [xai-org](https://github.com/xai-org)
 
-🔄 **Fork 数量**: 8,346
+🔄 **Fork 数量**: 8,349
 
 ⚠️ **未解决 Issues**: 107
 
@@ -627,7 +631,7 @@
 
 📝 **项目描述**: 🙌 OpenHands: Code Less, Make More
 
-⭐ **获得 Star**: 42,965
+⭐ **获得 Star**: 43,852
 
 💻 **主要编程语言**: Python
 
@@ -635,29 +639,29 @@
 
 👤 **作者**: [All-Hands-AI](https://github.com/All-Hands-AI)
 
-🔄 **Fork 数量**: 4,752
+🔄 **Fork 数量**: 4,857
 
-⚠️ **未解决 Issues**: 288
+⚠️ **未解决 Issues**: 310
 
 ---
 
-## 3. [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+## 3. [microsoft/markitdown](https://github.com/microsoft/markitdown)
 
-![项目预览图](https://opengraph.githubassets.com/1/RVC-Boss/GPT-SoVITS)
+![项目预览图](https://opengraph.githubassets.com/1/microsoft/markitdown)
 
-📝 **项目描述**: 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+📝 **项目描述**: Python tool for converting files and office documents to Markdown.
 
-⭐ **获得 Star**: 38,589
+⭐ **获得 Star**: 34,556
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2024-01-14
+📅 **创建时间**: 2024-11-13
 
-👤 **作者**: [RVC-Boss](https://github.com/RVC-Boss)
+👤 **作者**: [microsoft](https://github.com/microsoft)
 
-🔄 **Fork 数量**: 4,364
+🔄 **Fork 数量**: 1,521
 
-⚠️ **未解决 Issues**: 707
+⚠️ **未解决 Issues**: 155
 
 ---
 

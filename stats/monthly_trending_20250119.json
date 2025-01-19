@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": null,
+    "stars": 19598,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "created_at": "2024-12-26T09:52:40Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1592,
+    "issues": 72,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "name": "NVIDIA/Cosmos",
+    "description": "Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.",
+    "stars": 7019,
+    "language": "Python",
+    "url": "https://github.com/NVIDIA/Cosmos",
+    "created_at": "2024-12-30T17:21:14Z",
+    "owner": {
+      "login": "NVIDIA",
+      "url": "https://github.com/NVIDIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
+    },
+    "forks": 427,
+    "issues": 54,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NVIDIA/Cosmos"
+  },
+  {
+    "name": "SamuelSchmidgall/AgentLaboratory",
+    "description": "Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas",
+    "stars": 3112,
+    "language": "Python",
+    "url": "https://github.com/SamuelSchmidgall/AgentLaboratory",
+    "created_at": "2025-01-08T02:00:51Z",
+    "owner": {
+      "login": "SamuelSchmidgall",
+      "url": "https://github.com/SamuelSchmidgall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38199369?v=4"
+    },
+    "forks": 384,
+    "issues": 34,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SamuelSchmidgall/AgentLaboratory"
+  },
+  {
+    "name": "browser-use/web-ui",
+    "description": "Run AI Agent in your browser.",
+    "stars": 3057,
+    "language": "Python",
+    "url": "https://github.com/browser-use/web-ui",
+    "created_at": "2025-01-02T01:29:44Z",
+    "owner": {
+      "login": "browser-use",
+      "url": "https://github.com/browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "forks": 409,
+    "issues": 52,
+    "social_preview_url": "https://opengraph.githubassets.com/1/browser-use/web-ui"
+  },
+  {
+    "name": "t3dotgg/stripe-recommendations",
+    "description": "I've built with Stripe for years. This is how I do it without going mad.",
+    "stars": 2731,
+    "language": null,
+    "url": "https://github.com/t3dotgg/stripe-recommendations",
+    "created_at": "2025-01-11T06:44:42Z",
+    "owner": {
+      "login": "t3dotgg",
+      "url": "https://github.com/t3dotgg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6751787?v=4"
+    },
+    "forks": 112,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/t3dotgg/stripe-recommendations"
+  },
+  {
+    "name": "chengazhen/cursor-auto-free",
+    "description": "auto sign cursor",
+    "stars": 2529,
+    "language": "Python",
+    "url": "https://github.com/chengazhen/cursor-auto-free",
+    "created_at": "2024-12-28T14:22:25Z",
+    "owner": {
+      "login": "chengazhen",
+      "url": "https://github.com/chengazhen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52627267?v=4"
+    },
+    "forks": 352,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/chengazhen/cursor-auto-free"
+  },
+  {
+    "name": "ericciarla/trendFinder",
+    "description": "Stay on top of trending topics on social media and the web with AI",
+    "stars": 2472,
+    "language": "TypeScript",
+    "url": "https://github.com/ericciarla/trendFinder",
+    "created_at": "2024-12-31T17:15:49Z",
+    "owner": {
+      "login": "ericciarla",
+      "url": "https://github.com/ericciarla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43451761?v=4"
+    },
+    "forks": 264,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ericciarla/trendFinder"
+  },
+  {
+    "name": "nesaorg/nesa",
+    "description": "Run AI models end-to-end encrypted.",
+    "stars": 2331,
+    "language": null,
+    "url": "https://github.com/nesaorg/nesa",
+    "created_at": "2024-12-22T04:53:59Z",
+    "owner": {
+      "login": "nesaorg",
+      "url": "https://github.com/nesaorg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162369208?v=4"
+    },
+    "forks": 367,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nesaorg/nesa"
+  },
+  {
+    "name": "David-patrick-chuks/Riona-AI-Agent",
+    "description": "Riona 🌸 is built with Node.js and TypeScript 🛠️. Designed to run jobs 📸 effortlessly. Lightweight, efficient, and a work in progress 🚧—more features coming soon! 🌟",
+    "stars": 2165,
+    "language": "TypeScript",
+    "url": "https://github.com/David-patrick-chuks/Riona-AI-Agent",
+    "created_at": "2025-01-11T05:45:37Z",
+    "owner": {
+      "login": "David-patrick-chuks",
+      "url": "https://github.com/David-patrick-chuks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161928481?v=4"
+    },
+    "forks": 303,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/David-patrick-chuks/Riona-AI-Agent"
+  },
+  {
+    "name": "NovaSky-AI/SkyThought",
+    "description": "Sky-T1: Train your own O1 preview model within $450",
+    "stars": 1876,
+    "language": "Python",
+    "url": "https://github.com/NovaSky-AI/SkyThought",
+    "created_at": "2025-01-09T21:37:37Z",
+    "owner": {
+      "login": "NovaSky-AI",
+      "url": "https://github.com/NovaSky-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194174999?v=4"
+    },
+    "forks": 198,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NovaSky-AI/SkyThought"
+  }
+]

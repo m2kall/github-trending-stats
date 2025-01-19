@@ -1,0 +1,162 @@
+[
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "stars": 34556,
+    "language": "Python",
+    "url": "https://github.com/microsoft/markitdown",
+    "created_at": "2024-11-13T19:56:40Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 1521,
+    "issues": 155,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/markitdown"
+  },
+  {
+    "name": "inkonchain/ink-kit",
+    "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+    "stars": 28446,
+    "language": "TypeScript",
+    "url": "https://github.com/inkonchain/ink-kit",
+    "created_at": "2024-11-04T16:32:17Z",
+    "owner": {
+      "login": "inkonchain",
+      "url": "https://github.com/inkonchain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168584369?v=4"
+    },
+    "forks": 292,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/inkonchain/ink-kit"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": null,
+    "stars": 19598,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "created_at": "2024-12-26T09:52:40Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1592,
+    "issues": 72,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "name": "browser-use/browser-use",
+    "description": "Make websites accessible for AI agents",
+    "stars": 15053,
+    "language": "Python",
+    "url": "https://github.com/browser-use/browser-use",
+    "created_at": "2024-10-31T16:00:56Z",
+    "owner": {
+      "login": "browser-use",
+      "url": "https://github.com/browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "forks": 1410,
+    "issues": 148,
+    "social_preview_url": "https://opengraph.githubassets.com/1/browser-use/browser-use"
+  },
+  {
+    "name": "richards199999/Thinking-Claude",
+    "description": "Let your Claude able to think",
+    "stars": 13628,
+    "language": "TypeScript",
+    "url": "https://github.com/richards199999/Thinking-Claude",
+    "created_at": "2024-11-13T10:19:21Z",
+    "owner": {
+      "login": "richards199999",
+      "url": "https://github.com/richards199999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142148415?v=4"
+    },
+    "forks": 1602,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/richards199999/Thinking-Claude"
+  },
+  {
+    "name": "community-scripts/ProxmoxVE",
+    "description": "Proxmox VE Helper-Scripts (Community Edition) ",
+    "stars": 8833,
+    "language": "Shell",
+    "url": "https://github.com/community-scripts/ProxmoxVE",
+    "created_at": "2024-11-01T14:06:43Z",
+    "owner": {
+      "login": "community-scripts",
+      "url": "https://github.com/community-scripts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187033296?v=4"
+    },
+    "forks": 620,
+    "issues": 25,
+    "social_preview_url": "https://opengraph.githubassets.com/1/community-scripts/ProxmoxVE"
+  },
+  {
+    "name": "Tencent/HunyuanVideo",
+    "description": "HunyuanVideo: A Systematic Framework For Large Video Generation Model",
+    "stars": 7489,
+    "language": "Python",
+    "url": "https://github.com/Tencent/HunyuanVideo",
+    "created_at": "2024-11-28T08:38:31Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 583,
+    "issues": 114,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/HunyuanVideo"
+  },
+  {
+    "name": "NVIDIA/Cosmos",
+    "description": "Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.",
+    "stars": 7019,
+    "language": "Python",
+    "url": "https://github.com/NVIDIA/Cosmos",
+    "created_at": "2024-12-30T17:21:14Z",
+    "owner": {
+      "login": "NVIDIA",
+      "url": "https://github.com/NVIDIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
+    },
+    "forks": 427,
+    "issues": 54,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NVIDIA/Cosmos"
+  },
+  {
+    "name": "modelcontextprotocol/servers",
+    "description": "Model Context Protocol Servers",
+    "stars": 7003,
+    "language": "JavaScript",
+    "url": "https://github.com/modelcontextprotocol/servers",
+    "created_at": "2024-11-19T01:10:17Z",
+    "owner": {
+      "login": "modelcontextprotocol",
+      "url": "https://github.com/modelcontextprotocol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182288589?v=4"
+    },
+    "forks": 844,
+    "issues": 147,
+    "social_preview_url": "https://opengraph.githubassets.com/1/modelcontextprotocol/servers"
+  },
+  {
+    "name": "microsoft/TRELLIS",
+    "description": "Official repo for paper \"Structured 3D Latents for Scalable and Versatile 3D Generation\".",
+    "stars": 6933,
+    "language": "Python",
+    "url": "https://github.com/microsoft/TRELLIS",
+    "created_at": "2024-12-02T05:44:19Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 477,
+    "issues": 105,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/TRELLIS"
+  }
+]

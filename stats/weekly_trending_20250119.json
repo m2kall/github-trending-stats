@@ -1,0 +1,162 @@
+[
+  {
+    "name": "MiniMax-AI/MiniMax-01",
+    "description": null,
+    "stars": 1639,
+    "language": "Python",
+    "url": "https://github.com/MiniMax-AI/MiniMax-01",
+    "created_at": "2025-01-14T15:43:28Z",
+    "owner": {
+      "login": "MiniMax-AI",
+      "url": "https://github.com/MiniMax-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
+    },
+    "forks": 106,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MiniMax-AI/MiniMax-01"
+  },
+  {
+    "name": "langchain-ai/executive-ai-assistant",
+    "description": null,
+    "stars": 1162,
+    "language": "Python",
+    "url": "https://github.com/langchain-ai/executive-ai-assistant",
+    "created_at": "2025-01-14T06:17:25Z",
+    "owner": {
+      "login": "langchain-ai",
+      "url": "https://github.com/langchain-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126733545?v=4"
+    },
+    "forks": 266,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/langchain-ai/executive-ai-assistant"
+  },
+  {
+    "name": "openai/openai-realtime-agents",
+    "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
+    "stars": 1041,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/openai-realtime-agents",
+    "created_at": "2025-01-16T01:29:28Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 106,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/openai-realtime-agents"
+  },
+  {
+    "name": "KingMenes/awesome-launch",
+    "description": "A directory for free and friendly communities to get eyes on your side projects! Contributors are welcome!",
+    "stars": 596,
+    "language": null,
+    "url": "https://github.com/KingMenes/awesome-launch",
+    "created_at": "2025-01-13T19:44:31Z",
+    "owner": {
+      "login": "KingMenes",
+      "url": "https://github.com/KingMenes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59850530?v=4"
+    },
+    "forks": 19,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/KingMenes/awesome-launch"
+  },
+  {
+    "name": "facebookresearch/coconut",
+    "description": "Training Large Language Model to Reason in a Continuous Latent Space",
+    "stars": 562,
+    "language": "Python",
+    "url": "https://github.com/facebookresearch/coconut",
+    "created_at": "2025-01-15T05:43:45Z",
+    "owner": {
+      "login": "facebookresearch",
+      "url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "forks": 38,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebookresearch/coconut"
+  },
+  {
+    "name": "santinic/audiblez",
+    "description": "Generate audiobooks from e-books",
+    "stars": 510,
+    "language": "Python",
+    "url": "https://github.com/santinic/audiblez",
+    "created_at": "2025-01-14T14:36:20Z",
+    "owner": {
+      "login": "santinic",
+      "url": "https://github.com/santinic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179558?v=4"
+    },
+    "forks": 29,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/santinic/audiblez"
+  },
+  {
+    "name": "SwoxApp/Swox",
+    "description": "About We are the next generation social network in the WEB3",
+    "stars": 400,
+    "language": "JavaScript",
+    "url": "https://github.com/SwoxApp/Swox",
+    "created_at": "2025-01-16T21:47:01Z",
+    "owner": {
+      "login": "SwoxApp",
+      "url": "https://github.com/SwoxApp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195366547?v=4"
+    },
+    "forks": 250,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SwoxApp/Swox"
+  },
+  {
+    "name": "antfu/are-we-esm",
+    "description": "Are we fully ESM yet?",
+    "stars": 281,
+    "language": "TypeScript",
+    "url": "https://github.com/antfu/are-we-esm",
+    "created_at": "2025-01-15T07:54:07Z",
+    "owner": {
+      "login": "antfu",
+      "url": "https://github.com/antfu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11247099?v=4"
+    },
+    "forks": 2,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antfu/are-we-esm"
+  },
+  {
+    "name": "JaredC01/LabStack",
+    "description": "Modular rackmount solutions for Raspberry Pi's and other SBC's and accessories.",
+    "stars": 274,
+    "language": null,
+    "url": "https://github.com/JaredC01/LabStack",
+    "created_at": "2025-01-17T02:26:00Z",
+    "owner": {
+      "login": "JaredC01",
+      "url": "https://github.com/JaredC01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31457941?v=4"
+    },
+    "forks": 6,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/JaredC01/LabStack"
+  },
+  {
+    "name": "midudev/curso-python",
+    "description": "Curso de Python desde cero y para todos los públicos con ejercicios",
+    "stars": 245,
+    "language": "Python",
+    "url": "https://github.com/midudev/curso-python",
+    "created_at": "2025-01-15T08:31:27Z",
+    "owner": {
+      "login": "midudev",
+      "url": "https://github.com/midudev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1561955?v=4"
+    },
+    "forks": 29,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/midudev/curso-python"
+  }
+]
