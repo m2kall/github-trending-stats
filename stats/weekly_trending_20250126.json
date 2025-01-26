@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/DeepSeek-R1",
+    "description": null,
+    "stars": 20348,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "created_at": "2025-01-20T11:57:28Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1272,
+    "issues": 63,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1"
+  },
+  {
+    "name": "Tencent/Hunyuan3D-2",
+    "description": "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.",
+    "stars": 3231,
+    "language": "Python",
+    "url": "https://github.com/Tencent/Hunyuan3D-2",
+    "created_at": "2025-01-21T05:21:35Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 185,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/Hunyuan3D-2"
+  },
+  {
+    "name": "sammwyy/MikuMikuBeam",
+    "description": "An open-source network stresser tool but it's Hatsune Miku",
+    "stars": 2913,
+    "language": "TypeScript",
+    "url": "https://github.com/sammwyy/MikuMikuBeam",
+    "created_at": "2025-01-20T02:45:30Z",
+    "owner": {
+      "login": "sammwyy",
+      "url": "https://github.com/sammwyy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44925968?v=4"
+    },
+    "forks": 156,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sammwyy/MikuMikuBeam"
+  },
+  {
+    "name": "huggingface/open-r1",
+    "description": "Fully open reproduction of DeepSeek-R1",
+    "stars": 1877,
+    "language": "Python",
+    "url": "https://github.com/huggingface/open-r1",
+    "created_at": "2025-01-24T15:44:11Z",
+    "owner": {
+      "login": "huggingface",
+      "url": "https://github.com/huggingface",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    "forks": 142,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/huggingface/open-r1"
+  },
+  {
+    "name": "TengerTechnologies/Bricklayers",
+    "description": "A processing script for Bricklayers in Prusaslicer and Orcaslicer",
+    "stars": 1279,
+    "language": "Python",
+    "url": "https://github.com/TengerTechnologies/Bricklayers",
+    "created_at": "2025-01-22T18:13:43Z",
+    "owner": {
+      "login": "TengerTechnologies",
+      "url": "https://github.com/TengerTechnologies",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45683060?v=4"
+    },
+    "forks": 268,
+    "issues": 35,
+    "social_preview_url": "https://opengraph.githubassets.com/1/TengerTechnologies/Bricklayers"
+  },
+  {
+    "name": "Jiayi-Pan/TinyZero",
+    "description": null,
+    "stars": 1123,
+    "language": "Python",
+    "url": "https://github.com/Jiayi-Pan/TinyZero",
+    "created_at": "2025-01-21T16:49:12Z",
+    "owner": {
+      "login": "Jiayi-Pan",
+      "url": "https://github.com/Jiayi-Pan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55055083?v=4"
+    },
+    "forks": 73,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Jiayi-Pan/TinyZero"
+  },
+  {
+    "name": "ekmas/cs16.css",
+    "description": "CSS library based on Counter Strike 1.6 UI.",
+    "stars": 826,
+    "language": "CSS",
+    "url": "https://github.com/ekmas/cs16.css",
+    "created_at": "2025-01-22T14:36:59Z",
+    "owner": {
+      "login": "ekmas",
+      "url": "https://github.com/ekmas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110829653?v=4"
+    },
+    "forks": 17,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ekmas/cs16.css"
+  },
+  {
+    "name": "runevision/Dither3D",
+    "description": "Surface-Stable Fractal Dithering",
+    "stars": 610,
+    "language": "ShaderLab",
+    "url": "https://github.com/runevision/Dither3D",
+    "created_at": "2025-01-23T15:08:31Z",
+    "owner": {
+      "login": "runevision",
+      "url": "https://github.com/runevision",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6685642?v=4"
+    },
+    "forks": 34,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/runevision/Dither3D"
+  },
+  {
+    "name": "HarleyCoops/Math-To-Manim",
+    "description": null,
+    "stars": 496,
+    "language": "Python",
+    "url": "https://github.com/HarleyCoops/Math-To-Manim",
+    "created_at": "2025-01-20T11:04:50Z",
+    "owner": {
+      "login": "HarleyCoops",
+      "url": "https://github.com/HarleyCoops",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76745467?v=4"
+    },
+    "forks": 51,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HarleyCoops/Math-To-Manim"
+  },
+  {
+    "name": "lilmoat/solana-raydium-sniper-bot",
+    "description": "The Solana Raydium Sniper Bot aims to catch new pools on Raydium and execute buy/sell transactions to make a profit. This Raydium sniper bot allows for manual and automated trading, giving users the flexibility to optimize their strategies and maximize returns.",
+    "stars": 433,
+    "language": null,
+    "url": "https://github.com/lilmoat/solana-raydium-sniper-bot",
+    "created_at": "2025-01-21T19:28:47Z",
+    "owner": {
+      "login": "lilmoat",
+      "url": "https://github.com/lilmoat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20272091?v=4"
+    },
+    "forks": 401,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lilmoat/solana-raydium-sniper-bot"
+  }
+]

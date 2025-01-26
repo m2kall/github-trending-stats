@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/DeepSeek-R1",
+    "description": null,
+    "stars": 20348,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "created_at": "2025-01-20T11:57:28Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1272,
+    "issues": 63,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1"
+  },
+  {
+    "name": "NVIDIA/Cosmos",
+    "description": "Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.",
+    "stars": 7266,
+    "language": "Python",
+    "url": "https://github.com/NVIDIA/Cosmos",
+    "created_at": "2024-12-30T17:21:14Z",
+    "owner": {
+      "login": "NVIDIA",
+      "url": "https://github.com/NVIDIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
+    },
+    "forks": 448,
+    "issues": 40,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NVIDIA/Cosmos"
+  },
+  {
+    "name": "openai/openai-realtime-agents",
+    "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
+    "stars": 4686,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/openai-realtime-agents",
+    "created_at": "2025-01-16T01:29:28Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 444,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/openai-realtime-agents"
+  },
+  {
+    "name": "browser-use/web-ui",
+    "description": "Run AI Agent in your browser.",
+    "stars": 3708,
+    "language": "Python",
+    "url": "https://github.com/browser-use/web-ui",
+    "created_at": "2025-01-02T01:29:44Z",
+    "owner": {
+      "login": "browser-use",
+      "url": "https://github.com/browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "forks": 515,
+    "issues": 74,
+    "social_preview_url": "https://opengraph.githubassets.com/1/browser-use/web-ui"
+  },
+  {
+    "name": "SamuelSchmidgall/AgentLaboratory",
+    "description": "Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas",
+    "stars": 3232,
+    "language": "Python",
+    "url": "https://github.com/SamuelSchmidgall/AgentLaboratory",
+    "created_at": "2025-01-08T02:00:51Z",
+    "owner": {
+      "login": "SamuelSchmidgall",
+      "url": "https://github.com/SamuelSchmidgall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38199369?v=4"
+    },
+    "forks": 411,
+    "issues": 39,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SamuelSchmidgall/AgentLaboratory"
+  },
+  {
+    "name": "Tencent/Hunyuan3D-2",
+    "description": "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.",
+    "stars": 3231,
+    "language": "Python",
+    "url": "https://github.com/Tencent/Hunyuan3D-2",
+    "created_at": "2025-01-21T05:21:35Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 185,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/Hunyuan3D-2"
+  },
+  {
+    "name": "t3dotgg/stripe-recommendations",
+    "description": "I've built with Stripe for years. This is how I do it without going mad.",
+    "stars": 3015,
+    "language": null,
+    "url": "https://github.com/t3dotgg/stripe-recommendations",
+    "created_at": "2025-01-11T06:44:42Z",
+    "owner": {
+      "login": "t3dotgg",
+      "url": "https://github.com/t3dotgg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6751787?v=4"
+    },
+    "forks": 126,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/t3dotgg/stripe-recommendations"
+  },
+  {
+    "name": "sammwyy/MikuMikuBeam",
+    "description": "An open-source network stresser tool but it's Hatsune Miku",
+    "stars": 2913,
+    "language": "TypeScript",
+    "url": "https://github.com/sammwyy/MikuMikuBeam",
+    "created_at": "2025-01-20T02:45:30Z",
+    "owner": {
+      "login": "sammwyy",
+      "url": "https://github.com/sammwyy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44925968?v=4"
+    },
+    "forks": 156,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sammwyy/MikuMikuBeam"
+  },
+  {
+    "name": "chengazhen/cursor-auto-free",
+    "description": "auto sign cursor",
+    "stars": 2839,
+    "language": "Python",
+    "url": "https://github.com/chengazhen/cursor-auto-free",
+    "created_at": "2024-12-28T14:22:25Z",
+    "owner": {
+      "login": "chengazhen",
+      "url": "https://github.com/chengazhen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52627267?v=4"
+    },
+    "forks": 395,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/chengazhen/cursor-auto-free"
+  },
+  {
+    "name": "ericciarla/trendFinder",
+    "description": "Stay on top of trending topics on social media and the web with AI",
+    "stars": 2515,
+    "language": "TypeScript",
+    "url": "https://github.com/ericciarla/trendFinder",
+    "created_at": "2024-12-31T17:15:49Z",
+    "owner": {
+      "login": "ericciarla",
+      "url": "https://github.com/ericciarla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43451761?v=4"
+    },
+    "forks": 269,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ericciarla/trendFinder"
+  }
+]
