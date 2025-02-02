@@ -1,0 +1,162 @@
+[
+  {
+    "name": "yandex/perforator",
+    "description": "Perforator is a cluster-wide continuous profiling tool designed for large data centers",
+    "stars": 1450,
+    "language": "C++",
+    "url": "https://github.com/yandex/perforator",
+    "created_at": "2025-01-29T14:20:43Z",
+    "owner": {
+      "login": "yandex",
+      "url": "https://github.com/yandex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7409213?v=4"
+    },
+    "forks": 43,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yandex/perforator"
+  },
+  {
+    "name": "1692775560/deepseek_project",
+    "description": "Dee-seek_project",
+    "stars": 715,
+    "language": "Python",
+    "url": "https://github.com/1692775560/deepseek_project",
+    "created_at": "2025-01-27T02:54:10Z",
+    "owner": {
+      "login": "1692775560",
+      "url": "https://github.com/1692775560",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110378238?v=4"
+    },
+    "forks": 113,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/1692775560/deepseek_project"
+  },
+  {
+    "name": "swiftlang/swift-build",
+    "description": "A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager",
+    "stars": 543,
+    "language": "Swift",
+    "url": "https://github.com/swiftlang/swift-build",
+    "created_at": "2025-01-28T18:53:28Z",
+    "owner": {
+      "login": "swiftlang",
+      "url": "https://github.com/swiftlang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42816656?v=4"
+    },
+    "forks": 12,
+    "issues": 30,
+    "social_preview_url": "https://opengraph.githubassets.com/1/swiftlang/swift-build"
+  },
+  {
+    "name": "FractalXBT/free-ai-money-printer",
+    "description": null,
+    "stars": 491,
+    "language": "Python",
+    "url": "https://github.com/FractalXBT/free-ai-money-printer",
+    "created_at": "2025-01-30T09:30:36Z",
+    "owner": {
+      "login": "FractalXBT",
+      "url": "https://github.com/FractalXBT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196631100?v=4"
+    },
+    "forks": 124,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/FractalXBT/free-ai-money-printer"
+  },
+  {
+    "name": "exa-labs/exa-deepseek-chat",
+    "description": "A simple open-source chat app that uses Exa's API for web search and Deepseek R1 for reasoning",
+    "stars": 468,
+    "language": "TypeScript",
+    "url": "https://github.com/exa-labs/exa-deepseek-chat",
+    "created_at": "2025-01-28T15:14:03Z",
+    "owner": {
+      "login": "exa-labs",
+      "url": "https://github.com/exa-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77906174?v=4"
+    },
+    "forks": 42,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/exa-labs/exa-deepseek-chat"
+  },
+  {
+    "name": "liseami/DeepRant",
+    "description": "-游戏文字交流AI嘴强王者工具",
+    "stars": 453,
+    "language": "JavaScript",
+    "url": "https://github.com/liseami/DeepRant",
+    "created_at": "2025-01-30T07:28:25Z",
+    "owner": {
+      "login": "liseami",
+      "url": "https://github.com/liseami",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51239614?v=4"
+    },
+    "forks": 35,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/liseami/DeepRant"
+  },
+  {
+    "name": "open-thoughts/open-thoughts",
+    "description": "Open Thoughts: Fully Open Data Curation for Thinking Models",
+    "stars": 437,
+    "language": "Python",
+    "url": "https://github.com/open-thoughts/open-thoughts",
+    "created_at": "2025-01-27T22:28:56Z",
+    "owner": {
+      "login": "open-thoughts",
+      "url": "https://github.com/open-thoughts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196696926?v=4"
+    },
+    "forks": 21,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/open-thoughts/open-thoughts"
+  },
+  {
+    "name": "tsotchke/quantum_geometric_tensor",
+    "description": "High performance hybrid classical-quantum computing learning framework written in C",
+    "stars": 306,
+    "language": "C",
+    "url": "https://github.com/tsotchke/quantum_geometric_tensor",
+    "created_at": "2025-01-31T23:01:22Z",
+    "owner": {
+      "login": "tsotchke",
+      "url": "https://github.com/tsotchke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29180473?v=4"
+    },
+    "forks": 23,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tsotchke/quantum_geometric_tensor"
+  },
+  {
+    "name": "WayneKeenan/ClintonCAT",
+    "description": "Chrome Browser Extension for automatically searching Rossmann's Consumer Action Taskforce (CAT) articles for the current site being visited. ",
+    "stars": 296,
+    "language": "TypeScript",
+    "url": "https://github.com/WayneKeenan/ClintonCAT",
+    "created_at": "2025-01-27T08:22:59Z",
+    "owner": {
+      "login": "WayneKeenan",
+      "url": "https://github.com/WayneKeenan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8313142?v=4"
+    },
+    "forks": 22,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/WayneKeenan/ClintonCAT"
+  },
+  {
+    "name": "tech-shrimp/deno-api-proxy",
+    "description": "使用Deno将大模型的API 代理到国内，解决地区受限问题 Use Deno to proxy Open AI, Claude, Groq and other APIs to mainland China, breaking geographical restrictions.",
+    "stars": 288,
+    "language": "TypeScript",
+    "url": "https://github.com/tech-shrimp/deno-api-proxy",
+    "created_at": "2025-01-29T11:02:10Z",
+    "owner": {
+      "login": "tech-shrimp",
+      "url": "https://github.com/tech-shrimp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154193368?v=4"
+    },
+    "forks": 118,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tech-shrimp/deno-api-proxy"
+  }
+]

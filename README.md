@@ -9,199 +9,207 @@
 - 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
 - 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-🕒 **最后更新时间**: 2025-01-26 01:43:29
+🕒 **最后更新时间**: 2025-02-02 01:45:01
 
 ---
 
 # 📊 周榜 (过去7天)
 
-## 1. [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+## 1. [yandex/perforator](https://github.com/yandex/perforator)
 
-![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1)
+![项目预览图](https://opengraph.githubassets.com/1/yandex/perforator)
 
-⭐ **获得 Star**: 20,348
+📝 **项目描述**: Perforator is a cluster-wide continuous profiling tool designed for large data centers
 
-📅 **创建时间**: 2025-01-20
+⭐ **获得 Star**: 1,450
 
-👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
+💻 **主要编程语言**: C++
 
-🔄 **Fork 数量**: 1,272
+📅 **创建时间**: 2025-01-29
 
-⚠️ **未解决 Issues**: 63
+👤 **作者**: [yandex](https://github.com/yandex)
+
+🔄 **Fork 数量**: 43
+
+⚠️ **未解决 Issues**: 9
 
 ---
 
-## 2. [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)
+## 2. [1692775560/deepseek_project](https://github.com/1692775560/deepseek_project)
 
-![项目预览图](https://opengraph.githubassets.com/1/Tencent/Hunyuan3D-2)
+![项目预览图](https://opengraph.githubassets.com/1/1692775560/deepseek_project)
 
-📝 **项目描述**: High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
+📝 **项目描述**: Dee-seek_project
 
-⭐ **获得 Star**: 3,231
+⭐ **获得 Star**: 715
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-01-21
+📅 **创建时间**: 2025-01-27
 
-👤 **作者**: [Tencent](https://github.com/Tencent)
+👤 **作者**: [1692775560](https://github.com/1692775560)
 
-🔄 **Fork 数量**: 185
+🔄 **Fork 数量**: 113
 
-⚠️ **未解决 Issues**: 18
-
----
-
-## 3. [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam)
-
-![项目预览图](https://opengraph.githubassets.com/1/sammwyy/MikuMikuBeam)
-
-📝 **项目描述**: An open-source network stresser tool but it's Hatsune Miku
-
-⭐ **获得 Star**: 2,913
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2025-01-20
-
-👤 **作者**: [sammwyy](https://github.com/sammwyy)
-
-🔄 **Fork 数量**: 156
-
-⚠️ **未解决 Issues**: 14
+⚠️ **未解决 Issues**: 7
 
 ---
 
-## 4. [huggingface/open-r1](https://github.com/huggingface/open-r1)
+## 3. [swiftlang/swift-build](https://github.com/swiftlang/swift-build)
 
-![项目预览图](https://opengraph.githubassets.com/1/huggingface/open-r1)
+![项目预览图](https://opengraph.githubassets.com/1/swiftlang/swift-build)
 
-📝 **项目描述**: Fully open reproduction of DeepSeek-R1
+📝 **项目描述**: A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager
 
-⭐ **获得 Star**: 1,877
+⭐ **获得 Star**: 543
+
+💻 **主要编程语言**: Swift
+
+📅 **创建时间**: 2025-01-28
+
+👤 **作者**: [swiftlang](https://github.com/swiftlang)
+
+🔄 **Fork 数量**: 12
+
+⚠️ **未解决 Issues**: 30
+
+---
+
+## 4. [FractalXBT/free-ai-money-printer](https://github.com/FractalXBT/free-ai-money-printer)
+
+![项目预览图](https://opengraph.githubassets.com/1/FractalXBT/free-ai-money-printer)
+
+⭐ **获得 Star**: 491
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-01-24
+📅 **创建时间**: 2025-01-30
 
-👤 **作者**: [huggingface](https://github.com/huggingface)
+👤 **作者**: [FractalXBT](https://github.com/FractalXBT)
 
-🔄 **Fork 数量**: 142
-
-⚠️ **未解决 Issues**: 12
-
----
-
-## 5. [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers)
-
-![项目预览图](https://opengraph.githubassets.com/1/TengerTechnologies/Bricklayers)
-
-📝 **项目描述**: A processing script for Bricklayers in Prusaslicer and Orcaslicer
-
-⭐ **获得 Star**: 1,279
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-01-22
-
-👤 **作者**: [TengerTechnologies](https://github.com/TengerTechnologies)
-
-🔄 **Fork 数量**: 268
-
-⚠️ **未解决 Issues**: 35
-
----
-
-## 6. [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-
-![项目预览图](https://opengraph.githubassets.com/1/Jiayi-Pan/TinyZero)
-
-⭐ **获得 Star**: 1,123
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-01-21
-
-👤 **作者**: [Jiayi-Pan](https://github.com/Jiayi-Pan)
-
-🔄 **Fork 数量**: 73
-
-⚠️ **未解决 Issues**: 11
-
----
-
-## 7. [ekmas/cs16.css](https://github.com/ekmas/cs16.css)
-
-![项目预览图](https://opengraph.githubassets.com/1/ekmas/cs16.css)
-
-📝 **项目描述**: CSS library based on Counter Strike 1.6 UI.
-
-⭐ **获得 Star**: 826
-
-💻 **主要编程语言**: CSS
-
-📅 **创建时间**: 2025-01-22
-
-👤 **作者**: [ekmas](https://github.com/ekmas)
-
-🔄 **Fork 数量**: 17
-
-⚠️ **未解决 Issues**: 2
-
----
-
-## 8. [runevision/Dither3D](https://github.com/runevision/Dither3D)
-
-![项目预览图](https://opengraph.githubassets.com/1/runevision/Dither3D)
-
-📝 **项目描述**: Surface-Stable Fractal Dithering
-
-⭐ **获得 Star**: 610
-
-💻 **主要编程语言**: ShaderLab
-
-📅 **创建时间**: 2025-01-23
-
-👤 **作者**: [runevision](https://github.com/runevision)
-
-🔄 **Fork 数量**: 34
+🔄 **Fork 数量**: 124
 
 ⚠️ **未解决 Issues**: 0
 
 ---
 
-## 9. [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim)
+## 5. [exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat)
 
-![项目预览图](https://opengraph.githubassets.com/1/HarleyCoops/Math-To-Manim)
+![项目预览图](https://opengraph.githubassets.com/1/exa-labs/exa-deepseek-chat)
 
-⭐ **获得 Star**: 496
+📝 **项目描述**: A simple open-source chat app that uses Exa's API for web search and Deepseek R1 for reasoning
+
+⭐ **获得 Star**: 468
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-01-28
+
+👤 **作者**: [exa-labs](https://github.com/exa-labs)
+
+🔄 **Fork 数量**: 42
+
+⚠️ **未解决 Issues**: 3
+
+---
+
+## 6. [liseami/DeepRant](https://github.com/liseami/DeepRant)
+
+![项目预览图](https://opengraph.githubassets.com/1/liseami/DeepRant)
+
+📝 **项目描述**: -游戏文字交流AI嘴强王者工具
+
+⭐ **获得 Star**: 453
+
+💻 **主要编程语言**: JavaScript
+
+📅 **创建时间**: 2025-01-30
+
+👤 **作者**: [liseami](https://github.com/liseami)
+
+🔄 **Fork 数量**: 35
+
+⚠️ **未解决 Issues**: 4
+
+---
+
+## 7. [open-thoughts/open-thoughts](https://github.com/open-thoughts/open-thoughts)
+
+![项目预览图](https://opengraph.githubassets.com/1/open-thoughts/open-thoughts)
+
+📝 **项目描述**: Open Thoughts: Fully Open Data Curation for Thinking Models
+
+⭐ **获得 Star**: 437
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-01-20
+📅 **创建时间**: 2025-01-27
 
-👤 **作者**: [HarleyCoops](https://github.com/HarleyCoops)
+👤 **作者**: [open-thoughts](https://github.com/open-thoughts)
 
-🔄 **Fork 数量**: 51
+🔄 **Fork 数量**: 21
+
+⚠️ **未解决 Issues**: 2
+
+---
+
+## 8. [tsotchke/quantum_geometric_tensor](https://github.com/tsotchke/quantum_geometric_tensor)
+
+![项目预览图](https://opengraph.githubassets.com/1/tsotchke/quantum_geometric_tensor)
+
+📝 **项目描述**: High performance hybrid classical-quantum computing learning framework written in C
+
+⭐ **获得 Star**: 306
+
+💻 **主要编程语言**: C
+
+📅 **创建时间**: 2025-01-31
+
+👤 **作者**: [tsotchke](https://github.com/tsotchke)
+
+🔄 **Fork 数量**: 23
 
 ⚠️ **未解决 Issues**: 1
 
 ---
 
-## 10. [lilmoat/solana-raydium-sniper-bot](https://github.com/lilmoat/solana-raydium-sniper-bot)
+## 9. [WayneKeenan/ClintonCAT](https://github.com/WayneKeenan/ClintonCAT)
 
-![项目预览图](https://opengraph.githubassets.com/1/lilmoat/solana-raydium-sniper-bot)
+![项目预览图](https://opengraph.githubassets.com/1/WayneKeenan/ClintonCAT)
 
-📝 **项目描述**: The Solana Raydium Sniper Bot aims to catch new pools on Raydium and execute buy/sell transactions to make a profit. This Raydium sniper bot allows for manual and automated trading, giving users the flexibility to optimize their strategies and maximize returns.
+📝 **项目描述**: Chrome Browser Extension for automatically searching Rossmann's Consumer Action Taskforce (CAT) articles for the current site being visited. 
 
-⭐ **获得 Star**: 433
+⭐ **获得 Star**: 296
 
-📅 **创建时间**: 2025-01-21
+💻 **主要编程语言**: TypeScript
 
-👤 **作者**: [lilmoat](https://github.com/lilmoat)
+📅 **创建时间**: 2025-01-27
 
-🔄 **Fork 数量**: 401
+👤 **作者**: [WayneKeenan](https://github.com/WayneKeenan)
 
-⚠️ **未解决 Issues**: 1
+🔄 **Fork 数量**: 22
+
+⚠️ **未解决 Issues**: 12
+
+---
+
+## 10. [tech-shrimp/deno-api-proxy](https://github.com/tech-shrimp/deno-api-proxy)
+
+![项目预览图](https://opengraph.githubassets.com/1/tech-shrimp/deno-api-proxy)
+
+📝 **项目描述**: 使用Deno将大模型的API 代理到国内，解决地区受限问题 Use Deno to proxy Open AI, Claude, Groq and other APIs to mainland China, breaking geographical restrictions.
+
+⭐ **获得 Star**: 288
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-01-29
+
+👤 **作者**: [tech-shrimp](https://github.com/tech-shrimp)
+
+🔄 **Fork 数量**: 118
+
+⚠️ **未解决 Issues**: 4
 
 ---
 
@@ -211,105 +219,65 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1)
 
-⭐ **获得 Star**: 20,348
+⭐ **获得 Star**: 54,829
 
 📅 **创建时间**: 2025-01-20
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 1,272
+🔄 **Fork 数量**: 6,683
 
-⚠️ **未解决 Issues**: 63
+⚠️ **未解决 Issues**: 173
 
 ---
 
-## 2. [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos)
+## 2. [huggingface/open-r1](https://github.com/huggingface/open-r1)
 
-![项目预览图](https://opengraph.githubassets.com/1/NVIDIA/Cosmos)
+![项目预览图](https://opengraph.githubassets.com/1/huggingface/open-r1)
 
-📝 **项目描述**: Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
+📝 **项目描述**: Fully open reproduction of DeepSeek-R1
 
-⭐ **获得 Star**: 7,266
+⭐ **获得 Star**: 14,047
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2024-12-30
+📅 **创建时间**: 2025-01-24
 
-👤 **作者**: [NVIDIA](https://github.com/NVIDIA)
+👤 **作者**: [huggingface](https://github.com/huggingface)
 
-🔄 **Fork 数量**: 448
+🔄 **Fork 数量**: 1,097
 
-⚠️ **未解决 Issues**: 40
-
----
-
-## 3. [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents)
-
-![项目预览图](https://opengraph.githubassets.com/1/openai/openai-realtime-agents)
-
-📝 **项目描述**: This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
-
-⭐ **获得 Star**: 4,686
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2025-01-16
-
-👤 **作者**: [openai](https://github.com/openai)
-
-🔄 **Fork 数量**: 444
-
-⚠️ **未解决 Issues**: 11
+⚠️ **未解决 Issues**: 66
 
 ---
 
-## 4. [browser-use/web-ui](https://github.com/browser-use/web-ui)
+## 3. [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 
-![项目预览图](https://opengraph.githubassets.com/1/browser-use/web-ui)
+![项目预览图](https://opengraph.githubassets.com/1/Jiayi-Pan/TinyZero)
 
-📝 **项目描述**: Run AI Agent in your browser.
+📝 **项目描述**: Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 
-⭐ **获得 Star**: 3,708
+⭐ **获得 Star**: 5,698
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-01-02
+📅 **创建时间**: 2025-01-21
 
-👤 **作者**: [browser-use](https://github.com/browser-use)
+👤 **作者**: [Jiayi-Pan](https://github.com/Jiayi-Pan)
 
-🔄 **Fork 数量**: 515
+🔄 **Fork 数量**: 639
 
-⚠️ **未解决 Issues**: 74
-
----
-
-## 5. [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory)
-
-![项目预览图](https://opengraph.githubassets.com/1/SamuelSchmidgall/AgentLaboratory)
-
-📝 **项目描述**: Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
-
-⭐ **获得 Star**: 3,232
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-01-08
-
-👤 **作者**: [SamuelSchmidgall](https://github.com/SamuelSchmidgall)
-
-🔄 **Fork 数量**: 411
-
-⚠️ **未解决 Issues**: 39
+⚠️ **未解决 Issues**: 22
 
 ---
 
-## 6. [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)
+## 4. [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)
 
 ![项目预览图](https://opengraph.githubassets.com/1/Tencent/Hunyuan3D-2)
 
 📝 **项目描述**: High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 
-⭐ **获得 Star**: 3,231
+⭐ **获得 Star**: 5,396
 
 💻 **主要编程语言**: Python
 
@@ -317,27 +285,67 @@
 
 👤 **作者**: [Tencent](https://github.com/Tencent)
 
-🔄 **Fork 数量**: 185
+🔄 **Fork 数量**: 376
 
-⚠️ **未解决 Issues**: 18
+⚠️ **未解决 Issues**: 34
 
 ---
 
-## 7. [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)
+## 5. [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents)
+
+![项目预览图](https://opengraph.githubassets.com/1/openai/openai-realtime-agents)
+
+📝 **项目描述**: This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
+
+⭐ **获得 Star**: 4,793
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-01-16
+
+👤 **作者**: [openai](https://github.com/openai)
+
+🔄 **Fork 数量**: 470
+
+⚠️ **未解决 Issues**: 12
+
+---
+
+## 6. [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)
 
 ![项目预览图](https://opengraph.githubassets.com/1/t3dotgg/stripe-recommendations)
 
 📝 **项目描述**: I've built with Stripe for years. This is how I do it without going mad.
 
-⭐ **获得 Star**: 3,015
+⭐ **获得 Star**: 3,721
 
 📅 **创建时间**: 2025-01-11
 
 👤 **作者**: [t3dotgg](https://github.com/t3dotgg)
 
-🔄 **Fork 数量**: 126
+🔄 **Fork 数量**: 181
 
-⚠️ **未解决 Issues**: 5
+⚠️ **未解决 Issues**: 13
+
+---
+
+## 7. [google/pebble](https://github.com/google/pebble)
+
+![项目预览图](https://opengraph.githubassets.com/1/google/pebble)
+
+📝 **项目描述**: This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
+
+⭐ **获得 Star**: 3,673
+
+💻 **主要编程语言**: C
+
+📅 **创建时间**: 2025-01-21
+
+👤 **作者**: [google](https://github.com/google)
+
+🔄 **Fork 数量**: 198
+
+⚠️ **未解决 Issues**: 1
 
 ---
 
@@ -347,7 +355,7 @@
 
 📝 **项目描述**: An open-source network stresser tool but it's Hatsune Miku
 
-⭐ **获得 Star**: 2,913
+⭐ **获得 Star**: 3,474
 
 💻 **主要编程语言**: TypeScript
 
@@ -355,99 +363,57 @@
 
 👤 **作者**: [sammwyy](https://github.com/sammwyy)
 
-🔄 **Fork 数量**: 156
+🔄 **Fork 数量**: 206
 
-⚠️ **未解决 Issues**: 14
+⚠️ **未解决 Issues**: 23
 
 ---
 
-## 9. [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
+## 9. [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory)
 
-![项目预览图](https://opengraph.githubassets.com/1/chengazhen/cursor-auto-free)
+![项目预览图](https://opengraph.githubassets.com/1/SamuelSchmidgall/AgentLaboratory)
 
-📝 **项目描述**: auto sign cursor
+📝 **项目描述**: Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
 
-⭐ **获得 Star**: 2,839
+⭐ **获得 Star**: 3,308
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2024-12-28
+📅 **创建时间**: 2025-01-08
 
-👤 **作者**: [chengazhen](https://github.com/chengazhen)
+👤 **作者**: [SamuelSchmidgall](https://github.com/SamuelSchmidgall)
 
-🔄 **Fork 数量**: 395
+🔄 **Fork 数量**: 433
 
-⚠️ **未解决 Issues**: 15
+⚠️ **未解决 Issues**: 37
 
 ---
 
-## 10. [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder)
+## 10. [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course)
 
-![项目预览图](https://opengraph.githubassets.com/1/ericciarla/trendFinder)
+![项目预览图](https://opengraph.githubassets.com/1/henrythe9th/AI-Crash-Course)
 
-📝 **项目描述**: Stay on top of trending topics on social media and the web with AI
+📝 **项目描述**: AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks
 
-⭐ **获得 Star**: 2,515
+⭐ **获得 Star**: 2,626
 
-💻 **主要编程语言**: TypeScript
+📅 **创建时间**: 2025-01-08
 
-📅 **创建时间**: 2024-12-31
+👤 **作者**: [henrythe9th](https://github.com/henrythe9th)
 
-👤 **作者**: [ericciarla](https://github.com/ericciarla)
+🔄 **Fork 数量**: 430
 
-🔄 **Fork 数量**: 269
-
-⚠️ **未解决 Issues**: 15
+⚠️ **未解决 Issues**: 2
 
 ---
 
 # 📊 季榜 (过去90天)
 
-## 1. [microsoft/markitdown](https://github.com/microsoft/markitdown)
-
-![项目预览图](https://opengraph.githubassets.com/1/microsoft/markitdown)
-
-📝 **项目描述**: Python tool for converting files and office documents to Markdown.
-
-⭐ **获得 Star**: 35,668
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-11-13
-
-👤 **作者**: [microsoft](https://github.com/microsoft)
-
-🔄 **Fork 数量**: 1,584
-
-⚠️ **未解决 Issues**: 163
-
----
-
-## 2. [inkonchain/ink-kit](https://github.com/inkonchain/ink-kit)
-
-![项目预览图](https://opengraph.githubassets.com/1/inkonchain/ink-kit)
-
-📝 **项目描述**: Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨
-
-⭐ **获得 Star**: 25,861
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2024-11-04
-
-👤 **作者**: [inkonchain](https://github.com/inkonchain)
-
-🔄 **Fork 数量**: 247
-
-⚠️ **未解决 Issues**: 7
-
----
-
-## 3. [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+## 1. [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3)
 
-⭐ **获得 Star**: 25,467
+⭐ **获得 Star**: 67,754
 
 💻 **主要编程语言**: Python
 
@@ -455,55 +421,75 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 2,354
+🔄 **Fork 数量**: 10,043
 
-⚠️ **未解决 Issues**: 74
+⚠️ **未解决 Issues**: 221
 
 ---
 
-## 4. [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+## 2. [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1)
 
-⭐ **获得 Star**: 20,348
+⭐ **获得 Star**: 54,829
 
 📅 **创建时间**: 2025-01-20
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 1,272
+🔄 **Fork 数量**: 6,683
 
-⚠️ **未解决 Issues**: 63
+⚠️ **未解决 Issues**: 173
 
 ---
 
-## 5. [browser-use/browser-use](https://github.com/browser-use/browser-use)
+## 3. [microsoft/markitdown](https://github.com/microsoft/markitdown)
 
-![项目预览图](https://opengraph.githubassets.com/1/browser-use/browser-use)
+![项目预览图](https://opengraph.githubassets.com/1/microsoft/markitdown)
 
-📝 **项目描述**: Make websites accessible for AI agents
+📝 **项目描述**: Python tool for converting files and office documents to Markdown.
 
-⭐ **获得 Star**: 18,533
+⭐ **获得 Star**: 35,985
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2024-10-31
+📅 **创建时间**: 2024-11-13
 
-👤 **作者**: [browser-use](https://github.com/browser-use)
+👤 **作者**: [microsoft](https://github.com/microsoft)
 
-🔄 **Fork 数量**: 1,798
+🔄 **Fork 数量**: 1,611
 
-⚠️ **未解决 Issues**: 159
+⚠️ **未解决 Issues**: 168
 
 ---
 
-## 6. [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude)
+## 4. [huggingface/open-r1](https://github.com/huggingface/open-r1)
+
+![项目预览图](https://opengraph.githubassets.com/1/huggingface/open-r1)
+
+📝 **项目描述**: Fully open reproduction of DeepSeek-R1
+
+⭐ **获得 Star**: 14,047
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-01-24
+
+👤 **作者**: [huggingface](https://github.com/huggingface)
+
+🔄 **Fork 数量**: 1,097
+
+⚠️ **未解决 Issues**: 66
+
+---
+
+## 5. [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude)
 
 ![项目预览图](https://opengraph.githubassets.com/1/richards199999/Thinking-Claude)
 
 📝 **项目描述**: Let your Claude able to think
 
-⭐ **获得 Star**: 13,926
+⭐ **获得 Star**: 14,030
 
 💻 **主要编程语言**: TypeScript
 
@@ -511,39 +497,19 @@
 
 👤 **作者**: [richards199999](https://github.com/richards199999)
 
-🔄 **Fork 数量**: 1,633
+🔄 **Fork 数量**: 1,643
 
 ⚠️ **未解决 Issues**: 7
 
 ---
 
-## 7. [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-
-![项目预览图](https://opengraph.githubassets.com/1/community-scripts/ProxmoxVE)
-
-📝 **项目描述**: Proxmox VE Helper-Scripts (Community Edition) 
-
-⭐ **获得 Star**: 9,265
-
-💻 **主要编程语言**: Shell
-
-📅 **创建时间**: 2024-11-01
-
-👤 **作者**: [community-scripts](https://github.com/community-scripts)
-
-🔄 **Fork 数量**: 665
-
-⚠️ **未解决 Issues**: 19
-
----
-
-## 8. [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo)
+## 6. [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo)
 
 ![项目预览图](https://opengraph.githubassets.com/1/Tencent/HunyuanVideo)
 
 📝 **项目描述**: HunyuanVideo: A Systematic Framework For Large Video Generation Model
 
-⭐ **获得 Star**: 7,811
+⭐ **获得 Star**: 7,994
 
 💻 **主要编程语言**: Python
 
@@ -551,19 +517,19 @@
 
 👤 **作者**: [Tencent](https://github.com/Tencent)
 
-🔄 **Fork 数量**: 615
+🔄 **Fork 数量**: 648
 
-⚠️ **未解决 Issues**: 93
+⚠️ **未解决 Issues**: 100
 
 ---
 
-## 9. [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
+## 7. [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
 
 ![项目预览图](https://opengraph.githubassets.com/1/yuaotian/go-cursor-help)
 
 📝 **项目描述**: 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
-⭐ **获得 Star**: 7,513
+⭐ **获得 Star**: 7,805
 
 💻 **主要编程语言**: Go
 
@@ -571,19 +537,19 @@
 
 👤 **作者**: [yuaotian](https://github.com/yuaotian)
 
-🔄 **Fork 数量**: 1,040
+🔄 **Fork 数量**: 1,064
 
-⚠️ **未解决 Issues**: 113
+⚠️ **未解决 Issues**: 133
 
 ---
 
-## 10. [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+## 8. [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 
 ![项目预览图](https://opengraph.githubassets.com/1/modelcontextprotocol/servers)
 
 📝 **项目描述**: Model Context Protocol Servers
 
-⭐ **获得 Star**: 7,370
+⭐ **获得 Star**: 7,747
 
 💻 **主要编程语言**: JavaScript
 
@@ -591,21 +557,95 @@
 
 👤 **作者**: [modelcontextprotocol](https://github.com/modelcontextprotocol)
 
-🔄 **Fork 数量**: 887
+🔄 **Fork 数量**: 936
 
-⚠️ **未解决 Issues**: 158
+⚠️ **未解决 Issues**: 151
+
+---
+
+## 9. [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
+![项目预览图](https://opengraph.githubassets.com/1/virattt/ai-hedge-fund)
+
+📝 **项目描述**: An AI Hedge Fund Team
+
+⭐ **获得 Star**: 7,395
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2024-11-29
+
+👤 **作者**: [virattt](https://github.com/virattt)
+
+🔄 **Fork 数量**: 1,454
+
+⚠️ **未解决 Issues**: 18
+
+---
+
+## 10. [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
+
+![项目预览图](https://opengraph.githubassets.com/1/microsoft/TRELLIS)
+
+📝 **项目描述**: Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation".
+
+⭐ **获得 Star**: 7,369
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2024-12-02
+
+👤 **作者**: [microsoft](https://github.com/microsoft)
+
+🔄 **Fork 数量**: 511
+
+⚠️ **未解决 Issues**: 118
 
 ---
 
 # 📊 年榜 (过去365天)
 
-## 1. [xai-org/grok-1](https://github.com/xai-org/grok-1)
+## 1. [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+
+![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3)
+
+⭐ **获得 Star**: 67,754
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2024-12-26
+
+👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
+
+🔄 **Fork 数量**: 10,043
+
+⚠️ **未解决 Issues**: 221
+
+---
+
+## 2. [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+
+![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1)
+
+⭐ **获得 Star**: 54,829
+
+📅 **创建时间**: 2025-01-20
+
+👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
+
+🔄 **Fork 数量**: 6,683
+
+⚠️ **未解决 Issues**: 173
+
+---
+
+## 3. [xai-org/grok-1](https://github.com/xai-org/grok-1)
 
 ![项目预览图](https://opengraph.githubassets.com/1/xai-org/grok-1)
 
 📝 **项目描述**: Grok open release
 
-⭐ **获得 Star**: 49,861
+⭐ **获得 Star**: 49,883
 
 💻 **主要编程语言**: Python
 
@@ -613,49 +653,9 @@
 
 👤 **作者**: [xai-org](https://github.com/xai-org)
 
-🔄 **Fork 数量**: 8,344
+🔄 **Fork 数量**: 8,346
 
-⚠️ **未解决 Issues**: 108
-
----
-
-## 2. [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
-
-![项目预览图](https://opengraph.githubassets.com/1/All-Hands-AI/OpenHands)
-
-📝 **项目描述**: 🙌 OpenHands: Code Less, Make More
-
-⭐ **获得 Star**: 44,532
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2024-03-13
-
-👤 **作者**: [All-Hands-AI](https://github.com/All-Hands-AI)
-
-🔄 **Fork 数量**: 4,922
-
-⚠️ **未解决 Issues**: 331
-
----
-
-## 3. [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
-
-![项目预览图](https://opengraph.githubassets.com/1/DigitalPlatDev/FreeDomain)
-
-📝 **项目描述**: DigitalPlat FreeDomain: Free Domain For Everyone
-
-⭐ **获得 Star**: 41,085
-
-💻 **主要编程语言**: HTML
-
-📅 **创建时间**: 2024-05-30
-
-👤 **作者**: [DigitalPlatDev](https://github.com/DigitalPlatDev)
-
-🔄 **Fork 数量**: 905
-
-⚠️ **未解决 Issues**: 7
+⚠️ **未解决 Issues**: 109
 
 ---
 

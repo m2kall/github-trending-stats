@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/DeepSeek-R1",
+    "description": null,
+    "stars": 54829,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "created_at": "2025-01-20T11:57:28Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 6683,
+    "issues": 173,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1"
+  },
+  {
+    "name": "huggingface/open-r1",
+    "description": "Fully open reproduction of DeepSeek-R1",
+    "stars": 14047,
+    "language": "Python",
+    "url": "https://github.com/huggingface/open-r1",
+    "created_at": "2025-01-24T15:44:11Z",
+    "owner": {
+      "login": "huggingface",
+      "url": "https://github.com/huggingface",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    "forks": 1097,
+    "issues": 66,
+    "social_preview_url": "https://opengraph.githubassets.com/1/huggingface/open-r1"
+  },
+  {
+    "name": "Jiayi-Pan/TinyZero",
+    "description": "Clean, minimal, accessible reproduction of DeepSeek R1-Zero",
+    "stars": 5698,
+    "language": "Python",
+    "url": "https://github.com/Jiayi-Pan/TinyZero",
+    "created_at": "2025-01-21T16:49:12Z",
+    "owner": {
+      "login": "Jiayi-Pan",
+      "url": "https://github.com/Jiayi-Pan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55055083?v=4"
+    },
+    "forks": 639,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Jiayi-Pan/TinyZero"
+  },
+  {
+    "name": "Tencent/Hunyuan3D-2",
+    "description": "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.",
+    "stars": 5396,
+    "language": "Python",
+    "url": "https://github.com/Tencent/Hunyuan3D-2",
+    "created_at": "2025-01-21T05:21:35Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 376,
+    "issues": 34,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/Hunyuan3D-2"
+  },
+  {
+    "name": "openai/openai-realtime-agents",
+    "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
+    "stars": 4793,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/openai-realtime-agents",
+    "created_at": "2025-01-16T01:29:28Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 470,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/openai-realtime-agents"
+  },
+  {
+    "name": "t3dotgg/stripe-recommendations",
+    "description": "I've built with Stripe for years. This is how I do it without going mad.",
+    "stars": 3721,
+    "language": null,
+    "url": "https://github.com/t3dotgg/stripe-recommendations",
+    "created_at": "2025-01-11T06:44:42Z",
+    "owner": {
+      "login": "t3dotgg",
+      "url": "https://github.com/t3dotgg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6751787?v=4"
+    },
+    "forks": 181,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/t3dotgg/stripe-recommendations"
+  },
+  {
+    "name": "google/pebble",
+    "description": "This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.",
+    "stars": 3673,
+    "language": "C",
+    "url": "https://github.com/google/pebble",
+    "created_at": "2025-01-21T21:11:59Z",
+    "owner": {
+      "login": "google",
+      "url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "forks": 198,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google/pebble"
+  },
+  {
+    "name": "sammwyy/MikuMikuBeam",
+    "description": "An open-source network stresser tool but it's Hatsune Miku",
+    "stars": 3474,
+    "language": "TypeScript",
+    "url": "https://github.com/sammwyy/MikuMikuBeam",
+    "created_at": "2025-01-20T02:45:30Z",
+    "owner": {
+      "login": "sammwyy",
+      "url": "https://github.com/sammwyy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44925968?v=4"
+    },
+    "forks": 206,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sammwyy/MikuMikuBeam"
+  },
+  {
+    "name": "SamuelSchmidgall/AgentLaboratory",
+    "description": "Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas",
+    "stars": 3308,
+    "language": "Python",
+    "url": "https://github.com/SamuelSchmidgall/AgentLaboratory",
+    "created_at": "2025-01-08T02:00:51Z",
+    "owner": {
+      "login": "SamuelSchmidgall",
+      "url": "https://github.com/SamuelSchmidgall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38199369?v=4"
+    },
+    "forks": 433,
+    "issues": 37,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SamuelSchmidgall/AgentLaboratory"
+  },
+  {
+    "name": "henrythe9th/AI-Crash-Course",
+    "description": "AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks",
+    "stars": 2626,
+    "language": null,
+    "url": "https://github.com/henrythe9th/AI-Crash-Course",
+    "created_at": "2025-01-08T05:43:56Z",
+    "owner": {
+      "login": "henrythe9th",
+      "url": "https://github.com/henrythe9th",
+      "avatar_url": "https://avatars.githubusercontent.com/u/644176?v=4"
+    },
+    "forks": 430,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/henrythe9th/AI-Crash-Course"
+  }
+]

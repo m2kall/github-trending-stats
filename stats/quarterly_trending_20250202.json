@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": null,
+    "stars": 67754,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "created_at": "2024-12-26T09:52:40Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 10043,
+    "issues": 221,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-R1",
+    "description": null,
+    "stars": 54829,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "created_at": "2025-01-20T11:57:28Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 6683,
+    "issues": 173,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "stars": 35985,
+    "language": "Python",
+    "url": "https://github.com/microsoft/markitdown",
+    "created_at": "2024-11-13T19:56:40Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 1611,
+    "issues": 168,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/markitdown"
+  },
+  {
+    "name": "huggingface/open-r1",
+    "description": "Fully open reproduction of DeepSeek-R1",
+    "stars": 14047,
+    "language": "Python",
+    "url": "https://github.com/huggingface/open-r1",
+    "created_at": "2025-01-24T15:44:11Z",
+    "owner": {
+      "login": "huggingface",
+      "url": "https://github.com/huggingface",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    "forks": 1097,
+    "issues": 66,
+    "social_preview_url": "https://opengraph.githubassets.com/1/huggingface/open-r1"
+  },
+  {
+    "name": "richards199999/Thinking-Claude",
+    "description": "Let your Claude able to think",
+    "stars": 14030,
+    "language": "TypeScript",
+    "url": "https://github.com/richards199999/Thinking-Claude",
+    "created_at": "2024-11-13T10:19:21Z",
+    "owner": {
+      "login": "richards199999",
+      "url": "https://github.com/richards199999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142148415?v=4"
+    },
+    "forks": 1643,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/richards199999/Thinking-Claude"
+  },
+  {
+    "name": "Tencent/HunyuanVideo",
+    "description": "HunyuanVideo: A Systematic Framework For Large Video Generation Model",
+    "stars": 7994,
+    "language": "Python",
+    "url": "https://github.com/Tencent/HunyuanVideo",
+    "created_at": "2024-11-28T08:38:31Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 648,
+    "issues": 100,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/HunyuanVideo"
+  },
+  {
+    "name": "yuaotian/go-cursor-help",
+    "description": "解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+    "stars": 7805,
+    "language": "Go",
+    "url": "https://github.com/yuaotian/go-cursor-help",
+    "created_at": "2024-12-09T07:07:09Z",
+    "owner": {
+      "login": "yuaotian",
+      "url": "https://github.com/yuaotian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50616060?v=4"
+    },
+    "forks": 1064,
+    "issues": 133,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yuaotian/go-cursor-help"
+  },
+  {
+    "name": "modelcontextprotocol/servers",
+    "description": "Model Context Protocol Servers",
+    "stars": 7747,
+    "language": "JavaScript",
+    "url": "https://github.com/modelcontextprotocol/servers",
+    "created_at": "2024-11-19T01:10:17Z",
+    "owner": {
+      "login": "modelcontextprotocol",
+      "url": "https://github.com/modelcontextprotocol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182288589?v=4"
+    },
+    "forks": 936,
+    "issues": 151,
+    "social_preview_url": "https://opengraph.githubassets.com/1/modelcontextprotocol/servers"
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "stars": 7395,
+    "language": "Python",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "created_at": "2024-11-29T16:30:01Z",
+    "owner": {
+      "login": "virattt",
+      "url": "https://github.com/virattt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/901795?v=4"
+    },
+    "forks": 1454,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/virattt/ai-hedge-fund"
+  },
+  {
+    "name": "microsoft/TRELLIS",
+    "description": "Official repo for paper \"Structured 3D Latents for Scalable and Versatile 3D Generation\".",
+    "stars": 7369,
+    "language": "Python",
+    "url": "https://github.com/microsoft/TRELLIS",
+    "created_at": "2024-12-02T05:44:19Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 511,
+    "issues": 118,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/TRELLIS"
+  }
+]
