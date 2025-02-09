@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/DeepSeek-R1",
+    "description": null,
+    "stars": 68693,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "created_at": "2025-01-20T11:57:28Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 8838,
+    "issues": 218,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1"
+  },
+  {
+    "name": "huggingface/open-r1",
+    "description": "Fully open reproduction of DeepSeek-R1",
+    "stars": 17757,
+    "language": "Python",
+    "url": "https://github.com/huggingface/open-r1",
+    "created_at": "2025-01-24T15:44:11Z",
+    "owner": {
+      "login": "huggingface",
+      "url": "https://github.com/huggingface",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    "forks": 1474,
+    "issues": 112,
+    "social_preview_url": "https://opengraph.githubassets.com/1/huggingface/open-r1"
+  },
+  {
+    "name": "Jiayi-Pan/TinyZero",
+    "description": "Clean, minimal, accessible reproduction of DeepSeek R1-Zero",
+    "stars": 9180,
+    "language": "Python",
+    "url": "https://github.com/Jiayi-Pan/TinyZero",
+    "created_at": "2025-01-21T16:49:12Z",
+    "owner": {
+      "login": "Jiayi-Pan",
+      "url": "https://github.com/Jiayi-Pan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55055083?v=4"
+    },
+    "forks": 1196,
+    "issues": 38,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Jiayi-Pan/TinyZero"
+  },
+  {
+    "name": "Tencent/Hunyuan3D-2",
+    "description": "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.",
+    "stars": 5832,
+    "language": "Python",
+    "url": "https://github.com/Tencent/Hunyuan3D-2",
+    "created_at": "2025-01-21T05:21:35Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 424,
+    "issues": 38,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/Hunyuan3D-2"
+  },
+  {
+    "name": "openai/openai-realtime-agents",
+    "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
+    "stars": 4890,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/openai-realtime-agents",
+    "created_at": "2025-01-16T01:29:28Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 489,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/openai-realtime-agents"
+  },
+  {
+    "name": "simplescaling/s1",
+    "description": "s1: Simple test-time scaling",
+    "stars": 4160,
+    "language": "Python",
+    "url": "https://github.com/simplescaling/s1",
+    "created_at": "2025-02-01T02:38:16Z",
+    "owner": {
+      "login": "simplescaling",
+      "url": "https://github.com/simplescaling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197144242?v=4"
+    },
+    "forks": 457,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/simplescaling/s1"
+  },
+  {
+    "name": "google/pebble",
+    "description": "This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.",
+    "stars": 4108,
+    "language": "C",
+    "url": "https://github.com/google/pebble",
+    "created_at": "2025-01-21T21:11:59Z",
+    "owner": {
+      "login": "google",
+      "url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "forks": 233,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google/pebble"
+  },
+  {
+    "name": "t3dotgg/stripe-recommendations",
+    "description": "I've built with Stripe for years. This is how I do it without going mad.",
+    "stars": 3913,
+    "language": null,
+    "url": "https://github.com/t3dotgg/stripe-recommendations",
+    "created_at": "2025-01-11T06:44:42Z",
+    "owner": {
+      "login": "t3dotgg",
+      "url": "https://github.com/t3dotgg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6751787?v=4"
+    },
+    "forks": 189,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/t3dotgg/stripe-recommendations"
+  },
+  {
+    "name": "sammwyy/MikuMikuBeam",
+    "description": "An open-source network stresser tool but it's Hatsune Miku",
+    "stars": 3699,
+    "language": "TypeScript",
+    "url": "https://github.com/sammwyy/MikuMikuBeam",
+    "created_at": "2025-01-20T02:45:30Z",
+    "owner": {
+      "login": "sammwyy",
+      "url": "https://github.com/sammwyy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44925968?v=4"
+    },
+    "forks": 224,
+    "issues": 30,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sammwyy/MikuMikuBeam"
+  },
+  {
+    "name": "nickscamara/open-deep-research",
+    "description": "An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl",
+    "stars": 3310,
+    "language": "TypeScript",
+    "url": "https://github.com/nickscamara/open-deep-research",
+    "created_at": "2025-02-03T16:02:40Z",
+    "owner": {
+      "login": "nickscamara",
+      "url": "https://github.com/nickscamara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20311743?v=4"
+    },
+    "forks": 375,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nickscamara/open-deep-research"
+  }
+]

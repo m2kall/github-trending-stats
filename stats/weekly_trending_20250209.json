@@ -1,0 +1,162 @@
+[
+  {
+    "name": "nickscamara/open-deep-research",
+    "description": "An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl",
+    "stars": 3310,
+    "language": "TypeScript",
+    "url": "https://github.com/nickscamara/open-deep-research",
+    "created_at": "2025-02-03T16:02:40Z",
+    "owner": {
+      "login": "nickscamara",
+      "url": "https://github.com/nickscamara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20311743?v=4"
+    },
+    "forks": 375,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nickscamara/open-deep-research"
+  },
+  {
+    "name": "dzhng/deep-research",
+    "description": "My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.",
+    "stars": 2659,
+    "language": "TypeScript",
+    "url": "https://github.com/dzhng/deep-research",
+    "created_at": "2025-02-04T01:27:56Z",
+    "owner": {
+      "login": "dzhng",
+      "url": "https://github.com/dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4"
+    },
+    "forks": 367,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dzhng/deep-research"
+  },
+  {
+    "name": "mshumer/OpenDeepResearcher",
+    "description": null,
+    "stars": 1699,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/mshumer/OpenDeepResearcher",
+    "created_at": "2025-02-03T23:08:25Z",
+    "owner": {
+      "login": "mshumer",
+      "url": "https://github.com/mshumer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41550495?v=4"
+    },
+    "forks": 214,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mshumer/OpenDeepResearcher"
+  },
+  {
+    "name": "IsaacGemal/wikitok",
+    "description": null,
+    "stars": 620,
+    "language": "TypeScript",
+    "url": "https://github.com/IsaacGemal/wikitok",
+    "created_at": "2025-02-04T06:19:55Z",
+    "owner": {
+      "login": "IsaacGemal",
+      "url": "https://github.com/IsaacGemal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147355120?v=4"
+    },
+    "forks": 77,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/IsaacGemal/wikitok"
+  },
+  {
+    "name": "US-Artificial-Intelligence/ScrapeServ",
+    "description": "A self-hosted API that takes a URL and returns a file with browser screenshots.",
+    "stars": 463,
+    "language": "Python",
+    "url": "https://github.com/US-Artificial-Intelligence/ScrapeServ",
+    "created_at": "2025-02-05T21:25:38Z",
+    "owner": {
+      "login": "US-Artificial-Intelligence",
+      "url": "https://github.com/US-Artificial-Intelligence",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132094532?v=4"
+    },
+    "forks": 26,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/US-Artificial-Intelligence/ScrapeServ"
+  },
+  {
+    "name": "kyutai-labs/hibiki",
+    "description": "Hibiki is a model for streaming speech translation (also known as simultaneous translation). Unlike offline translation—where one waits for the end of the source utterance to start translating--- Hibiki adapts its flow to accumulate just enough context to produce a correct translation in real-time, chunk by chunk. ",
+    "stars": 431,
+    "language": "Rust",
+    "url": "https://github.com/kyutai-labs/hibiki",
+    "created_at": "2025-02-04T07:33:56Z",
+    "owner": {
+      "login": "kyutai-labs",
+      "url": "https://github.com/kyutai-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151010778?v=4"
+    },
+    "forks": 28,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/kyutai-labs/hibiki"
+  },
+  {
+    "name": "amanvirparhar/chaplin",
+    "description": "A real-time silent speech recognition tool.",
+    "stars": 401,
+    "language": "Python",
+    "url": "https://github.com/amanvirparhar/chaplin",
+    "created_at": "2025-02-03T00:45:52Z",
+    "owner": {
+      "login": "amanvirparhar",
+      "url": "https://github.com/amanvirparhar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46307450?v=4"
+    },
+    "forks": 30,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/amanvirparhar/chaplin"
+  },
+  {
+    "name": "XanderRavenCypher/blockseek",
+    "description": "Welcome to BlockSeek's official documentation. BlockSeek combines state-of-the-art AI with blockchain technology to revolutionize cryptocurrency trading and analysis.",
+    "stars": 302,
+    "language": null,
+    "url": "https://github.com/XanderRavenCypher/blockseek",
+    "created_at": "2025-02-05T16:45:08Z",
+    "owner": {
+      "login": "XanderRavenCypher",
+      "url": "https://github.com/XanderRavenCypher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197951712?v=4"
+    },
+    "forks": 11,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/XanderRavenCypher/blockseek"
+  },
+  {
+    "name": "GAIR-NLP/LIMO",
+    "description": "LIMO: Less is More for Reasoning",
+    "stars": 271,
+    "language": "Python",
+    "url": "https://github.com/GAIR-NLP/LIMO",
+    "created_at": "2025-02-04T08:37:43Z",
+    "owner": {
+      "login": "GAIR-NLP",
+      "url": "https://github.com/GAIR-NLP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121574224?v=4"
+    },
+    "forks": 9,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/GAIR-NLP/LIMO"
+  },
+  {
+    "name": "theialab/radfoam",
+    "description": "Original implementaion of \"Radiant Foam: Real-Time Differentiable Ray Tracing\"",
+    "stars": 266,
+    "language": null,
+    "url": "https://github.com/theialab/radfoam",
+    "created_at": "2025-02-04T03:47:44Z",
+    "owner": {
+      "login": "theialab",
+      "url": "https://github.com/theialab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119278726?v=4"
+    },
+    "forks": 5,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/theialab/radfoam"
+  }
+]
