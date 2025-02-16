@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/DeepSeek-R1",
+    "description": null,
+    "stars": 75676,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "created_at": "2025-01-20T11:57:28Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 9779,
+    "issues": 267,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1"
+  },
+  {
+    "name": "huggingface/open-r1",
+    "description": "Fully open reproduction of DeepSeek-R1",
+    "stars": 19947,
+    "language": "Python",
+    "url": "https://github.com/huggingface/open-r1",
+    "created_at": "2025-01-24T15:44:11Z",
+    "owner": {
+      "login": "huggingface",
+      "url": "https://github.com/huggingface",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    "forks": 1712,
+    "issues": 147,
+    "social_preview_url": "https://opengraph.githubassets.com/1/huggingface/open-r1"
+  },
+  {
+    "name": "dzhng/deep-research",
+    "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.",
+    "stars": 11863,
+    "language": "TypeScript",
+    "url": "https://github.com/dzhng/deep-research",
+    "created_at": "2025-02-04T01:27:56Z",
+    "owner": {
+      "login": "dzhng",
+      "url": "https://github.com/dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4"
+    },
+    "forks": 1166,
+    "issues": 49,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dzhng/deep-research"
+  },
+  {
+    "name": "Jiayi-Pan/TinyZero",
+    "description": "Clean, minimal, accessible reproduction of DeepSeek R1-Zero",
+    "stars": 10070,
+    "language": "Python",
+    "url": "https://github.com/Jiayi-Pan/TinyZero",
+    "created_at": "2025-01-21T16:49:12Z",
+    "owner": {
+      "login": "Jiayi-Pan",
+      "url": "https://github.com/Jiayi-Pan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55055083?v=4"
+    },
+    "forks": 1299,
+    "issues": 49,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Jiayi-Pan/TinyZero"
+  },
+  {
+    "name": "Tencent/Hunyuan3D-2",
+    "description": "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.",
+    "stars": 6136,
+    "language": "Python",
+    "url": "https://github.com/Tencent/Hunyuan3D-2",
+    "created_at": "2025-01-21T05:21:35Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 457,
+    "issues": 43,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/Hunyuan3D-2"
+  },
+  {
+    "name": "simplescaling/s1",
+    "description": "s1: Simple test-time scaling",
+    "stars": 5308,
+    "language": "Python",
+    "url": "https://github.com/simplescaling/s1",
+    "created_at": "2025-02-01T02:38:16Z",
+    "owner": {
+      "login": "simplescaling",
+      "url": "https://github.com/simplescaling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197144242?v=4"
+    },
+    "forks": 604,
+    "issues": 30,
+    "social_preview_url": "https://opengraph.githubassets.com/1/simplescaling/s1"
+  },
+  {
+    "name": "google/pebble",
+    "description": "This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.",
+    "stars": 4305,
+    "language": "C",
+    "url": "https://github.com/google/pebble",
+    "created_at": "2025-01-21T21:11:59Z",
+    "owner": {
+      "login": "google",
+      "url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "forks": 272,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google/pebble"
+  },
+  {
+    "name": "nickscamara/open-deep-research",
+    "description": "An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl",
+    "stars": 4033,
+    "language": "TypeScript",
+    "url": "https://github.com/nickscamara/open-deep-research",
+    "created_at": "2025-02-03T16:02:40Z",
+    "owner": {
+      "login": "nickscamara",
+      "url": "https://github.com/nickscamara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20311743?v=4"
+    },
+    "forks": 501,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nickscamara/open-deep-research"
+  },
+  {
+    "name": "sammwyy/MikuMikuBeam",
+    "description": "An open-source network stresser tool but it's Hatsune Miku",
+    "stars": 3802,
+    "language": "TypeScript",
+    "url": "https://github.com/sammwyy/MikuMikuBeam",
+    "created_at": "2025-01-20T02:45:30Z",
+    "owner": {
+      "login": "sammwyy",
+      "url": "https://github.com/sammwyy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44925968?v=4"
+    },
+    "forks": 239,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sammwyy/MikuMikuBeam"
+  },
+  {
+    "name": "multimodal-art-projection/YuE",
+    "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
+    "stars": 3738,
+    "language": "Python",
+    "url": "https://github.com/multimodal-art-projection/YuE",
+    "created_at": "2025-01-23T06:21:58Z",
+    "owner": {
+      "login": "multimodal-art-projection",
+      "url": "https://github.com/multimodal-art-projection",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136257670?v=4"
+    },
+    "forks": 402,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/multimodal-art-projection/YuE"
+  }
+]
