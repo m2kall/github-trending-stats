@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/open-infra-index",
+    "description": null,
+    "stars": 3033,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/open-infra-index",
+    "created_at": "2025-02-21T02:29:19Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 33,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/open-infra-index"
+  },
+  {
+    "name": "MoonshotAI/MoBA",
+    "description": "MoBA: Mixture of Block Attention for Long-Context LLMs",
+    "stars": 1333,
+    "language": "Python",
+    "url": "https://github.com/MoonshotAI/MoBA",
+    "created_at": "2025-02-17T13:27:30Z",
+    "owner": {
+      "login": "MoonshotAI",
+      "url": "https://github.com/MoonshotAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+    },
+    "forks": 72,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MoonshotAI/MoBA"
+  },
+  {
+    "name": "openai/SWELancer-Benchmark",
+    "description": "This repo contains the dataset and code for the paper \"SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?\"",
+    "stars": 1056,
+    "language": "Python",
+    "url": "https://github.com/openai/SWELancer-Benchmark",
+    "created_at": "2025-02-18T17:23:15Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 81,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/SWELancer-Benchmark"
+  },
+  {
+    "name": "Marshakut8dy9lWfi33i1dnynn/ai",
+    "description": null,
+    "stars": 979,
+    "language": null,
+    "url": "https://github.com/Marshakut8dy9lWfi33i1dnynn/ai",
+    "created_at": "2025-02-17T09:58:19Z",
+    "owner": {
+      "login": "Marshakut8dy9lWfi33i1dnynn",
+      "url": "https://github.com/Marshakut8dy9lWfi33i1dnynn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183283290?v=4"
+    },
+    "forks": 11,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Marshakut8dy9lWfi33i1dnynn/ai"
+  },
+  {
+    "name": "Open-Reasoner-Zero/Open-Reasoner-Zero",
+    "description": "Official Repo for Open-Reasoner-Zero",
+    "stars": 921,
+    "language": "Python",
+    "url": "https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero",
+    "created_at": "2025-02-19T17:28:25Z",
+    "owner": {
+      "login": "Open-Reasoner-Zero",
+      "url": "https://github.com/Open-Reasoner-Zero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198758117?v=4"
+    },
+    "forks": 31,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Open-Reasoner-Zero/Open-Reasoner-Zero"
+  },
+  {
+    "name": "HiveNexus/HiveChat",
+    "description": "An AI chat bot for small and medium-sized teams, supporting models such as Deepseek, Open AI, Claude, and Gemini. 专为中小团队设计的 AI 聊天应用，支持 Deepseek、Open AI、Claude、Gemini 等模型。",
+    "stars": 653,
+    "language": "TypeScript",
+    "url": "https://github.com/HiveNexus/HiveChat",
+    "created_at": "2025-02-19T03:38:13Z",
+    "owner": {
+      "login": "HiveNexus",
+      "url": "https://github.com/HiveNexus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197582194?v=4"
+    },
+    "forks": 85,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HiveNexus/HiveChat"
+  },
+  {
+    "name": "lucidrains/native-sparse-attention-pytorch",
+    "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
+    "stars": 402,
+    "language": "Python",
+    "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
+    "created_at": "2025-02-19T03:37:52Z",
+    "owner": {
+      "login": "lucidrains",
+      "url": "https://github.com/lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4"
+    },
+    "forks": 10,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lucidrains/native-sparse-attention-pytorch"
+  },
+  {
+    "name": "antfu/shiki-stream",
+    "description": "Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.",
+    "stars": 402,
+    "language": "HTML",
+    "url": "https://github.com/antfu/shiki-stream",
+    "created_at": "2025-02-17T10:47:41Z",
+    "owner": {
+      "login": "antfu",
+      "url": "https://github.com/antfu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11247099?v=4"
+    },
+    "forks": 5,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antfu/shiki-stream"
+  },
+  {
+    "name": "EarthZetaOrg/raydium-sniper-bot-rust",
+    "description": "Token Sniper Bot in Raydium written by Rust",
+    "stars": 396,
+    "language": "Rust",
+    "url": "https://github.com/EarthZetaOrg/raydium-sniper-bot-rust",
+    "created_at": "2025-02-20T18:24:40Z",
+    "owner": {
+      "login": "EarthZetaOrg",
+      "url": "https://github.com/EarthZetaOrg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189702198?v=4"
+    },
+    "forks": 370,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/EarthZetaOrg/raydium-sniper-bot-rust"
+  },
+  {
+    "name": "cxcscmu/Crawl4LLM",
+    "description": "Official repository for \"Crawl4LLM: Efficient Web Crawling for LLM Pretraining\"",
+    "stars": 385,
+    "language": "Python",
+    "url": "https://github.com/cxcscmu/Crawl4LLM",
+    "created_at": "2025-02-17T22:12:19Z",
+    "owner": {
+      "login": "cxcscmu",
+      "url": "https://github.com/cxcscmu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142838272?v=4"
+    },
+    "forks": 27,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cxcscmu/Crawl4LLM"
+  }
+]

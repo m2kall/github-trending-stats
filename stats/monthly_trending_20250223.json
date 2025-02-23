@@ -1,0 +1,162 @@
+[
+  {
+    "name": "dzhng/deep-research",
+    "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.",
+    "stars": 12913,
+    "language": "TypeScript",
+    "url": "https://github.com/dzhng/deep-research",
+    "created_at": "2025-02-04T01:27:56Z",
+    "owner": {
+      "login": "dzhng",
+      "url": "https://github.com/dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4"
+    },
+    "forks": 1280,
+    "issues": 58,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dzhng/deep-research"
+  },
+  {
+    "name": "simplescaling/s1",
+    "description": "s1: Simple test-time scaling",
+    "stars": 5600,
+    "language": "Python",
+    "url": "https://github.com/simplescaling/s1",
+    "created_at": "2025-02-01T02:38:16Z",
+    "owner": {
+      "login": "simplescaling",
+      "url": "https://github.com/simplescaling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197144242?v=4"
+    },
+    "forks": 635,
+    "issues": 38,
+    "social_preview_url": "https://opengraph.githubassets.com/1/simplescaling/s1"
+  },
+  {
+    "name": "Zyphra/Zonos",
+    "description": "Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.",
+    "stars": 5336,
+    "language": "Python",
+    "url": "https://github.com/Zyphra/Zonos",
+    "created_at": "2025-02-07T00:32:44Z",
+    "owner": {
+      "login": "Zyphra",
+      "url": "https://github.com/Zyphra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137229384?v=4"
+    },
+    "forks": 521,
+    "issues": 99,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Zyphra/Zonos"
+  },
+  {
+    "name": "nickscamara/open-deep-research",
+    "description": "An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl",
+    "stars": 4350,
+    "language": "TypeScript",
+    "url": "https://github.com/nickscamara/open-deep-research",
+    "created_at": "2025-02-03T16:02:40Z",
+    "owner": {
+      "login": "nickscamara",
+      "url": "https://github.com/nickscamara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20311743?v=4"
+    },
+    "forks": 528,
+    "issues": 26,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nickscamara/open-deep-research"
+  },
+  {
+    "name": "getAsterisk/deepclaude",
+    "description": "A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.",
+    "stars": 4126,
+    "language": "Rust",
+    "url": "https://github.com/getAsterisk/deepclaude",
+    "created_at": "2025-01-26T16:25:41Z",
+    "owner": {
+      "login": "getAsterisk",
+      "url": "https://github.com/getAsterisk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176251414?v=4"
+    },
+    "forks": 324,
+    "issues": 33,
+    "social_preview_url": "https://opengraph.githubassets.com/1/getAsterisk/deepclaude"
+  },
+  {
+    "name": "deepseek-ai/open-infra-index",
+    "description": null,
+    "stars": 3033,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/open-infra-index",
+    "created_at": "2025-02-21T02:29:19Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 33,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/open-infra-index"
+  },
+  {
+    "name": "stepfun-ai/Step-Audio",
+    "description": null,
+    "stars": 2958,
+    "language": "Python",
+    "url": "https://github.com/stepfun-ai/Step-Audio",
+    "created_at": "2025-02-11T05:35:12Z",
+    "owner": {
+      "login": "stepfun-ai",
+      "url": "https://github.com/stepfun-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178004800?v=4"
+    },
+    "forks": 219,
+    "issues": 35,
+    "social_preview_url": "https://opengraph.githubassets.com/1/stepfun-ai/Step-Audio"
+  },
+  {
+    "name": "yandex/perforator",
+    "description": "Perforator is a cluster-wide continuous profiling tool designed for large data centers",
+    "stars": 2912,
+    "language": "C++",
+    "url": "https://github.com/yandex/perforator",
+    "created_at": "2025-01-29T14:20:43Z",
+    "owner": {
+      "login": "yandex",
+      "url": "https://github.com/yandex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7409213?v=4"
+    },
+    "forks": 126,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yandex/perforator"
+  },
+  {
+    "name": "hkust-nlp/simpleRL-reason",
+    "description": "This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data",
+    "stars": 2880,
+    "language": "Python",
+    "url": "https://github.com/hkust-nlp/simpleRL-reason",
+    "created_at": "2025-01-25T07:16:58Z",
+    "owner": {
+      "login": "hkust-nlp",
+      "url": "https://github.com/hkust-nlp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116073107?v=4"
+    },
+    "forks": 215,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hkust-nlp/simpleRL-reason"
+  },
+  {
+    "name": "Deep-Agent/R1-V",
+    "description": "Witness the aha moment of VLM with less than $3.",
+    "stars": 2779,
+    "language": "Python",
+    "url": "https://github.com/Deep-Agent/R1-V",
+    "created_at": "2025-02-02T18:19:54Z",
+    "owner": {
+      "login": "Deep-Agent",
+      "url": "https://github.com/Deep-Agent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197049641?v=4"
+    },
+    "forks": 217,
+    "issues": 56,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Deep-Agent/R1-V"
+  }
+]
