@@ -1,0 +1,162 @@
+[
+  {
+    "name": "dzhng/deep-research",
+    "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.",
+    "stars": 13525,
+    "language": "TypeScript",
+    "url": "https://github.com/dzhng/deep-research",
+    "created_at": "2025-02-04T01:27:56Z",
+    "owner": {
+      "login": "dzhng",
+      "url": "https://github.com/dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4"
+    },
+    "forks": 1353,
+    "issues": 63,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dzhng/deep-research"
+  },
+  {
+    "name": "deepseek-ai/FlashMLA",
+    "description": "FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs",
+    "stars": 10860,
+    "language": "C++",
+    "url": "https://github.com/deepseek-ai/FlashMLA",
+    "created_at": "2025-02-21T06:31:27Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 717,
+    "issues": 39,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/FlashMLA"
+  },
+  {
+    "name": "deepseek-ai/DeepEP",
+    "description": "DeepEP: an efficient expert-parallel communication library",
+    "stars": 6736,
+    "language": "Cuda",
+    "url": "https://github.com/deepseek-ai/DeepEP",
+    "created_at": "2025-02-17T01:33:04Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 534,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepEP"
+  },
+  {
+    "name": "deepseek-ai/open-infra-index",
+    "description": "Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation",
+    "stars": 6011,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/open-infra-index",
+    "created_at": "2025-02-21T02:29:19Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 129,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/open-infra-index"
+  },
+  {
+    "name": "simplescaling/s1",
+    "description": "s1: Simple test-time scaling",
+    "stars": 5774,
+    "language": "Python",
+    "url": "https://github.com/simplescaling/s1",
+    "created_at": "2025-02-01T02:38:16Z",
+    "owner": {
+      "login": "simplescaling",
+      "url": "https://github.com/simplescaling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197144242?v=4"
+    },
+    "forks": 657,
+    "issues": 40,
+    "social_preview_url": "https://opengraph.githubassets.com/1/simplescaling/s1"
+  },
+  {
+    "name": "Zyphra/Zonos",
+    "description": "Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.",
+    "stars": 5695,
+    "language": "Python",
+    "url": "https://github.com/Zyphra/Zonos",
+    "created_at": "2025-02-07T00:32:44Z",
+    "owner": {
+      "login": "Zyphra",
+      "url": "https://github.com/Zyphra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137229384?v=4"
+    },
+    "forks": 573,
+    "issues": 113,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Zyphra/Zonos"
+  },
+  {
+    "name": "Wan-Video/Wan2.1",
+    "description": "Wan: Open and Advanced Large-Scale Video Generative Models",
+    "stars": 5523,
+    "language": "Python",
+    "url": "https://github.com/Wan-Video/Wan2.1",
+    "created_at": "2025-02-25T11:49:33Z",
+    "owner": {
+      "login": "Wan-Video",
+      "url": "https://github.com/Wan-Video",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200620180?v=4"
+    },
+    "forks": 480,
+    "issues": 98,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Wan-Video/Wan2.1"
+  },
+  {
+    "name": "deepseek-ai/3FS",
+    "description": " A high-performance distributed file system designed to address the challenges of AI training and inference workloads. ",
+    "stars": 5464,
+    "language": "C++",
+    "url": "https://github.com/deepseek-ai/3FS",
+    "created_at": "2025-02-27T13:36:53Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 443,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/3FS"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "stars": 5196,
+    "language": "Shell",
+    "url": "https://github.com/anthropics/claude-code",
+    "created_at": "2025-02-22T17:41:21Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 243,
+    "issues": 118,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/claude-code"
+  },
+  {
+    "name": "nickscamara/open-deep-research",
+    "description": "An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl",
+    "stars": 4611,
+    "language": "TypeScript",
+    "url": "https://github.com/nickscamara/open-deep-research",
+    "created_at": "2025-02-03T16:02:40Z",
+    "owner": {
+      "login": "nickscamara",
+      "url": "https://github.com/nickscamara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20311743?v=4"
+    },
+    "forks": 552,
+    "issues": 26,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nickscamara/open-deep-research"
+  }
+]

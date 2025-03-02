@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Wan-Video/Wan2.1",
+    "description": "Wan: Open and Advanced Large-Scale Video Generative Models",
+    "stars": 5523,
+    "language": "Python",
+    "url": "https://github.com/Wan-Video/Wan2.1",
+    "created_at": "2025-02-25T11:49:33Z",
+    "owner": {
+      "login": "Wan-Video",
+      "url": "https://github.com/Wan-Video",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200620180?v=4"
+    },
+    "forks": 480,
+    "issues": 98,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Wan-Video/Wan2.1"
+  },
+  {
+    "name": "deepseek-ai/3FS",
+    "description": " A high-performance distributed file system designed to address the challenges of AI training and inference workloads. ",
+    "stars": 5464,
+    "language": "C++",
+    "url": "https://github.com/deepseek-ai/3FS",
+    "created_at": "2025-02-27T13:36:53Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 443,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/3FS"
+  },
+  {
+    "name": "deepseek-ai/DualPipe",
+    "description": "A bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training.",
+    "stars": 2290,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DualPipe",
+    "created_at": "2025-02-26T13:29:57Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 185,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DualPipe"
+  },
+  {
+    "name": "deepseek-ai/smallpond",
+    "description": "A lightweight data processing framework built on DuckDB and 3FS.",
+    "stars": 1890,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/smallpond",
+    "created_at": "2025-02-24T09:28:17Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 161,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/smallpond"
+  },
+  {
+    "name": "SesameAILabs/csm",
+    "description": "A Conversational Speech Generation Model",
+    "stars": 1834,
+    "language": null,
+    "url": "https://github.com/SesameAILabs/csm",
+    "created_at": "2025-02-26T15:38:54Z",
+    "owner": {
+      "login": "SesameAILabs",
+      "url": "https://github.com/SesameAILabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136667101?v=4"
+    },
+    "forks": 30,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SesameAILabs/csm"
+  },
+  {
+    "name": "rmurai0610/MASt3R-SLAM",
+    "description": "MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors",
+    "stars": 938,
+    "language": "Python",
+    "url": "https://github.com/rmurai0610/MASt3R-SLAM",
+    "created_at": "2025-02-24T16:18:37Z",
+    "owner": {
+      "login": "rmurai0610",
+      "url": "https://github.com/rmurai0610",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17733641?v=4"
+    },
+    "forks": 55,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/rmurai0610/MASt3R-SLAM"
+  },
+  {
+    "name": "deepseek-ai/EPLB",
+    "description": "Expert Parallelism Load Balancer",
+    "stars": 908,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/EPLB",
+    "created_at": "2025-02-26T10:41:00Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 112,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/EPLB"
+  },
+  {
+    "name": "kijai/ComfyUI-WanVideoWrapper",
+    "description": null,
+    "stars": 848,
+    "language": "Python",
+    "url": "https://github.com/kijai/ComfyUI-WanVideoWrapper",
+    "created_at": "2025-02-25T18:03:11Z",
+    "owner": {
+      "login": "kijai",
+      "url": "https://github.com/kijai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40791699?v=4"
+    },
+    "forks": 41,
+    "issues": 65,
+    "social_preview_url": "https://opengraph.githubassets.com/1/kijai/ComfyUI-WanVideoWrapper"
+  },
+  {
+    "name": "deepseek-ai/profile-data",
+    "description": "Analyze computation-communication overlap in V3/R1.",
+    "stars": 756,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/profile-data",
+    "created_at": "2025-02-26T07:26:06Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 84,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/profile-data"
+  },
+  {
+    "name": "r9d9RobertVilvtp78c2flareal/4-",
+    "description": null,
+    "stars": 510,
+    "language": null,
+    "url": "https://github.com/r9d9RobertVilvtp78c2flareal/4-",
+    "created_at": "2025-02-28T10:17:57Z",
+    "owner": {
+      "login": "r9d9RobertVilvtp78c2flareal",
+      "url": "https://github.com/r9d9RobertVilvtp78c2flareal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188725885?v=4"
+    },
+    "forks": 2,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/r9d9RobertVilvtp78c2flareal/4-"
+  }
+]
