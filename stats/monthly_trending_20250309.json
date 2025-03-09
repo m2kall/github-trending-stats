@@ -1,0 +1,162 @@
+[
+  {
+    "name": "mannaandpoem/OpenManus",
+    "description": "No fortress, purely open ground.  OpenManus is Coming.",
+    "stars": 15553,
+    "language": "Python",
+    "url": "https://github.com/mannaandpoem/OpenManus",
+    "created_at": "2025-03-06T14:08:14Z",
+    "owner": {
+      "login": "mannaandpoem",
+      "url": "https://github.com/mannaandpoem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52203545?v=4"
+    },
+    "forks": 2351,
+    "issues": 206,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mannaandpoem/OpenManus"
+  },
+  {
+    "name": "deepseek-ai/FlashMLA",
+    "description": "FlashMLA: Efficient MLA decoding kernels",
+    "stars": 11207,
+    "language": "C++",
+    "url": "https://github.com/deepseek-ai/FlashMLA",
+    "created_at": "2025-02-21T06:31:27Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 782,
+    "issues": 45,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/FlashMLA"
+  },
+  {
+    "name": "deepseek-ai/3FS",
+    "description": " A high-performance distributed file system designed to address the challenges of AI training and inference workloads. ",
+    "stars": 7688,
+    "language": "C++",
+    "url": "https://github.com/deepseek-ai/3FS",
+    "created_at": "2025-02-27T13:36:53Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 677,
+    "issues": 45,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/3FS"
+  },
+  {
+    "name": "Wan-Video/Wan2.1",
+    "description": "Wan: Open and Advanced Large-Scale Video Generative Models",
+    "stars": 7578,
+    "language": "Python",
+    "url": "https://github.com/Wan-Video/Wan2.1",
+    "created_at": "2025-02-25T11:49:33Z",
+    "owner": {
+      "login": "Wan-Video",
+      "url": "https://github.com/Wan-Video",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200620180?v=4"
+    },
+    "forks": 765,
+    "issues": 119,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Wan-Video/Wan2.1"
+  },
+  {
+    "name": "lynx-family/lynx",
+    "description": "Empower the Web community and invite more to build across platforms.",
+    "stars": 7316,
+    "language": "C++",
+    "url": "https://github.com/lynx-family/lynx",
+    "created_at": "2025-03-04T07:41:43Z",
+    "owner": {
+      "login": "lynx-family",
+      "url": "https://github.com/lynx-family",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200909301?v=4"
+    },
+    "forks": 245,
+    "issues": 66,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lynx-family/lynx"
+  },
+  {
+    "name": "deepseek-ai/DeepEP",
+    "description": "DeepEP: an efficient expert-parallel communication library",
+    "stars": 7082,
+    "language": "Cuda",
+    "url": "https://github.com/deepseek-ai/DeepEP",
+    "created_at": "2025-02-17T01:33:04Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 609,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepEP"
+  },
+  {
+    "name": "deepseek-ai/open-infra-index",
+    "description": "Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation",
+    "stars": 6677,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/open-infra-index",
+    "created_at": "2025-02-21T02:29:19Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 193,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/open-infra-index"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "stars": 5926,
+    "language": "Shell",
+    "url": "https://github.com/anthropics/claude-code",
+    "created_at": "2025-02-22T17:41:21Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 291,
+    "issues": 171,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/claude-code"
+  },
+  {
+    "name": "SesameAILabs/csm",
+    "description": "A Conversational Speech Generation Model",
+    "stars": 5109,
+    "language": null,
+    "url": "https://github.com/SesameAILabs/csm",
+    "created_at": "2025-02-26T15:38:54Z",
+    "owner": {
+      "login": "SesameAILabs",
+      "url": "https://github.com/SesameAILabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136667101?v=4"
+    },
+    "forks": 159,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SesameAILabs/csm"
+  },
+  {
+    "name": "deepseek-ai/DeepGEMM",
+    "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+    "stars": 4834,
+    "language": "Cuda",
+    "url": "https://github.com/deepseek-ai/DeepGEMM",
+    "created_at": "2025-02-13T09:09:21Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 472,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepGEMM"
+  }
+]

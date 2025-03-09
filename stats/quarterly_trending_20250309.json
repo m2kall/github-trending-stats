@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": null,
+    "stars": 91431,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "created_at": "2024-12-26T09:52:40Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 14777,
+    "issues": 131,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-R1",
+    "description": null,
+    "stars": 85503,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "created_at": "2025-01-20T11:57:28Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 11031,
+    "issues": 322,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1"
+  },
+  {
+    "name": "huggingface/open-r1",
+    "description": "Fully open reproduction of DeepSeek-R1",
+    "stars": 22374,
+    "language": "Python",
+    "url": "https://github.com/huggingface/open-r1",
+    "created_at": "2025-01-24T15:44:11Z",
+    "owner": {
+      "login": "huggingface",
+      "url": "https://github.com/huggingface",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    "forks": 2005,
+    "issues": 237,
+    "social_preview_url": "https://opengraph.githubassets.com/1/huggingface/open-r1"
+  },
+  {
+    "name": "mannaandpoem/OpenManus",
+    "description": "No fortress, purely open ground.  OpenManus is Coming.",
+    "stars": 15553,
+    "language": "Python",
+    "url": "https://github.com/mannaandpoem/OpenManus",
+    "created_at": "2025-03-06T14:08:14Z",
+    "owner": {
+      "login": "mannaandpoem",
+      "url": "https://github.com/mannaandpoem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52203545?v=4"
+    },
+    "forks": 2351,
+    "issues": 206,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mannaandpoem/OpenManus"
+  },
+  {
+    "name": "dzhng/deep-research",
+    "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.",
+    "stars": 14044,
+    "language": "TypeScript",
+    "url": "https://github.com/dzhng/deep-research",
+    "created_at": "2025-02-04T01:27:56Z",
+    "owner": {
+      "login": "dzhng",
+      "url": "https://github.com/dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4"
+    },
+    "forks": 1424,
+    "issues": 63,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dzhng/deep-research"
+  },
+  {
+    "name": "huggingface/agents-course",
+    "description": "This repository contains the Hugging Face Agents Course. ",
+    "stars": 13981,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/huggingface/agents-course",
+    "created_at": "2025-01-16T19:50:22Z",
+    "owner": {
+      "login": "huggingface",
+      "url": "https://github.com/huggingface",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    "forks": 847,
+    "issues": 57,
+    "social_preview_url": "https://opengraph.githubassets.com/1/huggingface/agents-course"
+  },
+  {
+    "name": "deepseek-ai/FlashMLA",
+    "description": "FlashMLA: Efficient MLA decoding kernels",
+    "stars": 11207,
+    "language": "C++",
+    "url": "https://github.com/deepseek-ai/FlashMLA",
+    "created_at": "2025-02-21T06:31:27Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 782,
+    "issues": 45,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/FlashMLA"
+  },
+  {
+    "name": "Jiayi-Pan/TinyZero",
+    "description": "Clean, minimal, accessible reproduction of DeepSeek R1-Zero",
+    "stars": 11029,
+    "language": "Python",
+    "url": "https://github.com/Jiayi-Pan/TinyZero",
+    "created_at": "2025-01-21T16:49:12Z",
+    "owner": {
+      "login": "Jiayi-Pan",
+      "url": "https://github.com/Jiayi-Pan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55055083?v=4"
+    },
+    "forks": 1405,
+    "issues": 66,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Jiayi-Pan/TinyZero"
+  },
+  {
+    "name": "browser-use/web-ui",
+    "description": "Run AI Agent in your browser.",
+    "stars": 8714,
+    "language": "Python",
+    "url": "https://github.com/browser-use/web-ui",
+    "created_at": "2025-01-02T01:29:44Z",
+    "owner": {
+      "login": "browser-use",
+      "url": "https://github.com/browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "forks": 1437,
+    "issues": 191,
+    "social_preview_url": "https://opengraph.githubassets.com/1/browser-use/web-ui"
+  },
+  {
+    "name": "deepseek-ai/3FS",
+    "description": " A high-performance distributed file system designed to address the challenges of AI training and inference workloads. ",
+    "stars": 7688,
+    "language": "C++",
+    "url": "https://github.com/deepseek-ai/3FS",
+    "created_at": "2025-02-27T13:36:53Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 677,
+    "issues": 45,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/3FS"
+  }
+]

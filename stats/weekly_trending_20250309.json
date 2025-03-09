@@ -1,0 +1,162 @@
+[
+  {
+    "name": "mannaandpoem/OpenManus",
+    "description": "No fortress, purely open ground.  OpenManus is Coming.",
+    "stars": 15553,
+    "language": "Python",
+    "url": "https://github.com/mannaandpoem/OpenManus",
+    "created_at": "2025-03-06T14:08:14Z",
+    "owner": {
+      "login": "mannaandpoem",
+      "url": "https://github.com/mannaandpoem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52203545?v=4"
+    },
+    "forks": 2351,
+    "issues": 206,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mannaandpoem/OpenManus"
+  },
+  {
+    "name": "lynx-family/lynx",
+    "description": "Empower the Web community and invite more to build across platforms.",
+    "stars": 7316,
+    "language": "C++",
+    "url": "https://github.com/lynx-family/lynx",
+    "created_at": "2025-03-04T07:41:43Z",
+    "owner": {
+      "login": "lynx-family",
+      "url": "https://github.com/lynx-family",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200909301?v=4"
+    },
+    "forks": 245,
+    "issues": 66,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lynx-family/lynx"
+  },
+  {
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": null,
+    "stars": 4795,
+    "language": null,
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "created_at": "2025-03-05T16:38:29Z",
+    "owner": {
+      "login": "x1xhlol",
+      "url": "https://github.com/x1xhlol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185671340?v=4"
+    },
+    "forks": 2315,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "name": "camel-ai/owl",
+    "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+    "stars": 3787,
+    "language": "Python",
+    "url": "https://github.com/camel-ai/owl",
+    "created_at": "2025-03-03T15:42:51Z",
+    "owner": {
+      "login": "camel-ai",
+      "url": "https://github.com/camel-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134388954?v=4"
+    },
+    "forks": 386,
+    "issues": 38,
+    "social_preview_url": "https://opengraph.githubassets.com/1/camel-ai/owl"
+  },
+  {
+    "name": "dnakov/anon-kode",
+    "description": "koding with any LLMs",
+    "stars": 872,
+    "language": "JavaScript",
+    "url": "https://github.com/dnakov/anon-kode",
+    "created_at": "2025-03-03T20:25:47Z",
+    "owner": {
+      "login": "dnakov",
+      "url": "https://github.com/dnakov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
+    },
+    "forks": 319,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dnakov/anon-kode"
+  },
+  {
+    "name": "Tencent/HunyuanVideo-I2V",
+    "description": "HunyuanVideo-I2V: A Customizable Image-to-Video Model based on HunyuanVideo",
+    "stars": 791,
+    "language": "Python",
+    "url": "https://github.com/Tencent/HunyuanVideo-I2V",
+    "created_at": "2025-03-04T12:02:05Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 44,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/HunyuanVideo-I2V"
+  },
+  {
+    "name": "lynx-family/primjs",
+    "description": "JavaScript Engine Optimized for Lynx",
+    "stars": 558,
+    "language": "C++",
+    "url": "https://github.com/lynx-family/primjs",
+    "created_at": "2025-03-04T02:10:17Z",
+    "owner": {
+      "login": "lynx-family",
+      "url": "https://github.com/lynx-family",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200909301?v=4"
+    },
+    "forks": 18,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lynx-family/primjs"
+  },
+  {
+    "name": "akazwz/openchat-monorepo",
+    "description": "一个现代化的全栈 AI Chatbot 应用，使用 React 和 Cloudflare Workers 结合 Connect RPC 构建，通过 Tauri 支持 Web、移动 App 和桌面端",
+    "stars": 487,
+    "language": "TypeScript",
+    "url": "https://github.com/akazwz/openchat-monorepo",
+    "created_at": "2025-03-04T12:24:20Z",
+    "owner": {
+      "login": "akazwz",
+      "url": "https://github.com/akazwz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50396286?v=4"
+    },
+    "forks": 48,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/akazwz/openchat-monorepo"
+  },
+  {
+    "name": "wdanilo/eval-macro",
+    "description": null,
+    "stars": 427,
+    "language": "Rust",
+    "url": "https://github.com/wdanilo/eval-macro",
+    "created_at": "2025-03-04T06:34:46Z",
+    "owner": {
+      "login": "wdanilo",
+      "url": "https://github.com/wdanilo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1623053?v=4"
+    },
+    "forks": 9,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wdanilo/eval-macro"
+  },
+  {
+    "name": "vatsi2/DeFi-Cross-Chain-RWA-Bot-with-MEV-Protection",
+    "description": "DeFi-bot for RWA arbitrage and private derivatives with MEV protection (EigenLayer, Flashbots Protect). Trade tokenized bonds (Ondo), real estate and synthetics on Ethereum/Cosmos via Axelar. KYC (Polygon ID), multi-sig wallets (Fireblocks) and OpenZeppelin auditing. Yield 25%+",
+    "stars": 410,
+    "language": "Rust",
+    "url": "https://github.com/vatsi2/DeFi-Cross-Chain-RWA-Bot-with-MEV-Protection",
+    "created_at": "2025-03-07T13:34:42Z",
+    "owner": {
+      "login": "vatsi2",
+      "url": "https://github.com/vatsi2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161660584?v=4"
+    },
+    "forks": 101,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vatsi2/DeFi-Cross-Chain-RWA-Bot-with-MEV-Protection"
+  }
+]
