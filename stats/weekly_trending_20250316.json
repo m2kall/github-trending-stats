@@ -1,0 +1,162 @@
+[
+  {
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "stars": 5856,
+    "language": "Python",
+    "url": "https://github.com/openai/openai-agents-python",
+    "created_at": "2025-03-11T03:42:36Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 556,
+    "issues": 57,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/openai-agents-python"
+  },
+  {
+    "name": "HKUDS/AI-Researcher",
+    "description": "\"AI-Researcher: Fully-Automated Scientific Discovery with LLM Agents\" & \"Open-Sourced Alternative to Google AI Co-Scientist\"",
+    "stars": 669,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/AI-Researcher",
+    "created_at": "2025-03-11T12:48:38Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 85,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/AI-Researcher"
+  },
+  {
+    "name": "THU-MIG/yoloe",
+    "description": "YOLOE: Real-Time Seeing Anything",
+    "stars": 565,
+    "language": "Python",
+    "url": "https://github.com/THU-MIG/yoloe",
+    "created_at": "2025-03-10T08:25:11Z",
+    "owner": {
+      "login": "THU-MIG",
+      "url": "https://github.com/THU-MIG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86091366?v=4"
+    },
+    "forks": 31,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/THU-MIG/yoloe"
+  },
+  {
+    "name": "xykt/NetQuality",
+    "description": "A script for network quality detection",
+    "stars": 520,
+    "language": "Shell",
+    "url": "https://github.com/xykt/NetQuality",
+    "created_at": "2025-03-12T03:16:44Z",
+    "owner": {
+      "login": "xykt",
+      "url": "https://github.com/xykt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152045469?v=4"
+    },
+    "forks": 20,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xykt/NetQuality"
+  },
+  {
+    "name": "ppl-ai/modelcontextprotocol",
+    "description": "A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.",
+    "stars": 509,
+    "language": "JavaScript",
+    "url": "https://github.com/ppl-ai/modelcontextprotocol",
+    "created_at": "2025-03-10T19:44:02Z",
+    "owner": {
+      "login": "ppl-ai",
+      "url": "https://github.com/ppl-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110299016?v=4"
+    },
+    "forks": 44,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ppl-ai/modelcontextprotocol"
+  },
+  {
+    "name": "openai/openai-cua-sample-app",
+    "description": null,
+    "stars": 494,
+    "language": "Python",
+    "url": "https://github.com/openai/openai-cua-sample-app",
+    "created_at": "2025-03-11T14:57:29Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 102,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/openai-cua-sample-app"
+  },
+  {
+    "name": "jiachenzhu/DyT",
+    "description": "Code release for DynamicTanh (DyT)",
+    "stars": 380,
+    "language": "Python",
+    "url": "https://github.com/jiachenzhu/DyT",
+    "created_at": "2025-03-14T01:32:35Z",
+    "owner": {
+      "login": "jiachenzhu",
+      "url": "https://github.com/jiachenzhu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43979806?v=4"
+    },
+    "forks": 35,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jiachenzhu/DyT"
+  },
+  {
+    "name": "d2forum/19th",
+    "description": "第19届D2终端技术大会「热·AI」",
+    "stars": 375,
+    "language": null,
+    "url": "https://github.com/d2forum/19th",
+    "created_at": "2025-03-10T02:08:38Z",
+    "owner": {
+      "login": "d2forum",
+      "url": "https://github.com/d2forum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58558643?v=4"
+    },
+    "forks": 68,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/d2forum/19th"
+  },
+  {
+    "name": "lumalabs/imm",
+    "description": "Official implementation of Inductive Moment Matching",
+    "stars": 365,
+    "language": "Python",
+    "url": "https://github.com/lumalabs/imm",
+    "created_at": "2025-03-11T03:25:20Z",
+    "owner": {
+      "login": "lumalabs",
+      "url": "https://github.com/lumalabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85601507?v=4"
+    },
+    "forks": 6,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lumalabs/imm"
+  },
+  {
+    "name": "giacomo-b/rust-stakeholder",
+    "description": "Generate impressive-looking terminal output to look busy when stakeholders walk by",
+    "stars": 336,
+    "language": "Rust",
+    "url": "https://github.com/giacomo-b/rust-stakeholder",
+    "created_at": "2025-03-15T10:36:48Z",
+    "owner": {
+      "login": "giacomo-b",
+      "url": "https://github.com/giacomo-b",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38355805?v=4"
+    },
+    "forks": 7,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/giacomo-b/rust-stakeholder"
+  }
+]
