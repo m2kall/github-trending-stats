@@ -1,0 +1,162 @@
+[
+  {
+    "name": "TecharoHQ/anubis",
+    "description": "Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers",
+    "stars": 1202,
+    "language": "Go",
+    "url": "https://github.com/TecharoHQ/anubis",
+    "created_at": "2025-03-17T17:35:28Z",
+    "owner": {
+      "login": "TecharoHQ",
+      "url": "https://github.com/TecharoHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195942235?v=4"
+    },
+    "forks": 30,
+    "issues": 33,
+    "social_preview_url": "https://opengraph.githubassets.com/1/TecharoHQ/anubis"
+  },
+  {
+    "name": "justinpbarnett/unity-mcp",
+    "description": "A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.",
+    "stars": 777,
+    "language": "C#",
+    "url": "https://github.com/justinpbarnett/unity-mcp",
+    "created_at": "2025-03-18T11:01:58Z",
+    "owner": {
+      "login": "justinpbarnett",
+      "url": "https://github.com/justinpbarnett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42453910?v=4"
+    },
+    "forks": 97,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/justinpbarnett/unity-mcp"
+  },
+  {
+    "name": "wozulong/open-wegram-bot",
+    "description": "【零费用】一个让人呼吸顺畅的 Telegram 双向私聊机器人 🤖 / [Zero Cost] A Smooth-Operating Two-Way Private Messaging Telegram Bot 🤖 ",
+    "stars": 655,
+    "language": "JavaScript",
+    "url": "https://github.com/wozulong/open-wegram-bot",
+    "created_at": "2025-03-17T04:08:35Z",
+    "owner": {
+      "login": "wozulong",
+      "url": "https://github.com/wozulong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8010600?v=4"
+    },
+    "forks": 164,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wozulong/open-wegram-bot"
+  },
+  {
+    "name": "BytedTsinghua-SIA/DAPO",
+    "description": "An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+    "stars": 652,
+    "language": null,
+    "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+    "created_at": "2025-03-17T14:29:24Z",
+    "owner": {
+      "login": "BytedTsinghua-SIA",
+      "url": "https://github.com/BytedTsinghua-SIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203405838?v=4"
+    },
+    "forks": 21,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/BytedTsinghua-SIA/DAPO"
+  },
+  {
+    "name": "ahujasid/ableton-mcp",
+    "description": null,
+    "stars": 533,
+    "language": "Python",
+    "url": "https://github.com/ahujasid/ableton-mcp",
+    "created_at": "2025-03-19T17:00:09Z",
+    "owner": {
+      "login": "ahujasid",
+      "url": "https://github.com/ahujasid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11807284?v=4"
+    },
+    "forks": 56,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ahujasid/ableton-mcp"
+  },
+  {
+    "name": "roboflow/rf-detr",
+    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
+    "stars": 424,
+    "language": "Python",
+    "url": "https://github.com/roboflow/rf-detr",
+    "created_at": "2025-03-19T20:43:00Z",
+    "owner": {
+      "login": "roboflow",
+      "url": "https://github.com/roboflow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53104118?v=4"
+    },
+    "forks": 28,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/roboflow/rf-detr"
+  },
+  {
+    "name": "Zouuup/landrun",
+    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock LSM. Think firejail, but lightweight, user-friendly, and baked into the kernel.",
+    "stars": 361,
+    "language": "Go",
+    "url": "https://github.com/Zouuup/landrun",
+    "created_at": "2025-03-21T16:31:47Z",
+    "owner": {
+      "login": "Zouuup",
+      "url": "https://github.com/Zouuup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1652854?v=4"
+    },
+    "forks": 3,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Zouuup/landrun"
+  },
+  {
+    "name": "jae-jae/fetcher-mcp",
+    "description": "MCP server for fetch web page content using Playwright headless browser.",
+    "stars": 322,
+    "language": "TypeScript",
+    "url": "https://github.com/jae-jae/fetcher-mcp",
+    "created_at": "2025-03-19T10:54:49Z",
+    "owner": {
+      "login": "jae-jae",
+      "url": "https://github.com/jae-jae",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5620429?v=4"
+    },
+    "forks": 17,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jae-jae/fetcher-mcp"
+  },
+  {
+    "name": "nv-tlabs/3dgrut",
+    "description": null,
+    "stars": 290,
+    "language": "Cuda",
+    "url": "https://github.com/nv-tlabs/3dgrut",
+    "created_at": "2025-03-20T00:06:26Z",
+    "owner": {
+      "login": "nv-tlabs",
+      "url": "https://github.com/nv-tlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49653101?v=4"
+    },
+    "forks": 15,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nv-tlabs/3dgrut"
+  },
+  {
+    "name": "timqian/bambot",
+    "description": "Low cost (~$300) humanoid robot 🌱",
+    "stars": 278,
+    "language": "TypeScript",
+    "url": "https://github.com/timqian/bambot",
+    "created_at": "2025-03-17T15:19:05Z",
+    "owner": {
+      "login": "timqian",
+      "url": "https://github.com/timqian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5512552?v=4"
+    },
+    "forks": 21,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/timqian/bambot"
+  }
+]

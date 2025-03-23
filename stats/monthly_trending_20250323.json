@@ -1,0 +1,162 @@
+[
+  {
+    "name": "mannaandpoem/OpenManus",
+    "description": "No fortress, purely open ground.  OpenManus is Coming.",
+    "stars": 38839,
+    "language": "Python",
+    "url": "https://github.com/mannaandpoem/OpenManus",
+    "created_at": "2025-03-06T14:08:14Z",
+    "owner": {
+      "login": "mannaandpoem",
+      "url": "https://github.com/mannaandpoem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52203545?v=4"
+    },
+    "forks": 6417,
+    "issues": 498,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mannaandpoem/OpenManus"
+  },
+  {
+    "name": "camel-ai/owl",
+    "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+    "stars": 13472,
+    "language": "Python",
+    "url": "https://github.com/camel-ai/owl",
+    "created_at": "2025-03-03T15:42:51Z",
+    "owner": {
+      "login": "camel-ai",
+      "url": "https://github.com/camel-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134388954?v=4"
+    },
+    "forks": 1531,
+    "issues": 29,
+    "social_preview_url": "https://opengraph.githubassets.com/1/camel-ai/owl"
+  },
+  {
+    "name": "SesameAILabs/csm",
+    "description": "A Conversational Speech Generation Model",
+    "stars": 10899,
+    "language": "Python",
+    "url": "https://github.com/SesameAILabs/csm",
+    "created_at": "2025-02-26T15:38:54Z",
+    "owner": {
+      "login": "SesameAILabs",
+      "url": "https://github.com/SesameAILabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136667101?v=4"
+    },
+    "forks": 829,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SesameAILabs/csm"
+  },
+  {
+    "name": "lynx-family/lynx",
+    "description": "Empower the Web community and invite more to build across platforms.",
+    "stars": 10839,
+    "language": "C++",
+    "url": "https://github.com/lynx-family/lynx",
+    "created_at": "2025-03-04T07:41:43Z",
+    "owner": {
+      "login": "lynx-family",
+      "url": "https://github.com/lynx-family",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200909301?v=4"
+    },
+    "forks": 341,
+    "issues": 120,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lynx-family/lynx"
+  },
+  {
+    "name": "Wan-Video/Wan2.1",
+    "description": "Wan: Open and Advanced Large-Scale Video Generative Models",
+    "stars": 8912,
+    "language": "Python",
+    "url": "https://github.com/Wan-Video/Wan2.1",
+    "created_at": "2025-02-25T11:49:33Z",
+    "owner": {
+      "login": "Wan-Video",
+      "url": "https://github.com/Wan-Video",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200620180?v=4"
+    },
+    "forks": 952,
+    "issues": 161,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Wan-Video/Wan2.1"
+  },
+  {
+    "name": "deepseek-ai/3FS",
+    "description": " A high-performance distributed file system designed to address the challenges of AI training and inference workloads. ",
+    "stars": 8233,
+    "language": "C++",
+    "url": "https://github.com/deepseek-ai/3FS",
+    "created_at": "2025-02-27T13:36:53Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 783,
+    "issues": 79,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/3FS"
+  },
+  {
+    "name": "ahujasid/blender-mcp",
+    "description": null,
+    "stars": 7947,
+    "language": "Python",
+    "url": "https://github.com/ahujasid/blender-mcp",
+    "created_at": "2025-03-07T09:58:58Z",
+    "owner": {
+      "login": "ahujasid",
+      "url": "https://github.com/ahujasid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11807284?v=4"
+    },
+    "forks": 660,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ahujasid/blender-mcp"
+  },
+  {
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "stars": 6940,
+    "language": "Python",
+    "url": "https://github.com/openai/openai-agents-python",
+    "created_at": "2025-03-11T03:42:36Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 755,
+    "issues": 92,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/openai-agents-python"
+  },
+  {
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "stars": 6705,
+    "language": "Shell",
+    "url": "https://github.com/anthropics/claude-code",
+    "created_at": "2025-02-22T17:41:21Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 337,
+    "issues": 229,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/claude-code"
+  },
+  {
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": null,
+    "stars": 6072,
+    "language": null,
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "created_at": "2025-03-05T16:38:29Z",
+    "owner": {
+      "login": "x1xhlol",
+      "url": "https://github.com/x1xhlol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185671340?v=4"
+    },
+    "forks": 2728,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools"
+  }
+]
