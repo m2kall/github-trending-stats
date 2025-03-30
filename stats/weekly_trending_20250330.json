@@ -1,0 +1,162 @@
+[
+  {
+    "name": "golangboy/wxocr",
+    "description": "nothing",
+    "stars": 884,
+    "language": null,
+    "url": "https://github.com/golangboy/wxocr",
+    "created_at": "2025-03-24T18:23:47Z",
+    "owner": {
+      "login": "golangboy",
+      "url": "https://github.com/golangboy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43865965?v=4"
+    },
+    "forks": 1165,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/golangboy/wxocr"
+  },
+  {
+    "name": "cyfyifanchen/one-person-company",
+    "description": "一人公司 AI 工具系列，长期更新，帮助大家提升工作效率，开启一人公司! One-Person Company AI Tools Series – continuously updated to help boost productivity and empower your solo business! ",
+    "stars": 638,
+    "language": null,
+    "url": "https://github.com/cyfyifanchen/one-person-company",
+    "created_at": "2025-03-24T03:26:46Z",
+    "owner": {
+      "login": "cyfyifanchen",
+      "url": "https://github.com/cyfyifanchen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2340896?v=4"
+    },
+    "forks": 54,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cyfyifanchen/one-person-company"
+  },
+  {
+    "name": "ddCat-main/cursor-auto-register",
+    "description": "cursor-auto-register",
+    "stars": 490,
+    "language": "Python",
+    "url": "https://github.com/ddCat-main/cursor-auto-register",
+    "created_at": "2025-03-25T12:38:52Z",
+    "owner": {
+      "login": "ddCat-main",
+      "url": "https://github.com/ddCat-main",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103352702?v=4"
+    },
+    "forks": 146,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ddCat-main/cursor-auto-register"
+  },
+  {
+    "name": "lharries/whatsapp-mcp",
+    "description": null,
+    "stars": 470,
+    "language": "Python",
+    "url": "https://github.com/lharries/whatsapp-mcp",
+    "created_at": "2025-03-29T12:49:33Z",
+    "owner": {
+      "login": "lharries",
+      "url": "https://github.com/lharries",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22766134?v=4"
+    },
+    "forks": 65,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lharries/whatsapp-mcp"
+  },
+  {
+    "name": "mrexodia/ida-pro-mcp",
+    "description": "MCP Server for IDA Pro",
+    "stars": 458,
+    "language": "Python",
+    "url": "https://github.com/mrexodia/ida-pro-mcp",
+    "created_at": "2025-03-25T22:23:41Z",
+    "owner": {
+      "login": "mrexodia",
+      "url": "https://github.com/mrexodia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2458265?v=4"
+    },
+    "forks": 24,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mrexodia/ida-pro-mcp"
+  },
+  {
+    "name": "M507/RamiGPT",
+    "description": "Autonomous Privilege Escalation using OpenAI",
+    "stars": 388,
+    "language": null,
+    "url": "https://github.com/M507/RamiGPT",
+    "created_at": "2025-03-24T20:18:55Z",
+    "owner": {
+      "login": "M507",
+      "url": "https://github.com/M507",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38591075?v=4"
+    },
+    "forks": 92,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/M507/RamiGPT"
+  },
+  {
+    "name": "hyperlight-dev/hyperlight-wasm",
+    "description": "hyperlight-wasm is a rust library crate that enables Wasm Modules and components to be run inside lightweight Virtual Machine backed Sandbox. It is built on top of Hyperlight.",
+    "stars": 384,
+    "language": "Rust",
+    "url": "https://github.com/hyperlight-dev/hyperlight-wasm",
+    "created_at": "2025-03-26T11:48:48Z",
+    "owner": {
+      "login": "hyperlight-dev",
+      "url": "https://github.com/hyperlight-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183128577?v=4"
+    },
+    "forks": 10,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hyperlight-dev/hyperlight-wasm"
+  },
+  {
+    "name": "mouredev/hello-java",
+    "description": null,
+    "stars": 380,
+    "language": null,
+    "url": "https://github.com/mouredev/hello-java",
+    "created_at": "2025-03-25T11:15:12Z",
+    "owner": {
+      "login": "mouredev",
+      "url": "https://github.com/mouredev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17043402?v=4"
+    },
+    "forks": 17,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mouredev/hello-java"
+  },
+  {
+    "name": "Rukenshia/pomodoro",
+    "description": "ESP32-based focus timer with an epaper display and rotary dial",
+    "stars": 366,
+    "language": "C",
+    "url": "https://github.com/Rukenshia/pomodoro",
+    "created_at": "2025-03-29T09:24:46Z",
+    "owner": {
+      "login": "Rukenshia",
+      "url": "https://github.com/Rukenshia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1899599?v=4"
+    },
+    "forks": 6,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Rukenshia/pomodoro"
+  },
+  {
+    "name": "dbccccccc/ttsfm",
+    "description": "TTSFM is a reverse-engineered API server that mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options.",
+    "stars": 288,
+    "language": "HTML",
+    "url": "https://github.com/dbccccccc/ttsfm",
+    "created_at": "2025-03-25T09:32:21Z",
+    "owner": {
+      "login": "dbccccccc",
+      "url": "https://github.com/dbccccccc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120614547?v=4"
+    },
+    "forks": 50,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dbccccccc/ttsfm"
+  }
+]
