@@ -1,0 +1,162 @@
+[
+  {
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "stars": 8182,
+    "language": "Python",
+    "url": "https://github.com/openai/openai-agents-python",
+    "created_at": "2025-03-11T03:42:36Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 970,
+    "issues": 142,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/openai-agents-python"
+  },
+  {
+    "name": "microsoft/playwright-mcp",
+    "description": "Playwright MCP server",
+    "stars": 6931,
+    "language": "TypeScript",
+    "url": "https://github.com/microsoft/playwright-mcp",
+    "created_at": "2025-03-21T17:48:36Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 310,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/playwright-mcp"
+  },
+  {
+    "name": "mindverse/Second-Me",
+    "description": "Train your AI self, amplify you, bridge the world",
+    "stars": 6697,
+    "language": "Python",
+    "url": "https://github.com/mindverse/Second-Me",
+    "created_at": "2025-03-16T04:06:05Z",
+    "owner": {
+      "login": "mindverse",
+      "url": "https://github.com/mindverse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98323155?v=4"
+    },
+    "forks": 460,
+    "issues": 62,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mindverse/Second-Me"
+  },
+  {
+    "name": "nikmcfly/ANUS",
+    "description": null,
+    "stars": 5406,
+    "language": "Python",
+    "url": "https://github.com/nikmcfly/ANUS",
+    "created_at": "2025-03-09T18:45:54Z",
+    "owner": {
+      "login": "nikmcfly",
+      "url": "https://github.com/nikmcfly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70242477?v=4"
+    },
+    "forks": 886,
+    "issues": 67,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nikmcfly/ANUS"
+  },
+  {
+    "name": "bytedance/MegaTTS3",
+    "description": null,
+    "stars": 3929,
+    "language": "Python",
+    "url": "https://github.com/bytedance/MegaTTS3",
+    "created_at": "2025-03-20T08:57:52Z",
+    "owner": {
+      "login": "bytedance",
+      "url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "forks": 238,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bytedance/MegaTTS3"
+  },
+  {
+    "name": "LaurieWired/GhidraMCP",
+    "description": "MCP Server for Ghidra",
+    "stars": 3740,
+    "language": "Java",
+    "url": "https://github.com/LaurieWired/GhidraMCP",
+    "created_at": "2025-03-23T05:36:55Z",
+    "owner": {
+      "login": "LaurieWired",
+      "url": "https://github.com/LaurieWired",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123765654?v=4"
+    },
+    "forks": 235,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/LaurieWired/GhidraMCP"
+  },
+  {
+    "name": "canopyai/Orpheus-TTS",
+    "description": "Towards Human-Sounding Speech",
+    "stars": 3498,
+    "language": "Python",
+    "url": "https://github.com/canopyai/Orpheus-TTS",
+    "created_at": "2025-03-08T03:41:54Z",
+    "owner": {
+      "login": "canopyai",
+      "url": "https://github.com/canopyai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157303550?v=4"
+    },
+    "forks": 275,
+    "issues": 26,
+    "social_preview_url": "https://opengraph.githubassets.com/1/canopyai/Orpheus-TTS"
+  },
+  {
+    "name": "antiwork/gumroad",
+    "description": null,
+    "stars": 3170,
+    "language": "Ruby",
+    "url": "https://github.com/antiwork/gumroad",
+    "created_at": "2025-04-03T07:22:41Z",
+    "owner": {
+      "login": "antiwork",
+      "url": "https://github.com/antiwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1178890?v=4"
+    },
+    "forks": 368,
+    "issues": 24,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antiwork/gumroad"
+  },
+  {
+    "name": "KalyanKS-NLP/llm-engineer-toolkit",
+    "description": "A curated list of  120+ LLM libraries category wise. ",
+    "stars": 3131,
+    "language": null,
+    "url": "https://github.com/KalyanKS-NLP/llm-engineer-toolkit",
+    "created_at": "2025-03-09T11:07:31Z",
+    "owner": {
+      "login": "KalyanKS-NLP",
+      "url": "https://github.com/KalyanKS-NLP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202506543?v=4"
+    },
+    "forks": 515,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/KalyanKS-NLP/llm-engineer-toolkit"
+  },
+  {
+    "name": "NVIDIA/Isaac-GR00T",
+    "description": "NVIDIA Isaac GR00T N1 is the world's first open foundation model for generalized humanoid robot reasoning and skills.",
+    "stars": 3109,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/NVIDIA/Isaac-GR00T",
+    "created_at": "2025-03-11T18:34:24Z",
+    "owner": {
+      "login": "NVIDIA",
+      "url": "https://github.com/NVIDIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
+    },
+    "forks": 384,
+    "issues": 40,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NVIDIA/Isaac-GR00T"
+  }
+]

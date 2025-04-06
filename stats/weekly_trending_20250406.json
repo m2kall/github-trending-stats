@@ -1,0 +1,162 @@
+[
+  {
+    "name": "antiwork/gumroad",
+    "description": null,
+    "stars": 3170,
+    "language": "Ruby",
+    "url": "https://github.com/antiwork/gumroad",
+    "created_at": "2025-04-03T07:22:41Z",
+    "owner": {
+      "login": "antiwork",
+      "url": "https://github.com/antiwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1178890?v=4"
+    },
+    "forks": 368,
+    "issues": 24,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antiwork/gumroad"
+  },
+  {
+    "name": "boku7/Loki",
+    "description": "🧙‍♂️ Node JS C2 for backdooring vulnerable Electron applications",
+    "stars": 407,
+    "language": "C",
+    "url": "https://github.com/boku7/Loki",
+    "created_at": "2025-04-03T19:42:27Z",
+    "owner": {
+      "login": "boku7",
+      "url": "https://github.com/boku7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19784872?v=4"
+    },
+    "forks": 56,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/boku7/Loki"
+  },
+  {
+    "name": "hylarucoder/ai-flavor-remover",
+    "description": "AI 味去除 - 仅在 Gemini 2.5 Pro 上测试通过",
+    "stars": 391,
+    "language": null,
+    "url": "https://github.com/hylarucoder/ai-flavor-remover",
+    "created_at": "2025-04-02T14:13:15Z",
+    "owner": {
+      "login": "hylarucoder",
+      "url": "https://github.com/hylarucoder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5625783?v=4"
+    },
+    "forks": 32,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hylarucoder/ai-flavor-remover"
+  },
+  {
+    "name": "Alpha-VLLM/Lumina-mGPT-2.0",
+    "description": "Lumina-mGPT 2.0: Stand-alone Autoregressive Image Modeling",
+    "stars": 386,
+    "language": "Python",
+    "url": "https://github.com/Alpha-VLLM/Lumina-mGPT-2.0",
+    "created_at": "2025-04-03T03:14:13Z",
+    "owner": {
+      "login": "Alpha-VLLM",
+      "url": "https://github.com/Alpha-VLLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140153551?v=4"
+    },
+    "forks": 16,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Alpha-VLLM/Lumina-mGPT-2.0"
+  },
+  {
+    "name": "ibelick/zola",
+    "description": "Zola is a free, open-source AI chat app with multi-model support.",
+    "stars": 338,
+    "language": "TypeScript",
+    "url": "https://github.com/ibelick/zola",
+    "created_at": "2025-04-02T07:57:31Z",
+    "owner": {
+      "login": "ibelick",
+      "url": "https://github.com/ibelick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14288396?v=4"
+    },
+    "forks": 52,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ibelick/zola"
+  },
+  {
+    "name": "zhtyyx/ioe",
+    "description": "One-Stop Retail Inventory Solution",
+    "stars": 335,
+    "language": "HTML",
+    "url": "https://github.com/zhtyyx/ioe",
+    "created_at": "2025-03-31T09:29:10Z",
+    "owner": {
+      "login": "zhtyyx",
+      "url": "https://github.com/zhtyyx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50820129?v=4"
+    },
+    "forks": 56,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zhtyyx/ioe"
+  },
+  {
+    "name": "Nutlope/self.so",
+    "description": "LinkedIn -> personal site generator",
+    "stars": 296,
+    "language": "TypeScript",
+    "url": "https://github.com/Nutlope/self.so",
+    "created_at": "2025-04-02T16:48:08Z",
+    "owner": {
+      "login": "Nutlope",
+      "url": "https://github.com/Nutlope",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63742054?v=4"
+    },
+    "forks": 59,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Nutlope/self.so"
+  },
+  {
+    "name": "HKUNLP/Dream",
+    "description": "Dream 7B, a large diffusion language model",
+    "stars": 244,
+    "language": "Python",
+    "url": "https://github.com/HKUNLP/Dream",
+    "created_at": "2025-04-02T12:44:23Z",
+    "owner": {
+      "login": "HKUNLP",
+      "url": "https://github.com/HKUNLP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91107562?v=4"
+    },
+    "forks": 9,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUNLP/Dream"
+  },
+  {
+    "name": "fuzzland/sui-mev",
+    "description": "Sui Arbitrage Bot",
+    "stars": 235,
+    "language": "Rust",
+    "url": "https://github.com/fuzzland/sui-mev",
+    "created_at": "2025-04-02T19:04:13Z",
+    "owner": {
+      "login": "fuzzland",
+      "url": "https://github.com/fuzzland",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109824337?v=4"
+    },
+    "forks": 157,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/fuzzland/sui-mev"
+  },
+  {
+    "name": "ses4255/Versatile-OCR-Program",
+    "description": "Multi-modal OCR pipeline optimized for ML training (text, figure, math, tables, diagrams)",
+    "stars": 230,
+    "language": "Python",
+    "url": "https://github.com/ses4255/Versatile-OCR-Program",
+    "created_at": "2025-04-01T08:52:45Z",
+    "owner": {
+      "login": "ses4255",
+      "url": "https://github.com/ses4255",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53697153?v=4"
+    },
+    "forks": 10,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ses4255/Versatile-OCR-Program"
+  }
+]
