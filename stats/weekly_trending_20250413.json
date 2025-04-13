@@ -1,0 +1,162 @@
+[
+  {
+    "name": "test-time-training/ttt-video-dit",
+    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training",
+    "stars": 1081,
+    "language": "Python",
+    "url": "https://github.com/test-time-training/ttt-video-dit",
+    "created_at": "2025-04-07T17:40:20Z",
+    "owner": {
+      "login": "test-time-training",
+      "url": "https://github.com/test-time-training",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67626822?v=4"
+    },
+    "forks": 77,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/test-time-training/ttt-video-dit"
+  },
+  {
+    "name": "OmniSVG/OmniSVG",
+    "description": "OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.",
+    "stars": 925,
+    "language": "Python",
+    "url": "https://github.com/OmniSVG/OmniSVG",
+    "created_at": "2025-04-07T11:14:32Z",
+    "owner": {
+      "login": "OmniSVG",
+      "url": "https://github.com/OmniSVG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205936645?v=4"
+    },
+    "forks": 18,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OmniSVG/OmniSVG"
+  },
+  {
+    "name": "MoonshotAI/Kimi-VL",
+    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities",
+    "stars": 550,
+    "language": null,
+    "url": "https://github.com/MoonshotAI/Kimi-VL",
+    "created_at": "2025-04-09T08:34:29Z",
+    "owner": {
+      "login": "MoonshotAI",
+      "url": "https://github.com/MoonshotAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+    },
+    "forks": 25,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MoonshotAI/Kimi-VL"
+  },
+  {
+    "name": "ByteDance-Seed/Seed-Thinking-v1.5",
+    "description": null,
+    "stars": 508,
+    "language": null,
+    "url": "https://github.com/ByteDance-Seed/Seed-Thinking-v1.5",
+    "created_at": "2025-04-10T10:05:49Z",
+    "owner": {
+      "login": "ByteDance-Seed",
+      "url": "https://github.com/ByteDance-Seed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202897071?v=4"
+    },
+    "forks": 5,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ByteDance-Seed/Seed-Thinking-v1.5"
+  },
+  {
+    "name": "SakanaAI/AI-Scientist-v2",
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+    "stars": 439,
+    "language": "Python",
+    "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+    "created_at": "2025-04-08T06:37:25Z",
+    "owner": {
+      "login": "SakanaAI",
+      "url": "https://github.com/SakanaAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140988036?v=4"
+    },
+    "forks": 66,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SakanaAI/AI-Scientist-v2"
+  },
+  {
+    "name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "stars": 401,
+    "language": "JavaScript",
+    "url": "https://github.com/browserable/browserable",
+    "created_at": "2025-04-07T16:04:36Z",
+    "owner": {
+      "login": "browserable",
+      "url": "https://github.com/browserable",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205874579?v=4"
+    },
+    "forks": 37,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/browserable/browserable"
+  },
+  {
+    "name": "Capixabao/Crypto-Trading-Bot",
+    "description": "Best crypto trading bot",
+    "stars": 308,
+    "language": null,
+    "url": "https://github.com/Capixabao/Crypto-Trading-Bot",
+    "created_at": "2025-04-07T01:13:52Z",
+    "owner": {
+      "login": "Capixabao",
+      "url": "https://github.com/Capixabao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130925191?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Capixabao/Crypto-Trading-Bot"
+  },
+  {
+    "name": "lum3on/comfyui_HiDream-Sampler",
+    "description": "ComfyUI Wrapper for HiDream",
+    "stars": 279,
+    "language": "Python",
+    "url": "https://github.com/lum3on/comfyui_HiDream-Sampler",
+    "created_at": "2025-04-08T22:04:20Z",
+    "owner": {
+      "login": "lum3on",
+      "url": "https://github.com/lum3on",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197819028?v=4"
+    },
+    "forks": 25,
+    "issues": 49,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lum3on/comfyui_HiDream-Sampler"
+  },
+  {
+    "name": "cryptocj520/bphltaoli",
+    "description": "bphltaoli",
+    "stars": 224,
+    "language": "Python",
+    "url": "https://github.com/cryptocj520/bphltaoli",
+    "created_at": "2025-04-07T14:07:17Z",
+    "owner": {
+      "login": "cryptocj520",
+      "url": "https://github.com/cryptocj520",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204736459?v=4"
+    },
+    "forks": 148,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cryptocj520/bphltaoli"
+  },
+  {
+    "name": "shenyanpai/awesome-summer-camp-2025",
+    "description": "2025年度保研夏令营通知合集（完整版）",
+    "stars": 200,
+    "language": null,
+    "url": "https://github.com/shenyanpai/awesome-summer-camp-2025",
+    "created_at": "2025-04-08T18:45:04Z",
+    "owner": {
+      "login": "shenyanpai",
+      "url": "https://github.com/shenyanpai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205936687?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/shenyanpai/awesome-summer-camp-2025"
+  }
+]
