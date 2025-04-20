@@ -1,0 +1,162 @@
+[
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "stars": 17591,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/codex",
+    "created_at": "2025-04-13T05:37:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 1516,
+    "issues": 150,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/codex"
+  },
+  {
+    "name": "google/A2A",
+    "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
+    "stars": 12215,
+    "language": "Python",
+    "url": "https://github.com/google/A2A",
+    "created_at": "2025-03-25T18:44:21Z",
+    "owner": {
+      "login": "google",
+      "url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "forks": 923,
+    "issues": 89,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google/A2A"
+  },
+  {
+    "name": "google/adk-python",
+    "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "stars": 7121,
+    "language": "Python",
+    "url": "https://github.com/google/adk-python",
+    "created_at": "2025-04-01T20:44:40Z",
+    "owner": {
+      "login": "google",
+      "url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "forks": 640,
+    "issues": 125,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google/adk-python"
+  },
+  {
+    "name": "antiwork/gumroad",
+    "description": null,
+    "stars": 5191,
+    "language": "Ruby",
+    "url": "https://github.com/antiwork/gumroad",
+    "created_at": "2025-04-03T07:22:41Z",
+    "owner": {
+      "login": "antiwork",
+      "url": "https://github.com/antiwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1178890?v=4"
+    },
+    "forks": 740,
+    "issues": 25,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antiwork/gumroad"
+  },
+  {
+    "name": "lllyasviel/FramePack",
+    "description": "Lets make video diffusion practical!",
+    "stars": 4893,
+    "language": "Python",
+    "url": "https://github.com/lllyasviel/FramePack",
+    "created_at": "2025-04-12T14:45:22Z",
+    "owner": {
+      "login": "lllyasviel",
+      "url": "https://github.com/lllyasviel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19834515?v=4"
+    },
+    "forks": 228,
+    "issues": 105,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lllyasviel/FramePack"
+  },
+  {
+    "name": "LaurieWired/GhidraMCP",
+    "description": "MCP Server for Ghidra",
+    "stars": 4202,
+    "language": "Java",
+    "url": "https://github.com/LaurieWired/GhidraMCP",
+    "created_at": "2025-03-23T05:36:55Z",
+    "owner": {
+      "login": "LaurieWired",
+      "url": "https://github.com/LaurieWired",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123765654?v=4"
+    },
+    "forks": 281,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/LaurieWired/GhidraMCP"
+  },
+  {
+    "name": "jamez-bondos/awesome-gpt4o-images",
+    "description": "Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model. ",
+    "stars": 3580,
+    "language": null,
+    "url": "https://github.com/jamez-bondos/awesome-gpt4o-images",
+    "created_at": "2025-04-13T15:34:48Z",
+    "owner": {
+      "login": "jamez-bondos",
+      "url": "https://github.com/jamez-bondos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202651917?v=4"
+    },
+    "forks": 309,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jamez-bondos/awesome-gpt4o-images"
+  },
+  {
+    "name": "lharries/whatsapp-mcp",
+    "description": "WhatsApp MCP server",
+    "stars": 3417,
+    "language": "Go",
+    "url": "https://github.com/lharries/whatsapp-mcp",
+    "created_at": "2025-03-29T12:49:33Z",
+    "owner": {
+      "login": "lharries",
+      "url": "https://github.com/lharries",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22766134?v=4"
+    },
+    "forks": 433,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lharries/whatsapp-mcp"
+  },
+  {
+    "name": "QwenLM/Qwen2.5-Omni",
+    "description": "Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation.",
+    "stars": 2591,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/QwenLM/Qwen2.5-Omni",
+    "created_at": "2025-03-22T01:43:13Z",
+    "owner": {
+      "login": "QwenLM",
+      "url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "forks": 192,
+    "issues": 102,
+    "social_preview_url": "https://opengraph.githubassets.com/1/QwenLM/Qwen2.5-Omni"
+  },
+  {
+    "name": "hxu296/tariff",
+    "description": "The official repository for tariff",
+    "stars": 2416,
+    "language": "Python",
+    "url": "https://github.com/hxu296/tariff",
+    "created_at": "2025-04-10T19:10:35Z",
+    "owner": {
+      "login": "hxu296",
+      "url": "https://github.com/hxu296",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61036578?v=4"
+    },
+    "forks": 36,
+    "issues": 76,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hxu296/tariff"
+  }
+]
