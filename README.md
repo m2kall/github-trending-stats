@@ -9,205 +9,203 @@
 - 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
 - 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-🕒 **最后更新时间**: 2025-04-20 02:00:23
+🕒 **最后更新时间**: 2025-04-27 02:00:53
 
 ---
 
 # 📊 周榜 (过去7天)
 
-## 1. [123xiao/sex-agreement-app](https://github.com/123xiao/sex-agreement-app)
+## 1. [SandAI-org/MAGI-1](https://github.com/SandAI-org/MAGI-1)
 
-![项目预览图](https://opengraph.githubassets.com/1/123xiao/sex-agreement-app)
+![项目预览图](https://opengraph.githubassets.com/1/SandAI-org/MAGI-1)
 
-📝 **项目描述**: 性行为同意协议系统
+📝 **项目描述**: MAGI-1: Autoregressive Video Generation at Scale
 
-⭐ **获得 Star**: 990
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2025-04-16
-
-👤 **作者**: [123xiao](https://github.com/123xiao)
-
-🔄 **Fork 数量**: 117
-
-⚠️ **未解决 Issues**: 52
-
----
-
-## 2. [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
-
-![项目预览图](https://opengraph.githubassets.com/1/harishsg993010/damn-vulnerable-MCP-server)
-
-📝 **项目描述**: Damn Vulnerable MCP Server
-
-⭐ **获得 Star**: 681
+⭐ **获得 Star**: 2,626
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-04-16
+📅 **创建时间**: 2025-04-21
 
-👤 **作者**: [harishsg993010](https://github.com/harishsg993010)
+👤 **作者**: [SandAI-org](https://github.com/SandAI-org)
 
-🔄 **Fork 数量**: 32
+🔄 **Fork 数量**: 118
 
-⚠️ **未解决 Issues**: 4
-
----
-
-## 3. [LYiHub/mad-professor-public](https://github.com/LYiHub/mad-professor-public)
-
-![项目预览图](https://opengraph.githubassets.com/1/LYiHub/mad-professor-public)
-
-📝 **项目描述**: An AI companion for reading papers.
-
-⭐ **获得 Star**: 538
-
-💻 **主要编程语言**: JavaScript
-
-📅 **创建时间**: 2025-04-18
-
-👤 **作者**: [LYiHub](https://github.com/LYiHub)
-
-🔄 **Fork 数量**: 67
-
-⚠️ **未解决 Issues**: 10
+⚠️ **未解决 Issues**: 15
 
 ---
 
-## 4. [kijai/ComfyUI-FramePackWrapper](https://github.com/kijai/ComfyUI-FramePackWrapper)
+## 2. [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)
 
-![项目预览图](https://opengraph.githubassets.com/1/kijai/ComfyUI-FramePackWrapper)
+![项目预览图](https://opengraph.githubassets.com/1/MoonshotAI/Kimi-Audio)
 
-⭐ **获得 Star**: 511
+📝 **项目描述**: Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation
+
+⭐ **获得 Star**: 494
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-04-17
+📅 **创建时间**: 2025-04-25
 
-👤 **作者**: [kijai](https://github.com/kijai)
+👤 **作者**: [MoonshotAI](https://github.com/MoonshotAI)
 
-🔄 **Fork 数量**: 14
+🔄 **Fork 数量**: 23
 
-⚠️ **未解决 Issues**: 0
-
----
-
-## 5. [cicere/pumpswap-volume-bot](https://github.com/cicere/pumpswap-volume-bot)
-
-![项目预览图](https://opengraph.githubassets.com/1/cicere/pumpswap-volume-bot)
-
-📝 **项目描述**: A PumpSwap volume bot for Solana. Also supports CPMM/OpenBook Raydium. Same-TX or human mode.
-
-⭐ **获得 Star**: 510
-
-💻 **主要编程语言**: JavaScript
-
-📅 **创建时间**: 2025-04-16
-
-👤 **作者**: [cicere](https://github.com/cicere)
-
-🔄 **Fork 数量**: 7
-
-⚠️ **未解决 Issues**: 0
+⚠️ **未解决 Issues**: 7
 
 ---
 
-## 6. [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana)
+## 3. [Aeastr/Portal](https://github.com/Aeastr/Portal)
 
-![项目预览图](https://opengraph.githubassets.com/1/arpanghosh8453/garmin-grafana)
+![项目预览图](https://opengraph.githubassets.com/1/Aeastr/Portal)
 
-📝 **项目描述**: A Python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana
+📝 **项目描述**: Seamless element transitions between root, sheets, and navigation pushes in SwiftUI.
 
-⭐ **获得 Star**: 396
+⭐ **获得 Star**: 442
 
-💻 **主要编程语言**: Python
+💻 **主要编程语言**: Swift
 
-📅 **创建时间**: 2025-04-14
+📅 **创建时间**: 2025-04-21
 
-👤 **作者**: [arpanghosh8453](https://github.com/arpanghosh8453)
+👤 **作者**: [Aeastr](https://github.com/Aeastr)
 
-🔄 **Fork 数量**: 19
+🔄 **Fork 数量**: 11
 
 ⚠️ **未解决 Issues**: 1
 
 ---
 
-## 7. [openai/openai-fm](https://github.com/openai/openai-fm)
+## 4. [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit)
 
-![项目预览图](https://opengraph.githubassets.com/1/openai/openai-fm)
+![项目预览图](https://opengraph.githubassets.com/1/stepfun-ai/Step1X-Edit)
 
-📝 **项目描述**: Code for openai.fm, a demo for the OpenAI Speech API
+⭐ **获得 Star**: 368
 
-⭐ **获得 Star**: 386
+💻 **主要编程语言**: Python
 
-💻 **主要编程语言**: TypeScript
+📅 **创建时间**: 2025-04-23
 
-📅 **创建时间**: 2025-04-15
+👤 **作者**: [stepfun-ai](https://github.com/stepfun-ai)
 
-👤 **作者**: [openai](https://github.com/openai)
+🔄 **Fork 数量**: 13
 
-🔄 **Fork 数量**: 37
+⚠️ **未解决 Issues**: 8
+
+---
+
+## 5. [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code)
+
+![项目预览图](https://opengraph.githubassets.com/1/going-doer/Paper2Code)
+
+📝 **项目描述**: Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
+
+⭐ **获得 Star**: 361
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-04-25
+
+👤 **作者**: [going-doer](https://github.com/going-doer)
+
+🔄 **Fork 数量**: 57
 
 ⚠️ **未解决 Issues**: 3
 
 ---
 
-## 8. [Tencent/InstantCharacter](https://github.com/Tencent/InstantCharacter)
+## 6. [zaidmukaddam/scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat)
 
-![项目预览图](https://opengraph.githubassets.com/1/Tencent/InstantCharacter)
+![项目预览图](https://opengraph.githubassets.com/1/zaidmukaddam/scira-mcp-chat)
 
-⭐ **获得 Star**: 370
+📝 **项目描述**: A minimalistic MCP client with a good feature set.
 
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-04-16
-
-👤 **作者**: [Tencent](https://github.com/Tencent)
-
-🔄 **Fork 数量**: 22
-
-⚠️ **未解决 Issues**: 13
-
----
-
-## 9. [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield)
-
-![项目预览图](https://opengraph.githubassets.com/1/riseandignite/mcp-shield)
-
-📝 **项目描述**: Security scanner for MCP servers
-
-⭐ **获得 Star**: 353
+⭐ **获得 Star**: 327
 
 💻 **主要编程语言**: TypeScript
 
-📅 **创建时间**: 2025-04-15
+📅 **创建时间**: 2025-04-21
 
-👤 **作者**: [riseandignite](https://github.com/riseandignite)
+👤 **作者**: [zaidmukaddam](https://github.com/zaidmukaddam)
 
-🔄 **Fork 数量**: 10
+🔄 **Fork 数量**: 43
 
 ⚠️ **未解决 Issues**: 2
 
 ---
 
-## 10. [facebookresearch/perception_models](https://github.com/facebookresearch/perception_models)
+## 7. [skanger/zifei-panel](https://github.com/skanger/zifei-panel)
 
-![项目预览图](https://opengraph.githubassets.com/1/facebookresearch/perception_models)
+![项目预览图](https://opengraph.githubassets.com/1/skanger/zifei-panel)
 
-📝 **项目描述**: State-of-the-art Image & Video CLIP, Multimodal Large Language Models, and More!
+⭐ **获得 Star**: 326
 
-⭐ **获得 Star**: 324
+💻 **主要编程语言**: JavaScript
 
-💻 **主要编程语言**: Jupyter Notebook
+📅 **创建时间**: 2025-04-23
 
-📅 **创建时间**: 2025-04-16
+👤 **作者**: [skanger](https://github.com/skanger)
 
-👤 **作者**: [facebookresearch](https://github.com/facebookresearch)
+🔄 **Fork 数量**: 138
 
-🔄 **Fork 数量**: 13
+⚠️ **未解决 Issues**: 0
 
-⚠️ **未解决 Issues**: 5
+---
+
+## 8. [PRIME-RL/TTRL](https://github.com/PRIME-RL/TTRL)
+
+![项目预览图](https://opengraph.githubassets.com/1/PRIME-RL/TTRL)
+
+📝 **项目描述**: TTRL: Test-Time Reinforcement Learning
+
+⭐ **获得 Star**: 264
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-04-23
+
+👤 **作者**: [PRIME-RL](https://github.com/PRIME-RL)
+
+🔄 **Fork 数量**: 20
+
+⚠️ **未解决 Issues**: 4
+
+---
+
+## 9. [yonggekkk/ArgoSB](https://github.com/yonggekkk/ArgoSB)
+
+![项目预览图](https://opengraph.githubassets.com/1/yonggekkk/ArgoSB)
+
+📝 **项目描述**: ArgoSB一键无交互vmess代理脚本：最新sing-box内核+最新Cloudflared-Argo内核，最多输出13个Argo不死优选IP节点
+
+⭐ **获得 Star**: 245
+
+💻 **主要编程语言**: Shell
+
+📅 **创建时间**: 2025-04-22
+
+👤 **作者**: [yonggekkk](https://github.com/yonggekkk)
+
+🔄 **Fork 数量**: 152
+
+⚠️ **未解决 Issues**: 1
+
+---
+
+## 10. [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI)
+
+![项目预览图](https://opengraph.githubassets.com/1/Tencent-TDS/KuiklyUI)
+
+⭐ **获得 Star**: 226
+
+💻 **主要编程语言**: Kotlin
+
+📅 **创建时间**: 2025-04-24
+
+👤 **作者**: [Tencent-TDS](https://github.com/Tencent-TDS)
+
+🔄 **Fork 数量**: 19
+
+⚠️ **未解决 Issues**: 3
 
 ---
 
@@ -219,7 +217,7 @@
 
 📝 **项目描述**: Lightweight coding agent that runs in your terminal
 
-⭐ **获得 Star**: 17,591
+⭐ **获得 Star**: 20,415
 
 💻 **主要编程语言**: TypeScript
 
@@ -227,77 +225,39 @@
 
 👤 **作者**: [openai](https://github.com/openai)
 
-🔄 **Fork 数量**: 1,516
+🔄 **Fork 数量**: 1,907
 
-⚠️ **未解决 Issues**: 150
+⚠️ **未解决 Issues**: 187
 
 ---
 
-## 2. [google/A2A](https://github.com/google/A2A)
+## 2. [nari-labs/dia](https://github.com/nari-labs/dia)
 
-![项目预览图](https://opengraph.githubassets.com/1/google/A2A)
+![项目预览图](https://opengraph.githubassets.com/1/nari-labs/dia)
 
-📝 **项目描述**: An open protocol enabling communication and interoperability between opaque agentic applications.
+📝 **项目描述**: A TTS model capable of generating ultra-realistic dialogue in one pass.
 
-⭐ **获得 Star**: 12,215
+⭐ **获得 Star**: 11,933
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-03-25
+📅 **创建时间**: 2025-04-19
 
-👤 **作者**: [google](https://github.com/google)
+👤 **作者**: [nari-labs](https://github.com/nari-labs)
 
-🔄 **Fork 数量**: 923
+🔄 **Fork 数量**: 793
 
-⚠️ **未解决 Issues**: 89
-
----
-
-## 3. [google/adk-python](https://github.com/google/adk-python)
-
-![项目预览图](https://opengraph.githubassets.com/1/google/adk-python)
-
-📝 **项目描述**: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-
-⭐ **获得 Star**: 7,121
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-04-01
-
-👤 **作者**: [google](https://github.com/google)
-
-🔄 **Fork 数量**: 640
-
-⚠️ **未解决 Issues**: 125
+⚠️ **未解决 Issues**: 61
 
 ---
 
-## 4. [antiwork/gumroad](https://github.com/antiwork/gumroad)
-
-![项目预览图](https://opengraph.githubassets.com/1/antiwork/gumroad)
-
-⭐ **获得 Star**: 5,191
-
-💻 **主要编程语言**: Ruby
-
-📅 **创建时间**: 2025-04-03
-
-👤 **作者**: [antiwork](https://github.com/antiwork)
-
-🔄 **Fork 数量**: 740
-
-⚠️ **未解决 Issues**: 25
-
----
-
-## 5. [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack)
+## 3. [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack)
 
 ![项目预览图](https://opengraph.githubassets.com/1/lllyasviel/FramePack)
 
 📝 **项目描述**: Lets make video diffusion practical!
 
-⭐ **获得 Star**: 4,893
+⭐ **获得 Star**: 10,232
 
 💻 **主要编程语言**: Python
 
@@ -305,29 +265,67 @@
 
 👤 **作者**: [lllyasviel](https://github.com/lllyasviel)
 
-🔄 **Fork 数量**: 228
+🔄 **Fork 数量**: 757
 
-⚠️ **未解决 Issues**: 105
+⚠️ **未解决 Issues**: 237
 
 ---
 
-## 6. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+## 4. [google/adk-python](https://github.com/google/adk-python)
 
-![项目预览图](https://opengraph.githubassets.com/1/LaurieWired/GhidraMCP)
+![项目预览图](https://opengraph.githubassets.com/1/google/adk-python)
 
-📝 **项目描述**: MCP Server for Ghidra
+📝 **项目描述**: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
-⭐ **获得 Star**: 4,202
+⭐ **获得 Star**: 7,776
 
-💻 **主要编程语言**: Java
+💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-03-23
+📅 **创建时间**: 2025-04-01
 
-👤 **作者**: [LaurieWired](https://github.com/LaurieWired)
+👤 **作者**: [google](https://github.com/google)
 
-🔄 **Fork 数量**: 281
+🔄 **Fork 数量**: 736
 
-⚠️ **未解决 Issues**: 19
+⚠️ **未解决 Issues**: 167
+
+---
+
+## 5. [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
+
+![项目预览图](https://opengraph.githubassets.com/1/The-Pocket/Tutorial-Codebase-Knowledge)
+
+📝 **项目描述**: Turns Codebase into Easy Tutorial with AI
+
+⭐ **获得 Star**: 5,954
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-04-02
+
+👤 **作者**: [The-Pocket](https://github.com/The-Pocket)
+
+🔄 **Fork 数量**: 460
+
+⚠️ **未解决 Issues**: 20
+
+---
+
+## 6. [antiwork/gumroad](https://github.com/antiwork/gumroad)
+
+![项目预览图](https://opengraph.githubassets.com/1/antiwork/gumroad)
+
+⭐ **获得 Star**: 5,279
+
+💻 **主要编程语言**: Ruby
+
+📅 **创建时间**: 2025-04-03
+
+👤 **作者**: [antiwork](https://github.com/antiwork)
+
+🔄 **Fork 数量**: 758
+
+⚠️ **未解决 Issues**: 32
 
 ---
 
@@ -337,15 +335,15 @@
 
 📝 **项目描述**: Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model. 
 
-⭐ **获得 Star**: 3,580
+⭐ **获得 Star**: 4,503
 
 📅 **创建时间**: 2025-04-13
 
 👤 **作者**: [jamez-bondos](https://github.com/jamez-bondos)
 
-🔄 **Fork 数量**: 309
+🔄 **Fork 数量**: 392
 
-⚠️ **未解决 Issues**: 1
+⚠️ **未解决 Issues**: 0
 
 ---
 
@@ -355,7 +353,7 @@
 
 📝 **项目描述**: WhatsApp MCP server
 
-⭐ **获得 Star**: 3,417
+⭐ **获得 Star**: 3,546
 
 💻 **主要编程语言**: Go
 
@@ -363,29 +361,27 @@
 
 👤 **作者**: [lharries](https://github.com/lharries)
 
-🔄 **Fork 数量**: 433
+🔄 **Fork 数量**: 457
 
-⚠️ **未解决 Issues**: 27
+⚠️ **未解决 Issues**: 31
 
 ---
 
-## 9. [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni)
+## 9. [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
 
-![项目预览图](https://opengraph.githubassets.com/1/QwenLM/Qwen2.5-Omni)
+![项目预览图](https://opengraph.githubassets.com/1/humanlayer/12-factor-agents)
 
-📝 **项目描述**: Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation.
+📝 **项目描述**: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
-⭐ **获得 Star**: 2,591
+⭐ **获得 Star**: 3,163
 
-💻 **主要编程语言**: Jupyter Notebook
+📅 **创建时间**: 2025-03-30
 
-📅 **创建时间**: 2025-03-22
+👤 **作者**: [humanlayer](https://github.com/humanlayer)
 
-👤 **作者**: [QwenLM](https://github.com/QwenLM)
+🔄 **Fork 数量**: 155
 
-🔄 **Fork 数量**: 192
-
-⚠️ **未解决 Issues**: 102
+⚠️ **未解决 Issues**: 7
 
 ---
 
@@ -395,7 +391,7 @@
 
 📝 **项目描述**: The official repository for tariff
 
-⭐ **获得 Star**: 2,416
+⭐ **获得 Star**: 2,862
 
 💻 **主要编程语言**: Python
 
@@ -403,9 +399,9 @@
 
 👤 **作者**: [hxu296](https://github.com/hxu296)
 
-🔄 **Fork 数量**: 36
+🔄 **Fork 数量**: 43
 
-⚠️ **未解决 Issues**: 76
+⚠️ **未解决 Issues**: 83
 
 ---
 
@@ -417,7 +413,7 @@
 
 📝 **项目描述**: No fortress, purely open ground.  OpenManus is Coming.
 
-⭐ **获得 Star**: 43,862
+⭐ **获得 Star**: 44,676
 
 💻 **主要编程语言**: Python
 
@@ -425,29 +421,27 @@
 
 👤 **作者**: [mannaandpoem](https://github.com/mannaandpoem)
 
-🔄 **Fork 数量**: 7,513
+🔄 **Fork 数量**: 7,656
 
-⚠️ **未解决 Issues**: 565
+⚠️ **未解决 Issues**: 566
 
 ---
 
-## 2. [huggingface/open-r1](https://github.com/huggingface/open-r1)
+## 2. [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
-![项目预览图](https://opengraph.githubassets.com/1/huggingface/open-r1)
+![项目预览图](https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools)
 
-📝 **项目描述**: Fully open reproduction of DeepSeek-R1
+📝 **项目描述**: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 
-⭐ **获得 Star**: 24,029
+⭐ **获得 Star**: 33,103
 
-💻 **主要编程语言**: Python
+📅 **创建时间**: 2025-03-05
 
-📅 **创建时间**: 2025-01-24
+👤 **作者**: [x1xhlol](https://github.com/x1xhlol)
 
-👤 **作者**: [huggingface](https://github.com/huggingface)
+🔄 **Fork 数量**: 10,220
 
-🔄 **Fork 数量**: 2,199
-
-⚠️ **未解决 Issues**: 289
+⚠️ **未解决 Issues**: 11
 
 ---
 
@@ -457,7 +451,7 @@
 
 📝 **项目描述**: Lightweight coding agent that runs in your terminal
 
-⭐ **获得 Star**: 17,591
+⭐ **获得 Star**: 20,415
 
 💻 **主要编程语言**: TypeScript
 
@@ -465,9 +459,9 @@
 
 👤 **作者**: [openai](https://github.com/openai)
 
-🔄 **Fork 数量**: 1,516
+🔄 **Fork 数量**: 1,907
 
-⚠️ **未解决 Issues**: 150
+⚠️ **未解决 Issues**: 187
 
 ---
 
@@ -477,7 +471,7 @@
 
 📝 **项目描述**: 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 
-⭐ **获得 Star**: 15,709
+⭐ **获得 Star**: 15,922
 
 💻 **主要编程语言**: Python
 
@@ -485,9 +479,9 @@
 
 👤 **作者**: [camel-ai](https://github.com/camel-ai)
 
-🔄 **Fork 数量**: 1,853
+🔄 **Fork 数量**: 1,879
 
-⚠️ **未解决 Issues**: 57
+⚠️ **未解决 Issues**: 59
 
 ---
 
@@ -497,7 +491,7 @@
 
 📝 **项目描述**: An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 
-⭐ **获得 Star**: 15,614
+⭐ **获得 Star**: 15,780
 
 💻 **主要编程语言**: TypeScript
 
@@ -505,27 +499,29 @@
 
 👤 **作者**: [dzhng](https://github.com/dzhng)
 
-🔄 **Fork 数量**: 1,602
+🔄 **Fork 数量**: 1,620
 
-⚠️ **未解决 Issues**: 66
+⚠️ **未解决 Issues**: 67
 
 ---
 
-## 6. [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+## 6. [google/A2A](https://github.com/google/A2A)
 
-![项目预览图](https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools)
+![项目预览图](https://opengraph.githubassets.com/1/google/A2A)
 
-📝 **项目描述**: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin & Replit Agent System Prompts, Tools & AI Models.
+📝 **项目描述**: An open protocol enabling communication and interoperability between opaque agentic applications.
 
-⭐ **获得 Star**: 14,190
+⭐ **获得 Star**: 13,479
 
-📅 **创建时间**: 2025-03-05
+💻 **主要编程语言**: Python
 
-👤 **作者**: [x1xhlol](https://github.com/x1xhlol)
+📅 **创建时间**: 2025-03-25
 
-🔄 **Fork 数量**: 4,816
+👤 **作者**: [google](https://github.com/google)
 
-⚠️ **未解决 Issues**: 10
+🔄 **Fork 数量**: 1,125
+
+⚠️ **未解决 Issues**: 120
 
 ---
 
@@ -535,7 +531,7 @@
 
 📝 **项目描述**: A Conversational Speech Generation Model
 
-⭐ **获得 Star**: 12,615
+⭐ **获得 Star**: 12,832
 
 💻 **主要编程语言**: Python
 
@@ -543,29 +539,29 @@
 
 👤 **作者**: [SesameAILabs](https://github.com/SesameAILabs)
 
-🔄 **Fork 数量**: 1,152
+🔄 **Fork 数量**: 1,184
 
-⚠️ **未解决 Issues**: 42
+⚠️ **未解决 Issues**: 44
 
 ---
 
-## 8. [google/A2A](https://github.com/google/A2A)
+## 8. [github/github-mcp-server](https://github.com/github/github-mcp-server)
 
-![项目预览图](https://opengraph.githubassets.com/1/google/A2A)
+![项目预览图](https://opengraph.githubassets.com/1/github/github-mcp-server)
 
-📝 **项目描述**: An open protocol enabling communication and interoperability between opaque agentic applications.
+📝 **项目描述**: GitHub's official MCP Server
 
-⭐ **获得 Star**: 12,215
+⭐ **获得 Star**: 12,428
 
-💻 **主要编程语言**: Python
+💻 **主要编程语言**: Go
 
-📅 **创建时间**: 2025-03-25
+📅 **创建时间**: 2025-03-04
 
-👤 **作者**: [google](https://github.com/google)
+👤 **作者**: [github](https://github.com/github)
 
-🔄 **Fork 数量**: 923
+🔄 **Fork 数量**: 694
 
-⚠️ **未解决 Issues**: 89
+⚠️ **未解决 Issues**: 83
 
 ---
 
@@ -575,7 +571,7 @@
 
 📝 **项目描述**: Empower the Web community and invite more to build across platforms.
 
-⭐ **获得 Star**: 11,928
+⭐ **获得 Star**: 12,050
 
 💻 **主要编程语言**: C++
 
@@ -583,29 +579,29 @@
 
 👤 **作者**: [lynx-family](https://github.com/lynx-family)
 
-🔄 **Fork 数量**: 394
+🔄 **Fork 数量**: 404
 
-⚠️ **未解决 Issues**: 202
+⚠️ **未解决 Issues**: 222
 
 ---
 
-## 10. [github/github-mcp-server](https://github.com/github/github-mcp-server)
+## 10. [nari-labs/dia](https://github.com/nari-labs/dia)
 
-![项目预览图](https://opengraph.githubassets.com/1/github/github-mcp-server)
+![项目预览图](https://opengraph.githubassets.com/1/nari-labs/dia)
 
-📝 **项目描述**: GitHub's official MCP Server
+📝 **项目描述**: A TTS model capable of generating ultra-realistic dialogue in one pass.
 
-⭐ **获得 Star**: 11,698
+⭐ **获得 Star**: 11,933
 
-💻 **主要编程语言**: Go
+💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-03-04
+📅 **创建时间**: 2025-04-19
 
-👤 **作者**: [github](https://github.com/github)
+👤 **作者**: [nari-labs](https://github.com/nari-labs)
 
-🔄 **Fork 数量**: 594
+🔄 **Fork 数量**: 793
 
-⚠️ **未解决 Issues**: 82
+⚠️ **未解决 Issues**: 61
 
 ---
 
@@ -615,7 +611,7 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3)
 
-⭐ **获得 Star**: 95,836
+⭐ **获得 Star**: 96,113
 
 💻 **主要编程语言**: Python
 
@@ -623,9 +619,9 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 15,560
+🔄 **Fork 数量**: 15,637
 
-⚠️ **未解决 Issues**: 110
+⚠️ **未解决 Issues**: 104
 
 ---
 
@@ -633,15 +629,15 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1)
 
-⭐ **获得 Star**: 88,627
+⭐ **获得 Star**: 88,862
 
 📅 **创建时间**: 2025-01-20
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 11,446
+🔄 **Fork 数量**: 11,491
 
-⚠️ **未解决 Issues**: 280
+⚠️ **未解决 Issues**: 273
 
 ---
 
@@ -651,7 +647,7 @@
 
 📝 **项目描述**: Make websites accessible for AI agents
 
-⭐ **获得 Star**: 56,833
+⭐ **获得 Star**: 58,102
 
 💻 **主要编程语言**: Python
 
@@ -659,9 +655,9 @@
 
 👤 **作者**: [browser-use](https://github.com/browser-use)
 
-🔄 **Fork 数量**: 6,091
+🔄 **Fork 数量**: 6,259
 
-⚠️ **未解决 Issues**: 438
+⚠️ **未解决 Issues**: 431
 
 ---
 

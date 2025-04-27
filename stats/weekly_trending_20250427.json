@@ -1,0 +1,162 @@
+[
+  {
+    "name": "SandAI-org/MAGI-1",
+    "description": "MAGI-1: Autoregressive Video Generation at Scale",
+    "stars": 2626,
+    "language": "Python",
+    "url": "https://github.com/SandAI-org/MAGI-1",
+    "created_at": "2025-04-21T10:34:09Z",
+    "owner": {
+      "login": "SandAI-org",
+      "url": "https://github.com/SandAI-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208222005?v=4"
+    },
+    "forks": 118,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SandAI-org/MAGI-1"
+  },
+  {
+    "name": "MoonshotAI/Kimi-Audio",
+    "description": "Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation",
+    "stars": 494,
+    "language": "Python",
+    "url": "https://github.com/MoonshotAI/Kimi-Audio",
+    "created_at": "2025-04-25T10:00:18Z",
+    "owner": {
+      "login": "MoonshotAI",
+      "url": "https://github.com/MoonshotAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+    },
+    "forks": 23,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MoonshotAI/Kimi-Audio"
+  },
+  {
+    "name": "Aeastr/Portal",
+    "description": "Seamless element transitions between root, sheets, and navigation pushes in SwiftUI.",
+    "stars": 442,
+    "language": "Swift",
+    "url": "https://github.com/Aeastr/Portal",
+    "created_at": "2025-04-21T18:48:19Z",
+    "owner": {
+      "login": "Aeastr",
+      "url": "https://github.com/Aeastr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64797587?v=4"
+    },
+    "forks": 11,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Aeastr/Portal"
+  },
+  {
+    "name": "stepfun-ai/Step1X-Edit",
+    "description": null,
+    "stars": 368,
+    "language": "Python",
+    "url": "https://github.com/stepfun-ai/Step1X-Edit",
+    "created_at": "2025-04-23T09:53:08Z",
+    "owner": {
+      "login": "stepfun-ai",
+      "url": "https://github.com/stepfun-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178004800?v=4"
+    },
+    "forks": 13,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/stepfun-ai/Step1X-Edit"
+  },
+  {
+    "name": "going-doer/Paper2Code",
+    "description": "Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning",
+    "stars": 361,
+    "language": "Python",
+    "url": "https://github.com/going-doer/Paper2Code",
+    "created_at": "2025-04-25T07:58:12Z",
+    "owner": {
+      "login": "going-doer",
+      "url": "https://github.com/going-doer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48055421?v=4"
+    },
+    "forks": 57,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/going-doer/Paper2Code"
+  },
+  {
+    "name": "zaidmukaddam/scira-mcp-chat",
+    "description": "A minimalistic MCP client with a good feature set.",
+    "stars": 327,
+    "language": "TypeScript",
+    "url": "https://github.com/zaidmukaddam/scira-mcp-chat",
+    "created_at": "2025-04-21T13:37:59Z",
+    "owner": {
+      "login": "zaidmukaddam",
+      "url": "https://github.com/zaidmukaddam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76097144?v=4"
+    },
+    "forks": 43,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zaidmukaddam/scira-mcp-chat"
+  },
+  {
+    "name": "skanger/zifei-panel",
+    "description": null,
+    "stars": 326,
+    "language": "JavaScript",
+    "url": "https://github.com/skanger/zifei-panel",
+    "created_at": "2025-04-23T11:56:08Z",
+    "owner": {
+      "login": "skanger",
+      "url": "https://github.com/skanger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18080860?v=4"
+    },
+    "forks": 138,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/skanger/zifei-panel"
+  },
+  {
+    "name": "PRIME-RL/TTRL",
+    "description": "TTRL: Test-Time Reinforcement Learning",
+    "stars": 264,
+    "language": "Python",
+    "url": "https://github.com/PRIME-RL/TTRL",
+    "created_at": "2025-04-23T02:15:03Z",
+    "owner": {
+      "login": "PRIME-RL",
+      "url": "https://github.com/PRIME-RL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193307489?v=4"
+    },
+    "forks": 20,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/PRIME-RL/TTRL"
+  },
+  {
+    "name": "yonggekkk/ArgoSB",
+    "description": "ArgoSB一键无交互vmess代理脚本：最新sing-box内核+最新Cloudflared-Argo内核，最多输出13个Argo不死优选IP节点",
+    "stars": 245,
+    "language": "Shell",
+    "url": "https://github.com/yonggekkk/ArgoSB",
+    "created_at": "2025-04-22T01:46:41Z",
+    "owner": {
+      "login": "yonggekkk",
+      "url": "https://github.com/yonggekkk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121604513?v=4"
+    },
+    "forks": 152,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yonggekkk/ArgoSB"
+  },
+  {
+    "name": "Tencent-TDS/KuiklyUI",
+    "description": null,
+    "stars": 226,
+    "language": "Kotlin",
+    "url": "https://github.com/Tencent-TDS/KuiklyUI",
+    "created_at": "2025-04-24T03:50:37Z",
+    "owner": {
+      "login": "Tencent-TDS",
+      "url": "https://github.com/Tencent-TDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205871139?v=4"
+    },
+    "forks": 19,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent-TDS/KuiklyUI"
+  }
+]

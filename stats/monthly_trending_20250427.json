@@ -1,0 +1,162 @@
+[
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "stars": 20415,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/codex",
+    "created_at": "2025-04-13T05:37:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 1907,
+    "issues": 187,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/codex"
+  },
+  {
+    "name": "nari-labs/dia",
+    "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+    "stars": 11933,
+    "language": "Python",
+    "url": "https://github.com/nari-labs/dia",
+    "created_at": "2025-04-19T07:15:57Z",
+    "owner": {
+      "login": "nari-labs",
+      "url": "https://github.com/nari-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208232306?v=4"
+    },
+    "forks": 793,
+    "issues": 61,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nari-labs/dia"
+  },
+  {
+    "name": "lllyasviel/FramePack",
+    "description": "Lets make video diffusion practical!",
+    "stars": 10232,
+    "language": "Python",
+    "url": "https://github.com/lllyasviel/FramePack",
+    "created_at": "2025-04-12T14:45:22Z",
+    "owner": {
+      "login": "lllyasviel",
+      "url": "https://github.com/lllyasviel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19834515?v=4"
+    },
+    "forks": 757,
+    "issues": 237,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lllyasviel/FramePack"
+  },
+  {
+    "name": "google/adk-python",
+    "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "stars": 7776,
+    "language": "Python",
+    "url": "https://github.com/google/adk-python",
+    "created_at": "2025-04-01T20:44:40Z",
+    "owner": {
+      "login": "google",
+      "url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "forks": 736,
+    "issues": 167,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google/adk-python"
+  },
+  {
+    "name": "The-Pocket/Tutorial-Codebase-Knowledge",
+    "description": "Turns Codebase into Easy Tutorial with AI",
+    "stars": 5954,
+    "language": "Python",
+    "url": "https://github.com/The-Pocket/Tutorial-Codebase-Knowledge",
+    "created_at": "2025-04-02T20:56:33Z",
+    "owner": {
+      "login": "The-Pocket",
+      "url": "https://github.com/The-Pocket",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193350244?v=4"
+    },
+    "forks": 460,
+    "issues": 20,
+    "social_preview_url": "https://opengraph.githubassets.com/1/The-Pocket/Tutorial-Codebase-Knowledge"
+  },
+  {
+    "name": "antiwork/gumroad",
+    "description": null,
+    "stars": 5279,
+    "language": "Ruby",
+    "url": "https://github.com/antiwork/gumroad",
+    "created_at": "2025-04-03T07:22:41Z",
+    "owner": {
+      "login": "antiwork",
+      "url": "https://github.com/antiwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1178890?v=4"
+    },
+    "forks": 758,
+    "issues": 32,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antiwork/gumroad"
+  },
+  {
+    "name": "jamez-bondos/awesome-gpt4o-images",
+    "description": "Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model. ",
+    "stars": 4503,
+    "language": null,
+    "url": "https://github.com/jamez-bondos/awesome-gpt4o-images",
+    "created_at": "2025-04-13T15:34:48Z",
+    "owner": {
+      "login": "jamez-bondos",
+      "url": "https://github.com/jamez-bondos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202651917?v=4"
+    },
+    "forks": 392,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jamez-bondos/awesome-gpt4o-images"
+  },
+  {
+    "name": "lharries/whatsapp-mcp",
+    "description": "WhatsApp MCP server",
+    "stars": 3546,
+    "language": "Go",
+    "url": "https://github.com/lharries/whatsapp-mcp",
+    "created_at": "2025-03-29T12:49:33Z",
+    "owner": {
+      "login": "lharries",
+      "url": "https://github.com/lharries",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22766134?v=4"
+    },
+    "forks": 457,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lharries/whatsapp-mcp"
+  },
+  {
+    "name": "humanlayer/12-factor-agents",
+    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+    "stars": 3163,
+    "language": null,
+    "url": "https://github.com/humanlayer/12-factor-agents",
+    "created_at": "2025-03-30T22:10:39Z",
+    "owner": {
+      "login": "humanlayer",
+      "url": "https://github.com/humanlayer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177409041?v=4"
+    },
+    "forks": 155,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/humanlayer/12-factor-agents"
+  },
+  {
+    "name": "hxu296/tariff",
+    "description": "The official repository for tariff",
+    "stars": 2862,
+    "language": "Python",
+    "url": "https://github.com/hxu296/tariff",
+    "created_at": "2025-04-10T19:10:35Z",
+    "owner": {
+      "login": "hxu296",
+      "url": "https://github.com/hxu296",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61036578?v=4"
+    },
+    "forks": 43,
+    "issues": 83,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hxu296/tariff"
+  }
+]
