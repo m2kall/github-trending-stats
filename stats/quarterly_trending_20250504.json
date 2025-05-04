@@ -1,0 +1,162 @@
+[
+  {
+    "name": "FoundationAgents/OpenManus",
+    "description": "No fortress, purely open ground.  OpenManus is Coming.",
+    "stars": 45087,
+    "language": "Python",
+    "url": "https://github.com/FoundationAgents/OpenManus",
+    "created_at": "2025-03-06T14:08:14Z",
+    "owner": {
+      "login": "FoundationAgents",
+      "url": "https://github.com/FoundationAgents",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198047230?v=4"
+    },
+    "forks": 7758,
+    "issues": 570,
+    "social_preview_url": "https://opengraph.githubassets.com/1/FoundationAgents/OpenManus"
+  },
+  {
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.",
+    "stars": 38380,
+    "language": null,
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "created_at": "2025-03-05T16:38:29Z",
+    "owner": {
+      "login": "x1xhlol",
+      "url": "https://github.com/x1xhlol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185671340?v=4"
+    },
+    "forks": 11700,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "stars": 21305,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/codex",
+    "created_at": "2025-04-13T05:37:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 2064,
+    "issues": 216,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/codex"
+  },
+  {
+    "name": "camel-ai/owl",
+    "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+    "stars": 16118,
+    "language": "Python",
+    "url": "https://github.com/camel-ai/owl",
+    "created_at": "2025-03-03T15:42:51Z",
+    "owner": {
+      "login": "camel-ai",
+      "url": "https://github.com/camel-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134388954?v=4"
+    },
+    "forks": 1903,
+    "issues": 59,
+    "social_preview_url": "https://opengraph.githubassets.com/1/camel-ai/owl"
+  },
+  {
+    "name": "dzhng/deep-research",
+    "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.",
+    "stars": 15893,
+    "language": "TypeScript",
+    "url": "https://github.com/dzhng/deep-research",
+    "created_at": "2025-02-04T01:27:56Z",
+    "owner": {
+      "login": "dzhng",
+      "url": "https://github.com/dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4"
+    },
+    "forks": 1637,
+    "issues": 67,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dzhng/deep-research"
+  },
+  {
+    "name": "nari-labs/dia",
+    "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+    "stars": 14361,
+    "language": "Python",
+    "url": "https://github.com/nari-labs/dia",
+    "created_at": "2025-04-19T07:15:57Z",
+    "owner": {
+      "login": "nari-labs",
+      "url": "https://github.com/nari-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208232306?v=4"
+    },
+    "forks": 1056,
+    "issues": 80,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nari-labs/dia"
+  },
+  {
+    "name": "google/A2A",
+    "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
+    "stars": 14146,
+    "language": "Python",
+    "url": "https://github.com/google/A2A",
+    "created_at": "2025-03-25T18:44:21Z",
+    "owner": {
+      "login": "google",
+      "url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "forks": 1232,
+    "issues": 168,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google/A2A"
+  },
+  {
+    "name": "SesameAILabs/csm",
+    "description": "A Conversational Speech Generation Model",
+    "stars": 12989,
+    "language": "Python",
+    "url": "https://github.com/SesameAILabs/csm",
+    "created_at": "2025-02-26T15:38:54Z",
+    "owner": {
+      "login": "SesameAILabs",
+      "url": "https://github.com/SesameAILabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136667101?v=4"
+    },
+    "forks": 1204,
+    "issues": 45,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SesameAILabs/csm"
+  },
+  {
+    "name": "github/github-mcp-server",
+    "description": "GitHub's official MCP Server",
+    "stars": 12914,
+    "language": "Go",
+    "url": "https://github.com/github/github-mcp-server",
+    "created_at": "2025-03-04T16:42:04Z",
+    "owner": {
+      "login": "github",
+      "url": "https://github.com/github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+    },
+    "forks": 753,
+    "issues": 90,
+    "social_preview_url": "https://opengraph.githubassets.com/1/github/github-mcp-server"
+  },
+  {
+    "name": "lynx-family/lynx",
+    "description": "Empower the Web community and invite more to build across platforms.",
+    "stars": 12170,
+    "language": "C++",
+    "url": "https://github.com/lynx-family/lynx",
+    "created_at": "2025-03-04T07:41:43Z",
+    "owner": {
+      "login": "lynx-family",
+      "url": "https://github.com/lynx-family",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200909301?v=4"
+    },
+    "forks": 408,
+    "issues": 217,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lynx-family/lynx"
+  }
+]

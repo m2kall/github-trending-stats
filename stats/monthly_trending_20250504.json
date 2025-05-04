@@ -1,0 +1,162 @@
+[
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "stars": 21305,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/codex",
+    "created_at": "2025-04-13T05:37:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 2064,
+    "issues": 216,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/codex"
+  },
+  {
+    "name": "nari-labs/dia",
+    "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+    "stars": 14361,
+    "language": "Python",
+    "url": "https://github.com/nari-labs/dia",
+    "created_at": "2025-04-19T07:15:57Z",
+    "owner": {
+      "login": "nari-labs",
+      "url": "https://github.com/nari-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208232306?v=4"
+    },
+    "forks": 1056,
+    "issues": 80,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nari-labs/dia"
+  },
+  {
+    "name": "lllyasviel/FramePack",
+    "description": "Lets make video diffusion practical!",
+    "stars": 11598,
+    "language": "Python",
+    "url": "https://github.com/lllyasviel/FramePack",
+    "created_at": "2025-04-12T14:45:22Z",
+    "owner": {
+      "login": "lllyasviel",
+      "url": "https://github.com/lllyasviel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19834515?v=4"
+    },
+    "forks": 938,
+    "issues": 294,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lllyasviel/FramePack"
+  },
+  {
+    "name": "jamez-bondos/awesome-gpt4o-images",
+    "description": "Awesome curated collection of GPT-4o images & prompts. Explore the limitless possibilities of OpenAI's GPT-4o image generation. GPT-4o生成图像与提示词精选集，探索OpenAI GPT-4o图像生成的无限可能性。",
+    "stars": 4972,
+    "language": "templ",
+    "url": "https://github.com/jamez-bondos/awesome-gpt4o-images",
+    "created_at": "2025-04-13T15:34:48Z",
+    "owner": {
+      "login": "jamez-bondos",
+      "url": "https://github.com/jamez-bondos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202651917?v=4"
+    },
+    "forks": 442,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jamez-bondos/awesome-gpt4o-images"
+  },
+  {
+    "name": "MoonshotAI/Kimi-Audio",
+    "description": "Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation",
+    "stars": 3262,
+    "language": "Python",
+    "url": "https://github.com/MoonshotAI/Kimi-Audio",
+    "created_at": "2025-04-25T10:00:18Z",
+    "owner": {
+      "login": "MoonshotAI",
+      "url": "https://github.com/MoonshotAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+    },
+    "forks": 180,
+    "issues": 51,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MoonshotAI/Kimi-Audio"
+  },
+  {
+    "name": "hxu296/tariff",
+    "description": "The official repository for tariff",
+    "stars": 2948,
+    "language": "Python",
+    "url": "https://github.com/hxu296/tariff",
+    "created_at": "2025-04-10T19:10:35Z",
+    "owner": {
+      "login": "hxu296",
+      "url": "https://github.com/hxu296",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61036578?v=4"
+    },
+    "forks": 44,
+    "issues": 83,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hxu296/tariff"
+  },
+  {
+    "name": "SandAI-org/MAGI-1",
+    "description": "MAGI-1: Autoregressive Video Generation at Scale",
+    "stars": 2854,
+    "language": "Python",
+    "url": "https://github.com/SandAI-org/MAGI-1",
+    "created_at": "2025-04-21T10:34:09Z",
+    "owner": {
+      "login": "SandAI-org",
+      "url": "https://github.com/SandAI-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208222005?v=4"
+    },
+    "forks": 145,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SandAI-org/MAGI-1"
+  },
+  {
+    "name": "LibreSpark/LibreTV",
+    "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+    "stars": 2635,
+    "language": "JavaScript",
+    "url": "https://github.com/LibreSpark/LibreTV",
+    "created_at": "2025-04-06T10:52:08Z",
+    "owner": {
+      "login": "LibreSpark",
+      "url": "https://github.com/LibreSpark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207667577?v=4"
+    },
+    "forks": 2174,
+    "issues": 50,
+    "social_preview_url": "https://opengraph.githubassets.com/1/LibreSpark/LibreTV"
+  },
+  {
+    "name": "droidrun/droidrun",
+    "description": null,
+    "stars": 2315,
+    "language": "Python",
+    "url": "https://github.com/droidrun/droidrun",
+    "created_at": "2025-04-12T22:03:47Z",
+    "owner": {
+      "login": "droidrun",
+      "url": "https://github.com/droidrun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207381488?v=4"
+    },
+    "forks": 221,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/droidrun/droidrun"
+  },
+  {
+    "name": "pad-ws/pad.ws",
+    "description": "Whiteboard as an IDE, draw and code in your browser",
+    "stars": 2214,
+    "language": "TypeScript",
+    "url": "https://github.com/pad-ws/pad.ws",
+    "created_at": "2025-04-19T23:19:36Z",
+    "owner": {
+      "login": "pad-ws",
+      "url": "https://github.com/pad-ws",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208310443?v=4"
+    },
+    "forks": 96,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pad-ws/pad.ws"
+  }
+]

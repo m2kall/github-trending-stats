@@ -1,0 +1,162 @@
+[
+  {
+    "name": "AsyncFuncAI/deepwiki-open",
+    "description": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab Repositories",
+    "stars": 1726,
+    "language": "TypeScript",
+    "url": "https://github.com/AsyncFuncAI/deepwiki-open",
+    "created_at": "2025-04-30T06:01:29Z",
+    "owner": {
+      "login": "AsyncFuncAI",
+      "url": "https://github.com/AsyncFuncAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194295535?v=4"
+    },
+    "forks": 161,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/AsyncFuncAI/deepwiki-open"
+  },
+  {
+    "name": "hotheadhacker/no-as-a-service",
+    "description": "No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.",
+    "stars": 1146,
+    "language": "JavaScript",
+    "url": "https://github.com/hotheadhacker/no-as-a-service",
+    "created_at": "2025-04-29T19:56:36Z",
+    "owner": {
+      "login": "hotheadhacker",
+      "url": "https://github.com/hotheadhacker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18418340?v=4"
+    },
+    "forks": 73,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hotheadhacker/no-as-a-service"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-Prover-V2",
+    "description": null,
+    "stars": 815,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/DeepSeek-Prover-V2",
+    "created_at": "2025-04-30T13:42:57Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 50,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-Prover-V2"
+  },
+  {
+    "name": "NSG650/LinuxInExcel",
+    "description": null,
+    "stars": 324,
+    "language": "C",
+    "url": "https://github.com/NSG650/LinuxInExcel",
+    "created_at": "2025-04-29T06:33:43Z",
+    "owner": {
+      "login": "NSG650",
+      "url": "https://github.com/NSG650",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51860844?v=4"
+    },
+    "forks": 13,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NSG650/LinuxInExcel"
+  },
+  {
+    "name": "regenrek/deepwiki-mcp",
+    "description": "📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors",
+    "stars": 281,
+    "language": "TypeScript",
+    "url": "https://github.com/regenrek/deepwiki-mcp",
+    "created_at": "2025-04-28T08:32:56Z",
+    "owner": {
+      "login": "regenrek",
+      "url": "https://github.com/regenrek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5182020?v=4"
+    },
+    "forks": 21,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/regenrek/deepwiki-mcp"
+  },
+  {
+    "name": "robb/Redline",
+    "description": "Redlines for SwiftUI",
+    "stars": 279,
+    "language": "Swift",
+    "url": "https://github.com/robb/Redline",
+    "created_at": "2025-04-29T19:02:05Z",
+    "owner": {
+      "login": "robb",
+      "url": "https://github.com/robb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212465?v=4"
+    },
+    "forks": 3,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/robb/Redline"
+  },
+  {
+    "name": "rainmanjam/jobspy-api",
+    "description": "Dockerized version of JobSpy job search utility with API key auth, rate limiting, and proxy support.",
+    "stars": 231,
+    "language": "Python",
+    "url": "https://github.com/rainmanjam/jobspy-api",
+    "created_at": "2025-04-28T18:47:48Z",
+    "owner": {
+      "login": "rainmanjam",
+      "url": "https://github.com/rainmanjam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181322?v=4"
+    },
+    "forks": 9,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/rainmanjam/jobspy-api"
+  },
+  {
+    "name": "NousResearch/atropos",
+    "description": "Atropos is a Language Model Reinforcement Learning Environments framework for collecting and evaluating LLM trajectories through diverse environments",
+    "stars": 213,
+    "language": "Python",
+    "url": "https://github.com/NousResearch/atropos",
+    "created_at": "2025-04-29T19:02:06Z",
+    "owner": {
+      "login": "NousResearch",
+      "url": "https://github.com/NousResearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134168893?v=4"
+    },
+    "forks": 12,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NousResearch/atropos"
+  },
+  {
+    "name": "blinddumper/GrassBot",
+    "description": "bot for grass farm",
+    "stars": 203,
+    "language": "Python",
+    "url": "https://github.com/blinddumper/GrassBot",
+    "created_at": "2025-04-30T12:22:25Z",
+    "owner": {
+      "login": "blinddumper",
+      "url": "https://github.com/blinddumper",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162107?v=4"
+    },
+    "forks": 116,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/blinddumper/GrassBot"
+  },
+  {
+    "name": "bagsbanny6535/Creal-Stealer",
+    "description": "stealer grabber grabber cookie grabber grabber 2023 cookie stealer token password 🔥 stealer 🔥 password grabber token stealer cookie password password python stealer password cookie stealer stealer high in token stealer end stealer creal grabber cookie stealer token cookie working stealer password grabber stealer token tpwojnomb",
+    "stars": 201,
+    "language": "Python",
+    "url": "https://github.com/bagsbanny6535/Creal-Stealer",
+    "created_at": "2025-04-30T10:20:04Z",
+    "owner": {
+      "login": "bagsbanny6535",
+      "url": "https://github.com/bagsbanny6535",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193842493?v=4"
+    },
+    "forks": 98,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bagsbanny6535/Creal-Stealer"
+  }
+]
