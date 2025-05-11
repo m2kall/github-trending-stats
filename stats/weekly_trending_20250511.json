@@ -1,0 +1,162 @@
+[
+  {
+    "name": "bytedance/deer-flow",
+    "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
+    "stars": 2784,
+    "language": "TypeScript",
+    "url": "https://github.com/bytedance/deer-flow",
+    "created_at": "2025-05-07T02:50:19Z",
+    "owner": {
+      "login": "bytedance",
+      "url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "forks": 249,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bytedance/deer-flow"
+  },
+  {
+    "name": "yzhao062/cs-paper-checklist",
+    "description": "A final sanity checklist to help your CS paper get accepted, not desk rejected.",
+    "stars": 806,
+    "language": null,
+    "url": "https://github.com/yzhao062/cs-paper-checklist",
+    "created_at": "2025-05-06T01:01:04Z",
+    "owner": {
+      "login": "yzhao062",
+      "url": "https://github.com/yzhao062",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15079146?v=4"
+    },
+    "forks": 93,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yzhao062/cs-paper-checklist"
+  },
+  {
+    "name": "es3n1n/defendnot",
+    "description": "An even funnier way to disable windows defender. (through WSC api)",
+    "stars": 728,
+    "language": "C++",
+    "url": "https://github.com/es3n1n/defendnot",
+    "created_at": "2025-05-07T08:00:20Z",
+    "owner": {
+      "login": "es3n1n",
+      "url": "https://github.com/es3n1n",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40367813?v=4"
+    },
+    "forks": 69,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/es3n1n/defendnot"
+  },
+  {
+    "name": "cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025",
+    "description": "Telegram Members Adding Software. Scrape more than 10k Telegram members and add members to your group. And many more features.",
+    "stars": 709,
+    "language": "Python",
+    "url": "https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025",
+    "created_at": "2025-05-06T09:12:10Z",
+    "owner": {
+      "login": "cnsk7392",
+      "url": "https://github.com/cnsk7392",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205672238?v=4"
+    },
+    "forks": 6,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025"
+  },
+  {
+    "name": "Alibaba-NLP/ZeroSearch",
+    "description": "ZeroSearch: Incentivize the Search Capability of LLMs without Searching",
+    "stars": 468,
+    "language": "Python",
+    "url": "https://github.com/Alibaba-NLP/ZeroSearch",
+    "created_at": "2025-05-07T16:28:54Z",
+    "owner": {
+      "login": "Alibaba-NLP",
+      "url": "https://github.com/Alibaba-NLP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64211549?v=4"
+    },
+    "forks": 38,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Alibaba-NLP/ZeroSearch"
+  },
+  {
+    "name": "Tencent/HunyuanCustom",
+    "description": "HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation",
+    "stars": 418,
+    "language": "Python",
+    "url": "https://github.com/Tencent/HunyuanCustom",
+    "created_at": "2025-05-07T07:48:42Z",
+    "owner": {
+      "login": "Tencent",
+      "url": "https://github.com/Tencent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "forks": 17,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent/HunyuanCustom"
+  },
+  {
+    "name": "chungmin99/pyroki",
+    "description": "A Modular Toolkit for Robot Kinematic Optimization",
+    "stars": 390,
+    "language": "Python",
+    "url": "https://github.com/chungmin99/pyroki",
+    "created_at": "2025-05-06T23:58:22Z",
+    "owner": {
+      "login": "chungmin99",
+      "url": "https://github.com/chungmin99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10284938?v=4"
+    },
+    "forks": 14,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/chungmin99/pyroki"
+  },
+  {
+    "name": "aperoc/toolkami",
+    "description": "Minimal AI agent framework that just works with only seven tools.",
+    "stars": 382,
+    "language": "Python",
+    "url": "https://github.com/aperoc/toolkami",
+    "created_at": "2025-05-06T09:42:03Z",
+    "owner": {
+      "login": "aperoc",
+      "url": "https://github.com/aperoc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157211707?v=4"
+    },
+    "forks": 14,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/aperoc/toolkami"
+  },
+  {
+    "name": "SammanSarkar/GSoC_archive_2025",
+    "description": "Accepted GSoC 2025 proposals archive for reference and inspiration from the community.",
+    "stars": 321,
+    "language": null,
+    "url": "https://github.com/SammanSarkar/GSoC_archive_2025",
+    "created_at": "2025-05-08T13:43:49Z",
+    "owner": {
+      "login": "SammanSarkar",
+      "url": "https://github.com/SammanSarkar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91555648?v=4"
+    },
+    "forks": 44,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SammanSarkar/GSoC_archive_2025"
+  },
+  {
+    "name": "star7th/coolmonitor",
+    "description": "一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等",
+    "stars": 294,
+    "language": "TypeScript",
+    "url": "https://github.com/star7th/coolmonitor",
+    "created_at": "2025-05-05T03:08:36Z",
+    "owner": {
+      "login": "star7th",
+      "url": "https://github.com/star7th",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2200494?v=4"
+    },
+    "forks": 29,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/star7th/coolmonitor"
+  }
+]
