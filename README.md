@@ -9,237 +9,213 @@
 - 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
 - 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-🕒 **最后更新时间**: 2025-05-11 02:04:10
+🕒 **最后更新时间**: 2025-05-18 02:05:49
 
 ---
 
 # 📊 周榜 (过去7天)
 
-## 1. [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+## 1. [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
 
-![项目预览图](https://opengraph.githubassets.com/1/bytedance/deer-flow)
+![项目预览图](https://opengraph.githubassets.com/1/ngxson/smolvlm-realtime-webcam)
 
-📝 **项目描述**: DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+📝 **项目描述**: Real-time webcam demo with SmolVLM and llama.cpp server
 
-⭐ **获得 Star**: 2,784
+⭐ **获得 Star**: 3,021
 
-💻 **主要编程语言**: TypeScript
+💻 **主要编程语言**: HTML
 
-📅 **创建时间**: 2025-05-07
+📅 **创建时间**: 2025-05-12
 
-👤 **作者**: [bytedance](https://github.com/bytedance)
+👤 **作者**: [ngxson](https://github.com/ngxson)
 
-🔄 **Fork 数量**: 249
+🔄 **Fork 数量**: 402
 
-⚠️ **未解决 Issues**: 19
+⚠️ **未解决 Issues**: 14
 
 ---
 
-## 2. [yzhao062/cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist)
+## 2. [xai-org/grok-prompts](https://github.com/xai-org/grok-prompts)
 
-![项目预览图](https://opengraph.githubassets.com/1/yzhao062/cs-paper-checklist)
+![项目预览图](https://opengraph.githubassets.com/1/xai-org/grok-prompts)
 
-📝 **项目描述**: A final sanity checklist to help your CS paper get accepted, not desk rejected.
+📝 **项目描述**: Prompts for our Grok chat assistant and the `@grok` bot on X.
 
-⭐ **获得 Star**: 806
+⭐ **获得 Star**: 1,863
 
-📅 **创建时间**: 2025-05-06
+💻 **主要编程语言**: Jinja
 
-👤 **作者**: [yzhao062](https://github.com/yzhao062)
+📅 **创建时间**: 2025-05-15
 
-🔄 **Fork 数量**: 93
+👤 **作者**: [xai-org](https://github.com/xai-org)
+
+🔄 **Fork 数量**: 171
+
+⚠️ **未解决 Issues**: 31
+
+---
+
+## 3. [mswnlz/edu-knowlege](https://github.com/mswnlz/edu-knowlege)
+
+![项目预览图](https://opengraph.githubassets.com/1/mswnlz/edu-knowlege)
+
+📝 **项目描述**: 教育各种资料，从幼儿园到小学、中学，涵盖学而思，万维、猿辅导等多个机构，持续增加中
+
+⭐ **获得 Star**: 1,786
+
+📅 **创建时间**: 2025-05-13
+
+👤 **作者**: [mswnlz](https://github.com/mswnlz)
+
+🔄 **Fork 数量**: 333
 
 ⚠️ **未解决 Issues**: 0
 
 ---
 
-## 3. [es3n1n/defendnot](https://github.com/es3n1n/defendnot)
+## 4. [InterviewReady/ai-engineering-resources](https://github.com/InterviewReady/ai-engineering-resources)
 
-![项目预览图](https://opengraph.githubassets.com/1/es3n1n/defendnot)
+![项目预览图](https://opengraph.githubassets.com/1/InterviewReady/ai-engineering-resources)
 
-📝 **项目描述**: An even funnier way to disable windows defender. (through WSC api)
+📝 **项目描述**: Research papers and blogs to transition to AI Engineering
 
-⭐ **获得 Star**: 728
+⭐ **获得 Star**: 663
 
-💻 **主要编程语言**: C++
+📅 **创建时间**: 2025-05-13
 
-📅 **创建时间**: 2025-05-07
+👤 **作者**: [InterviewReady](https://github.com/InterviewReady)
 
-👤 **作者**: [es3n1n](https://github.com/es3n1n)
-
-🔄 **Fork 数量**: 69
-
-⚠️ **未解决 Issues**: 1
-
----
-
-## 4. [cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025](https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025)
-
-![项目预览图](https://opengraph.githubassets.com/1/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025)
-
-📝 **项目描述**: Telegram Members Adding Software. Scrape more than 10k Telegram members and add members to your group. And many more features.
-
-⭐ **获得 Star**: 709
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-05-06
-
-👤 **作者**: [cnsk7392](https://github.com/cnsk7392)
-
-🔄 **Fork 数量**: 6
+🔄 **Fork 数量**: 85
 
 ⚠️ **未解决 Issues**: 0
 
 ---
 
-## 5. [Alibaba-NLP/ZeroSearch](https://github.com/Alibaba-NLP/ZeroSearch)
+## 5. [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday)
 
-![项目预览图](https://opengraph.githubassets.com/1/Alibaba-NLP/ZeroSearch)
+![项目预览图](https://opengraph.githubassets.com/1/agentcodee/cursor-free-everyday)
 
-📝 **项目描述**: ZeroSearch: Incentivize the Search Capability of LLMs without Searching
+📝 **项目描述**: 完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度
 
-⭐ **获得 Star**: 468
+⭐ **获得 Star**: 595
 
-💻 **主要编程语言**: Python
+💻 **主要编程语言**: Rust
 
-📅 **创建时间**: 2025-05-07
+📅 **创建时间**: 2025-05-14
 
-👤 **作者**: [Alibaba-NLP](https://github.com/Alibaba-NLP)
+👤 **作者**: [agentcodee](https://github.com/agentcodee)
 
-🔄 **Fork 数量**: 38
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 6. [Tencent/HunyuanCustom](https://github.com/Tencent/HunyuanCustom)
-
-![项目预览图](https://opengraph.githubassets.com/1/Tencent/HunyuanCustom)
-
-📝 **项目描述**: HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation
-
-⭐ **获得 Star**: 418
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-05-07
-
-👤 **作者**: [Tencent](https://github.com/Tencent)
-
-🔄 **Fork 数量**: 17
-
-⚠️ **未解决 Issues**: 7
-
----
-
-## 7. [chungmin99/pyroki](https://github.com/chungmin99/pyroki)
-
-![项目预览图](https://opengraph.githubassets.com/1/chungmin99/pyroki)
-
-📝 **项目描述**: A Modular Toolkit for Robot Kinematic Optimization
-
-⭐ **获得 Star**: 390
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-05-06
-
-👤 **作者**: [chungmin99](https://github.com/chungmin99)
-
-🔄 **Fork 数量**: 14
+🔄 **Fork 数量**: 49
 
 ⚠️ **未解决 Issues**: 4
 
 ---
 
-## 8. [aperoc/toolkami](https://github.com/aperoc/toolkami)
+## 6. [OpenBMB/AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI)
 
-![项目预览图](https://opengraph.githubassets.com/1/aperoc/toolkami)
+![项目预览图](https://opengraph.githubassets.com/1/OpenBMB/AgentCPM-GUI)
 
-📝 **项目描述**: Minimal AI agent framework that just works with only seven tools.
+📝 **项目描述**: AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhancing reasoning ability with reinforcement fine-tuning for efficient task execution.
 
-⭐ **获得 Star**: 382
+⭐ **获得 Star**: 589
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-05-06
+📅 **创建时间**: 2025-05-13
 
-👤 **作者**: [aperoc](https://github.com/aperoc)
+👤 **作者**: [OpenBMB](https://github.com/OpenBMB)
 
-🔄 **Fork 数量**: 14
+🔄 **Fork 数量**: 54
 
-⚠️ **未解决 Issues**: 0
-
----
-
-## 9. [SammanSarkar/GSoC_archive_2025](https://github.com/SammanSarkar/GSoC_archive_2025)
-
-![项目预览图](https://opengraph.githubassets.com/1/SammanSarkar/GSoC_archive_2025)
-
-📝 **项目描述**: Accepted GSoC 2025 proposals archive for reference and inspiration from the community.
-
-⭐ **获得 Star**: 321
-
-📅 **创建时间**: 2025-05-08
-
-👤 **作者**: [SammanSarkar](https://github.com/SammanSarkar)
-
-🔄 **Fork 数量**: 44
-
-⚠️ **未解决 Issues**: 1
+⚠️ **未解决 Issues**: 13
 
 ---
 
-## 10. [star7th/coolmonitor](https://github.com/star7th/coolmonitor)
+## 7. [vijay2181/k8s-500-prod-issues](https://github.com/vijay2181/k8s-500-prod-issues)
 
-![项目预览图](https://opengraph.githubassets.com/1/star7th/coolmonitor)
+![项目预览图](https://opengraph.githubassets.com/1/vijay2181/k8s-500-prod-issues)
 
-📝 **项目描述**: 一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等
+⭐ **获得 Star**: 552
 
-⭐ **获得 Star**: 294
+📅 **创建时间**: 2025-05-13
 
-💻 **主要编程语言**: TypeScript
+👤 **作者**: [vijay2181](https://github.com/vijay2181)
 
-📅 **创建时间**: 2025-05-05
+🔄 **Fork 数量**: 494
 
-👤 **作者**: [star7th](https://github.com/star7th)
+⚠️ **未解决 Issues**: 3
 
-🔄 **Fork 数量**: 29
+---
+
+## 8. [stepfun-ai/Step1X-3D](https://github.com/stepfun-ai/Step1X-3D)
+
+![项目预览图](https://opengraph.githubassets.com/1/stepfun-ai/Step1X-3D)
+
+📝 **项目描述**: Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets
+
+⭐ **获得 Star**: 420
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-05-13
+
+👤 **作者**: [stepfun-ai](https://github.com/stepfun-ai)
+
+🔄 **Fork 数量**: 10
+
+⚠️ **未解决 Issues**: 11
+
+---
+
+## 9. [dtyq/magic](https://github.com/dtyq/magic)
+
+![项目预览图](https://opengraph.githubassets.com/1/dtyq/magic)
+
+📝 **项目描述**: The first open-source all-in-one AI productivity platform
+
+⭐ **获得 Star**: 337
+
+💻 **主要编程语言**: PHP
+
+📅 **创建时间**: 2025-05-14
+
+👤 **作者**: [dtyq](https://github.com/dtyq)
+
+🔄 **Fork 数量**: 40
 
 ⚠️ **未解决 Issues**: 7
 
 ---
 
-# 📊 月榜 (过去30天)
+## 10. [Zorokee/ArtificialCast](https://github.com/Zorokee/ArtificialCast)
 
-## 1. [openai/codex](https://github.com/openai/codex)
+![项目预览图](https://opengraph.githubassets.com/1/Zorokee/ArtificialCast)
 
-![项目预览图](https://opengraph.githubassets.com/1/openai/codex)
+📝 **项目描述**: Type-safe transformation powered by inference.
 
-📝 **项目描述**: Lightweight coding agent that runs in your terminal
+⭐ **获得 Star**: 300
 
-⭐ **获得 Star**: 21,936
+💻 **主要编程语言**: C#
 
-💻 **主要编程语言**: TypeScript
+📅 **创建时间**: 2025-05-13
 
-📅 **创建时间**: 2025-04-13
+👤 **作者**: [Zorokee](https://github.com/Zorokee)
 
-👤 **作者**: [openai](https://github.com/openai)
+🔄 **Fork 数量**: 5
 
-🔄 **Fork 数量**: 2,160
-
-⚠️ **未解决 Issues**: 242
+⚠️ **未解决 Issues**: 2
 
 ---
 
-## 2. [nari-labs/dia](https://github.com/nari-labs/dia)
+# 📊 月榜 (过去30天)
+
+## 1. [nari-labs/dia](https://github.com/nari-labs/dia)
 
 ![项目预览图](https://opengraph.githubassets.com/1/nari-labs/dia)
 
 📝 **项目描述**: A TTS model capable of generating ultra-realistic dialogue in one pass.
 
-⭐ **获得 Star**: 15,234
+⭐ **获得 Star**: 15,779
 
 💻 **主要编程语言**: Python
 
@@ -247,39 +223,39 @@
 
 👤 **作者**: [nari-labs](https://github.com/nari-labs)
 
-🔄 **Fork 数量**: 1,176
+🔄 **Fork 数量**: 1,240
 
-⚠️ **未解决 Issues**: 87
-
----
-
-## 3. [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack)
-
-![项目预览图](https://opengraph.githubassets.com/1/lllyasviel/FramePack)
-
-📝 **项目描述**: Lets make video diffusion practical!
-
-⭐ **获得 Star**: 12,701
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-04-12
-
-👤 **作者**: [lllyasviel](https://github.com/lllyasviel)
-
-🔄 **Fork 数量**: 1,064
-
-⚠️ **未解决 Issues**: 339
+⚠️ **未解决 Issues**: 53
 
 ---
 
-## 4. [astral-sh/ty](https://github.com/astral-sh/ty)
+## 2. [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+
+![项目预览图](https://opengraph.githubassets.com/1/bytedance/deer-flow)
+
+📝 **项目描述**: DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+
+⭐ **获得 Star**: 10,425
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-05-07
+
+👤 **作者**: [bytedance](https://github.com/bytedance)
+
+🔄 **Fork 数量**: 954
+
+⚠️ **未解决 Issues**: 75
+
+---
+
+## 3. [astral-sh/ty](https://github.com/astral-sh/ty)
 
 ![项目预览图](https://opengraph.githubassets.com/1/astral-sh/ty)
 
 📝 **项目描述**: An extremely fast Python type checker and language server, written in Rust.
 
-⭐ **获得 Star**: 5,730
+⭐ **获得 Star**: 8,081
 
 💻 **主要编程语言**: Python
 
@@ -287,39 +263,19 @@
 
 👤 **作者**: [astral-sh](https://github.com/astral-sh)
 
-🔄 **Fork 数量**: 49
+🔄 **Fork 数量**: 68
 
-⚠️ **未解决 Issues**: 199
-
----
-
-## 5. [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)
-
-![项目预览图](https://opengraph.githubassets.com/1/jamez-bondos/awesome-gpt4o-images)
-
-📝 **项目描述**: Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities.
-
-⭐ **获得 Star**: 5,511
-
-💻 **主要编程语言**: JavaScript
-
-📅 **创建时间**: 2025-04-13
-
-👤 **作者**: [jamez-bondos](https://github.com/jamez-bondos)
-
-🔄 **Fork 数量**: 495
-
-⚠️ **未解决 Issues**: 0
+⚠️ **未解决 Issues**: 215
 
 ---
 
-## 6. [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
+## 4. [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
 
 ![项目预览图](https://opengraph.githubassets.com/1/AsyncFuncAI/deepwiki-open)
 
 📝 **项目描述**: Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
-⭐ **获得 Star**: 4,553
+⭐ **获得 Star**: 5,262
 
 💻 **主要编程语言**: TypeScript
 
@@ -327,19 +283,35 @@
 
 👤 **作者**: [AsyncFuncAI](https://github.com/AsyncFuncAI)
 
-🔄 **Fork 数量**: 352
+🔄 **Fork 数量**: 422
 
-⚠️ **未解决 Issues**: 46
+⚠️ **未解决 Issues**: 53
 
 ---
 
-## 7. [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)
+## 5. [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
+![项目预览图](https://opengraph.githubassets.com/1/asgeirtj/system_prompts_leaks)
+
+⭐ **获得 Star**: 4,765
+
+📅 **创建时间**: 2025-05-03
+
+👤 **作者**: [asgeirtj](https://github.com/asgeirtj)
+
+🔄 **Fork 数量**: 968
+
+⚠️ **未解决 Issues**: 2
+
+---
+
+## 6. [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)
 
 ![项目预览图](https://opengraph.githubassets.com/1/MoonshotAI/Kimi-Audio)
 
 📝 **项目描述**: Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation
 
-⭐ **获得 Star**: 3,481
+⭐ **获得 Star**: 3,600
 
 💻 **主要编程语言**: Python
 
@@ -347,9 +319,29 @@
 
 👤 **作者**: [MoonshotAI](https://github.com/MoonshotAI)
 
-🔄 **Fork 数量**: 204
+🔄 **Fork 数量**: 225
 
-⚠️ **未解决 Issues**: 61
+⚠️ **未解决 Issues**: 70
+
+---
+
+## 7. [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm)
+
+![项目预览图](https://opengraph.githubassets.com/1/apple/ml-fastvlm)
+
+📝 **项目描述**: This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
+
+⭐ **获得 Star**: 3,456
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-05-01
+
+👤 **作者**: [apple](https://github.com/apple)
+
+🔄 **Fork 数量**: 161
+
+⚠️ **未解决 Issues**: 15
 
 ---
 
@@ -359,7 +351,7 @@
 
 📝 **项目描述**: MAGI-1: Autoregressive Video Generation at Scale
 
-⭐ **获得 Star**: 2,970
+⭐ **获得 Star**: 3,026
 
 💻 **主要编程语言**: Python
 
@@ -367,57 +359,79 @@
 
 👤 **作者**: [SandAI-org](https://github.com/SandAI-org)
 
-🔄 **Fork 数量**: 158
+🔄 **Fork 数量**: 163
 
-⚠️ **未解决 Issues**: 34
-
----
-
-## 9. [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-
-![项目预览图](https://opengraph.githubassets.com/1/asgeirtj/system_prompts_leaks)
-
-⭐ **获得 Star**: 2,866
-
-📅 **创建时间**: 2025-05-03
-
-👤 **作者**: [asgeirtj](https://github.com/asgeirtj)
-
-🔄 **Fork 数量**: 551
-
-⚠️ **未解决 Issues**: 3
+⚠️ **未解决 Issues**: 38
 
 ---
 
-## 10. [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+## 9. [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
 
-![项目预览图](https://opengraph.githubassets.com/1/bytedance/deer-flow)
+![项目预览图](https://opengraph.githubassets.com/1/ngxson/smolvlm-realtime-webcam)
 
-📝 **项目描述**: DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+📝 **项目描述**: Real-time webcam demo with SmolVLM and llama.cpp server
 
-⭐ **获得 Star**: 2,784
+⭐ **获得 Star**: 3,021
 
-💻 **主要编程语言**: TypeScript
+💻 **主要编程语言**: HTML
 
-📅 **创建时间**: 2025-05-07
+📅 **创建时间**: 2025-05-12
 
-👤 **作者**: [bytedance](https://github.com/bytedance)
+👤 **作者**: [ngxson](https://github.com/ngxson)
 
-🔄 **Fork 数量**: 249
+🔄 **Fork 数量**: 402
 
-⚠️ **未解决 Issues**: 19
+⚠️ **未解决 Issues**: 14
+
+---
+
+## 10. [huggingface/nanoVLM](https://github.com/huggingface/nanoVLM)
+
+![项目预览图](https://opengraph.githubassets.com/1/huggingface/nanoVLM)
+
+📝 **项目描述**: The simplest, fastest repository for training/finetuning small-sized VLMs.
+
+⭐ **获得 Star**: 2,579
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-05-02
+
+👤 **作者**: [huggingface](https://github.com/huggingface)
+
+🔄 **Fork 数量**: 193
+
+⚠️ **未解决 Issues**: 15
 
 ---
 
 # 📊 季榜 (过去90天)
 
-## 1. [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
+## 1. [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
+![项目预览图](https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools)
+
+📝 **项目描述**: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
+
+⭐ **获得 Star**: 48,148
+
+📅 **创建时间**: 2025-03-05
+
+👤 **作者**: [x1xhlol](https://github.com/x1xhlol)
+
+🔄 **Fork 数量**: 14,794
+
+⚠️ **未解决 Issues**: 25
+
+---
+
+## 2. [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
 
 ![项目预览图](https://opengraph.githubassets.com/1/FoundationAgents/OpenManus)
 
 📝 **项目描述**: No fortress, purely open ground.  OpenManus is Coming.
 
-⭐ **获得 Star**: 45,385
+⭐ **获得 Star**: 45,713
 
 💻 **主要编程语言**: Python
 
@@ -425,27 +439,9 @@
 
 👤 **作者**: [FoundationAgents](https://github.com/FoundationAgents)
 
-🔄 **Fork 数量**: 7,836
+🔄 **Fork 数量**: 7,951
 
-⚠️ **未解决 Issues**: 568
-
----
-
-## 2. [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-
-![项目预览图](https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools)
-
-📝 **项目描述**: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
-
-⭐ **获得 Star**: 41,456
-
-📅 **创建时间**: 2025-03-05
-
-👤 **作者**: [x1xhlol](https://github.com/x1xhlol)
-
-🔄 **Fork 数量**: 12,452
-
-⚠️ **未解决 Issues**: 20
+⚠️ **未解决 Issues**: 562
 
 ---
 
@@ -455,7 +451,7 @@
 
 📝 **项目描述**: Lightweight coding agent that runs in your terminal
 
-⭐ **获得 Star**: 21,936
+⭐ **获得 Star**: 23,372
 
 💻 **主要编程语言**: TypeScript
 
@@ -463,9 +459,9 @@
 
 👤 **作者**: [openai](https://github.com/openai)
 
-🔄 **Fork 数量**: 2,160
+🔄 **Fork 数量**: 2,351
 
-⚠️ **未解决 Issues**: 242
+⚠️ **未解决 Issues**: 273
 
 ---
 
@@ -475,7 +471,7 @@
 
 📝 **项目描述**: 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 
-⭐ **获得 Star**: 16,283
+⭐ **获得 Star**: 16,521
 
 💻 **主要编程语言**: Python
 
@@ -483,9 +479,9 @@
 
 👤 **作者**: [camel-ai](https://github.com/camel-ai)
 
-🔄 **Fork 数量**: 1,920
+🔄 **Fork 数量**: 1,934
 
-⚠️ **未解决 Issues**: 60
+⚠️ **未解决 Issues**: 70
 
 ---
 
@@ -495,7 +491,7 @@
 
 📝 **项目描述**: A TTS model capable of generating ultra-realistic dialogue in one pass.
 
-⭐ **获得 Star**: 15,234
+⭐ **获得 Star**: 15,779
 
 💻 **主要编程语言**: Python
 
@@ -503,9 +499,9 @@
 
 👤 **作者**: [nari-labs](https://github.com/nari-labs)
 
-🔄 **Fork 数量**: 1,176
+🔄 **Fork 数量**: 1,240
 
-⚠️ **未解决 Issues**: 87
+⚠️ **未解决 Issues**: 53
 
 ---
 
@@ -515,7 +511,7 @@
 
 📝 **项目描述**: An open protocol enabling communication and interoperability between opaque agentic applications.
 
-⭐ **获得 Star**: 14,818
+⭐ **获得 Star**: 15,488
 
 💻 **主要编程语言**: Python
 
@@ -523,9 +519,9 @@
 
 👤 **作者**: [google](https://github.com/google)
 
-🔄 **Fork 数量**: 1,336
+🔄 **Fork 数量**: 1,444
 
-⚠️ **未解决 Issues**: 183
+⚠️ **未解决 Issues**: 187
 
 ---
 
@@ -535,7 +531,7 @@
 
 📝 **项目描述**: GitHub's official MCP Server
 
-⭐ **获得 Star**: 13,326
+⭐ **获得 Star**: 13,763
 
 💻 **主要编程语言**: Go
 
@@ -543,9 +539,9 @@
 
 👤 **作者**: [github](https://github.com/github)
 
-🔄 **Fork 数量**: 799
+🔄 **Fork 数量**: 836
 
-⚠️ **未解决 Issues**: 97
+⚠️ **未解决 Issues**: 99
 
 ---
 
@@ -555,7 +551,7 @@
 
 📝 **项目描述**: A Conversational Speech Generation Model
 
-⭐ **获得 Star**: 13,146
+⭐ **获得 Star**: 13,257
 
 💻 **主要编程语言**: Python
 
@@ -563,9 +559,9 @@
 
 👤 **作者**: [SesameAILabs](https://github.com/SesameAILabs)
 
-🔄 **Fork 数量**: 1,240
+🔄 **Fork 数量**: 1,257
 
-⚠️ **未解决 Issues**: 47
+⚠️ **未解决 Issues**: 48
 
 ---
 
@@ -575,7 +571,7 @@
 
 📝 **项目描述**: Lets make video diffusion practical!
 
-⭐ **获得 Star**: 12,701
+⭐ **获得 Star**: 13,207
 
 💻 **主要编程语言**: Python
 
@@ -583,9 +579,9 @@
 
 👤 **作者**: [lllyasviel](https://github.com/lllyasviel)
 
-🔄 **Fork 数量**: 1,064
+🔄 **Fork 数量**: 1,125
 
-⚠️ **未解决 Issues**: 339
+⚠️ **未解决 Issues**: 352
 
 ---
 
@@ -595,7 +591,7 @@
 
 📝 **项目描述**: Empower the Web community and invite more to build across platforms.
 
-⭐ **获得 Star**: 12,241
+⭐ **获得 Star**: 12,310
 
 💻 **主要编程语言**: C++
 
@@ -603,9 +599,9 @@
 
 👤 **作者**: [lynx-family](https://github.com/lynx-family)
 
-🔄 **Fork 数量**: 410
+🔄 **Fork 数量**: 413
 
-⚠️ **未解决 Issues**: 229
+⚠️ **未解决 Issues**: 245
 
 ---
 
@@ -615,7 +611,7 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3)
 
-⭐ **获得 Star**: 96,620
+⭐ **获得 Star**: 96,861
 
 💻 **主要编程语言**: Python
 
@@ -623,9 +619,9 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 15,712
+🔄 **Fork 数量**: 15,743
 
-⚠️ **未解决 Issues**: 89
+⚠️ **未解决 Issues**: 83
 
 ---
 
@@ -633,15 +629,15 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1)
 
-⭐ **获得 Star**: 89,174
+⭐ **获得 Star**: 89,296
 
 📅 **创建时间**: 2025-01-20
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 11,529
+🔄 **Fork 数量**: 11,541
 
-⚠️ **未解决 Issues**: 215
+⚠️ **未解决 Issues**: 202
 
 ---
 
@@ -651,7 +647,7 @@
 
 📝 **项目描述**: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
-⭐ **获得 Star**: 59,654
+⭐ **获得 Star**: 60,495
 
 💻 **主要编程语言**: Python
 
@@ -659,9 +655,9 @@
 
 👤 **作者**: [browser-use](https://github.com/browser-use)
 
-🔄 **Fork 数量**: 6,544
+🔄 **Fork 数量**: 6,690
 
-⚠️ **未解决 Issues**: 436
+⚠️ **未解决 Issues**: 440
 
 ---
 

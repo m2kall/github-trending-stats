@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ngxson/smolvlm-realtime-webcam",
+    "description": "Real-time webcam demo with SmolVLM and llama.cpp server",
+    "stars": 3021,
+    "language": "HTML",
+    "url": "https://github.com/ngxson/smolvlm-realtime-webcam",
+    "created_at": "2025-05-12T17:24:38Z",
+    "owner": {
+      "login": "ngxson",
+      "url": "https://github.com/ngxson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7702203?v=4"
+    },
+    "forks": 402,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ngxson/smolvlm-realtime-webcam"
+  },
+  {
+    "name": "xai-org/grok-prompts",
+    "description": "Prompts for our Grok chat assistant and the `@grok` bot on X.",
+    "stars": 1863,
+    "language": "Jinja",
+    "url": "https://github.com/xai-org/grok-prompts",
+    "created_at": "2025-05-15T20:58:16Z",
+    "owner": {
+      "login": "xai-org",
+      "url": "https://github.com/xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "forks": 171,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xai-org/grok-prompts"
+  },
+  {
+    "name": "mswnlz/edu-knowlege",
+    "description": "教育各种资料，从幼儿园到小学、中学，涵盖学而思，万维、猿辅导等多个机构，持续增加中",
+    "stars": 1786,
+    "language": null,
+    "url": "https://github.com/mswnlz/edu-knowlege",
+    "created_at": "2025-05-13T06:22:39Z",
+    "owner": {
+      "login": "mswnlz",
+      "url": "https://github.com/mswnlz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209769557?v=4"
+    },
+    "forks": 333,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mswnlz/edu-knowlege"
+  },
+  {
+    "name": "InterviewReady/ai-engineering-resources",
+    "description": "Research papers and blogs to transition to AI Engineering",
+    "stars": 663,
+    "language": null,
+    "url": "https://github.com/InterviewReady/ai-engineering-resources",
+    "created_at": "2025-05-13T18:17:53Z",
+    "owner": {
+      "login": "InterviewReady",
+      "url": "https://github.com/InterviewReady",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84011411?v=4"
+    },
+    "forks": 85,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/InterviewReady/ai-engineering-resources"
+  },
+  {
+    "name": "agentcodee/cursor-free-everyday",
+    "description": "完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度",
+    "stars": 595,
+    "language": "Rust",
+    "url": "https://github.com/agentcodee/cursor-free-everyday",
+    "created_at": "2025-05-14T07:24:05Z",
+    "owner": {
+      "login": "agentcodee",
+      "url": "https://github.com/agentcodee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211634216?v=4"
+    },
+    "forks": 49,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/agentcodee/cursor-free-everyday"
+  },
+  {
+    "name": "OpenBMB/AgentCPM-GUI",
+    "description": "AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhancing reasoning ability with reinforcement fine-tuning for efficient task execution.",
+    "stars": 589,
+    "language": "Python",
+    "url": "https://github.com/OpenBMB/AgentCPM-GUI",
+    "created_at": "2025-05-13T04:11:16Z",
+    "owner": {
+      "login": "OpenBMB",
+      "url": "https://github.com/OpenBMB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89920203?v=4"
+    },
+    "forks": 54,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenBMB/AgentCPM-GUI"
+  },
+  {
+    "name": "vijay2181/k8s-500-prod-issues",
+    "description": null,
+    "stars": 552,
+    "language": null,
+    "url": "https://github.com/vijay2181/k8s-500-prod-issues",
+    "created_at": "2025-05-13T03:43:23Z",
+    "owner": {
+      "login": "vijay2181",
+      "url": "https://github.com/vijay2181",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66196388?v=4"
+    },
+    "forks": 494,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vijay2181/k8s-500-prod-issues"
+  },
+  {
+    "name": "stepfun-ai/Step1X-3D",
+    "description": "Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets",
+    "stars": 420,
+    "language": "Python",
+    "url": "https://github.com/stepfun-ai/Step1X-3D",
+    "created_at": "2025-05-13T03:42:54Z",
+    "owner": {
+      "login": "stepfun-ai",
+      "url": "https://github.com/stepfun-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178004800?v=4"
+    },
+    "forks": 10,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/stepfun-ai/Step1X-3D"
+  },
+  {
+    "name": "dtyq/magic",
+    "description": "The first open-source all-in-one AI productivity platform",
+    "stars": 337,
+    "language": "PHP",
+    "url": "https://github.com/dtyq/magic",
+    "created_at": "2025-05-14T22:04:29Z",
+    "owner": {
+      "login": "dtyq",
+      "url": "https://github.com/dtyq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144179893?v=4"
+    },
+    "forks": 40,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dtyq/magic"
+  },
+  {
+    "name": "Zorokee/ArtificialCast",
+    "description": "Type-safe transformation powered by inference.",
+    "stars": 300,
+    "language": "C#",
+    "url": "https://github.com/Zorokee/ArtificialCast",
+    "created_at": "2025-05-13T14:23:01Z",
+    "owner": {
+      "login": "Zorokee",
+      "url": "https://github.com/Zorokee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66622968?v=4"
+    },
+    "forks": 5,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Zorokee/ArtificialCast"
+  }
+]
