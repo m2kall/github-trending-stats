@@ -1,0 +1,162 @@
+[
+  {
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.",
+    "stars": 51671,
+    "language": null,
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "created_at": "2025-03-05T16:38:29Z",
+    "owner": {
+      "login": "x1xhlol",
+      "url": "https://github.com/x1xhlol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185671340?v=4"
+    },
+    "forks": 15857,
+    "issues": 28,
+    "social_preview_url": "https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "name": "FoundationAgents/OpenManus",
+    "description": "No fortress, purely open ground.  OpenManus is Coming.",
+    "stars": 46026,
+    "language": "Python",
+    "url": "https://github.com/FoundationAgents/OpenManus",
+    "created_at": "2025-03-06T14:08:14Z",
+    "owner": {
+      "login": "FoundationAgents",
+      "url": "https://github.com/FoundationAgents",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198047230?v=4"
+    },
+    "forks": 8029,
+    "issues": 563,
+    "social_preview_url": "https://opengraph.githubassets.com/1/FoundationAgents/OpenManus"
+  },
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "stars": 26970,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/codex",
+    "created_at": "2025-04-13T05:37:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 2741,
+    "issues": 344,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/codex"
+  },
+  {
+    "name": "camel-ai/owl",
+    "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+    "stars": 16624,
+    "language": "Python",
+    "url": "https://github.com/camel-ai/owl",
+    "created_at": "2025-03-03T15:42:51Z",
+    "owner": {
+      "login": "camel-ai",
+      "url": "https://github.com/camel-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134388954?v=4"
+    },
+    "forks": 1952,
+    "issues": 77,
+    "social_preview_url": "https://opengraph.githubassets.com/1/camel-ai/owl"
+  },
+  {
+    "name": "nari-labs/dia",
+    "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+    "stars": 16312,
+    "language": "Python",
+    "url": "https://github.com/nari-labs/dia",
+    "created_at": "2025-04-19T07:15:57Z",
+    "owner": {
+      "login": "nari-labs",
+      "url": "https://github.com/nari-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208232306?v=4"
+    },
+    "forks": 1299,
+    "issues": 55,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nari-labs/dia"
+  },
+  {
+    "name": "google/A2A",
+    "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
+    "stars": 15946,
+    "language": "Python",
+    "url": "https://github.com/google/A2A",
+    "created_at": "2025-03-25T18:44:21Z",
+    "owner": {
+      "login": "google",
+      "url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "forks": 1515,
+    "issues": 185,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google/A2A"
+  },
+  {
+    "name": "github/github-mcp-server",
+    "description": "GitHub's official MCP Server",
+    "stars": 14225,
+    "language": "Go",
+    "url": "https://github.com/github/github-mcp-server",
+    "created_at": "2025-03-04T16:42:04Z",
+    "owner": {
+      "login": "github",
+      "url": "https://github.com/github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+    },
+    "forks": 899,
+    "issues": 101,
+    "social_preview_url": "https://opengraph.githubassets.com/1/github/github-mcp-server"
+  },
+  {
+    "name": "lllyasviel/FramePack",
+    "description": "Lets make video diffusion practical!",
+    "stars": 13605,
+    "language": "Python",
+    "url": "https://github.com/lllyasviel/FramePack",
+    "created_at": "2025-04-12T14:45:22Z",
+    "owner": {
+      "login": "lllyasviel",
+      "url": "https://github.com/lllyasviel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19834515?v=4"
+    },
+    "forks": 1170,
+    "issues": 361,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lllyasviel/FramePack"
+  },
+  {
+    "name": "SesameAILabs/csm",
+    "description": "A Conversational Speech Generation Model",
+    "stars": 13334,
+    "language": "Python",
+    "url": "https://github.com/SesameAILabs/csm",
+    "created_at": "2025-02-26T15:38:54Z",
+    "owner": {
+      "login": "SesameAILabs",
+      "url": "https://github.com/SesameAILabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136667101?v=4"
+    },
+    "forks": 1271,
+    "issues": 51,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SesameAILabs/csm"
+  },
+  {
+    "name": "lynx-family/lynx",
+    "description": "Empower the Web community and invite more to build across platforms.",
+    "stars": 12414,
+    "language": "C++",
+    "url": "https://github.com/lynx-family/lynx",
+    "created_at": "2025-03-04T07:41:43Z",
+    "owner": {
+      "login": "lynx-family",
+      "url": "https://github.com/lynx-family",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200909301?v=4"
+    },
+    "forks": 413,
+    "issues": 245,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lynx-family/lynx"
+  }
+]

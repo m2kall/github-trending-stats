@@ -1,0 +1,162 @@
+[
+  {
+    "name": "bytedance/deer-flow",
+    "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
+    "stars": 11732,
+    "language": "TypeScript",
+    "url": "https://github.com/bytedance/deer-flow",
+    "created_at": "2025-05-07T02:50:19Z",
+    "owner": {
+      "login": "bytedance",
+      "url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "forks": 1174,
+    "issues": 103,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bytedance/deer-flow"
+  },
+  {
+    "name": "astral-sh/ty",
+    "description": "An extremely fast Python type checker and language server, written in Rust.",
+    "stars": 8788,
+    "language": "Python",
+    "url": "https://github.com/astral-sh/ty",
+    "created_at": "2025-05-02T16:37:51Z",
+    "owner": {
+      "login": "astral-sh",
+      "url": "https://github.com/astral-sh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115962839?v=4"
+    },
+    "forks": 79,
+    "issues": 235,
+    "social_preview_url": "https://opengraph.githubassets.com/1/astral-sh/ty"
+  },
+  {
+    "name": "AsyncFuncAI/deepwiki-open",
+    "description": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme",
+    "stars": 5768,
+    "language": "TypeScript",
+    "url": "https://github.com/AsyncFuncAI/deepwiki-open",
+    "created_at": "2025-04-30T06:01:29Z",
+    "owner": {
+      "login": "AsyncFuncAI",
+      "url": "https://github.com/AsyncFuncAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194295535?v=4"
+    },
+    "forks": 481,
+    "issues": 64,
+    "social_preview_url": "https://opengraph.githubassets.com/1/AsyncFuncAI/deepwiki-open"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+    "stars": 5522,
+    "language": "JavaScript",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "created_at": "2025-05-03T02:43:56Z",
+    "owner": {
+      "login": "asgeirtj",
+      "url": "https://github.com/asgeirtj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27446620?v=4"
+    },
+    "forks": 1150,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "apple/ml-fastvlm",
+    "description": "This repository contains the official implementation of \"FastVLM: Efficient Vision Encoding for Vision Language Models\" - CVPR 2025",
+    "stars": 3810,
+    "language": "Python",
+    "url": "https://github.com/apple/ml-fastvlm",
+    "created_at": "2025-05-01T22:56:43Z",
+    "owner": {
+      "login": "apple",
+      "url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "forks": 191,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apple/ml-fastvlm"
+  },
+  {
+    "name": "ngxson/smolvlm-realtime-webcam",
+    "description": "Real-time webcam demo with SmolVLM and llama.cpp server",
+    "stars": 3577,
+    "language": "HTML",
+    "url": "https://github.com/ngxson/smolvlm-realtime-webcam",
+    "created_at": "2025-05-12T17:24:38Z",
+    "owner": {
+      "login": "ngxson",
+      "url": "https://github.com/ngxson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7702203?v=4"
+    },
+    "forks": 500,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ngxson/smolvlm-realtime-webcam"
+  },
+  {
+    "name": "microsoft/NLWeb",
+    "description": "Natural Language Web",
+    "stars": 3343,
+    "language": "Python",
+    "url": "https://github.com/microsoft/NLWeb",
+    "created_at": "2025-04-28T20:44:02Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 265,
+    "issues": 34,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/NLWeb"
+  },
+  {
+    "name": "enescingoz/awesome-n8n-templates",
+    "description": "Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.",
+    "stars": 2996,
+    "language": null,
+    "url": "https://github.com/enescingoz/awesome-n8n-templates",
+    "created_at": "2025-05-08T18:34:01Z",
+    "owner": {
+      "login": "enescingoz",
+      "url": "https://github.com/enescingoz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60349121?v=4"
+    },
+    "forks": 841,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/enescingoz/awesome-n8n-templates"
+  },
+  {
+    "name": "huggingface/nanoVLM",
+    "description": "The simplest, fastest repository for training/finetuning small-sized VLMs.",
+    "stars": 2865,
+    "language": "Python",
+    "url": "https://github.com/huggingface/nanoVLM",
+    "created_at": "2025-05-02T18:08:12Z",
+    "owner": {
+      "login": "huggingface",
+      "url": "https://github.com/huggingface",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    "forks": 223,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/huggingface/nanoVLM"
+  },
+  {
+    "name": "browser-use/workflow-use",
+    "description": "⚙️ Create and run workflows (RPA 2.0)",
+    "stars": 2739,
+    "language": "TypeScript",
+    "url": "https://github.com/browser-use/workflow-use",
+    "created_at": "2025-05-06T09:35:23Z",
+    "owner": {
+      "login": "browser-use",
+      "url": "https://github.com/browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "forks": 165,
+    "issues": 28,
+    "social_preview_url": "https://opengraph.githubassets.com/1/browser-use/workflow-use"
+  }
+]
