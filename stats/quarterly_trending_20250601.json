@@ -1,0 +1,162 @@
+[
+  {
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.",
+    "stars": 54025,
+    "language": null,
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "created_at": "2025-03-05T16:38:29Z",
+    "owner": {
+      "login": "x1xhlol",
+      "url": "https://github.com/x1xhlol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185671340?v=4"
+    },
+    "forks": 16551,
+    "issues": 33,
+    "social_preview_url": "https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "name": "FoundationAgents/OpenManus",
+    "description": "No fortress, purely open ground.  OpenManus is Coming.",
+    "stars": 46319,
+    "language": "Python",
+    "url": "https://github.com/FoundationAgents/OpenManus",
+    "created_at": "2025-03-06T14:08:14Z",
+    "owner": {
+      "login": "FoundationAgents",
+      "url": "https://github.com/FoundationAgents",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198047230?v=4"
+    },
+    "forks": 8101,
+    "issues": 565,
+    "social_preview_url": "https://opengraph.githubassets.com/1/FoundationAgents/OpenManus"
+  },
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "stars": 27572,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/codex",
+    "created_at": "2025-04-13T05:37:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 2881,
+    "issues": 388,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/codex"
+  },
+  {
+    "name": "nari-labs/dia",
+    "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+    "stars": 16596,
+    "language": "Python",
+    "url": "https://github.com/nari-labs/dia",
+    "created_at": "2025-04-19T07:15:57Z",
+    "owner": {
+      "login": "nari-labs",
+      "url": "https://github.com/nari-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208232306?v=4"
+    },
+    "forks": 1326,
+    "issues": 60,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nari-labs/dia"
+  },
+  {
+    "name": "google-a2a/A2A",
+    "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
+    "stars": 16312,
+    "language": "TypeScript",
+    "url": "https://github.com/google-a2a/A2A",
+    "created_at": "2025-03-25T18:44:21Z",
+    "owner": {
+      "login": "google-a2a",
+      "url": "https://github.com/google-a2a",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213684959?v=4"
+    },
+    "forks": 1588,
+    "issues": 93,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-a2a/A2A"
+  },
+  {
+    "name": "github/github-mcp-server",
+    "description": "GitHub's official MCP Server",
+    "stars": 14707,
+    "language": "Go",
+    "url": "https://github.com/github/github-mcp-server",
+    "created_at": "2025-03-04T16:42:04Z",
+    "owner": {
+      "login": "github",
+      "url": "https://github.com/github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+    },
+    "forks": 964,
+    "issues": 116,
+    "social_preview_url": "https://opengraph.githubassets.com/1/github/github-mcp-server"
+  },
+  {
+    "name": "lllyasviel/FramePack",
+    "description": "Lets make video diffusion practical!",
+    "stars": 13884,
+    "language": "Python",
+    "url": "https://github.com/lllyasviel/FramePack",
+    "created_at": "2025-04-12T14:45:22Z",
+    "owner": {
+      "login": "lllyasviel",
+      "url": "https://github.com/lllyasviel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19834515?v=4"
+    },
+    "forks": 1209,
+    "issues": 370,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lllyasviel/FramePack"
+  },
+  {
+    "name": "lynx-family/lynx",
+    "description": "Empower the Web community and invite more to build across platforms.",
+    "stars": 12550,
+    "language": "C++",
+    "url": "https://github.com/lynx-family/lynx",
+    "created_at": "2025-03-04T07:41:43Z",
+    "owner": {
+      "login": "lynx-family",
+      "url": "https://github.com/lynx-family",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200909301?v=4"
+    },
+    "forks": 418,
+    "issues": 285,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lynx-family/lynx"
+  },
+  {
+    "name": "mindverse/Second-Me",
+    "description": "Train your AI self, amplify you, bridge the world",
+    "stars": 12439,
+    "language": "Python",
+    "url": "https://github.com/mindverse/Second-Me",
+    "created_at": "2025-03-16T04:06:05Z",
+    "owner": {
+      "login": "mindverse",
+      "url": "https://github.com/mindverse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98323155?v=4"
+    },
+    "forks": 893,
+    "issues": 131,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mindverse/Second-Me"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
+    "stars": 12300,
+    "language": "TypeScript",
+    "url": "https://github.com/bytedance/deer-flow",
+    "created_at": "2025-05-07T02:50:19Z",
+    "owner": {
+      "login": "bytedance",
+      "url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "forks": 1281,
+    "issues": 123,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bytedance/deer-flow"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "safety-research/circuit-tracer",
+    "description": null,
+    "stars": 1212,
+    "language": "JavaScript",
+    "url": "https://github.com/safety-research/circuit-tracer",
+    "created_at": "2025-05-28T19:14:08Z",
+    "owner": {
+      "login": "safety-research",
+      "url": "https://github.com/safety-research",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191413816?v=4"
+    },
+    "forks": 101,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/safety-research/circuit-tracer"
+  },
+  {
+    "name": "Tencent-Hunyuan/HunyuanVideo-Avatar",
+    "description": null,
+    "stars": 691,
+    "language": "Python",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar",
+    "created_at": "2025-05-26T11:24:20Z",
+    "owner": {
+      "login": "Tencent-Hunyuan",
+      "url": "https://github.com/Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "forks": 58,
+    "issues": 20,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent-Hunyuan/HunyuanVideo-Avatar"
+  },
+  {
+    "name": "goforj/godump",
+    "description": "A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.",
+    "stars": 511,
+    "language": "Go",
+    "url": "https://github.com/goforj/godump",
+    "created_at": "2025-05-26T20:01:31Z",
+    "owner": {
+      "login": "goforj",
+      "url": "https://github.com/goforj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210955181?v=4"
+    },
+    "forks": 7,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/goforj/godump"
+  },
+  {
+    "name": "Olow304/memvid",
+    "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
+    "stars": 447,
+    "language": "Python",
+    "url": "https://github.com/Olow304/memvid",
+    "created_at": "2025-05-27T16:01:08Z",
+    "owner": {
+      "login": "Olow304",
+      "url": "https://github.com/Olow304",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7048571?v=4"
+    },
+    "forks": 36,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Olow304/memvid"
+  },
+  {
+    "name": "alibaba/ROLL",
+    "description": null,
+    "stars": 406,
+    "language": "Python",
+    "url": "https://github.com/alibaba/ROLL",
+    "created_at": "2025-05-28T11:27:18Z",
+    "owner": {
+      "login": "alibaba",
+      "url": "https://github.com/alibaba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1961952?v=4"
+    },
+    "forks": 26,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/alibaba/ROLL"
+  },
+  {
+    "name": "aizhimou/jav-play",
+    "description": "Play video directly in JAVDB",
+    "stars": 382,
+    "language": "TypeScript",
+    "url": "https://github.com/aizhimou/jav-play",
+    "created_at": "2025-05-27T03:17:14Z",
+    "owner": {
+      "login": "aizhimou",
+      "url": "https://github.com/aizhimou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19943786?v=4"
+    },
+    "forks": 32,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/aizhimou/jav-play"
+  },
+  {
+    "name": "GtxFury/FlyClash-Android",
+    "description": "FlyClash客户端安卓版本",
+    "stars": 365,
+    "language": null,
+    "url": "https://github.com/GtxFury/FlyClash-Android",
+    "created_at": "2025-05-26T04:15:49Z",
+    "owner": {
+      "login": "GtxFury",
+      "url": "https://github.com/GtxFury",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32810165?v=4"
+    },
+    "forks": 6,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/GtxFury/FlyClash-Android"
+  },
+  {
+    "name": "linux-do/cdk",
+    "description": "LINUX DO CD key",
+    "stars": 346,
+    "language": null,
+    "url": "https://github.com/linux-do/cdk",
+    "created_at": "2025-05-28T06:38:57Z",
+    "owner": {
+      "login": "linux-do",
+      "url": "https://github.com/linux-do",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160804563?v=4"
+    },
+    "forks": 24,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/linux-do/cdk"
+  },
+  {
+    "name": "HazyResearch/Megakernels",
+    "description": "kernels, of the mega variety",
+    "stars": 314,
+    "language": "Python",
+    "url": "https://github.com/HazyResearch/Megakernels",
+    "created_at": "2025-05-27T18:25:49Z",
+    "owner": {
+      "login": "HazyResearch",
+      "url": "https://github.com/HazyResearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2165246?v=4"
+    },
+    "forks": 12,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HazyResearch/Megakernels"
+  },
+  {
+    "name": "muthuishere/mcp-server-bash-sdk",
+    "description": "Yes Mcp server in bash",
+    "stars": 299,
+    "language": "Shell",
+    "url": "https://github.com/muthuishere/mcp-server-bash-sdk",
+    "created_at": "2025-05-29T17:40:20Z",
+    "owner": {
+      "login": "muthuishere",
+      "url": "https://github.com/muthuishere",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132564?v=4"
+    },
+    "forks": 16,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/muthuishere/mcp-server-bash-sdk"
+  }
+]

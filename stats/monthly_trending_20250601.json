@@ -1,0 +1,162 @@
+[
+  {
+    "name": "bytedance/deer-flow",
+    "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
+    "stars": 12300,
+    "language": "TypeScript",
+    "url": "https://github.com/bytedance/deer-flow",
+    "created_at": "2025-05-07T02:50:19Z",
+    "owner": {
+      "login": "bytedance",
+      "url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "forks": 1281,
+    "issues": 123,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bytedance/deer-flow"
+  },
+  {
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+    "stars": 5886,
+    "language": "JavaScript",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "created_at": "2025-05-03T02:43:56Z",
+    "owner": {
+      "login": "asgeirtj",
+      "url": "https://github.com/asgeirtj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27446620?v=4"
+    },
+    "forks": 1248,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "name": "microsoft/magentic-ui",
+    "description": "A research prototype of a human-centered web agent",
+    "stars": 4768,
+    "language": "Python",
+    "url": "https://github.com/microsoft/magentic-ui",
+    "created_at": "2025-05-05T20:24:30Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 429,
+    "issues": 53,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/magentic-ui"
+  },
+  {
+    "name": "ngxson/smolvlm-realtime-webcam",
+    "description": "Real-time webcam demo with SmolVLM and llama.cpp server",
+    "stars": 3767,
+    "language": "HTML",
+    "url": "https://github.com/ngxson/smolvlm-realtime-webcam",
+    "created_at": "2025-05-12T17:24:38Z",
+    "owner": {
+      "login": "ngxson",
+      "url": "https://github.com/ngxson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7702203?v=4"
+    },
+    "forks": 532,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ngxson/smolvlm-realtime-webcam"
+  },
+  {
+    "name": "agentcodee/cursor-free-everyday",
+    "description": "完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度",
+    "stars": 3661,
+    "language": "Rust",
+    "url": "https://github.com/agentcodee/cursor-free-everyday",
+    "created_at": "2025-05-14T07:24:05Z",
+    "owner": {
+      "login": "agentcodee",
+      "url": "https://github.com/agentcodee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211634216?v=4"
+    },
+    "forks": 345,
+    "issues": 33,
+    "social_preview_url": "https://opengraph.githubassets.com/1/agentcodee/cursor-free-everyday"
+  },
+  {
+    "name": "enescingoz/awesome-n8n-templates",
+    "description": "Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.",
+    "stars": 3378,
+    "language": null,
+    "url": "https://github.com/enescingoz/awesome-n8n-templates",
+    "created_at": "2025-05-08T18:34:01Z",
+    "owner": {
+      "login": "enescingoz",
+      "url": "https://github.com/enescingoz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60349121?v=4"
+    },
+    "forks": 950,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/enescingoz/awesome-n8n-templates"
+  },
+  {
+    "name": "browser-use/workflow-use",
+    "description": "⚙️ Create and run workflows (RPA 2.0)",
+    "stars": 3082,
+    "language": "TypeScript",
+    "url": "https://github.com/browser-use/workflow-use",
+    "created_at": "2025-05-06T09:35:23Z",
+    "owner": {
+      "login": "browser-use",
+      "url": "https://github.com/browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "forks": 192,
+    "issues": 30,
+    "social_preview_url": "https://opengraph.githubassets.com/1/browser-use/workflow-use"
+  },
+  {
+    "name": "ag-ui-protocol/ag-ui",
+    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "stars": 2775,
+    "language": "TypeScript",
+    "url": "https://github.com/ag-ui-protocol/ag-ui",
+    "created_at": "2025-05-07T12:49:37Z",
+    "owner": {
+      "login": "ag-ui-protocol",
+      "url": "https://github.com/ag-ui-protocol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209775067?v=4"
+    },
+    "forks": 219,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ag-ui-protocol/ag-ui"
+  },
+  {
+    "name": "xai-org/grok-prompts",
+    "description": "Prompts for our Grok chat assistant and the `@grok` bot on X.",
+    "stars": 2565,
+    "language": "Jinja",
+    "url": "https://github.com/xai-org/grok-prompts",
+    "created_at": "2025-05-15T20:58:16Z",
+    "owner": {
+      "login": "xai-org",
+      "url": "https://github.com/xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "forks": 240,
+    "issues": 41,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xai-org/grok-prompts"
+  },
+  {
+    "name": "mswnlz/edu-knowlege",
+    "description": "教育各种资料，从幼儿园到小学、中学，涵盖学而思，万维、猿辅导等多个机构，持续增加中",
+    "stars": 2022,
+    "language": null,
+    "url": "https://github.com/mswnlz/edu-knowlege",
+    "created_at": "2025-05-13T06:22:39Z",
+    "owner": {
+      "login": "mswnlz",
+      "url": "https://github.com/mswnlz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209769557?v=4"
+    },
+    "forks": 384,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mswnlz/edu-knowlege"
+  }
+]
