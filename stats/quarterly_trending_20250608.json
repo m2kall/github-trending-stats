@@ -1,0 +1,162 @@
+[
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "stars": 28435,
+    "language": "Rust",
+    "url": "https://github.com/openai/codex",
+    "created_at": "2025-04-13T05:37:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 3031,
+    "issues": 438,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/codex"
+  },
+  {
+    "name": "nari-labs/dia",
+    "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+    "stars": 16788,
+    "language": "Python",
+    "url": "https://github.com/nari-labs/dia",
+    "created_at": "2025-04-19T07:15:57Z",
+    "owner": {
+      "login": "nari-labs",
+      "url": "https://github.com/nari-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208232306?v=4"
+    },
+    "forks": 1348,
+    "issues": 61,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nari-labs/dia"
+  },
+  {
+    "name": "google-a2a/A2A",
+    "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
+    "stars": 16705,
+    "language": "TypeScript",
+    "url": "https://github.com/google-a2a/A2A",
+    "created_at": "2025-03-25T18:44:21Z",
+    "owner": {
+      "login": "google-a2a",
+      "url": "https://github.com/google-a2a",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213684959?v=4"
+    },
+    "forks": 1634,
+    "issues": 79,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-a2a/A2A"
+  },
+  {
+    "name": "lllyasviel/FramePack",
+    "description": "Lets make video diffusion practical!",
+    "stars": 14138,
+    "language": "Python",
+    "url": "https://github.com/lllyasviel/FramePack",
+    "created_at": "2025-04-12T14:45:22Z",
+    "owner": {
+      "login": "lllyasviel",
+      "url": "https://github.com/lllyasviel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19834515?v=4"
+    },
+    "forks": 1242,
+    "issues": 379,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lllyasviel/FramePack"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
+    "stars": 12911,
+    "language": "TypeScript",
+    "url": "https://github.com/bytedance/deer-flow",
+    "created_at": "2025-05-07T02:50:19Z",
+    "owner": {
+      "login": "bytedance",
+      "url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "forks": 1393,
+    "issues": 130,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bytedance/deer-flow"
+  },
+  {
+    "name": "mindverse/Second-Me",
+    "description": "Train your AI self, amplify you, bridge the world",
+    "stars": 12601,
+    "language": "Python",
+    "url": "https://github.com/mindverse/Second-Me",
+    "created_at": "2025-03-16T04:06:05Z",
+    "owner": {
+      "login": "mindverse",
+      "url": "https://github.com/mindverse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98323155?v=4"
+    },
+    "forks": 907,
+    "issues": 132,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mindverse/Second-Me"
+  },
+  {
+    "name": "upstash/context7",
+    "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+    "stars": 11427,
+    "language": "JavaScript",
+    "url": "https://github.com/upstash/context7",
+    "created_at": "2025-03-26T23:40:39Z",
+    "owner": {
+      "login": "upstash",
+      "url": "https://github.com/upstash",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74989412?v=4"
+    },
+    "forks": 615,
+    "issues": 43,
+    "social_preview_url": "https://opengraph.githubassets.com/1/upstash/context7"
+  },
+  {
+    "name": "microsoft/playwright-mcp",
+    "description": "Playwright MCP server",
+    "stars": 11387,
+    "language": "TypeScript",
+    "url": "https://github.com/microsoft/playwright-mcp",
+    "created_at": "2025-03-21T17:48:36Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 746,
+    "issues": 26,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/playwright-mcp"
+  },
+  {
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "stars": 11180,
+    "language": "Python",
+    "url": "https://github.com/openai/openai-agents-python",
+    "created_at": "2025-03-11T03:42:36Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 1619,
+    "issues": 193,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/openai-agents-python"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "stars": 10065,
+    "language": "Kotlin",
+    "url": "https://github.com/google-ai-edge/gallery",
+    "created_at": "2025-03-31T17:47:28Z",
+    "owner": {
+      "login": "google-ai-edge",
+      "url": "https://github.com/google-ai-edge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150697620?v=4"
+    },
+    "forks": 669,
+    "issues": 93,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-ai-edge/gallery"
+  }
+]

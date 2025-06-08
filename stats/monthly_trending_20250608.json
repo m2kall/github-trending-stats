@@ -1,0 +1,162 @@
+[
+  {
+    "name": "google-gemini/gemini-fullstack-langgraph-quickstart",
+    "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+    "stars": 9993,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
+    "created_at": "2025-05-22T11:59:02Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 1344,
+    "issues": 45,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/gemini-fullstack-langgraph-quickstart"
+  },
+  {
+    "name": "Olow304/memvid",
+    "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
+    "stars": 5414,
+    "language": "Python",
+    "url": "https://github.com/Olow304/memvid",
+    "created_at": "2025-05-27T16:01:08Z",
+    "owner": {
+      "login": "Olow304",
+      "url": "https://github.com/Olow304",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7048571?v=4"
+    },
+    "forks": 402,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Olow304/memvid"
+  },
+  {
+    "name": "agentcodee/cursor-free-everyday",
+    "description": "完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度",
+    "stars": 4098,
+    "language": "Rust",
+    "url": "https://github.com/agentcodee/cursor-free-everyday",
+    "created_at": "2025-05-14T07:24:05Z",
+    "owner": {
+      "login": "agentcodee",
+      "url": "https://github.com/agentcodee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211634216?v=4"
+    },
+    "forks": 386,
+    "issues": 38,
+    "social_preview_url": "https://opengraph.githubassets.com/1/agentcodee/cursor-free-everyday"
+  },
+  {
+    "name": "ngxson/smolvlm-realtime-webcam",
+    "description": "Real-time webcam demo with SmolVLM and llama.cpp server",
+    "stars": 3859,
+    "language": "HTML",
+    "url": "https://github.com/ngxson/smolvlm-realtime-webcam",
+    "created_at": "2025-05-12T17:24:38Z",
+    "owner": {
+      "login": "ngxson",
+      "url": "https://github.com/ngxson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7702203?v=4"
+    },
+    "forks": 549,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ngxson/smolvlm-realtime-webcam"
+  },
+  {
+    "name": "IRS-Public/direct-file",
+    "description": "Direct File",
+    "stars": 3785,
+    "language": "JavaScript",
+    "url": "https://github.com/IRS-Public/direct-file",
+    "created_at": "2025-05-19T16:46:38Z",
+    "owner": {
+      "login": "IRS-Public",
+      "url": "https://github.com/IRS-Public",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212407831?v=4"
+    },
+    "forks": 1145,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/IRS-Public/direct-file"
+  },
+  {
+    "name": "Zie619/n8n-workflows",
+    "description": "all of the workflows of n8n i could find (also from the site itself)",
+    "stars": 2649,
+    "language": null,
+    "url": "https://github.com/Zie619/n8n-workflows",
+    "created_at": "2025-05-14T08:43:59Z",
+    "owner": {
+      "login": "Zie619",
+      "url": "https://github.com/Zie619",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54673680?v=4"
+    },
+    "forks": 722,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Zie619/n8n-workflows"
+  },
+  {
+    "name": "xai-org/grok-prompts",
+    "description": "Prompts for our Grok chat assistant and the `@grok` bot on X.",
+    "stars": 2608,
+    "language": "Jinja",
+    "url": "https://github.com/xai-org/grok-prompts",
+    "created_at": "2025-05-15T20:58:16Z",
+    "owner": {
+      "login": "xai-org",
+      "url": "https://github.com/xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "forks": 245,
+    "issues": 41,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xai-org/grok-prompts"
+  },
+  {
+    "name": "codelion/openevolve",
+    "description": "Open-source implementation of AlphaEvolve",
+    "stars": 2279,
+    "language": "Python",
+    "url": "https://github.com/codelion/openevolve",
+    "created_at": "2025-05-15T11:46:52Z",
+    "owner": {
+      "login": "codelion",
+      "url": "https://github.com/codelion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/603317?v=4"
+    },
+    "forks": 257,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/codelion/openevolve"
+  },
+  {
+    "name": "mswnlz/edu-knowlege",
+    "description": "教育各种资料，从幼儿园到小学、中学，涵盖学而思，万维、猿辅导等多个机构，持续增加中",
+    "stars": 2062,
+    "language": null,
+    "url": "https://github.com/mswnlz/edu-knowlege",
+    "created_at": "2025-05-13T06:22:39Z",
+    "owner": {
+      "login": "mswnlz",
+      "url": "https://github.com/mswnlz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209769557?v=4"
+    },
+    "forks": 392,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mswnlz/edu-knowlege"
+  },
+  {
+    "name": "Paper2Poster/Paper2Poster",
+    "description": "Open-source Multi-agent Poster Generation from Papers",
+    "stars": 1811,
+    "language": "Python",
+    "url": "https://github.com/Paper2Poster/Paper2Poster",
+    "created_at": "2025-05-16T08:32:50Z",
+    "owner": {
+      "login": "Paper2Poster",
+      "url": "https://github.com/Paper2Poster",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211618649?v=4"
+    },
+    "forks": 85,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Paper2Poster/Paper2Poster"
+  }
+]

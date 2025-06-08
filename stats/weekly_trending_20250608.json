@@ -1,0 +1,162 @@
+[
+  {
+    "name": "l-portet/tiktok-warmup-bot",
+    "description": "♨️  Warming up TikTok accounts, one swipe at a time",
+    "stars": 469,
+    "language": "JavaScript",
+    "url": "https://github.com/l-portet/tiktok-warmup-bot",
+    "created_at": "2025-06-05T06:29:27Z",
+    "owner": {
+      "login": "l-portet",
+      "url": "https://github.com/l-portet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34057690?v=4"
+    },
+    "forks": 90,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/l-portet/tiktok-warmup-bot"
+  },
+  {
+    "name": "QwenLM/Qwen3-Embedding",
+    "description": null,
+    "stars": 421,
+    "language": "Python",
+    "url": "https://github.com/QwenLM/Qwen3-Embedding",
+    "created_at": "2025-06-05T08:07:26Z",
+    "owner": {
+      "login": "QwenLM",
+      "url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "forks": 19,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/QwenLM/Qwen3-Embedding"
+  },
+  {
+    "name": "apex-undetected/Apex-Cheat",
+    "description": "Apex Cheat is an undetected Apex Legends Cheat including Apex Aimbot, ESP overlays, and a full HWID Spoofer. Ideal for personal use and studying how Apex Legends Aimbot systems and cheat tools are built and executed in live environments.",
+    "stars": 337,
+    "language": "Python",
+    "url": "https://github.com/apex-undetected/Apex-Cheat",
+    "created_at": "2025-06-06T22:00:11Z",
+    "owner": {
+      "login": "apex-undetected",
+      "url": "https://github.com/apex-undetected",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215214808?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apex-undetected/Apex-Cheat"
+  },
+  {
+    "name": "neocanable/garlic",
+    "description": "Java decompiler written in C",
+    "stars": 298,
+    "language": "C",
+    "url": "https://github.com/neocanable/garlic",
+    "created_at": "2025-06-02T15:45:03Z",
+    "owner": {
+      "login": "neocanable",
+      "url": "https://github.com/neocanable",
+      "avatar_url": "https://avatars.githubusercontent.com/u/931691?v=4"
+    },
+    "forks": 19,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/neocanable/garlic"
+  },
+  {
+    "name": "wey-gu/py-pglite",
+    "description": "PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite.",
+    "stars": 296,
+    "language": "Python",
+    "url": "https://github.com/wey-gu/py-pglite",
+    "created_at": "2025-06-05T13:27:12Z",
+    "owner": {
+      "login": "wey-gu",
+      "url": "https://github.com/wey-gu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1651790?v=4"
+    },
+    "forks": 4,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wey-gu/py-pglite"
+  },
+  {
+    "name": "lixiasky/vanta",
+    "description": "A lightweight protocol-aware packet analyzer and behavioral exporter. Created as a personal response to global academic freedom challenges.",
+    "stars": 277,
+    "language": "Go",
+    "url": "https://github.com/lixiasky/vanta",
+    "created_at": "2025-06-02T06:30:29Z",
+    "owner": {
+      "login": "lixiasky",
+      "url": "https://github.com/lixiasky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190588912?v=4"
+    },
+    "forks": 10,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lixiasky/vanta"
+  },
+  {
+    "name": "ElusionCheats/warzone-cheat",
+    "description": "Warzone Cheat is a powerful and feature-rich educational project designed to demonstrate how cheats can be built for Call of Duty: Warzone. Includes fully functional modules such as Aimbot, ESP, Wallhack, Triggerbot, and No Recoil. Each module is built to be customizable, with code optimized for low latency",
+    "stars": 268,
+    "language": "Python",
+    "url": "https://github.com/ElusionCheats/warzone-cheat",
+    "created_at": "2025-06-04T14:11:31Z",
+    "owner": {
+      "login": "ElusionCheats",
+      "url": "https://github.com/ElusionCheats",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212272185?v=4"
+    },
+    "forks": 1,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ElusionCheats/warzone-cheat"
+  },
+  {
+    "name": "aki66938/xhs-toolkit",
+    "description": "📕 小红书MCP工具包 - 支持与AI客户端集成的智能内容创作和发布工具",
+    "stars": 243,
+    "language": "Python",
+    "url": "https://github.com/aki66938/xhs-toolkit",
+    "created_at": "2025-06-02T10:14:35Z",
+    "owner": {
+      "login": "aki66938",
+      "url": "https://github.com/aki66938",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47413858?v=4"
+    },
+    "forks": 29,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/aki66938/xhs-toolkit"
+  },
+  {
+    "name": "BotRandomness/NET-NES",
+    "description": "NET-NES, a NES emulator, written in C#.",
+    "stars": 240,
+    "language": "C#",
+    "url": "https://github.com/BotRandomness/NET-NES",
+    "created_at": "2025-06-02T15:42:27Z",
+    "owner": {
+      "login": "BotRandomness",
+      "url": "https://github.com/BotRandomness",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114881271?v=4"
+    },
+    "forks": 16,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/BotRandomness/NET-NES"
+  },
+  {
+    "name": "ScalingIntelligence/tokasaurus",
+    "description": null,
+    "stars": 241,
+    "language": "Python",
+    "url": "https://github.com/ScalingIntelligence/tokasaurus",
+    "created_at": "2025-06-05T15:01:24Z",
+    "owner": {
+      "login": "ScalingIntelligence",
+      "url": "https://github.com/ScalingIntelligence",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171742855?v=4"
+    },
+    "forks": 11,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ScalingIntelligence/tokasaurus"
+  }
+]
