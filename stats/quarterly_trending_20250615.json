@@ -1,0 +1,162 @@
+[
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "stars": 28952,
+    "language": "Rust",
+    "url": "https://github.com/openai/codex",
+    "created_at": "2025-04-13T05:37:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 3172,
+    "issues": 481,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/codex"
+  },
+  {
+    "name": "google-a2a/A2A",
+    "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
+    "stars": 16980,
+    "language": "TypeScript",
+    "url": "https://github.com/google-a2a/A2A",
+    "created_at": "2025-03-25T18:44:21Z",
+    "owner": {
+      "login": "google-a2a",
+      "url": "https://github.com/google-a2a",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213684959?v=4"
+    },
+    "forks": 1669,
+    "issues": 56,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-a2a/A2A"
+  },
+  {
+    "name": "nari-labs/dia",
+    "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+    "stars": 16938,
+    "language": "Python",
+    "url": "https://github.com/nari-labs/dia",
+    "created_at": "2025-04-19T07:15:57Z",
+    "owner": {
+      "login": "nari-labs",
+      "url": "https://github.com/nari-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208232306?v=4"
+    },
+    "forks": 1363,
+    "issues": 62,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nari-labs/dia"
+  },
+  {
+    "name": "lllyasviel/FramePack",
+    "description": "Lets make video diffusion practical!",
+    "stars": 14395,
+    "language": "Python",
+    "url": "https://github.com/lllyasviel/FramePack",
+    "created_at": "2025-04-12T14:45:22Z",
+    "owner": {
+      "login": "lllyasviel",
+      "url": "https://github.com/lllyasviel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19834515?v=4"
+    },
+    "forks": 1284,
+    "issues": 391,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lllyasviel/FramePack"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
+    "stars": 13516,
+    "language": "TypeScript",
+    "url": "https://github.com/bytedance/deer-flow",
+    "created_at": "2025-05-07T02:50:19Z",
+    "owner": {
+      "login": "bytedance",
+      "url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "forks": 1501,
+    "issues": 146,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bytedance/deer-flow"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. ",
+    "stars": 13325,
+    "language": "Swift",
+    "url": "https://github.com/apple/container",
+    "created_at": "2025-05-30T21:26:05Z",
+    "owner": {
+      "login": "apple",
+      "url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "forks": 246,
+    "issues": 67,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apple/container"
+  },
+  {
+    "name": "google-gemini/gemini-fullstack-langgraph-quickstart",
+    "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+    "stars": 13221,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
+    "created_at": "2025-05-22T11:59:02Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 2038,
+    "issues": 72,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/gemini-fullstack-langgraph-quickstart"
+  },
+  {
+    "name": "upstash/context7",
+    "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+    "stars": 12536,
+    "language": "JavaScript",
+    "url": "https://github.com/upstash/context7",
+    "created_at": "2025-03-26T23:40:39Z",
+    "owner": {
+      "login": "upstash",
+      "url": "https://github.com/upstash",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74989412?v=4"
+    },
+    "forks": 663,
+    "issues": 43,
+    "social_preview_url": "https://opengraph.githubassets.com/1/upstash/context7"
+  },
+  {
+    "name": "microsoft/playwright-mcp",
+    "description": "Playwright MCP server",
+    "stars": 11873,
+    "language": "TypeScript",
+    "url": "https://github.com/microsoft/playwright-mcp",
+    "created_at": "2025-03-21T17:48:36Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 786,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/playwright-mcp"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "stars": 11014,
+    "language": "Kotlin",
+    "url": "https://github.com/google-ai-edge/gallery",
+    "created_at": "2025-03-31T17:47:28Z",
+    "owner": {
+      "login": "google-ai-edge",
+      "url": "https://github.com/google-ai-edge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150697620?v=4"
+    },
+    "forks": 744,
+    "issues": 94,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-ai-edge/gallery"
+  }
+]
