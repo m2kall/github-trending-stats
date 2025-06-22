@@ -1,0 +1,162 @@
+[
+  {
+    "name": "NirDiamant/agents-towards-production",
+    "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
+    "stars": 4642,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/NirDiamant/agents-towards-production",
+    "created_at": "2025-06-16T17:33:44Z",
+    "owner": {
+      "login": "NirDiamant",
+      "url": "https://github.com/NirDiamant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28316913?v=4"
+    },
+    "forks": 413,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NirDiamant/agents-towards-production"
+  },
+  {
+    "name": "Maciek-roboblog/Claude-Code-Usage-Monitor",
+    "description": "Real-time Claude Code usage monitor with predictions and warnings",
+    "stars": 1386,
+    "language": "Python",
+    "url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
+    "created_at": "2025-06-19T00:00:05Z",
+    "owner": {
+      "login": "Maciek-roboblog",
+      "url": "https://github.com/Maciek-roboblog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18363314?v=4"
+    },
+    "forks": 61,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Maciek-roboblog/Claude-Code-Usage-Monitor"
+  },
+  {
+    "name": "getAsterisk/claudia",
+    "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
+    "stars": 1044,
+    "language": "TypeScript",
+    "url": "https://github.com/getAsterisk/claudia",
+    "created_at": "2025-06-19T13:53:26Z",
+    "owner": {
+      "login": "getAsterisk",
+      "url": "https://github.com/getAsterisk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176251414?v=4"
+    },
+    "forks": 73,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/getAsterisk/claudia"
+  },
+  {
+    "name": "ScrapeEmAll/Telegram-Scraper",
+    "description": "A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data export capabilities.",
+    "stars": 1042,
+    "language": "Python",
+    "url": "https://github.com/ScrapeEmAll/Telegram-Scraper",
+    "created_at": "2025-06-17T10:04:31Z",
+    "owner": {
+      "login": "ScrapeEmAll",
+      "url": "https://github.com/ScrapeEmAll",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216692685?v=4"
+    },
+    "forks": 5,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ScrapeEmAll/Telegram-Scraper"
+  },
+  {
+    "name": "Any-Distance/any-distance-ios",
+    "description": null,
+    "stars": 485,
+    "language": "Swift",
+    "url": "https://github.com/Any-Distance/any-distance-ios",
+    "created_at": "2025-06-19T17:04:56Z",
+    "owner": {
+      "login": "Any-Distance",
+      "url": "https://github.com/Any-Distance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102615021?v=4"
+    },
+    "forks": 67,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Any-Distance/any-distance-ios"
+  },
+  {
+    "name": "JimmyLefevre/kb",
+    "description": "kb single-header C/C++ libraries",
+    "stars": 402,
+    "language": "C",
+    "url": "https://github.com/JimmyLefevre/kb",
+    "created_at": "2025-06-16T06:39:32Z",
+    "owner": {
+      "login": "JimmyLefevre",
+      "url": "https://github.com/JimmyLefevre",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43423342?v=4"
+    },
+    "forks": 3,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/JimmyLefevre/kb"
+  },
+  {
+    "name": "MoonshotAI/Kimi-Dev",
+    "description": "open-source coding LLM for software engineering tasks",
+    "stars": 390,
+    "language": "Python",
+    "url": "https://github.com/MoonshotAI/Kimi-Dev",
+    "created_at": "2025-06-16T14:46:05Z",
+    "owner": {
+      "login": "MoonshotAI",
+      "url": "https://github.com/MoonshotAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+    },
+    "forks": 32,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MoonshotAI/Kimi-Dev"
+  },
+  {
+    "name": "THUDM/slime",
+    "description": "slime is a LLM post-training framework aiming at scaling RL.",
+    "stars": 360,
+    "language": "Python",
+    "url": "https://github.com/THUDM/slime",
+    "created_at": "2025-06-18T07:15:54Z",
+    "owner": {
+      "login": "THUDM",
+      "url": "https://github.com/THUDM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48590610?v=4"
+    },
+    "forks": 14,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/THUDM/slime"
+  },
+  {
+    "name": "NickTikhonov/snap-ql",
+    "description": "AI-powered Postgres Client",
+    "stars": 247,
+    "language": "TypeScript",
+    "url": "https://github.com/NickTikhonov/snap-ql",
+    "created_at": "2025-06-18T18:36:51Z",
+    "owner": {
+      "login": "NickTikhonov",
+      "url": "https://github.com/NickTikhonov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6755555?v=4"
+    },
+    "forks": 7,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NickTikhonov/snap-ql"
+  },
+  {
+    "name": "kyutai-labs/delayed-streams-modeling",
+    "description": "Delayed Streams Modeling (DSM) is a flexible formulation for streaming, multimodal sequence-to-sequence learning.",
+    "stars": 243,
+    "language": "Python",
+    "url": "https://github.com/kyutai-labs/delayed-streams-modeling",
+    "created_at": "2025-06-16T19:36:53Z",
+    "owner": {
+      "login": "kyutai-labs",
+      "url": "https://github.com/kyutai-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151010778?v=4"
+    },
+    "forks": 18,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/kyutai-labs/delayed-streams-modeling"
+  }
+]

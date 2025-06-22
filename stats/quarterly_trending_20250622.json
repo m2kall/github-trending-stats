@@ -1,0 +1,162 @@
+[
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "stars": 29398,
+    "language": "Rust",
+    "url": "https://github.com/openai/codex",
+    "created_at": "2025-04-13T05:37:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 3272,
+    "issues": 501,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/codex"
+  },
+  {
+    "name": "google-a2a/A2A",
+    "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
+    "stars": 17239,
+    "language": "TypeScript",
+    "url": "https://github.com/google-a2a/A2A",
+    "created_at": "2025-03-25T18:44:21Z",
+    "owner": {
+      "login": "google-a2a",
+      "url": "https://github.com/google-a2a",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213684959?v=4"
+    },
+    "forks": 1708,
+    "issues": 46,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-a2a/A2A"
+  },
+  {
+    "name": "nari-labs/dia",
+    "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+    "stars": 17066,
+    "language": "Python",
+    "url": "https://github.com/nari-labs/dia",
+    "created_at": "2025-04-19T07:15:57Z",
+    "owner": {
+      "login": "nari-labs",
+      "url": "https://github.com/nari-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208232306?v=4"
+    },
+    "forks": 1381,
+    "issues": 64,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nari-labs/dia"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. ",
+    "stars": 15263,
+    "language": "Swift",
+    "url": "https://github.com/apple/container",
+    "created_at": "2025-05-30T21:26:05Z",
+    "owner": {
+      "login": "apple",
+      "url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "forks": 290,
+    "issues": 77,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apple/container"
+  },
+  {
+    "name": "lllyasviel/FramePack",
+    "description": "Lets make video diffusion practical!",
+    "stars": 14571,
+    "language": "Python",
+    "url": "https://github.com/lllyasviel/FramePack",
+    "created_at": "2025-04-12T14:45:22Z",
+    "owner": {
+      "login": "lllyasviel",
+      "url": "https://github.com/lllyasviel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19834515?v=4"
+    },
+    "forks": 1304,
+    "issues": 397,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lllyasviel/FramePack"
+  },
+  {
+    "name": "google-gemini/gemini-fullstack-langgraph-quickstart",
+    "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+    "stars": 14100,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
+    "created_at": "2025-05-22T11:59:02Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 2238,
+    "issues": 20,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/gemini-fullstack-langgraph-quickstart"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
+    "stars": 14063,
+    "language": "TypeScript",
+    "url": "https://github.com/bytedance/deer-flow",
+    "created_at": "2025-05-07T02:50:19Z",
+    "owner": {
+      "login": "bytedance",
+      "url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "forks": 1678,
+    "issues": 160,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bytedance/deer-flow"
+  },
+  {
+    "name": "upstash/context7",
+    "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+    "stars": 14011,
+    "language": "JavaScript",
+    "url": "https://github.com/upstash/context7",
+    "created_at": "2025-03-26T23:40:39Z",
+    "owner": {
+      "login": "upstash",
+      "url": "https://github.com/upstash",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74989412?v=4"
+    },
+    "forks": 716,
+    "issues": 41,
+    "social_preview_url": "https://opengraph.githubassets.com/1/upstash/context7"
+  },
+  {
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "stars": 11472,
+    "language": "Kotlin",
+    "url": "https://github.com/google-ai-edge/gallery",
+    "created_at": "2025-03-31T17:47:28Z",
+    "owner": {
+      "login": "google-ai-edge",
+      "url": "https://github.com/google-ai-edge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150697620?v=4"
+    },
+    "forks": 809,
+    "issues": 111,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-ai-edge/gallery"
+  },
+  {
+    "name": "google/adk-python",
+    "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "stars": 10312,
+    "language": "Python",
+    "url": "https://github.com/google/adk-python",
+    "created_at": "2025-04-01T20:44:40Z",
+    "owner": {
+      "login": "google",
+      "url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "forks": 1312,
+    "issues": 509,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google/adk-python"
+  }
+]
