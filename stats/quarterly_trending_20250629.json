@@ -1,0 +1,162 @@
+[
+  {
+    "name": "google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "stars": 40761,
+    "language": "TypeScript",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "created_at": "2025-04-17T17:04:31Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 3209,
+    "issues": 746,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/gemini-cli"
+  },
+  {
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "stars": 30046,
+    "language": "Rust",
+    "url": "https://github.com/openai/codex",
+    "created_at": "2025-04-13T05:37:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 3392,
+    "issues": 517,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/codex"
+  },
+  {
+    "name": "nari-labs/dia",
+    "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+    "stars": 17213,
+    "language": "Python",
+    "url": "https://github.com/nari-labs/dia",
+    "created_at": "2025-04-19T07:15:57Z",
+    "owner": {
+      "login": "nari-labs",
+      "url": "https://github.com/nari-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208232306?v=4"
+    },
+    "forks": 1408,
+    "issues": 65,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nari-labs/dia"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+    "stars": 15989,
+    "language": "Swift",
+    "url": "https://github.com/apple/container",
+    "created_at": "2025-05-30T21:26:05Z",
+    "owner": {
+      "login": "apple",
+      "url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "forks": 310,
+    "issues": 55,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apple/container"
+  },
+  {
+    "name": "google-gemini/gemini-fullstack-langgraph-quickstart",
+    "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+    "stars": 14765,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
+    "created_at": "2025-05-22T11:59:02Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 2384,
+    "issues": 24,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/gemini-fullstack-langgraph-quickstart"
+  },
+  {
+    "name": "lllyasviel/FramePack",
+    "description": "Lets make video diffusion practical!",
+    "stars": 14741,
+    "language": "Python",
+    "url": "https://github.com/lllyasviel/FramePack",
+    "created_at": "2025-04-12T14:45:22Z",
+    "owner": {
+      "login": "lllyasviel",
+      "url": "https://github.com/lllyasviel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19834515?v=4"
+    },
+    "forks": 1326,
+    "issues": 402,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lllyasviel/FramePack"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
+    "stars": 14423,
+    "language": "TypeScript",
+    "url": "https://github.com/bytedance/deer-flow",
+    "created_at": "2025-05-07T02:50:19Z",
+    "owner": {
+      "login": "bytedance",
+      "url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "forks": 1738,
+    "issues": 169,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bytedance/deer-flow"
+  },
+  {
+    "name": "google/adk-python",
+    "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "stars": 10522,
+    "language": "Python",
+    "url": "https://github.com/google/adk-python",
+    "created_at": "2025-04-01T20:44:40Z",
+    "owner": {
+      "login": "google",
+      "url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "forks": 1370,
+    "issues": 561,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google/adk-python"
+  },
+  {
+    "name": "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+    "description": "Pocket Flow: Codebase to Tutorial",
+    "stars": 10447,
+    "language": "Python",
+    "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+    "created_at": "2025-04-02T20:56:33Z",
+    "owner": {
+      "login": "The-Pocket",
+      "url": "https://github.com/The-Pocket",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193350244?v=4"
+    },
+    "forks": 1152,
+    "issues": 57,
+    "social_preview_url": "https://opengraph.githubassets.com/1/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge"
+  },
+  {
+    "name": "astral-sh/ty",
+    "description": "An extremely fast Python type checker and language server, written in Rust.",
+    "stars": 10344,
+    "language": "Python",
+    "url": "https://github.com/astral-sh/ty",
+    "created_at": "2025-05-02T16:37:51Z",
+    "owner": {
+      "login": "astral-sh",
+      "url": "https://github.com/astral-sh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115962839?v=4"
+    },
+    "forks": 93,
+    "issues": 301,
+    "social_preview_url": "https://opengraph.githubassets.com/1/astral-sh/ty"
+  }
+]
