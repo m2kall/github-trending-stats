@@ -1,0 +1,162 @@
+[
+  {
+    "name": "stan-smith/FossFLOW",
+    "description": "Make beautiful isometric infrastructure diagrams",
+    "stars": 3778,
+    "language": "TypeScript",
+    "url": "https://github.com/stan-smith/FossFLOW",
+    "created_at": "2025-06-30T14:31:21Z",
+    "owner": {
+      "login": "stan-smith",
+      "url": "https://github.com/stan-smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37673863?v=4"
+    },
+    "forks": 133,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/stan-smith/FossFLOW"
+  },
+  {
+    "name": "pickle-com/glass",
+    "description": null,
+    "stars": 2872,
+    "language": "JavaScript",
+    "url": "https://github.com/pickle-com/glass",
+    "created_at": "2025-07-02T20:28:49Z",
+    "owner": {
+      "login": "pickle-com",
+      "url": "https://github.com/pickle-com",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151645824?v=4"
+    },
+    "forks": 510,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pickle-com/glass"
+  },
+  {
+    "name": "coleam00/context-engineering-intro",
+    "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
+    "stars": 1007,
+    "language": null,
+    "url": "https://github.com/coleam00/context-engineering-intro",
+    "created_at": "2025-07-02T11:54:47Z",
+    "owner": {
+      "login": "coleam00",
+      "url": "https://github.com/coleam00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47287758?v=4"
+    },
+    "forks": 395,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/coleam00/context-engineering-intro"
+  },
+  {
+    "name": "farzaa/gemini-bball",
+    "description": null,
+    "stars": 615,
+    "language": "Python",
+    "url": "https://github.com/farzaa/gemini-bball",
+    "created_at": "2025-07-02T04:09:37Z",
+    "owner": {
+      "login": "farzaa",
+      "url": "https://github.com/farzaa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15614124?v=4"
+    },
+    "forks": 173,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/farzaa/gemini-bball"
+  },
+  {
+    "name": "MeiGen-AI/PosterCraft",
+    "description": "Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework",
+    "stars": 505,
+    "language": "Python",
+    "url": "https://github.com/MeiGen-AI/PosterCraft",
+    "created_at": "2025-06-30T02:26:57Z",
+    "owner": {
+      "login": "MeiGen-AI",
+      "url": "https://github.com/MeiGen-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213629870?v=4"
+    },
+    "forks": 15,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MeiGen-AI/PosterCraft"
+  },
+  {
+    "name": "ZZZSimulator/ZSim",
+    "description": "绝区零模拟仿真程序，可使用定制化手法，计算伤害。",
+    "stars": 483,
+    "language": "Python",
+    "url": "https://github.com/ZZZSimulator/ZSim",
+    "created_at": "2025-07-02T18:05:24Z",
+    "owner": {
+      "login": "ZZZSimulator",
+      "url": "https://github.com/ZZZSimulator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219022588?v=4"
+    },
+    "forks": 27,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ZZZSimulator/ZSim"
+  },
+  {
+    "name": "awwaiid/gremllm",
+    "description": "A slight upgrade to the Gremlins in your code",
+    "stars": 435,
+    "language": "Python",
+    "url": "https://github.com/awwaiid/gremllm",
+    "created_at": "2025-07-02T01:09:02Z",
+    "owner": {
+      "login": "awwaiid",
+      "url": "https://github.com/awwaiid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8642?v=4"
+    },
+    "forks": 7,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/awwaiid/gremllm"
+  },
+  {
+    "name": "Younghusband/huawei-od-active-manage",
+    "description": "华为式主动管理",
+    "stars": 433,
+    "language": null,
+    "url": "https://github.com/Younghusband/huawei-od-active-manage",
+    "created_at": "2025-06-30T11:32:49Z",
+    "owner": {
+      "login": "Younghusband",
+      "url": "https://github.com/Younghusband",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17587692?v=4"
+    },
+    "forks": 332,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Younghusband/huawei-od-active-manage"
+  },
+  {
+    "name": "apple/ml-diffucoder",
+    "description": "DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation",
+    "stars": 431,
+    "language": "Python",
+    "url": "https://github.com/apple/ml-diffucoder",
+    "created_at": "2025-07-01T04:13:54Z",
+    "owner": {
+      "login": "apple",
+      "url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "forks": 21,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apple/ml-diffucoder"
+  },
+  {
+    "name": "contraptionco/postcard",
+    "description": "Personal website + newsletter as an alternative to social media.",
+    "stars": 419,
+    "language": "Ruby",
+    "url": "https://github.com/contraptionco/postcard",
+    "created_at": "2025-07-03T03:48:51Z",
+    "owner": {
+      "login": "contraptionco",
+      "url": "https://github.com/contraptionco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61058094?v=4"
+    },
+    "forks": 31,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/contraptionco/postcard"
+  }
+]
