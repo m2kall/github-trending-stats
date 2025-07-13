@@ -1,0 +1,162 @@
+[
+  {
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "stars": 16636,
+    "language": "Swift",
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "created_at": "2025-07-04T14:34:38Z",
+    "owner": {
+      "login": "permissionlesstech",
+      "url": "https://github.com/permissionlesstech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
+    },
+    "forks": 1418,
+    "issues": 146,
+    "social_preview_url": "https://opengraph.githubassets.com/1/permissionlesstech/bitchat"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "stars": 15756,
+    "language": "TypeScript",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "created_at": "2025-06-22T08:02:17Z",
+    "owner": {
+      "login": "OpenCut-app",
+      "url": "https://github.com/OpenCut-app",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217499887?v=4"
+    },
+    "forks": 1185,
+    "issues": 61,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "HW-whistleblower/True-Story-of-Pangu",
+    "description": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。",
+    "stars": 10887,
+    "language": null,
+    "url": "https://github.com/HW-whistleblower/True-Story-of-Pangu",
+    "created_at": "2025-07-05T20:40:24Z",
+    "owner": {
+      "login": "HW-whistleblower",
+      "url": "https://github.com/HW-whistleblower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219440165?v=4"
+    },
+    "forks": 1344,
+    "issues": 357,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HW-whistleblower/True-Story-of-Pangu"
+  },
+  {
+    "name": "NirDiamant/agents-towards-production",
+    "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
+    "stars": 8226,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/NirDiamant/agents-towards-production",
+    "created_at": "2025-06-16T17:33:44Z",
+    "owner": {
+      "login": "NirDiamant",
+      "url": "https://github.com/NirDiamant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28316913?v=4"
+    },
+    "forks": 1022,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NirDiamant/agents-towards-production"
+  },
+  {
+    "name": "getAsterisk/claudia",
+    "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
+    "stars": 8222,
+    "language": "TypeScript",
+    "url": "https://github.com/getAsterisk/claudia",
+    "created_at": "2025-06-19T13:53:26Z",
+    "owner": {
+      "login": "getAsterisk",
+      "url": "https://github.com/getAsterisk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176251414?v=4"
+    },
+    "forks": 659,
+    "issues": 136,
+    "social_preview_url": "https://opengraph.githubassets.com/1/getAsterisk/claudia"
+  },
+  {
+    "name": "NomenAK/SuperClaude",
+    "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
+    "stars": 7060,
+    "language": "Shell",
+    "url": "https://github.com/NomenAK/SuperClaude",
+    "created_at": "2025-06-22T12:03:53Z",
+    "owner": {
+      "login": "NomenAK",
+      "url": "https://github.com/NomenAK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39598727?v=4"
+    },
+    "forks": 604,
+    "issues": 26,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NomenAK/SuperClaude"
+  },
+  {
+    "name": "openai/openai-cs-agents-demo",
+    "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
+    "stars": 5568,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/openai-cs-agents-demo",
+    "created_at": "2025-06-14T03:07:09Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 814,
+    "issues": 28,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/openai-cs-agents-demo"
+  },
+  {
+    "name": "coleam00/context-engineering-intro",
+    "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
+    "stars": 4813,
+    "language": "TypeScript",
+    "url": "https://github.com/coleam00/context-engineering-intro",
+    "created_at": "2025-07-02T11:54:47Z",
+    "owner": {
+      "login": "coleam00",
+      "url": "https://github.com/coleam00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47287758?v=4"
+    },
+    "forks": 932,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/coleam00/context-engineering-intro"
+  },
+  {
+    "name": "stan-smith/FossFLOW",
+    "description": "Make beautiful isometric infrastructure diagrams",
+    "stars": 4574,
+    "language": "TypeScript",
+    "url": "https://github.com/stan-smith/FossFLOW",
+    "created_at": "2025-06-30T14:31:21Z",
+    "owner": {
+      "login": "stan-smith",
+      "url": "https://github.com/stan-smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37673863?v=4"
+    },
+    "forks": 167,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/stan-smith/FossFLOW"
+  },
+  {
+    "name": "pickle-com/glass",
+    "description": "Digital Mind Extension",
+    "stars": 4177,
+    "language": "JavaScript",
+    "url": "https://github.com/pickle-com/glass",
+    "created_at": "2025-07-02T20:28:49Z",
+    "owner": {
+      "login": "pickle-com",
+      "url": "https://github.com/pickle-com",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151645824?v=4"
+    },
+    "forks": 709,
+    "issues": 39,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pickle-com/glass"
+  }
+]

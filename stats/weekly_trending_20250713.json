@@ -1,0 +1,162 @@
+[
+  {
+    "name": "permissionlesstech/bitchat-android",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "stars": 1501,
+    "language": "Kotlin",
+    "url": "https://github.com/permissionlesstech/bitchat-android",
+    "created_at": "2025-07-08T18:36:23Z",
+    "owner": {
+      "login": "permissionlesstech",
+      "url": "https://github.com/permissionlesstech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
+    },
+    "forks": 208,
+    "issues": 36,
+    "social_preview_url": "https://opengraph.githubassets.com/1/permissionlesstech/bitchat-android"
+  },
+  {
+    "name": "knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang",
+    "description": "讨贼王云鹤檄文",
+    "stars": 999,
+    "language": null,
+    "url": "https://github.com/knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang",
+    "created_at": "2025-07-07T14:47:21Z",
+    "owner": {
+      "login": "knemik97",
+      "url": "https://github.com/knemik97",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219524163?v=4"
+    },
+    "forks": 108,
+    "issues": 35,
+    "social_preview_url": "https://opengraph.githubassets.com/1/knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang"
+  },
+  {
+    "name": "QiuChenly/CoreInject",
+    "description": "美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！",
+    "stars": 419,
+    "language": "JavaScript",
+    "url": "https://github.com/QiuChenly/CoreInject",
+    "created_at": "2025-07-09T15:42:58Z",
+    "owner": {
+      "login": "QiuChenly",
+      "url": "https://github.com/QiuChenly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24793281?v=4"
+    },
+    "forks": 12,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/QiuChenly/CoreInject"
+  },
+  {
+    "name": "Quentin-Anthony/torch-profiling-tutorial",
+    "description": null,
+    "stars": 365,
+    "language": "Python",
+    "url": "https://github.com/Quentin-Anthony/torch-profiling-tutorial",
+    "created_at": "2025-07-09T17:11:52Z",
+    "owner": {
+      "login": "Quentin-Anthony",
+      "url": "https://github.com/Quentin-Anthony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10281105?v=4"
+    },
+    "forks": 16,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Quentin-Anthony/torch-profiling-tutorial"
+  },
+  {
+    "name": "iosifache/annas-mcp",
+    "description": "MCP server and CLI tool for searching and downloading documents from Anna's Archive",
+    "stars": 359,
+    "language": "Go",
+    "url": "https://github.com/iosifache/annas-mcp",
+    "created_at": "2025-07-09T07:56:18Z",
+    "owner": {
+      "login": "iosifache",
+      "url": "https://github.com/iosifache",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11766982?v=4"
+    },
+    "forks": 10,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/iosifache/annas-mcp"
+  },
+  {
+    "name": "NVlabs/Long-RL",
+    "description": "Long-RL: Scaling RL to Long Sequences",
+    "stars": 325,
+    "language": "Python",
+    "url": "https://github.com/NVlabs/Long-RL",
+    "created_at": "2025-07-08T14:18:54Z",
+    "owner": {
+      "login": "NVlabs",
+      "url": "https://github.com/NVlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2695301?v=4"
+    },
+    "forks": 4,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NVlabs/Long-RL"
+  },
+  {
+    "name": "qawe68/warzone-cheat",
+    "description": "Warzone Cheat is the top undetected cheat for Call of Duty: Warzone. With advanced aimbot, ESP, wallhack, unlock-all, and HWID Spoofer, you’ll dominate every match. Stay secure and climb the ranks fast. Thousands of users, 100% satisfaction. Join now and unlock your full potential.",
+    "stars": 247,
+    "language": "C++",
+    "url": "https://github.com/qawe68/warzone-cheat",
+    "created_at": "2025-07-11T07:54:13Z",
+    "owner": {
+      "login": "qawe68",
+      "url": "https://github.com/qawe68",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217159760?v=4"
+    },
+    "forks": 17,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/qawe68/warzone-cheat"
+  },
+  {
+    "name": "ComposioHQ/grok-cli",
+    "description": null,
+    "stars": 242,
+    "language": "Python",
+    "url": "https://github.com/ComposioHQ/grok-cli",
+    "created_at": "2025-07-10T13:41:33Z",
+    "owner": {
+      "login": "ComposioHQ",
+      "url": "https://github.com/ComposioHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128464815?v=4"
+    },
+    "forks": 45,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ComposioHQ/grok-cli"
+  },
+  {
+    "name": "shuding/legid",
+    "description": "A library for generating safe, legit and random URL-compat IDs.",
+    "stars": 236,
+    "language": "TypeScript",
+    "url": "https://github.com/shuding/legid",
+    "created_at": "2025-07-07T15:47:03Z",
+    "owner": {
+      "login": "shuding",
+      "url": "https://github.com/shuding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3676859?v=4"
+    },
+    "forks": 2,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/shuding/legid"
+  },
+  {
+    "name": "LLM-Red-Team/kimi-cc",
+    "description": "Use Kimi's latest model(kimi-k2-0711-preview) to drive your Claude Code.",
+    "stars": 188,
+    "language": "Shell",
+    "url": "https://github.com/LLM-Red-Team/kimi-cc",
+    "created_at": "2025-07-11T09:17:44Z",
+    "owner": {
+      "login": "LLM-Red-Team",
+      "url": "https://github.com/LLM-Red-Team",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162786303?v=4"
+    },
+    "forks": 10,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/LLM-Red-Team/kimi-cc"
+  }
+]
