@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Jackywine/Bella",
+    "description": null,
+    "stars": 1290,
+    "language": "JavaScript",
+    "url": "https://github.com/Jackywine/Bella",
+    "created_at": "2025-07-16T06:14:09Z",
+    "owner": {
+      "login": "Jackywine",
+      "url": "https://github.com/Jackywine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31403062?v=4"
+    },
+    "forks": 184,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Jackywine/Bella"
+  },
+  {
+    "name": "Doriandarko/make-it-heavy",
+    "description": "A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective analysis on any query.",
+    "stars": 852,
+    "language": "Python",
+    "url": "https://github.com/Doriandarko/make-it-heavy",
+    "created_at": "2025-07-15T21:25:41Z",
+    "owner": {
+      "login": "Doriandarko",
+      "url": "https://github.com/Doriandarko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1247180?v=4"
+    },
+    "forks": 136,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Doriandarko/make-it-heavy"
+  },
+  {
+    "name": "dingyufei615/ai-goofish-monitor",
+    "description": "一个基于 Playwright 和AI过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 Web 管理界面。",
+    "stars": 668,
+    "language": "Python",
+    "url": "https://github.com/dingyufei615/ai-goofish-monitor",
+    "created_at": "2025-07-16T08:13:41Z",
+    "owner": {
+      "login": "dingyufei615",
+      "url": "https://github.com/dingyufei615",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34468774?v=4"
+    },
+    "forks": 93,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dingyufei615/ai-goofish-monitor"
+  },
+  {
+    "name": "untitleduico/react",
+    "description": "Untitled UI React is the world’s largest collection of open-source React components built with Tailwind CSS and React Aria. Just copy, paste, and build.",
+    "stars": 656,
+    "language": "TypeScript",
+    "url": "https://github.com/untitleduico/react",
+    "created_at": "2025-07-15T11:46:31Z",
+    "owner": {
+      "login": "untitleduico",
+      "url": "https://github.com/untitleduico",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211164949?v=4"
+    },
+    "forks": 22,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/untitleduico/react"
+  },
+  {
+    "name": "Wei-Shaw/claude-relay-service",
+    "description": "可自建Claude code镜像服务，支持多账户切换、自定义API密钥、隐私安全、能有效规避封号，OAuth集成可快捷添加账号池。",
+    "stars": 444,
+    "language": "JavaScript",
+    "url": "https://github.com/Wei-Shaw/claude-relay-service",
+    "created_at": "2025-07-14T10:11:32Z",
+    "owner": {
+      "login": "Wei-Shaw",
+      "url": "https://github.com/Wei-Shaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26101719?v=4"
+    },
+    "forks": 78,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Wei-Shaw/claude-relay-service"
+  },
+  {
+    "name": "fogsightai/fogsight",
+    "description": "Fogsight is an AI agent and animation engine powered by Large Language Models.",
+    "stars": 394,
+    "language": "JavaScript",
+    "url": "https://github.com/fogsightai/fogsight",
+    "created_at": "2025-07-17T17:19:00Z",
+    "owner": {
+      "login": "fogsightai",
+      "url": "https://github.com/fogsightai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220512553?v=4"
+    },
+    "forks": 43,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/fogsightai/fogsight"
+  },
+  {
+    "name": "ShilohEye/bitchat-terminal",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "stars": 374,
+    "language": "Rust",
+    "url": "https://github.com/ShilohEye/bitchat-terminal",
+    "created_at": "2025-07-14T01:44:12Z",
+    "owner": {
+      "login": "ShilohEye",
+      "url": "https://github.com/ShilohEye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135930020?v=4"
+    },
+    "forks": 40,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ShilohEye/bitchat-terminal"
+  },
+  {
+    "name": "chiphuyen/sniffly",
+    "description": "Claude Code dashboard with usage stats, error analysis, and sharable feature",
+    "stars": 373,
+    "language": "Python",
+    "url": "https://github.com/chiphuyen/sniffly",
+    "created_at": "2025-07-15T16:53:39Z",
+    "owner": {
+      "login": "chiphuyen",
+      "url": "https://github.com/chiphuyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11997567?v=4"
+    },
+    "forks": 28,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/chiphuyen/sniffly"
+  },
+  {
+    "name": "oxc-project/tsgolint",
+    "description": "Type aware linting for oxlint",
+    "stars": 330,
+    "language": "Go",
+    "url": "https://github.com/oxc-project/tsgolint",
+    "created_at": "2025-07-14T07:18:02Z",
+    "owner": {
+      "login": "oxc-project",
+      "url": "https://github.com/oxc-project",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149946238?v=4"
+    },
+    "forks": 7,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/oxc-project/tsgolint"
+  },
+  {
+    "name": "Quovanewordy0JP/Mev-Bot-Uniswap",
+    "description": "🚀 Open-Source (Ethereum - MEV) Sandwich. Bot 🍔 A beginner-friendly tool for automatic Uniswap .arbitrage.! Achieved 8.43% daily gains on April 19, 2025. Dive into DeFi and try it now! ✨",
+    "stars": 307,
+    "language": "Solidity",
+    "url": "https://github.com/Quovanewordy0JP/Mev-Bot-Uniswap",
+    "created_at": "2025-07-15T16:46:34Z",
+    "owner": {
+      "login": "Quovanewordy0JP",
+      "url": "https://github.com/Quovanewordy0JP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220857927?v=4"
+    },
+    "forks": 237,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Quovanewordy0JP/Mev-Bot-Uniswap"
+  }
+]

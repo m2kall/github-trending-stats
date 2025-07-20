@@ -1,0 +1,162 @@
+[
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "stars": 25704,
+    "language": "TypeScript",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "created_at": "2025-06-22T08:02:17Z",
+    "owner": {
+      "login": "OpenCut-app",
+      "url": "https://github.com/OpenCut-app",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217499887?v=4"
+    },
+    "forks": 2212,
+    "issues": 124,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "stars": 18534,
+    "language": "Swift",
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "created_at": "2025-07-04T14:34:38Z",
+    "owner": {
+      "login": "permissionlesstech",
+      "url": "https://github.com/permissionlesstech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
+    },
+    "forks": 1645,
+    "issues": 159,
+    "social_preview_url": "https://opengraph.githubassets.com/1/permissionlesstech/bitchat"
+  },
+  {
+    "name": "HW-whistleblower/True-Story-of-Pangu",
+    "description": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。",
+    "stars": 11210,
+    "language": null,
+    "url": "https://github.com/HW-whistleblower/True-Story-of-Pangu",
+    "created_at": "2025-07-05T20:40:24Z",
+    "owner": {
+      "login": "HW-whistleblower",
+      "url": "https://github.com/HW-whistleblower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219440165?v=4"
+    },
+    "forks": 1380,
+    "issues": 375,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HW-whistleblower/True-Story-of-Pangu"
+  },
+  {
+    "name": "SuperClaude-Org/SuperClaude_Framework",
+    "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
+    "stars": 9214,
+    "language": "Python",
+    "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
+    "created_at": "2025-06-22T12:03:53Z",
+    "owner": {
+      "login": "SuperClaude-Org",
+      "url": "https://github.com/SuperClaude-Org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221338871?v=4"
+    },
+    "forks": 840,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SuperClaude-Org/SuperClaude_Framework"
+  },
+  {
+    "name": "coleam00/context-engineering-intro",
+    "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
+    "stars": 6328,
+    "language": "TypeScript",
+    "url": "https://github.com/coleam00/context-engineering-intro",
+    "created_at": "2025-07-02T11:54:47Z",
+    "owner": {
+      "login": "coleam00",
+      "url": "https://github.com/coleam00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47287758?v=4"
+    },
+    "forks": 1271,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/coleam00/context-engineering-intro"
+  },
+  {
+    "name": "MoonshotAI/Kimi-K2",
+    "description": "Kimi K2 is the large language model series developed by Moonshot AI team",
+    "stars": 6001,
+    "language": null,
+    "url": "https://github.com/MoonshotAI/Kimi-K2",
+    "created_at": "2025-07-03T12:28:22Z",
+    "owner": {
+      "login": "MoonshotAI",
+      "url": "https://github.com/MoonshotAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+    },
+    "forks": 354,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MoonshotAI/Kimi-K2"
+  },
+  {
+    "name": "stan-smith/FossFLOW",
+    "description": "Make beautiful isometric infrastructure diagrams",
+    "stars": 4854,
+    "language": "TypeScript",
+    "url": "https://github.com/stan-smith/FossFLOW",
+    "created_at": "2025-06-30T14:31:21Z",
+    "owner": {
+      "login": "stan-smith",
+      "url": "https://github.com/stan-smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37673863?v=4"
+    },
+    "forks": 190,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/stan-smith/FossFLOW"
+  },
+  {
+    "name": "pickle-com/glass",
+    "description": "Digital Mind Extension",
+    "stars": 4526,
+    "language": "JavaScript",
+    "url": "https://github.com/pickle-com/glass",
+    "created_at": "2025-07-02T20:28:49Z",
+    "owner": {
+      "login": "pickle-com",
+      "url": "https://github.com/pickle-com",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151645824?v=4"
+    },
+    "forks": 768,
+    "issues": 64,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pickle-com/glass"
+  },
+  {
+    "name": "shareAI-lab/analysis_claude_code",
+    "description": "本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。",
+    "stars": 3411,
+    "language": "JavaScript",
+    "url": "https://github.com/shareAI-lab/analysis_claude_code",
+    "created_at": "2025-06-29T15:34:15Z",
+    "owner": {
+      "login": "shareAI-lab",
+      "url": "https://github.com/shareAI-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189210346?v=4"
+    },
+    "forks": 654,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/shareAI-lab/analysis_claude_code"
+  },
+  {
+    "name": "davidkimai/Context-Engineering",
+    "description": "\"Context engineering is the delicate art and science of filling the context window with just the right information for the next step.\" — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization.",
+    "stars": 3052,
+    "language": "Python",
+    "url": "https://github.com/davidkimai/Context-Engineering",
+    "created_at": "2025-06-29T00:16:36Z",
+    "owner": {
+      "login": "davidkimai",
+      "url": "https://github.com/davidkimai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208424706?v=4"
+    },
+    "forks": 309,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/davidkimai/Context-Engineering"
+  }
+]

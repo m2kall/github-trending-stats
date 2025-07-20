@@ -1,0 +1,162 @@
+[
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "stars": 25704,
+    "language": "TypeScript",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "created_at": "2025-06-22T08:02:17Z",
+    "owner": {
+      "login": "OpenCut-app",
+      "url": "https://github.com/OpenCut-app",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217499887?v=4"
+    },
+    "forks": 2212,
+    "issues": 124,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "stars": 18534,
+    "language": "Swift",
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "created_at": "2025-07-04T14:34:38Z",
+    "owner": {
+      "login": "permissionlesstech",
+      "url": "https://github.com/permissionlesstech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
+    },
+    "forks": 1645,
+    "issues": 159,
+    "social_preview_url": "https://opengraph.githubassets.com/1/permissionlesstech/bitchat"
+  },
+  {
+    "name": "Zie619/n8n-workflows",
+    "description": "all of the workflows of n8n i could find (also from the site itself)",
+    "stars": 17473,
+    "language": "HTML",
+    "url": "https://github.com/Zie619/n8n-workflows",
+    "created_at": "2025-05-14T08:43:59Z",
+    "owner": {
+      "login": "Zie619",
+      "url": "https://github.com/Zie619",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54673680?v=4"
+    },
+    "forks": 6373,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Zie619/n8n-workflows"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+    "stars": 17296,
+    "language": "Swift",
+    "url": "https://github.com/apple/container",
+    "created_at": "2025-05-30T21:26:05Z",
+    "owner": {
+      "login": "apple",
+      "url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "forks": 357,
+    "issues": 73,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apple/container"
+  },
+  {
+    "name": "google-gemini/gemini-fullstack-langgraph-quickstart",
+    "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+    "stars": 15718,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
+    "created_at": "2025-05-22T11:59:02Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 2599,
+    "issues": 37,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/gemini-fullstack-langgraph-quickstart"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
+    "stars": 15401,
+    "language": "Python",
+    "url": "https://github.com/bytedance/deer-flow",
+    "created_at": "2025-05-07T02:50:19Z",
+    "owner": {
+      "login": "bytedance",
+      "url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "forks": 1910,
+    "issues": 185,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bytedance/deer-flow"
+  },
+  {
+    "name": "sst/opencode",
+    "description": "AI coding agent, built for the terminal.",
+    "stars": 13780,
+    "language": "Go",
+    "url": "https://github.com/sst/opencode",
+    "created_at": "2025-04-30T20:08:00Z",
+    "owner": {
+      "login": "sst",
+      "url": "https://github.com/sst",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66570915?v=4"
+    },
+    "forks": 790,
+    "issues": 447,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sst/opencode"
+  },
+  {
+    "name": "zama-ai/fhevm",
+    "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+    "stars": 13245,
+    "language": "Rust",
+    "url": "https://github.com/zama-ai/fhevm",
+    "created_at": "2025-05-02T10:48:20Z",
+    "owner": {
+      "login": "zama-ai",
+      "url": "https://github.com/zama-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57671822?v=4"
+    },
+    "forks": 514,
+    "issues": 55,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zama-ai/fhevm"
+  },
+  {
+    "name": "OpenListTeam/OpenList",
+    "description": "A new AList Fork to Anti Trust Crisis",
+    "stars": 12377,
+    "language": "Go",
+    "url": "https://github.com/OpenListTeam/OpenList",
+    "created_at": "2025-06-11T23:35:02Z",
+    "owner": {
+      "login": "OpenListTeam",
+      "url": "https://github.com/OpenListTeam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215780325?v=4"
+    },
+    "forks": 832,
+    "issues": 102,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenListTeam/OpenList"
+  },
+  {
+    "name": "HW-whistleblower/True-Story-of-Pangu",
+    "description": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。",
+    "stars": 11210,
+    "language": null,
+    "url": "https://github.com/HW-whistleblower/True-Story-of-Pangu",
+    "created_at": "2025-07-05T20:40:24Z",
+    "owner": {
+      "login": "HW-whistleblower",
+      "url": "https://github.com/HW-whistleblower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219440165?v=4"
+    },
+    "forks": 1380,
+    "issues": 375,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HW-whistleblower/True-Story-of-Pangu"
+  }
+]
