@@ -9,63 +9,63 @@
 - 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
 - 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-🕒 **最后更新时间**: 2025-07-20 02:26:13
+🕒 **最后更新时间**: 2025-07-27 02:27:13
 
 ---
 
 # 📊 周榜 (过去7天)
 
-## 1. [Jackywine/Bella](https://github.com/Jackywine/Bella)
+## 1. [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight)
 
-![项目预览图](https://opengraph.githubassets.com/1/Jackywine/Bella)
+![项目预览图](https://opengraph.githubassets.com/1/KrishKrosh/TrackWeight)
 
-⭐ **获得 Star**: 1,290
+📝 **项目描述**: Use your Mac trackpad as a weighing scale
 
-💻 **主要编程语言**: JavaScript
+⭐ **获得 Star**: 5,649
 
-📅 **创建时间**: 2025-07-16
+💻 **主要编程语言**: Swift
 
-👤 **作者**: [Jackywine](https://github.com/Jackywine)
+📅 **创建时间**: 2025-07-21
 
-🔄 **Fork 数量**: 184
+👤 **作者**: [KrishKrosh](https://github.com/KrishKrosh)
 
-⚠️ **未解决 Issues**: 15
+🔄 **Fork 数量**: 234
 
----
-
-## 2. [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy)
-
-![项目预览图](https://opengraph.githubassets.com/1/Doriandarko/make-it-heavy)
-
-📝 **项目描述**: A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective analysis on any query.
-
-⭐ **获得 Star**: 852
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-07-15
-
-👤 **作者**: [Doriandarko](https://github.com/Doriandarko)
-
-🔄 **Fork 数量**: 136
-
-⚠️ **未解决 Issues**: 9
+⚠️ **未解决 Issues**: 12
 
 ---
 
-## 3. [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor)
+## 2. [tidwall/pogocache](https://github.com/tidwall/pogocache)
 
-![项目预览图](https://opengraph.githubassets.com/1/dingyufei615/ai-goofish-monitor)
+![项目预览图](https://opengraph.githubassets.com/1/tidwall/pogocache)
 
-📝 **项目描述**: 一个基于 Playwright 和AI过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 Web 管理界面。
+📝 **项目描述**: Fast caching software with a focus on low latency and cpu efficiency.
 
-⭐ **获得 Star**: 668
+⭐ **获得 Star**: 1,114
 
-💻 **主要编程语言**: Python
+💻 **主要编程语言**: C
 
-📅 **创建时间**: 2025-07-16
+📅 **创建时间**: 2025-07-21
 
-👤 **作者**: [dingyufei615](https://github.com/dingyufei615)
+👤 **作者**: [tidwall](https://github.com/tidwall)
+
+🔄 **Fork 数量**: 21
+
+⚠️ **未解决 Issues**: 10
+
+---
+
+## 3. [iannuttall/claude-agents](https://github.com/iannuttall/claude-agents)
+
+![项目预览图](https://opengraph.githubassets.com/1/iannuttall/claude-agents)
+
+📝 **项目描述**: Custom subagents to use with Claude Code.
+
+⭐ **获得 Star**: 726
+
+📅 **创建时间**: 2025-07-25
+
+👤 **作者**: [iannuttall](https://github.com/iannuttall)
 
 🔄 **Fork 数量**: 93
 
@@ -73,141 +73,137 @@
 
 ---
 
-## 4. [untitleduico/react](https://github.com/untitleduico/react)
+## 4. [IHATEGIVINGAUSERNAME/theProtector](https://github.com/IHATEGIVINGAUSERNAME/theProtector)
 
-![项目预览图](https://opengraph.githubassets.com/1/untitleduico/react)
+![项目预览图](https://opengraph.githubassets.com/1/IHATEGIVINGAUSERNAME/theProtector)
 
-📝 **项目描述**: Untitled UI React is the world’s largest collection of open-source React components built with Tailwind CSS and React Aria. Just copy, paste, and build.
+📝 **项目描述**: Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response
 
-⭐ **获得 Star**: 656
+⭐ **获得 Star**: 375
+
+💻 **主要编程语言**: Shell
+
+📅 **创建时间**: 2025-07-23
+
+👤 **作者**: [IHATEGIVINGAUSERNAME](https://github.com/IHATEGIVINGAUSERNAME)
+
+🔄 **Fork 数量**: 26
+
+⚠️ **未解决 Issues**: 5
+
+---
+
+## 5. [bukkbeek/GodotPixelRenderer](https://github.com/bukkbeek/GodotPixelRenderer)
+
+![项目预览图](https://opengraph.githubassets.com/1/bukkbeek/GodotPixelRenderer)
+
+📝 **项目描述**: Complete 3D to Pixel Toolkit [Built using Godot Engine]
+
+⭐ **获得 Star**: 349
+
+💻 **主要编程语言**: GDScript
+
+📅 **创建时间**: 2025-07-21
+
+👤 **作者**: [bukkbeek](https://github.com/bukkbeek)
+
+🔄 **Fork 数量**: 34
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 6. [metapromptjc/People-Inside-Prompts](https://github.com/metapromptjc/People-Inside-Prompts)
+
+![项目预览图](https://opengraph.githubassets.com/1/metapromptjc/People-Inside-Prompts)
+
+⭐ **获得 Star**: 336
+
+📅 **创建时间**: 2025-07-21
+
+👤 **作者**: [metapromptjc](https://github.com/metapromptjc)
+
+🔄 **Fork 数量**: 93
+
+⚠️ **未解决 Issues**: 1
+
+---
+
+## 7. [neiltron/apple-health-mcp](https://github.com/neiltron/apple-health-mcp)
+
+![项目预览图](https://opengraph.githubassets.com/1/neiltron/apple-health-mcp)
+
+📝 **项目描述**: MCP server for querying Apple Health data with natural language and SQL
+
+⭐ **获得 Star**: 334
 
 💻 **主要编程语言**: TypeScript
 
-📅 **创建时间**: 2025-07-15
+📅 **创建时间**: 2025-07-22
 
-👤 **作者**: [untitleduico](https://github.com/untitleduico)
+👤 **作者**: [neiltron](https://github.com/neiltron)
 
-🔄 **Fork 数量**: 22
+🔄 **Fork 数量**: 10
 
-⚠️ **未解决 Issues**: 1
-
----
-
-## 5. [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
-
-![项目预览图](https://opengraph.githubassets.com/1/Wei-Shaw/claude-relay-service)
-
-📝 **项目描述**: 可自建Claude code镜像服务，支持多账户切换、自定义API密钥、隐私安全、能有效规避封号，OAuth集成可快捷添加账号池。
-
-⭐ **获得 Star**: 444
-
-💻 **主要编程语言**: JavaScript
-
-📅 **创建时间**: 2025-07-14
-
-👤 **作者**: [Wei-Shaw](https://github.com/Wei-Shaw)
-
-🔄 **Fork 数量**: 78
-
-⚠️ **未解决 Issues**: 1
+⚠️ **未解决 Issues**: 0
 
 ---
 
-## 6. [fogsightai/fogsight](https://github.com/fogsightai/fogsight)
+## 8. [scottvr/wtffmpeg](https://github.com/scottvr/wtffmpeg)
 
-![项目预览图](https://opengraph.githubassets.com/1/fogsightai/fogsight)
+![项目预览图](https://opengraph.githubassets.com/1/scottvr/wtffmpeg)
 
-📝 **项目描述**: Fogsight is an AI agent and animation engine powered by Large Language Models.
+📝 **项目描述**: a toy that has a local llm spit out ffmpeg commands from natural language prompts on the command-line
 
-⭐ **获得 Star**: 394
-
-💻 **主要编程语言**: JavaScript
-
-📅 **创建时间**: 2025-07-17
-
-👤 **作者**: [fogsightai](https://github.com/fogsightai)
-
-🔄 **Fork 数量**: 43
-
-⚠️ **未解决 Issues**: 4
-
----
-
-## 7. [ShilohEye/bitchat-terminal](https://github.com/ShilohEye/bitchat-terminal)
-
-![项目预览图](https://opengraph.githubassets.com/1/ShilohEye/bitchat-terminal)
-
-📝 **项目描述**: bluetooth mesh chat, IRC vibes
-
-⭐ **获得 Star**: 374
-
-💻 **主要编程语言**: Rust
-
-📅 **创建时间**: 2025-07-14
-
-👤 **作者**: [ShilohEye](https://github.com/ShilohEye)
-
-🔄 **Fork 数量**: 40
-
-⚠️ **未解决 Issues**: 8
-
----
-
-## 8. [chiphuyen/sniffly](https://github.com/chiphuyen/sniffly)
-
-![项目预览图](https://opengraph.githubassets.com/1/chiphuyen/sniffly)
-
-📝 **项目描述**: Claude Code dashboard with usage stats, error analysis, and sharable feature
-
-⭐ **获得 Star**: 373
+⭐ **获得 Star**: 268
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-07-15
+📅 **创建时间**: 2025-07-22
 
-👤 **作者**: [chiphuyen](https://github.com/chiphuyen)
-
-🔄 **Fork 数量**: 28
-
-⚠️ **未解决 Issues**: 1
-
----
-
-## 9. [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint)
-
-![项目预览图](https://opengraph.githubassets.com/1/oxc-project/tsgolint)
-
-📝 **项目描述**: Type aware linting for oxlint
-
-⭐ **获得 Star**: 330
-
-💻 **主要编程语言**: Go
-
-📅 **创建时间**: 2025-07-14
-
-👤 **作者**: [oxc-project](https://github.com/oxc-project)
+👤 **作者**: [scottvr](https://github.com/scottvr)
 
 🔄 **Fork 数量**: 7
 
-⚠️ **未解决 Issues**: 4
+⚠️ **未解决 Issues**: 0
 
 ---
 
-## 10. [Quovanewordy0JP/Mev-Bot-Uniswap](https://github.com/Quovanewordy0JP/Mev-Bot-Uniswap)
+## 9. [Kodezi/Chronos](https://github.com/Kodezi/Chronos)
 
-![项目预览图](https://opengraph.githubassets.com/1/Quovanewordy0JP/Mev-Bot-Uniswap)
+![项目预览图](https://opengraph.githubassets.com/1/Kodezi/Chronos)
 
-📝 **项目描述**: 🚀 Open-Source (Ethereum - MEV) Sandwich. Bot 🍔 A beginner-friendly tool for automatic Uniswap .arbitrage.! Achieved 8.43% daily gains on April 19, 2025. Dive into DeFi and try it now! ✨
+📝 **项目描述**: Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.
 
-⭐ **获得 Star**: 307
+⭐ **获得 Star**: 244
 
-💻 **主要编程语言**: Solidity
+💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-07-15
+📅 **创建时间**: 2025-07-21
 
-👤 **作者**: [Quovanewordy0JP](https://github.com/Quovanewordy0JP)
+👤 **作者**: [Kodezi](https://github.com/Kodezi)
 
-🔄 **Fork 数量**: 237
+🔄 **Fork 数量**: 5
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 10. [soltanali0/CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)
+
+![项目预览图](https://opengraph.githubassets.com/1/soltanali0/CVE-2025-53770-Exploit)
+
+📝 **项目描述**: SharePoint WebPart Injection Exploit Tool
+
+⭐ **获得 Star**: 222
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-07-21
+
+👤 **作者**: [soltanali0](https://github.com/soltanali0)
+
+🔄 **Fork 数量**: 62
 
 ⚠️ **未解决 Issues**: 0
 
@@ -215,33 +211,13 @@
 
 # 📊 月榜 (过去30天)
 
-## 1. [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-
-![项目预览图](https://opengraph.githubassets.com/1/OpenCut-app/OpenCut)
-
-📝 **项目描述**: The open-source CapCut alternative
-
-⭐ **获得 Star**: 25,704
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2025-06-22
-
-👤 **作者**: [OpenCut-app](https://github.com/OpenCut-app)
-
-🔄 **Fork 数量**: 2,212
-
-⚠️ **未解决 Issues**: 124
-
----
-
-## 2. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
+## 1. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 
 ![项目预览图](https://opengraph.githubassets.com/1/permissionlesstech/bitchat)
 
 📝 **项目描述**: bluetooth mesh chat, IRC vibes
 
-⭐ **获得 Star**: 18,534
+⭐ **获得 Star**: 19,360
 
 💻 **主要编程语言**: Swift
 
@@ -249,135 +225,75 @@
 
 👤 **作者**: [permissionlesstech](https://github.com/permissionlesstech)
 
-🔄 **Fork 数量**: 1,645
+🔄 **Fork 数量**: 1,741
 
-⚠️ **未解决 Issues**: 159
+⚠️ **未解决 Issues**: 165
 
 ---
 
-## 3. [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu)
+## 2. [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu)
 
 ![项目预览图](https://opengraph.githubassets.com/1/HW-whistleblower/True-Story-of-Pangu)
 
 📝 **项目描述**: 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 
-⭐ **获得 Star**: 11,210
+⭐ **获得 Star**: 11,283
 
 📅 **创建时间**: 2025-07-05
 
 👤 **作者**: [HW-whistleblower](https://github.com/HW-whistleblower)
 
-🔄 **Fork 数量**: 1,380
+🔄 **Fork 数量**: 1,384
 
-⚠️ **未解决 Issues**: 375
-
----
-
-## 4. [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)
-
-![项目预览图](https://opengraph.githubassets.com/1/SuperClaude-Org/SuperClaude_Framework)
-
-📝 **项目描述**: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-
-⭐ **获得 Star**: 9,214
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-06-22
-
-👤 **作者**: [SuperClaude-Org](https://github.com/SuperClaude-Org)
-
-🔄 **Fork 数量**: 840
-
-⚠️ **未解决 Issues**: 31
+⚠️ **未解决 Issues**: 381
 
 ---
 
-## 5. [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro)
+## 3. [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro)
 
 ![项目预览图](https://opengraph.githubassets.com/1/coleam00/context-engineering-intro)
 
 📝 **项目描述**: Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 
-⭐ **获得 Star**: 6,328
+⭐ **获得 Star**: 7,235
 
-💻 **主要编程语言**: TypeScript
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2025-07-02
 
 👤 **作者**: [coleam00](https://github.com/coleam00)
 
-🔄 **Fork 数量**: 1,271
+🔄 **Fork 数量**: 1,457
 
-⚠️ **未解决 Issues**: 19
+⚠️ **未解决 Issues**: 20
 
 ---
 
-## 6. [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)
+## 4. [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)
 
 ![项目预览图](https://opengraph.githubassets.com/1/MoonshotAI/Kimi-K2)
 
 📝 **项目描述**: Kimi K2 is the large language model series developed by Moonshot AI team
 
-⭐ **获得 Star**: 6,001
+⭐ **获得 Star**: 7,140
 
 📅 **创建时间**: 2025-07-03
 
 👤 **作者**: [MoonshotAI](https://github.com/MoonshotAI)
 
-🔄 **Fork 数量**: 354
+🔄 **Fork 数量**: 459
 
-⚠️ **未解决 Issues**: 14
-
----
-
-## 7. [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)
-
-![项目预览图](https://opengraph.githubassets.com/1/stan-smith/FossFLOW)
-
-📝 **项目描述**: Make beautiful isometric infrastructure diagrams
-
-⭐ **获得 Star**: 4,854
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2025-06-30
-
-👤 **作者**: [stan-smith](https://github.com/stan-smith)
-
-🔄 **Fork 数量**: 190
-
-⚠️ **未解决 Issues**: 7
+⚠️ **未解决 Issues**: 16
 
 ---
 
-## 8. [pickle-com/glass](https://github.com/pickle-com/glass)
-
-![项目预览图](https://opengraph.githubassets.com/1/pickle-com/glass)
-
-📝 **项目描述**: Digital Mind Extension
-
-⭐ **获得 Star**: 4,526
-
-💻 **主要编程语言**: JavaScript
-
-📅 **创建时间**: 2025-07-02
-
-👤 **作者**: [pickle-com](https://github.com/pickle-com)
-
-🔄 **Fork 数量**: 768
-
-⚠️ **未解决 Issues**: 64
-
----
-
-## 9. [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code)
+## 5. [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code)
 
 ![项目预览图](https://opengraph.githubassets.com/1/shareAI-lab/analysis_claude_code)
 
 📝 **项目描述**: 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
 
-⭐ **获得 Star**: 3,411
+⭐ **获得 Star**: 7,018
 
 💻 **主要编程语言**: JavaScript
 
@@ -385,29 +301,109 @@
 
 👤 **作者**: [shareAI-lab](https://github.com/shareAI-lab)
 
-🔄 **Fork 数量**: 654
+🔄 **Fork 数量**: 1,659
 
-⚠️ **未解决 Issues**: 1
+⚠️ **未解决 Issues**: 0
 
 ---
 
-## 10. [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)
+## 6. [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)
 
-![项目预览图](https://opengraph.githubassets.com/1/davidkimai/Context-Engineering)
+![项目预览图](https://opengraph.githubassets.com/1/stan-smith/FossFLOW)
 
-📝 **项目描述**: "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization.
+📝 **项目描述**: Make beautiful isometric infrastructure diagrams
 
-⭐ **获得 Star**: 3,052
+⭐ **获得 Star**: 6,286
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-06-30
+
+👤 **作者**: [stan-smith](https://github.com/stan-smith)
+
+🔄 **Fork 数量**: 251
+
+⚠️ **未解决 Issues**: 12
+
+---
+
+## 7. [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight)
+
+![项目预览图](https://opengraph.githubassets.com/1/KrishKrosh/TrackWeight)
+
+📝 **项目描述**: Use your Mac trackpad as a weighing scale
+
+⭐ **获得 Star**: 5,649
+
+💻 **主要编程语言**: Swift
+
+📅 **创建时间**: 2025-07-21
+
+👤 **作者**: [KrishKrosh](https://github.com/KrishKrosh)
+
+🔄 **Fork 数量**: 234
+
+⚠️ **未解决 Issues**: 12
+
+---
+
+## 8. [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio)
+
+![项目预览图](https://opengraph.githubassets.com/1/boson-ai/higgs-audio)
+
+📝 **项目描述**: Text-audio foundation model from Boson AI
+
+⭐ **获得 Star**: 5,170
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-06-29
+📅 **创建时间**: 2025-07-20
 
-👤 **作者**: [davidkimai](https://github.com/davidkimai)
+👤 **作者**: [boson-ai](https://github.com/boson-ai)
 
-🔄 **Fork 数量**: 309
+🔄 **Fork 数量**: 314
 
-⚠️ **未解决 Issues**: 0
+⚠️ **未解决 Issues**: 40
+
+---
+
+## 9. [Jackywine/Bella](https://github.com/Jackywine/Bella)
+
+![项目预览图](https://opengraph.githubassets.com/1/Jackywine/Bella)
+
+📝 **项目描述**: Bella is best
+
+⭐ **获得 Star**: 4,726
+
+💻 **主要编程语言**: JavaScript
+
+📅 **创建时间**: 2025-07-16
+
+👤 **作者**: [Jackywine](https://github.com/Jackywine)
+
+🔄 **Fork 数量**: 725
+
+⚠️ **未解决 Issues**: 56
+
+---
+
+## 10. [pickle-com/glass](https://github.com/pickle-com/glass)
+
+![项目预览图](https://opengraph.githubassets.com/1/pickle-com/glass)
+
+📝 **项目描述**: Digital Mind Extension
+
+⭐ **获得 Star**: 4,697
+
+💻 **主要编程语言**: JavaScript
+
+📅 **创建时间**: 2025-07-02
+
+👤 **作者**: [pickle-com](https://github.com/pickle-com)
+
+🔄 **Fork 数量**: 789
+
+⚠️ **未解决 Issues**: 71
 
 ---
 
@@ -419,7 +415,7 @@
 
 📝 **项目描述**: The open-source CapCut alternative
 
-⭐ **获得 Star**: 25,704
+⭐ **获得 Star**: 27,233
 
 💻 **主要编程语言**: TypeScript
 
@@ -427,9 +423,9 @@
 
 👤 **作者**: [OpenCut-app](https://github.com/OpenCut-app)
 
-🔄 **Fork 数量**: 2,212
+🔄 **Fork 数量**: 2,459
 
-⚠️ **未解决 Issues**: 124
+⚠️ **未解决 Issues**: 146
 
 ---
 
@@ -439,7 +435,7 @@
 
 📝 **项目描述**: bluetooth mesh chat, IRC vibes
 
-⭐ **获得 Star**: 18,534
+⭐ **获得 Star**: 19,360
 
 💻 **主要编程语言**: Swift
 
@@ -447,9 +443,9 @@
 
 👤 **作者**: [permissionlesstech](https://github.com/permissionlesstech)
 
-🔄 **Fork 数量**: 1,645
+🔄 **Fork 数量**: 1,741
 
-⚠️ **未解决 Issues**: 159
+⚠️ **未解决 Issues**: 165
 
 ---
 
@@ -459,7 +455,7 @@
 
 📝 **项目描述**: all of the workflows of n8n i could find (also from the site itself)
 
-⭐ **获得 Star**: 17,473
+⭐ **获得 Star**: 19,081
 
 💻 **主要编程语言**: HTML
 
@@ -467,9 +463,9 @@
 
 👤 **作者**: [Zie619](https://github.com/Zie619)
 
-🔄 **Fork 数量**: 6,373
+🔄 **Fork 数量**: 6,983
 
-⚠️ **未解决 Issues**: 5
+⚠️ **未解决 Issues**: 7
 
 ---
 
@@ -479,7 +475,7 @@
 
 📝 **项目描述**: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 
-⭐ **获得 Star**: 17,296
+⭐ **获得 Star**: 17,618
 
 💻 **主要编程语言**: Swift
 
@@ -487,9 +483,9 @@
 
 👤 **作者**: [apple](https://github.com/apple)
 
-🔄 **Fork 数量**: 357
+🔄 **Fork 数量**: 363
 
-⚠️ **未解决 Issues**: 73
+⚠️ **未解决 Issues**: 79
 
 ---
 
@@ -499,7 +495,7 @@
 
 📝 **项目描述**: Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 
-⭐ **获得 Star**: 15,718
+⭐ **获得 Star**: 15,888
 
 💻 **主要编程语言**: Jupyter Notebook
 
@@ -507,9 +503,9 @@
 
 👤 **作者**: [google-gemini](https://github.com/google-gemini)
 
-🔄 **Fork 数量**: 2,599
+🔄 **Fork 数量**: 2,633
 
-⚠️ **未解决 Issues**: 37
+⚠️ **未解决 Issues**: 40
 
 ---
 
@@ -519,7 +515,7 @@
 
 📝 **项目描述**: DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 
-⭐ **获得 Star**: 15,401
+⭐ **获得 Star**: 15,691
 
 💻 **主要编程语言**: Python
 
@@ -527,9 +523,9 @@
 
 👤 **作者**: [bytedance](https://github.com/bytedance)
 
-🔄 **Fork 数量**: 1,910
+🔄 **Fork 数量**: 1,965
 
-⚠️ **未解决 Issues**: 185
+⚠️ **未解决 Issues**: 193
 
 ---
 
@@ -539,17 +535,17 @@
 
 📝 **项目描述**: AI coding agent, built for the terminal.
 
-⭐ **获得 Star**: 13,780
+⭐ **获得 Star**: 14,975
 
-💻 **主要编程语言**: Go
+💻 **主要编程语言**: TypeScript
 
 📅 **创建时间**: 2025-04-30
 
 👤 **作者**: [sst](https://github.com/sst)
 
-🔄 **Fork 数量**: 790
+🔄 **Fork 数量**: 909
 
-⚠️ **未解决 Issues**: 447
+⚠️ **未解决 Issues**: 523
 
 ---
 
@@ -559,7 +555,7 @@
 
 📝 **项目描述**: FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 
-⭐ **获得 Star**: 13,245
+⭐ **获得 Star**: 14,472
 
 💻 **主要编程语言**: Rust
 
@@ -567,9 +563,9 @@
 
 👤 **作者**: [zama-ai](https://github.com/zama-ai)
 
-🔄 **Fork 数量**: 514
+🔄 **Fork 数量**: 552
 
-⚠️ **未解决 Issues**: 55
+⚠️ **未解决 Issues**: 61
 
 ---
 
@@ -579,7 +575,7 @@
 
 📝 **项目描述**: A new AList Fork to Anti Trust Crisis
 
-⭐ **获得 Star**: 12,377
+⭐ **获得 Star**: 13,096
 
 💻 **主要编程语言**: Go
 
@@ -587,7 +583,7 @@
 
 👤 **作者**: [OpenListTeam](https://github.com/OpenListTeam)
 
-🔄 **Fork 数量**: 832
+🔄 **Fork 数量**: 891
 
 ⚠️ **未解决 Issues**: 102
 
@@ -599,15 +595,15 @@
 
 📝 **项目描述**: 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 
-⭐ **获得 Star**: 11,210
+⭐ **获得 Star**: 11,283
 
 📅 **创建时间**: 2025-07-05
 
 👤 **作者**: [HW-whistleblower](https://github.com/HW-whistleblower)
 
-🔄 **Fork 数量**: 1,380
+🔄 **Fork 数量**: 1,384
 
-⚠️ **未解决 Issues**: 375
+⚠️ **未解决 Issues**: 381
 
 ---
 
@@ -617,7 +613,7 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3)
 
-⭐ **获得 Star**: 98,300
+⭐ **获得 Star**: 98,384
 
 💻 **主要编程语言**: Python
 
@@ -625,9 +621,9 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 16,006
+🔄 **Fork 数量**: 16,028
 
-⚠️ **未解决 Issues**: 76
+⚠️ **未解决 Issues**: 73
 
 ---
 
@@ -635,15 +631,15 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1)
 
-⭐ **获得 Star**: 90,594
+⭐ **获得 Star**: 90,683
 
 📅 **创建时间**: 2025-01-20
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 11,701
+🔄 **Fork 数量**: 11,703
 
-⚠️ **未解决 Issues**: 87
+⚠️ **未解决 Issues**: 82
 
 ---
 
@@ -651,17 +647,17 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools)
 
-📝 **项目描述**: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+📝 **项目描述**: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
 
-⭐ **获得 Star**: 69,291
+⭐ **获得 Star**: 71,613
 
 📅 **创建时间**: 2025-03-05
 
 👤 **作者**: [x1xhlol](https://github.com/x1xhlol)
 
-🔄 **Fork 数量**: 19,863
+🔄 **Fork 数量**: 20,291
 
-⚠️ **未解决 Issues**: 57
+⚠️ **未解决 Issues**: 65
 
 ---
 

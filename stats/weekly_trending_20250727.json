@@ -1,0 +1,162 @@
+[
+  {
+    "name": "KrishKrosh/TrackWeight",
+    "description": "Use your Mac trackpad as a weighing scale",
+    "stars": 5649,
+    "language": "Swift",
+    "url": "https://github.com/KrishKrosh/TrackWeight",
+    "created_at": "2025-07-21T05:55:02Z",
+    "owner": {
+      "login": "KrishKrosh",
+      "url": "https://github.com/KrishKrosh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50386081?v=4"
+    },
+    "forks": 234,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/KrishKrosh/TrackWeight"
+  },
+  {
+    "name": "tidwall/pogocache",
+    "description": "Fast caching software with a focus on low latency and cpu efficiency.",
+    "stars": 1114,
+    "language": "C",
+    "url": "https://github.com/tidwall/pogocache",
+    "created_at": "2025-07-21T17:36:52Z",
+    "owner": {
+      "login": "tidwall",
+      "url": "https://github.com/tidwall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1156077?v=4"
+    },
+    "forks": 21,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tidwall/pogocache"
+  },
+  {
+    "name": "iannuttall/claude-agents",
+    "description": "Custom subagents to use with Claude Code.",
+    "stars": 726,
+    "language": null,
+    "url": "https://github.com/iannuttall/claude-agents",
+    "created_at": "2025-07-25T11:06:39Z",
+    "owner": {
+      "login": "iannuttall",
+      "url": "https://github.com/iannuttall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6681919?v=4"
+    },
+    "forks": 93,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/iannuttall/claude-agents"
+  },
+  {
+    "name": "IHATEGIVINGAUSERNAME/theProtector",
+    "description": "Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response",
+    "stars": 375,
+    "language": "Shell",
+    "url": "https://github.com/IHATEGIVINGAUSERNAME/theProtector",
+    "created_at": "2025-07-23T11:48:20Z",
+    "owner": {
+      "login": "IHATEGIVINGAUSERNAME",
+      "url": "https://github.com/IHATEGIVINGAUSERNAME",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222415778?v=4"
+    },
+    "forks": 26,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/IHATEGIVINGAUSERNAME/theProtector"
+  },
+  {
+    "name": "bukkbeek/GodotPixelRenderer",
+    "description": "Complete 3D to Pixel Toolkit [Built using Godot Engine]",
+    "stars": 349,
+    "language": "GDScript",
+    "url": "https://github.com/bukkbeek/GodotPixelRenderer",
+    "created_at": "2025-07-21T06:16:38Z",
+    "owner": {
+      "login": "bukkbeek",
+      "url": "https://github.com/bukkbeek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88654598?v=4"
+    },
+    "forks": 34,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bukkbeek/GodotPixelRenderer"
+  },
+  {
+    "name": "metapromptjc/People-Inside-Prompts",
+    "description": null,
+    "stars": 336,
+    "language": null,
+    "url": "https://github.com/metapromptjc/People-Inside-Prompts",
+    "created_at": "2025-07-21T11:49:58Z",
+    "owner": {
+      "login": "metapromptjc",
+      "url": "https://github.com/metapromptjc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221901046?v=4"
+    },
+    "forks": 93,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/metapromptjc/People-Inside-Prompts"
+  },
+  {
+    "name": "neiltron/apple-health-mcp",
+    "description": "MCP server for querying Apple Health data with natural language and SQL",
+    "stars": 334,
+    "language": "TypeScript",
+    "url": "https://github.com/neiltron/apple-health-mcp",
+    "created_at": "2025-07-22T04:01:45Z",
+    "owner": {
+      "login": "neiltron",
+      "url": "https://github.com/neiltron",
+      "avatar_url": "https://avatars.githubusercontent.com/u/452313?v=4"
+    },
+    "forks": 10,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/neiltron/apple-health-mcp"
+  },
+  {
+    "name": "scottvr/wtffmpeg",
+    "description": "a toy that has a local llm spit out ffmpeg commands from natural language prompts on the command-line",
+    "stars": 268,
+    "language": "Python",
+    "url": "https://github.com/scottvr/wtffmpeg",
+    "created_at": "2025-07-22T22:38:32Z",
+    "owner": {
+      "login": "scottvr",
+      "url": "https://github.com/scottvr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7464239?v=4"
+    },
+    "forks": 7,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/scottvr/wtffmpeg"
+  },
+  {
+    "name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "stars": 244,
+    "language": "Python",
+    "url": "https://github.com/Kodezi/Chronos",
+    "created_at": "2025-07-21T07:34:10Z",
+    "owner": {
+      "login": "Kodezi",
+      "url": "https://github.com/Kodezi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91817567?v=4"
+    },
+    "forks": 5,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Kodezi/Chronos"
+  },
+  {
+    "name": "soltanali0/CVE-2025-53770-Exploit",
+    "description": "SharePoint WebPart Injection Exploit Tool",
+    "stars": 222,
+    "language": "Python",
+    "url": "https://github.com/soltanali0/CVE-2025-53770-Exploit",
+    "created_at": "2025-07-21T13:48:37Z",
+    "owner": {
+      "login": "soltanali0",
+      "url": "https://github.com/soltanali0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87374678?v=4"
+    },
+    "forks": 62,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/soltanali0/CVE-2025-53770-Exploit"
+  }
+]
