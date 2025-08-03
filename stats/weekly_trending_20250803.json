@@ -1,0 +1,162 @@
+[
+  {
+    "name": "contains-studio/agents",
+    "description": "sharing current agents in use",
+    "stars": 5679,
+    "language": null,
+    "url": "https://github.com/contains-studio/agents",
+    "created_at": "2025-07-28T14:42:35Z",
+    "owner": {
+      "login": "contains-studio",
+      "url": "https://github.com/contains-studio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216916882?v=4"
+    },
+    "forks": 1127,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/contains-studio/agents"
+  },
+  {
+    "name": "Wan-Video/Wan2.2",
+    "description": "Wan: Open and Advanced Large-Scale Video Generative Models",
+    "stars": 2260,
+    "language": "Python",
+    "url": "https://github.com/Wan-Video/Wan2.2",
+    "created_at": "2025-07-28T08:17:01Z",
+    "owner": {
+      "login": "Wan-Video",
+      "url": "https://github.com/Wan-Video",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200620180?v=4"
+    },
+    "forks": 82,
+    "issues": 40,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Wan-Video/Wan2.2"
+  },
+  {
+    "name": "zouzhekang/YJYpaper",
+    "description": "一个用来记录武汉大学杨景媛论文问题的仓库",
+    "stars": 1843,
+    "language": null,
+    "url": "https://github.com/zouzhekang/YJYpaper",
+    "created_at": "2025-07-29T06:23:12Z",
+    "owner": {
+      "login": "zouzhekang",
+      "url": "https://github.com/zouzhekang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54238776?v=4"
+    },
+    "forks": 99,
+    "issues": 113,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zouzhekang/YJYpaper"
+  },
+  {
+    "name": "jarulraj/periodic-table",
+    "description": "A Periodic Table of System Design Principles",
+    "stars": 1024,
+    "language": null,
+    "url": "https://github.com/jarulraj/periodic-table",
+    "created_at": "2025-07-28T14:30:53Z",
+    "owner": {
+      "login": "jarulraj",
+      "url": "https://github.com/jarulraj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5521975?v=4"
+    },
+    "forks": 33,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jarulraj/periodic-table"
+  },
+  {
+    "name": "eigent-ai/eigent",
+    "description": "Eigent is the World's First Multi-agent Workforce to Unlock Your Exceptional Productivity.",
+    "stars": 993,
+    "language": "TypeScript",
+    "url": "https://github.com/eigent-ai/eigent",
+    "created_at": "2025-07-29T15:56:02Z",
+    "owner": {
+      "login": "eigent-ai",
+      "url": "https://github.com/eigent-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163795819?v=4"
+    },
+    "forks": 128,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/eigent-ai/eigent"
+  },
+  {
+    "name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "stars": 514,
+    "language": null,
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "created_at": "2025-07-28T13:04:48Z",
+    "owner": {
+      "login": "lst97",
+      "url": "https://github.com/lst97",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16495912?v=4"
+    },
+    "forks": 83,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lst97/claude-code-sub-agents"
+  },
+  {
+    "name": "rednote-hilab/dots.ocr",
+    "description": "Multilingual Document Layout Parsing in a Single Vision-Language Model",
+    "stars": 347,
+    "language": "Python",
+    "url": "https://github.com/rednote-hilab/dots.ocr",
+    "created_at": "2025-07-30T11:03:59Z",
+    "owner": {
+      "login": "rednote-hilab",
+      "url": "https://github.com/rednote-hilab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211634691?v=4"
+    },
+    "forks": 28,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/rednote-hilab/dots.ocr"
+  },
+  {
+    "name": "dmtrKovalenko/fff.nvim",
+    "description": "Finally a Fast Fuzzy File Finder for neovim ",
+    "stars": 288,
+    "language": "Lua",
+    "url": "https://github.com/dmtrKovalenko/fff.nvim",
+    "created_at": "2025-07-31T22:01:49Z",
+    "owner": {
+      "login": "dmtrKovalenko",
+      "url": "https://github.com/dmtrKovalenko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16926049?v=4"
+    },
+    "forks": 15,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dmtrKovalenko/fff.nvim"
+  },
+  {
+    "name": "groq/openbench",
+    "description": "Provider-agnostic, open-source evaluation infrastructure for language models",
+    "stars": 266,
+    "language": "Python",
+    "url": "https://github.com/groq/openbench",
+    "created_at": "2025-07-31T08:02:49Z",
+    "owner": {
+      "login": "groq",
+      "url": "https://github.com/groq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7464134?v=4"
+    },
+    "forks": 7,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/groq/openbench"
+  },
+  {
+    "name": "InsForge/InsForge",
+    "description": "InsForge is the Agent-Native Supabase Alternative. We are building the features of Supabase in an AI-native way, enabling AI agents to build and manage full-stack applications autonomously.",
+    "stars": 263,
+    "language": "TypeScript",
+    "url": "https://github.com/InsForge/InsForge",
+    "created_at": "2025-07-29T05:56:00Z",
+    "owner": {
+      "login": "InsForge",
+      "url": "https://github.com/InsForge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198419463?v=4"
+    },
+    "forks": 23,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/InsForge/InsForge"
+  }
+]

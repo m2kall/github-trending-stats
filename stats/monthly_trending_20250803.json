@@ -1,0 +1,162 @@
+[
+  {
+    "name": "HW-whistleblower/True-Story-of-Pangu",
+    "description": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。",
+    "stars": 11327,
+    "language": null,
+    "url": "https://github.com/HW-whistleblower/True-Story-of-Pangu",
+    "created_at": "2025-07-05T20:40:24Z",
+    "owner": {
+      "login": "HW-whistleblower",
+      "url": "https://github.com/HW-whistleblower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219440165?v=4"
+    },
+    "forks": 1385,
+    "issues": 388,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HW-whistleblower/True-Story-of-Pangu"
+  },
+  {
+    "name": "KrishKrosh/TrackWeight",
+    "description": "Use your Mac trackpad as a weighing scale",
+    "stars": 6400,
+    "language": "Swift",
+    "url": "https://github.com/KrishKrosh/TrackWeight",
+    "created_at": "2025-07-21T05:55:02Z",
+    "owner": {
+      "login": "KrishKrosh",
+      "url": "https://github.com/KrishKrosh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50386081?v=4"
+    },
+    "forks": 269,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/KrishKrosh/TrackWeight"
+  },
+  {
+    "name": "boson-ai/higgs-audio",
+    "description": "Text-audio foundation model from Boson AI",
+    "stars": 6253,
+    "language": "Python",
+    "url": "https://github.com/boson-ai/higgs-audio",
+    "created_at": "2025-07-20T05:25:27Z",
+    "owner": {
+      "login": "boson-ai",
+      "url": "https://github.com/boson-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125823025?v=4"
+    },
+    "forks": 413,
+    "issues": 50,
+    "social_preview_url": "https://opengraph.githubassets.com/1/boson-ai/higgs-audio"
+  },
+  {
+    "name": "wshobson/agents",
+    "description": "A collection of production-ready subagents for Claude Code",
+    "stars": 5848,
+    "language": null,
+    "url": "https://github.com/wshobson/agents",
+    "created_at": "2025-07-24T23:28:14Z",
+    "owner": {
+      "login": "wshobson",
+      "url": "https://github.com/wshobson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/553618?v=4"
+    },
+    "forks": 505,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wshobson/agents"
+  },
+  {
+    "name": "contains-studio/agents",
+    "description": "sharing current agents in use",
+    "stars": 5679,
+    "language": null,
+    "url": "https://github.com/contains-studio/agents",
+    "created_at": "2025-07-28T14:42:35Z",
+    "owner": {
+      "login": "contains-studio",
+      "url": "https://github.com/contains-studio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216916882?v=4"
+    },
+    "forks": 1127,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/contains-studio/agents"
+  },
+  {
+    "name": "Jackywine/Bella",
+    "description": "Bella is best",
+    "stars": 5106,
+    "language": "JavaScript",
+    "url": "https://github.com/Jackywine/Bella",
+    "created_at": "2025-07-16T06:14:09Z",
+    "owner": {
+      "login": "Jackywine",
+      "url": "https://github.com/Jackywine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31403062?v=4"
+    },
+    "forks": 805,
+    "issues": 60,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Jackywine/Bella"
+  },
+  {
+    "name": "dingyufei615/ai-goofish-monitor",
+    "description": "一个基于 Playwright 和AI过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 Web 管理界面。",
+    "stars": 3747,
+    "language": "Python",
+    "url": "https://github.com/dingyufei615/ai-goofish-monitor",
+    "created_at": "2025-07-16T08:13:41Z",
+    "owner": {
+      "login": "dingyufei615",
+      "url": "https://github.com/dingyufei615",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34468774?v=4"
+    },
+    "forks": 516,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dingyufei615/ai-goofish-monitor"
+  },
+  {
+    "name": "jd-opensource/joyagent-jdgenie",
+    "description": "开源的端到端产品级通用智能体",
+    "stars": 3628,
+    "language": "Java",
+    "url": "https://github.com/jd-opensource/joyagent-jdgenie",
+    "created_at": "2025-07-16T02:59:53Z",
+    "owner": {
+      "login": "jd-opensource",
+      "url": "https://github.com/jd-opensource",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
+    },
+    "forks": 539,
+    "issues": 63,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jd-opensource/joyagent-jdgenie"
+  },
+  {
+    "name": "sapientinc/HRM",
+    "description": "Hierarchical Reasoning Model Official Release",
+    "stars": 3624,
+    "language": "Python",
+    "url": "https://github.com/sapientinc/HRM",
+    "created_at": "2025-07-09T02:09:32Z",
+    "owner": {
+      "login": "sapientinc",
+      "url": "https://github.com/sapientinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188930505?v=4"
+    },
+    "forks": 457,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sapientinc/HRM"
+  },
+  {
+    "name": "permissionlesstech/bitchat-android",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "stars": 2884,
+    "language": "Kotlin",
+    "url": "https://github.com/permissionlesstech/bitchat-android",
+    "created_at": "2025-07-08T18:36:23Z",
+    "owner": {
+      "login": "permissionlesstech",
+      "url": "https://github.com/permissionlesstech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
+    },
+    "forks": 377,
+    "issues": 89,
+    "social_preview_url": "https://opengraph.githubassets.com/1/permissionlesstech/bitchat-android"
+  }
+]

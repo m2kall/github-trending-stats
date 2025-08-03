@@ -1,0 +1,162 @@
+[
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "stars": 28631,
+    "language": "TypeScript",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "created_at": "2025-06-22T08:02:17Z",
+    "owner": {
+      "login": "OpenCut-app",
+      "url": "https://github.com/OpenCut-app",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217499887?v=4"
+    },
+    "forks": 2635,
+    "issues": 165,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "Zie619/n8n-workflows",
+    "description": "all of the workflows of n8n i could find (also from the site itself)",
+    "stars": 20796,
+    "language": "HTML",
+    "url": "https://github.com/Zie619/n8n-workflows",
+    "created_at": "2025-05-14T08:43:59Z",
+    "owner": {
+      "login": "Zie619",
+      "url": "https://github.com/Zie619",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54673680?v=4"
+    },
+    "forks": 7546,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Zie619/n8n-workflows"
+  },
+  {
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "stars": 20762,
+    "language": "Swift",
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "created_at": "2025-07-04T14:34:38Z",
+    "owner": {
+      "login": "permissionlesstech",
+      "url": "https://github.com/permissionlesstech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
+    },
+    "forks": 1865,
+    "issues": 192,
+    "social_preview_url": "https://opengraph.githubassets.com/1/permissionlesstech/bitchat"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+    "stars": 17964,
+    "language": "Swift",
+    "url": "https://github.com/apple/container",
+    "created_at": "2025-05-30T21:26:05Z",
+    "owner": {
+      "login": "apple",
+      "url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "forks": 382,
+    "issues": 110,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apple/container"
+  },
+  {
+    "name": "google-gemini/gemini-fullstack-langgraph-quickstart",
+    "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+    "stars": 16051,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
+    "created_at": "2025-05-22T11:59:02Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 2657,
+    "issues": 40,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/gemini-fullstack-langgraph-quickstart"
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
+    "stars": 15901,
+    "language": "Python",
+    "url": "https://github.com/bytedance/deer-flow",
+    "created_at": "2025-05-07T02:50:19Z",
+    "owner": {
+      "login": "bytedance",
+      "url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "forks": 2004,
+    "issues": 204,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bytedance/deer-flow"
+  },
+  {
+    "name": "coze-dev/coze-studio",
+    "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.",
+    "stars": 14042,
+    "language": "TypeScript",
+    "url": "https://github.com/coze-dev/coze-studio",
+    "created_at": "2025-06-26T02:19:21Z",
+    "owner": {
+      "login": "coze-dev",
+      "url": "https://github.com/coze-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157483752?v=4"
+    },
+    "forks": 1784,
+    "issues": 165,
+    "social_preview_url": "https://opengraph.githubassets.com/1/coze-dev/coze-studio"
+  },
+  {
+    "name": "OpenListTeam/OpenList",
+    "description": "A new AList Fork to Anti Trust Crisis",
+    "stars": 13651,
+    "language": "Go",
+    "url": "https://github.com/OpenListTeam/OpenList",
+    "created_at": "2025-06-11T23:35:02Z",
+    "owner": {
+      "login": "OpenListTeam",
+      "url": "https://github.com/OpenListTeam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215780325?v=4"
+    },
+    "forks": 948,
+    "issues": 115,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenListTeam/OpenList"
+  },
+  {
+    "name": "SuperClaude-Org/SuperClaude_Framework",
+    "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
+    "stars": 12031,
+    "language": "Python",
+    "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
+    "created_at": "2025-06-22T12:03:53Z",
+    "owner": {
+      "login": "SuperClaude-Org",
+      "url": "https://github.com/SuperClaude-Org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221338871?v=4"
+    },
+    "forks": 1067,
+    "issues": 33,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SuperClaude-Org/SuperClaude_Framework"
+  },
+  {
+    "name": "HW-whistleblower/True-Story-of-Pangu",
+    "description": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。",
+    "stars": 11327,
+    "language": null,
+    "url": "https://github.com/HW-whistleblower/True-Story-of-Pangu",
+    "created_at": "2025-07-05T20:40:24Z",
+    "owner": {
+      "login": "HW-whistleblower",
+      "url": "https://github.com/HW-whistleblower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219440165?v=4"
+    },
+    "forks": 1385,
+    "issues": 388,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HW-whistleblower/True-Story-of-Pangu"
+  }
+]
