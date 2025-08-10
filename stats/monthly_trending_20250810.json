@@ -1,0 +1,162 @@
+[
+  {
+    "name": "wshobson/agents",
+    "description": "A collection of production-ready subagents for Claude Code",
+    "stars": 7698,
+    "language": null,
+    "url": "https://github.com/wshobson/agents",
+    "created_at": "2025-07-24T23:28:14Z",
+    "owner": {
+      "login": "wshobson",
+      "url": "https://github.com/wshobson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/553618?v=4"
+    },
+    "forks": 720,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wshobson/agents"
+  },
+  {
+    "name": "contains-studio/agents",
+    "description": "sharing current agents in use",
+    "stars": 6747,
+    "language": null,
+    "url": "https://github.com/contains-studio/agents",
+    "created_at": "2025-07-28T14:42:35Z",
+    "owner": {
+      "login": "contains-studio",
+      "url": "https://github.com/contains-studio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216916882?v=4"
+    },
+    "forks": 1371,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/contains-studio/agents"
+  },
+  {
+    "name": "KrishKrosh/TrackWeight",
+    "description": "Use your Mac trackpad as a weighing scale",
+    "stars": 6650,
+    "language": "Swift",
+    "url": "https://github.com/KrishKrosh/TrackWeight",
+    "created_at": "2025-07-21T05:55:02Z",
+    "owner": {
+      "login": "KrishKrosh",
+      "url": "https://github.com/KrishKrosh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50386081?v=4"
+    },
+    "forks": 280,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/KrishKrosh/TrackWeight"
+  },
+  {
+    "name": "boson-ai/higgs-audio",
+    "description": "Text-audio foundation model from Boson AI",
+    "stars": 6631,
+    "language": "Python",
+    "url": "https://github.com/boson-ai/higgs-audio",
+    "created_at": "2025-07-20T05:25:27Z",
+    "owner": {
+      "login": "boson-ai",
+      "url": "https://github.com/boson-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125823025?v=4"
+    },
+    "forks": 445,
+    "issues": 61,
+    "social_preview_url": "https://opengraph.githubassets.com/1/boson-ai/higgs-audio"
+  },
+  {
+    "name": "KittenML/KittenTTS",
+    "description": " State-of-the-art TTS model under 25MB 😻 ",
+    "stars": 6569,
+    "language": "Python",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "created_at": "2025-08-05T03:30:24Z",
+    "owner": {
+      "login": "KittenML",
+      "url": "https://github.com/KittenML",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224667585?v=4"
+    },
+    "forks": 277,
+    "issues": 60,
+    "social_preview_url": "https://opengraph.githubassets.com/1/KittenML/KittenTTS"
+  },
+  {
+    "name": "Jackywine/Bella",
+    "description": "Bella is best",
+    "stars": 5360,
+    "language": "JavaScript",
+    "url": "https://github.com/Jackywine/Bella",
+    "created_at": "2025-07-16T06:14:09Z",
+    "owner": {
+      "login": "Jackywine",
+      "url": "https://github.com/Jackywine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31403062?v=4"
+    },
+    "forks": 853,
+    "issues": 62,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Jackywine/Bella"
+  },
+  {
+    "name": "jd-opensource/joyagent-jdgenie",
+    "description": "开源的端到端产品级通用智能体",
+    "stars": 4248,
+    "language": "Java",
+    "url": "https://github.com/jd-opensource/joyagent-jdgenie",
+    "created_at": "2025-07-16T02:59:53Z",
+    "owner": {
+      "login": "jd-opensource",
+      "url": "https://github.com/jd-opensource",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
+    },
+    "forks": 643,
+    "issues": 94,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jd-opensource/joyagent-jdgenie"
+  },
+  {
+    "name": "dingyufei615/ai-goofish-monitor",
+    "description": "基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。",
+    "stars": 4231,
+    "language": "Python",
+    "url": "https://github.com/dingyufei615/ai-goofish-monitor",
+    "created_at": "2025-07-16T08:13:41Z",
+    "owner": {
+      "login": "dingyufei615",
+      "url": "https://github.com/dingyufei615",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34468774?v=4"
+    },
+    "forks": 578,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dingyufei615/ai-goofish-monitor"
+  },
+  {
+    "name": "zouzhekang/YJYpaper",
+    "description": "一个用来记录武汉大学杨景媛论文问题的仓库",
+    "stars": 3414,
+    "language": "HTML",
+    "url": "https://github.com/zouzhekang/YJYpaper",
+    "created_at": "2025-07-29T06:23:12Z",
+    "owner": {
+      "login": "zouzhekang",
+      "url": "https://github.com/zouzhekang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54238776?v=4"
+    },
+    "forks": 219,
+    "issues": 225,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zouzhekang/YJYpaper"
+  },
+  {
+    "name": "openai/harmony",
+    "description": "Renderer for the harmony response format to be used with gpt-oss",
+    "stars": 3225,
+    "language": "Rust",
+    "url": "https://github.com/openai/harmony",
+    "created_at": "2025-07-31T16:10:01Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 160,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/harmony"
+  }
+]

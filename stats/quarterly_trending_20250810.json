@@ -1,0 +1,162 @@
+[
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "stars": 29913,
+    "language": "TypeScript",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "created_at": "2025-06-22T08:02:17Z",
+    "owner": {
+      "login": "OpenCut-app",
+      "url": "https://github.com/OpenCut-app",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217499887?v=4"
+    },
+    "forks": 2795,
+    "issues": 182,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "Zie619/n8n-workflows",
+    "description": "all of the workflows of n8n i could find (also from the site itself)",
+    "stars": 22188,
+    "language": "HTML",
+    "url": "https://github.com/Zie619/n8n-workflows",
+    "created_at": "2025-05-14T08:43:59Z",
+    "owner": {
+      "login": "Zie619",
+      "url": "https://github.com/Zie619",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54673680?v=4"
+    },
+    "forks": 8144,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Zie619/n8n-workflows"
+  },
+  {
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "stars": 21416,
+    "language": "Swift",
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "created_at": "2025-07-04T14:34:38Z",
+    "owner": {
+      "login": "permissionlesstech",
+      "url": "https://github.com/permissionlesstech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
+    },
+    "forks": 1916,
+    "issues": 204,
+    "social_preview_url": "https://opengraph.githubassets.com/1/permissionlesstech/bitchat"
+  },
+  {
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+    "stars": 18356,
+    "language": "Swift",
+    "url": "https://github.com/apple/container",
+    "created_at": "2025-05-30T21:26:05Z",
+    "owner": {
+      "login": "apple",
+      "url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "forks": 392,
+    "issues": 131,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apple/container"
+  },
+  {
+    "name": "google-gemini/gemini-fullstack-langgraph-quickstart",
+    "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+    "stars": 16227,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
+    "created_at": "2025-05-22T11:59:02Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 2697,
+    "issues": 42,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/gemini-fullstack-langgraph-quickstart"
+  },
+  {
+    "name": "openai/gpt-oss",
+    "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+    "stars": 16004,
+    "language": "Python",
+    "url": "https://github.com/openai/gpt-oss",
+    "created_at": "2025-06-23T16:43:33Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 1312,
+    "issues": 48,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/gpt-oss"
+  },
+  {
+    "name": "coze-dev/coze-studio",
+    "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.",
+    "stars": 15073,
+    "language": "TypeScript",
+    "url": "https://github.com/coze-dev/coze-studio",
+    "created_at": "2025-06-26T02:19:21Z",
+    "owner": {
+      "login": "coze-dev",
+      "url": "https://github.com/coze-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157483752?v=4"
+    },
+    "forks": 1958,
+    "issues": 201,
+    "social_preview_url": "https://opengraph.githubassets.com/1/coze-dev/coze-studio"
+  },
+  {
+    "name": "OpenListTeam/OpenList",
+    "description": "A new AList Fork to Anti Trust Crisis",
+    "stars": 14126,
+    "language": "Go",
+    "url": "https://github.com/OpenListTeam/OpenList",
+    "created_at": "2025-06-11T23:35:02Z",
+    "owner": {
+      "login": "OpenListTeam",
+      "url": "https://github.com/OpenListTeam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215780325?v=4"
+    },
+    "forks": 994,
+    "issues": 122,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenListTeam/OpenList"
+  },
+  {
+    "name": "SuperClaude-Org/SuperClaude_Framework",
+    "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
+    "stars": 12734,
+    "language": "Python",
+    "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
+    "created_at": "2025-06-22T12:03:53Z",
+    "owner": {
+      "login": "SuperClaude-Org",
+      "url": "https://github.com/SuperClaude-Org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221338871?v=4"
+    },
+    "forks": 1131,
+    "issues": 32,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SuperClaude-Org/SuperClaude_Framework"
+  },
+  {
+    "name": "LunaTechLab/MoonTV",
+    "description": "一个开箱即用的、跨平台的影视聚合播放站",
+    "stars": 11434,
+    "language": "TypeScript",
+    "url": "https://github.com/LunaTechLab/MoonTV",
+    "created_at": "2025-06-17T18:26:49Z",
+    "owner": {
+      "login": "LunaTechLab",
+      "url": "https://github.com/LunaTechLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225036919?v=4"
+    },
+    "forks": 23813,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/LunaTechLab/MoonTV"
+  }
+]
