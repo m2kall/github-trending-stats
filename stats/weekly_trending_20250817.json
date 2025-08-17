@@ -1,0 +1,162 @@
+[
+  {
+    "name": "MoonTechLab/LunaTV",
+    "description": null,
+    "stars": 1748,
+    "language": null,
+    "url": "https://github.com/MoonTechLab/LunaTV",
+    "created_at": "2025-08-12T13:59:33Z",
+    "owner": {
+      "login": "MoonTechLab",
+      "url": "https://github.com/MoonTechLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226115334?v=4"
+    },
+    "forks": 664,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MoonTechLab/LunaTV"
+  },
+  {
+    "name": "syncora-ai/uk-retail-synthetic-data-generation",
+    "description": "Synthetic data generation demo using a UK retail transactional dataset. Ideal for professionals in retail, e-commerce, finance, and supply chain sectors who want to create privacy-preserving, realistic synthetic data for testing, analysis, and machine learning.",
+    "stars": 668,
+    "language": null,
+    "url": "https://github.com/syncora-ai/uk-retail-synthetic-data-generation",
+    "created_at": "2025-08-11T12:03:55Z",
+    "owner": {
+      "login": "syncora-ai",
+      "url": "https://github.com/syncora-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210037379?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/syncora-ai/uk-retail-synthetic-data-generation"
+  },
+  {
+    "name": "nv-tlabs/vipe",
+    "description": "ViPE: Video Pose Engine for Geometric 3D Perception",
+    "stars": 624,
+    "language": "Python",
+    "url": "https://github.com/nv-tlabs/vipe",
+    "created_at": "2025-08-11T00:19:56Z",
+    "owner": {
+      "login": "nv-tlabs",
+      "url": "https://github.com/nv-tlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49653101?v=4"
+    },
+    "forks": 26,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nv-tlabs/vipe"
+  },
+  {
+    "name": "context-labs/uwu",
+    "description": null,
+    "stars": 428,
+    "language": "TypeScript",
+    "url": "https://github.com/context-labs/uwu",
+    "created_at": "2025-08-11T01:03:12Z",
+    "owner": {
+      "login": "context-labs",
+      "url": "https://github.com/context-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125929854?v=4"
+    },
+    "forks": 22,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/context-labs/uwu"
+  },
+  {
+    "name": "Francis-Rings/StableAvatar",
+    "description": "We present StableAvatar, the first end-to-end video diffusion transformer, which synthesizes infinite-length high-quality audio-driven avatar videos without any post-processing, conditioned on a reference image and audio.",
+    "stars": 409,
+    "language": "Python",
+    "url": "https://github.com/Francis-Rings/StableAvatar",
+    "created_at": "2025-08-11T11:48:35Z",
+    "owner": {
+      "login": "Francis-Rings",
+      "url": "https://github.com/Francis-Rings",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66824433?v=4"
+    },
+    "forks": 40,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Francis-Rings/StableAvatar"
+  },
+  {
+    "name": "mingyin0312/RLFromScratch",
+    "description": null,
+    "stars": 380,
+    "language": "Python",
+    "url": "https://github.com/mingyin0312/RLFromScratch",
+    "created_at": "2025-08-12T05:29:23Z",
+    "owner": {
+      "login": "mingyin0312",
+      "url": "https://github.com/mingyin0312",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39140136?v=4"
+    },
+    "forks": 27,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mingyin0312/RLFromScratch"
+  },
+  {
+    "name": "Matt-Dionis/claude-code-configs",
+    "description": null,
+    "stars": 368,
+    "language": "TypeScript",
+    "url": "https://github.com/Matt-Dionis/claude-code-configs",
+    "created_at": "2025-08-11T18:54:20Z",
+    "owner": {
+      "login": "Matt-Dionis",
+      "url": "https://github.com/Matt-Dionis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17889952?v=4"
+    },
+    "forks": 46,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Matt-Dionis/claude-code-configs"
+  },
+  {
+    "name": "HybridRobotics/whole_body_tracking",
+    "description": null,
+    "stars": 360,
+    "language": "Python",
+    "url": "https://github.com/HybridRobotics/whole_body_tracking",
+    "created_at": "2025-08-11T15:12:45Z",
+    "owner": {
+      "login": "HybridRobotics",
+      "url": "https://github.com/HybridRobotics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10053058?v=4"
+    },
+    "forks": 30,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HybridRobotics/whole_body_tracking"
+  },
+  {
+    "name": "SkyworkAI/Matrix-3D",
+    "description": "Generate large-scale explorable 3D scenes with high-quality panorama videos from a single image or text prompt.",
+    "stars": 336,
+    "language": "Python",
+    "url": "https://github.com/SkyworkAI/Matrix-3D",
+    "created_at": "2025-08-11T09:48:27Z",
+    "owner": {
+      "login": "SkyworkAI",
+      "url": "https://github.com/SkyworkAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147303017?v=4"
+    },
+    "forks": 21,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SkyworkAI/Matrix-3D"
+  },
+  {
+    "name": "stepfun-ai/NextStep-1",
+    "description": null,
+    "stars": 316,
+    "language": "Python",
+    "url": "https://github.com/stepfun-ai/NextStep-1",
+    "created_at": "2025-08-14T08:50:25Z",
+    "owner": {
+      "login": "stepfun-ai",
+      "url": "https://github.com/stepfun-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178004800?v=4"
+    },
+    "forks": 7,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/stepfun-ai/NextStep-1"
+  }
+]
