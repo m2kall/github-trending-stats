@@ -1,0 +1,162 @@
+[
+  {
+    "name": "openai/agents.md",
+    "description": "AGENTS.md — a simple, open format for guiding coding agents",
+    "stars": 3160,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/agents.md",
+    "created_at": "2025-08-19T17:22:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 204,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/agents.md"
+  },
+  {
+    "name": "automazeio/ccpm",
+    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+    "stars": 1476,
+    "language": "Shell",
+    "url": "https://github.com/automazeio/ccpm",
+    "created_at": "2025-08-18T23:20:08Z",
+    "owner": {
+      "login": "automazeio",
+      "url": "https://github.com/automazeio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125381035?v=4"
+    },
+    "forks": 135,
+    "issues": 34,
+    "social_preview_url": "https://opengraph.githubassets.com/1/automazeio/ccpm"
+  },
+  {
+    "name": "karpathy/rendergit",
+    "description": "Render any git repo into a single static HTML page for humans or LLMs",
+    "stars": 1118,
+    "language": "Python",
+    "url": "https://github.com/karpathy/rendergit",
+    "created_at": "2025-08-20T03:25:28Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 94,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/rendergit"
+  },
+  {
+    "name": "NiladriHazra/Open-Fiesta",
+    "description": "An open-source version of  Dhruv Rathee's  AI startup.  Even with more models :)",
+    "stars": 648,
+    "language": "TypeScript",
+    "url": "https://github.com/NiladriHazra/Open-Fiesta",
+    "created_at": "2025-08-18T14:53:49Z",
+    "owner": {
+      "login": "NiladriHazra",
+      "url": "https://github.com/NiladriHazra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151611097?v=4"
+    },
+    "forks": 103,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NiladriHazra/Open-Fiesta"
+  },
+  {
+    "name": "opactorai/Claudable",
+    "description": "Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.",
+    "stars": 542,
+    "language": "TypeScript",
+    "url": "https://github.com/opactorai/Claudable",
+    "created_at": "2025-08-20T05:15:16Z",
+    "owner": {
+      "login": "opactorai",
+      "url": "https://github.com/opactorai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226973753?v=4"
+    },
+    "forks": 63,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/opactorai/Claudable"
+  },
+  {
+    "name": "auv-sh/av",
+    "description": "An extremely fast movie  manager, written in Rust.",
+    "stars": 495,
+    "language": "Rust",
+    "url": "https://github.com/auv-sh/av",
+    "created_at": "2025-08-19T07:42:20Z",
+    "owner": {
+      "login": "auv-sh",
+      "url": "https://github.com/auv-sh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227341488?v=4"
+    },
+    "forks": 76,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/auv-sh/av"
+  },
+  {
+    "name": "tobi/try",
+    "description": "fresh directories for every vibe",
+    "stars": 489,
+    "language": "Ruby",
+    "url": "https://github.com/tobi/try",
+    "created_at": "2025-08-19T19:25:23Z",
+    "owner": {
+      "login": "tobi",
+      "url": "https://github.com/tobi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347?v=4"
+    },
+    "forks": 17,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tobi/try"
+  },
+  {
+    "name": "Growth-Kinetics/DiffMem",
+    "description": "Git Based Memory Storage for Conversational AI Agent",
+    "stars": 465,
+    "language": "Python",
+    "url": "https://github.com/Growth-Kinetics/DiffMem",
+    "created_at": "2025-08-20T14:35:47Z",
+    "owner": {
+      "login": "Growth-Kinetics",
+      "url": "https://github.com/Growth-Kinetics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122857063?v=4"
+    },
+    "forks": 29,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Growth-Kinetics/DiffMem"
+  },
+  {
+    "name": "shuding/nstr",
+    "description": "number → string, but looks good",
+    "stars": 360,
+    "language": "TypeScript",
+    "url": "https://github.com/shuding/nstr",
+    "created_at": "2025-08-21T21:03:28Z",
+    "owner": {
+      "login": "shuding",
+      "url": "https://github.com/shuding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3676859?v=4"
+    },
+    "forks": 4,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/shuding/nstr"
+  },
+  {
+    "name": "librebox-devs/librebox-demo",
+    "description": "Librebox – An open source, Roblox-compatible game engine",
+    "stars": 249,
+    "language": "C++",
+    "url": "https://github.com/librebox-devs/librebox-demo",
+    "created_at": "2025-08-23T10:35:44Z",
+    "owner": {
+      "login": "librebox-devs",
+      "url": "https://github.com/librebox-devs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110881816?v=4"
+    },
+    "forks": 6,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/librebox-devs/librebox-demo"
+  }
+]
