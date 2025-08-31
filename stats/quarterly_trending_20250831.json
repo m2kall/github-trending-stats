@@ -1,0 +1,162 @@
+[
+  {
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "stars": 31429,
+    "language": "TypeScript",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "created_at": "2025-06-22T08:02:17Z",
+    "owner": {
+      "login": "OpenCut-app",
+      "url": "https://github.com/OpenCut-app",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217499887?v=4"
+    },
+    "forks": 3081,
+    "issues": 185,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenCut-app/OpenCut"
+  },
+  {
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "stars": 22117,
+    "language": "Swift",
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "created_at": "2025-07-04T14:34:38Z",
+    "owner": {
+      "login": "permissionlesstech",
+      "url": "https://github.com/permissionlesstech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
+    },
+    "forks": 2011,
+    "issues": 176,
+    "social_preview_url": "https://opengraph.githubassets.com/1/permissionlesstech/bitchat"
+  },
+  {
+    "name": "openai/gpt-oss",
+    "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+    "stars": 17988,
+    "language": "Python",
+    "url": "https://github.com/openai/gpt-oss",
+    "created_at": "2025-06-23T16:43:33Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 1651,
+    "issues": 59,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/gpt-oss"
+  },
+  {
+    "name": "firecrawl/open-lovable",
+    "description": "🔥 Clone and recreate any website as a modern React app in seconds",
+    "stars": 17024,
+    "language": "TypeScript",
+    "url": "https://github.com/firecrawl/open-lovable",
+    "created_at": "2025-08-08T13:04:02Z",
+    "owner": {
+      "login": "firecrawl",
+      "url": "https://github.com/firecrawl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
+    },
+    "forks": 2829,
+    "issues": 80,
+    "social_preview_url": "https://opengraph.githubassets.com/1/firecrawl/open-lovable"
+  },
+  {
+    "name": "coze-dev/coze-studio",
+    "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.",
+    "stars": 16250,
+    "language": "TypeScript",
+    "url": "https://github.com/coze-dev/coze-studio",
+    "created_at": "2025-06-26T02:19:21Z",
+    "owner": {
+      "login": "coze-dev",
+      "url": "https://github.com/coze-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157483752?v=4"
+    },
+    "forks": 2194,
+    "issues": 250,
+    "social_preview_url": "https://opengraph.githubassets.com/1/coze-dev/coze-studio"
+  },
+  {
+    "name": "OpenListTeam/OpenList",
+    "description": "A new AList Fork to Anti Trust Crisis",
+    "stars": 15222,
+    "language": "Go",
+    "url": "https://github.com/OpenListTeam/OpenList",
+    "created_at": "2025-06-11T23:35:02Z",
+    "owner": {
+      "login": "OpenListTeam",
+      "url": "https://github.com/OpenListTeam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215780325?v=4"
+    },
+    "forks": 1110,
+    "issues": 123,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenListTeam/OpenList"
+  },
+  {
+    "name": "getAsterisk/opcode",
+    "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
+    "stars": 15051,
+    "language": "TypeScript",
+    "url": "https://github.com/getAsterisk/opcode",
+    "created_at": "2025-06-19T13:53:26Z",
+    "owner": {
+      "login": "getAsterisk",
+      "url": "https://github.com/getAsterisk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176251414?v=4"
+    },
+    "forks": 1109,
+    "issues": 244,
+    "social_preview_url": "https://opengraph.githubassets.com/1/getAsterisk/opcode"
+  },
+  {
+    "name": "SuperClaude-Org/SuperClaude_Framework",
+    "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
+    "stars": 14624,
+    "language": "Python",
+    "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
+    "created_at": "2025-06-22T12:03:53Z",
+    "owner": {
+      "login": "SuperClaude-Org",
+      "url": "https://github.com/SuperClaude-Org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221338871?v=4"
+    },
+    "forks": 1303,
+    "issues": 20,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SuperClaude-Org/SuperClaude_Framework"
+  },
+  {
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "stars": 13978,
+    "language": "Python",
+    "url": "https://github.com/google/langextract",
+    "created_at": "2025-07-08T20:46:06Z",
+    "owner": {
+      "login": "google",
+      "url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "forks": 940,
+    "issues": 67,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google/langextract"
+  },
+  {
+    "name": "QwenLM/qwen-code",
+    "description": "qwen-code is a coding agent that lives in digital world.",
+    "stars": 11793,
+    "language": "TypeScript",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "created_at": "2025-06-26T01:37:46Z",
+    "owner": {
+      "login": "QwenLM",
+      "url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "forks": 864,
+    "issues": 257,
+    "social_preview_url": "https://opengraph.githubassets.com/1/QwenLM/qwen-code"
+  }
+]

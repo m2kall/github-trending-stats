@@ -1,0 +1,162 @@
+[
+  {
+    "name": "firecrawl/open-lovable",
+    "description": "🔥 Clone and recreate any website as a modern React app in seconds",
+    "stars": 17024,
+    "language": "TypeScript",
+    "url": "https://github.com/firecrawl/open-lovable",
+    "created_at": "2025-08-08T13:04:02Z",
+    "owner": {
+      "login": "firecrawl",
+      "url": "https://github.com/firecrawl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
+    },
+    "forks": 2829,
+    "issues": 80,
+    "social_preview_url": "https://opengraph.githubassets.com/1/firecrawl/open-lovable"
+  },
+  {
+    "name": "KittenML/KittenTTS",
+    "description": " State-of-the-art TTS model under 25MB 😻 ",
+    "stars": 8441,
+    "language": "Python",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "created_at": "2025-08-05T03:30:24Z",
+    "owner": {
+      "login": "KittenML",
+      "url": "https://github.com/KittenML",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224667585?v=4"
+    },
+    "forks": 398,
+    "issues": 64,
+    "social_preview_url": "https://opengraph.githubassets.com/1/KittenML/KittenTTS"
+  },
+  {
+    "name": "facebookresearch/dinov3",
+    "description": "Reference PyTorch implementation and models for DINOv3",
+    "stars": 6225,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/facebookresearch/dinov3",
+    "created_at": "2025-08-07T14:11:34Z",
+    "owner": {
+      "login": "facebookresearch",
+      "url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "forks": 313,
+    "issues": 77,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebookresearch/dinov3"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Frontier Open-Source Text-to-Speech",
+    "stars": 6068,
+    "language": "Python",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "created_at": "2025-08-25T13:24:01Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 509,
+    "issues": 20,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/VibeVoice"
+  },
+  {
+    "name": "QwenLM/Qwen-Image",
+    "description": "Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.",
+    "stars": 4616,
+    "language": "Python",
+    "url": "https://github.com/QwenLM/Qwen-Image",
+    "created_at": "2025-08-03T11:03:25Z",
+    "owner": {
+      "login": "QwenLM",
+      "url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "forks": 244,
+    "issues": 85,
+    "social_preview_url": "https://opengraph.githubassets.com/1/QwenLM/Qwen-Image"
+  },
+  {
+    "name": "openai/agents.md",
+    "description": "AGENTS.md — a simple, open format for guiding coding agents",
+    "stars": 4403,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/agents.md",
+    "created_at": "2025-08-19T17:22:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 315,
+    "issues": 28,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/agents.md"
+  },
+  {
+    "name": "MoonTechLab/LunaTV",
+    "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+    "stars": 4354,
+    "language": "TypeScript",
+    "url": "https://github.com/MoonTechLab/LunaTV",
+    "created_at": "2025-08-12T13:59:33Z",
+    "owner": {
+      "login": "MoonTechLab",
+      "url": "https://github.com/MoonTechLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226115334?v=4"
+    },
+    "forks": 2944,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MoonTechLab/LunaTV"
+  },
+  {
+    "name": "automazeio/ccpm",
+    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+    "stars": 3280,
+    "language": "Shell",
+    "url": "https://github.com/automazeio/ccpm",
+    "created_at": "2025-08-18T23:20:08Z",
+    "owner": {
+      "login": "automazeio",
+      "url": "https://github.com/automazeio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125381035?v=4"
+    },
+    "forks": 325,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/automazeio/ccpm"
+  },
+  {
+    "name": "growchief/growchief",
+    "description": "The Ultimate all-in social media automation (outreach) tool 🤖",
+    "stars": 2843,
+    "language": "TypeScript",
+    "url": "https://github.com/growchief/growchief",
+    "created_at": "2025-08-21T08:06:06Z",
+    "owner": {
+      "login": "growchief",
+      "url": "https://github.com/growchief",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227765601?v=4"
+    },
+    "forks": 194,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/growchief/growchief"
+  },
+  {
+    "name": "hotheadhacker/seedbox-lite",
+    "description": "A light-weight torrent media center at one place.",
+    "stars": 2833,
+    "language": "JavaScript",
+    "url": "https://github.com/hotheadhacker/seedbox-lite",
+    "created_at": "2025-08-09T14:00:22Z",
+    "owner": {
+      "login": "hotheadhacker",
+      "url": "https://github.com/hotheadhacker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18418340?v=4"
+    },
+    "forks": 178,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hotheadhacker/seedbox-lite"
+  }
+]
