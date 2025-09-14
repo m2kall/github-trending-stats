@@ -1,0 +1,162 @@
+[
+  {
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "stars": 16758,
+    "language": "Python",
+    "url": "https://github.com/github/spec-kit",
+    "created_at": "2025-08-21T22:54:31Z",
+    "owner": {
+      "login": "github",
+      "url": "https://github.com/github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+    },
+    "forks": 1281,
+    "issues": 113,
+    "social_preview_url": "https://opengraph.githubassets.com/1/github/spec-kit"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Frontier Open-Source Text-to-Speech",
+    "stars": 8741,
+    "language": null,
+    "url": "https://github.com/microsoft/VibeVoice",
+    "created_at": "2025-08-25T13:24:01Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 1007,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/VibeVoice"
+  },
+  {
+    "name": "PicoTrex/Awesome-Nano-Banana-images",
+    "description": "A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. This repository showcases diverse AI-generated visuals and prompts, highlighting the playful possibilities of Nano Banana.",
+    "stars": 7499,
+    "language": null,
+    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+    "created_at": "2025-08-28T17:03:09Z",
+    "owner": {
+      "login": "PicoTrex",
+      "url": "https://github.com/PicoTrex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190918837?v=4"
+    },
+    "forks": 729,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/PicoTrex/Awesome-Nano-Banana-images"
+  },
+  {
+    "name": "openai/agents.md",
+    "description": "AGENTS.md — a simple, open format for guiding coding agents",
+    "stars": 5647,
+    "language": "TypeScript",
+    "url": "https://github.com/openai/agents.md",
+    "created_at": "2025-08-19T17:22:54Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 415,
+    "issues": 44,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/agents.md"
+  },
+  {
+    "name": "automazeio/ccpm",
+    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+    "stars": 4537,
+    "language": "Shell",
+    "url": "https://github.com/automazeio/ccpm",
+    "created_at": "2025-08-18T23:20:08Z",
+    "owner": {
+      "login": "automazeio",
+      "url": "https://github.com/automazeio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125381035?v=4"
+    },
+    "forks": 488,
+    "issues": 97,
+    "social_preview_url": "https://opengraph.githubassets.com/1/automazeio/ccpm"
+  },
+  {
+    "name": "mmulet/term.everything",
+    "description": "Run any GUI app in the terminal❗",
+    "stars": 4410,
+    "language": "TypeScript",
+    "url": "https://github.com/mmulet/term.everything",
+    "created_at": "2025-09-07T02:52:48Z",
+    "owner": {
+      "login": "mmulet",
+      "url": "https://github.com/mmulet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6510497?v=4"
+    },
+    "forks": 90,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mmulet/term.everything"
+  },
+  {
+    "name": "samhenrigold/LidAngleSensor",
+    "description": "tfw when you when your lid when uhh angle your lid sensor",
+    "stars": 3134,
+    "language": "Objective-C",
+    "url": "https://github.com/samhenrigold/LidAngleSensor",
+    "created_at": "2025-09-06T19:07:20Z",
+    "owner": {
+      "login": "samhenrigold",
+      "url": "https://github.com/samhenrigold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49251320?v=4"
+    },
+    "forks": 119,
+    "issues": 30,
+    "social_preview_url": "https://opengraph.githubassets.com/1/samhenrigold/LidAngleSensor"
+  },
+  {
+    "name": "growchief/growchief",
+    "description": "The Ultimate all-in social media automation (outreach) tool 🤖",
+    "stars": 3027,
+    "language": "TypeScript",
+    "url": "https://github.com/growchief/growchief",
+    "created_at": "2025-08-21T08:06:06Z",
+    "owner": {
+      "login": "growchief",
+      "url": "https://github.com/growchief",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227765601?v=4"
+    },
+    "forks": 197,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/growchief/growchief"
+  },
+  {
+    "name": "bgreenwell/doxx",
+    "description": "Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!",
+    "stars": 2895,
+    "language": "Rust",
+    "url": "https://github.com/bgreenwell/doxx",
+    "created_at": "2025-08-16T18:48:24Z",
+    "owner": {
+      "login": "bgreenwell",
+      "url": "https://github.com/bgreenwell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3777755?v=4"
+    },
+    "forks": 68,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bgreenwell/doxx"
+  },
+  {
+    "name": "TencentCloudADP/youtu-agent",
+    "description": "A simple yet powerful agent framework that delivers with open-source models",
+    "stars": 2799,
+    "language": "Python",
+    "url": "https://github.com/TencentCloudADP/youtu-agent",
+    "created_at": "2025-08-21T07:58:13Z",
+    "owner": {
+      "login": "TencentCloudADP",
+      "url": "https://github.com/TencentCloudADP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226510916?v=4"
+    },
+    "forks": 258,
+    "issues": 21,
+    "social_preview_url": "https://opengraph.githubassets.com/1/TencentCloudADP/youtu-agent"
+  }
+]

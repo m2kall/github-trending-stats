@@ -1,0 +1,162 @@
+[
+  {
+    "name": "MoonshotAI/checkpoint-engine",
+    "description": "Checkpoint-engine is a simple middleware to update model weights in LLM inference engines",
+    "stars": 595,
+    "language": "Python",
+    "url": "https://github.com/MoonshotAI/checkpoint-engine",
+    "created_at": "2025-09-08T08:04:20Z",
+    "owner": {
+      "login": "MoonshotAI",
+      "url": "https://github.com/MoonshotAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+    },
+    "forks": 39,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MoonshotAI/checkpoint-engine"
+  },
+  {
+    "name": "thinking-machines-lab/batch_invariant_ops",
+    "description": null,
+    "stars": 521,
+    "language": "Python",
+    "url": "https://github.com/thinking-machines-lab/batch_invariant_ops",
+    "created_at": "2025-09-10T00:08:08Z",
+    "owner": {
+      "login": "thinking-machines-lab",
+      "url": "https://github.com/thinking-machines-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220441404?v=4"
+    },
+    "forks": 23,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/thinking-machines-lab/batch_invariant_ops"
+  },
+  {
+    "name": "Tencent-Hunyuan/SRPO",
+    "description": "Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference",
+    "stars": 409,
+    "language": "Python",
+    "url": "https://github.com/Tencent-Hunyuan/SRPO",
+    "created_at": "2025-09-09T07:36:49Z",
+    "owner": {
+      "login": "Tencent-Hunyuan",
+      "url": "https://github.com/Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "forks": 9,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent-Hunyuan/SRPO"
+  },
+  {
+    "name": "plutov/oq",
+    "description": "Terminal OpenAPI Spec viewer",
+    "stars": 407,
+    "language": "Go",
+    "url": "https://github.com/plutov/oq",
+    "created_at": "2025-09-12T14:04:46Z",
+    "owner": {
+      "login": "plutov",
+      "url": "https://github.com/plutov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1124859?v=4"
+    },
+    "forks": 4,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/plutov/oq"
+  },
+  {
+    "name": "luis22d/ZeroTrace-Stealer-13-2026",
+    "description": "ZeroTrace Is Designed To Steal Data/Information Alot Of Stuff From Client And Send To Server.",
+    "stars": 405,
+    "language": "C#",
+    "url": "https://github.com/luis22d/ZeroTrace-Stealer-13-2026",
+    "created_at": "2025-09-12T08:01:09Z",
+    "owner": {
+      "login": "luis22d",
+      "url": "https://github.com/luis22d",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21263423?v=4"
+    },
+    "forks": 315,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/luis22d/ZeroTrace-Stealer-13-2026"
+  },
+  {
+    "name": "midday-ai/ai-sdk-devtools",
+    "description": null,
+    "stars": 340,
+    "language": "TypeScript",
+    "url": "https://github.com/midday-ai/ai-sdk-devtools",
+    "created_at": "2025-09-10T12:22:20Z",
+    "owner": {
+      "login": "midday-ai",
+      "url": "https://github.com/midday-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145366395?v=4"
+    },
+    "forks": 17,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/midday-ai/ai-sdk-devtools"
+  },
+  {
+    "name": "ntdevlabs/nano11",
+    "description": "Script to build possibly the most trimmed-down Windows 11 experience.",
+    "stars": 329,
+    "language": "PowerShell",
+    "url": "https://github.com/ntdevlabs/nano11",
+    "created_at": "2025-09-10T21:09:53Z",
+    "owner": {
+      "login": "ntdevlabs",
+      "url": "https://github.com/ntdevlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38796849?v=4"
+    },
+    "forks": 20,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ntdevlabs/nano11"
+  },
+  {
+    "name": "Alpha-VLLM/Lumina-DiMOO",
+    "description": "Lumina-DiMOO - An Open-Sourced Multi-Modal Large Diffusion Language Model",
+    "stars": 287,
+    "language": "Python",
+    "url": "https://github.com/Alpha-VLLM/Lumina-DiMOO",
+    "created_at": "2025-09-09T18:19:24Z",
+    "owner": {
+      "login": "Alpha-VLLM",
+      "url": "https://github.com/Alpha-VLLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140153551?v=4"
+    },
+    "forks": 15,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Alpha-VLLM/Lumina-DiMOO"
+  },
+  {
+    "name": "iannuttall/fartscroll-lid",
+    "description": "A hilarious macOS app that plays fart sounds as you open and close your MacBook lid",
+    "stars": 286,
+    "language": "Objective-C",
+    "url": "https://github.com/iannuttall/fartscroll-lid",
+    "created_at": "2025-09-11T10:16:24Z",
+    "owner": {
+      "login": "iannuttall",
+      "url": "https://github.com/iannuttall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6681919?v=4"
+    },
+    "forks": 9,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/iannuttall/fartscroll-lid"
+  },
+  {
+    "name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
+    "stars": 262,
+    "language": "Python",
+    "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "created_at": "2025-09-08T01:24:26Z",
+    "owner": {
+      "login": "oxbshw",
+      "url": "https://github.com/oxbshw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212214682?v=4"
+    },
+    "forks": 34,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/oxbshw/LLM-Agents-Ecosystem-Handbook"
+  }
+]
