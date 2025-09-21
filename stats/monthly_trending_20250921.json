@@ -1,0 +1,162 @@
+[
+  {
+    "name": "PicoTrex/Awesome-Nano-Banana-images",
+    "description": "A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)",
+    "stars": 9854,
+    "language": null,
+    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+    "created_at": "2025-08-28T17:03:09Z",
+    "owner": {
+      "login": "PicoTrex",
+      "url": "https://github.com/PicoTrex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190918837?v=4"
+    },
+    "forks": 1015,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/PicoTrex/Awesome-Nano-Banana-images"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Frontier Open-Source Text-to-Speech",
+    "stars": 9067,
+    "language": null,
+    "url": "https://github.com/microsoft/VibeVoice",
+    "created_at": "2025-08-25T13:24:01Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 1067,
+    "issues": 25,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/VibeVoice"
+  },
+  {
+    "name": "mmulet/term.everything",
+    "description": "Run any GUI app in the terminal❗",
+    "stars": 5701,
+    "language": "TypeScript",
+    "url": "https://github.com/mmulet/term.everything",
+    "created_at": "2025-09-07T02:52:48Z",
+    "owner": {
+      "login": "mmulet",
+      "url": "https://github.com/mmulet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6510497?v=4"
+    },
+    "forks": 119,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mmulet/term.everything"
+  },
+  {
+    "name": "samhenrigold/LidAngleSensor",
+    "description": "tfw when you when your lid when uhh angle your lid sensor",
+    "stars": 3266,
+    "language": "Objective-C",
+    "url": "https://github.com/samhenrigold/LidAngleSensor",
+    "created_at": "2025-09-06T19:07:20Z",
+    "owner": {
+      "login": "samhenrigold",
+      "url": "https://github.com/samhenrigold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49251320?v=4"
+    },
+    "forks": 122,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/samhenrigold/LidAngleSensor"
+  },
+  {
+    "name": "tekaratzas/RustGPT",
+    "description": "An transformer based LLM. Written completely in Rust",
+    "stars": 2496,
+    "language": "Rust",
+    "url": "https://github.com/tekaratzas/RustGPT",
+    "created_at": "2025-09-13T22:05:55Z",
+    "owner": {
+      "login": "tekaratzas",
+      "url": "https://github.com/tekaratzas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9121201?v=4"
+    },
+    "forks": 193,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tekaratzas/RustGPT"
+  },
+  {
+    "name": "Michael-A-Kuykendall/shimmy",
+    "description": "⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.",
+    "stars": 2472,
+    "language": "Rust",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "created_at": "2025-08-28T22:55:46Z",
+    "owner": {
+      "login": "Michael-A-Kuykendall",
+      "url": "https://github.com/Michael-A-Kuykendall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196678413?v=4"
+    },
+    "forks": 171,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Michael-A-Kuykendall/shimmy"
+  },
+  {
+    "name": "pewdiepie-archdaemon/dionysus",
+    "description": "laptop ",
+    "stars": 2441,
+    "language": "Shell",
+    "url": "https://github.com/pewdiepie-archdaemon/dionysus",
+    "created_at": "2025-08-27T22:09:28Z",
+    "owner": {
+      "login": "pewdiepie-archdaemon",
+      "url": "https://github.com/pewdiepie-archdaemon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
+    },
+    "forks": 81,
+    "issues": 74,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pewdiepie-archdaemon/dionysus"
+  },
+  {
+    "name": "ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
+    "description": "我的 nano-banana 创意玩法大合集！  持续更新中！",
+    "stars": 2395,
+    "language": null,
+    "url": "https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
+    "created_at": "2025-08-28T13:09:00Z",
+    "owner": {
+      "login": "ZHO-ZHO-ZHO",
+      "url": "https://github.com/ZHO-ZHO-ZHO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140084057?v=4"
+    },
+    "forks": 234,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation"
+  },
+  {
+    "name": "katelya77/KatelyaTV",
+    "description": "一个基于MoonTV(LunaTV)二次开发的项目。",
+    "stars": 1829,
+    "language": "TypeScript",
+    "url": "https://github.com/katelya77/KatelyaTV",
+    "created_at": "2025-08-27T06:04:23Z",
+    "owner": {
+      "login": "katelya77",
+      "url": "https://github.com/katelya77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123220557?v=4"
+    },
+    "forks": 2356,
+    "issues": 48,
+    "social_preview_url": "https://opengraph.githubassets.com/1/katelya77/KatelyaTV"
+  },
+  {
+    "name": "little-book-of/linear-algebra",
+    "description": "There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices. —Jean Dieudonne",
+    "stars": 1671,
+    "language": "TeX",
+    "url": "https://github.com/little-book-of/linear-algebra",
+    "created_at": "2025-09-02T03:28:30Z",
+    "owner": {
+      "login": "little-book-of",
+      "url": "https://github.com/little-book-of",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230477638?v=4"
+    },
+    "forks": 51,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/little-book-of/linear-algebra"
+  }
+]
