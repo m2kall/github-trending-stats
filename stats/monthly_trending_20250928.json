@@ -1,0 +1,162 @@
+[
+  {
+    "name": "mmulet/term.everything",
+    "description": "Run any GUI app in the terminal❗",
+    "stars": 6051,
+    "language": "TypeScript",
+    "url": "https://github.com/mmulet/term.everything",
+    "created_at": "2025-09-07T02:52:48Z",
+    "owner": {
+      "login": "mmulet",
+      "url": "https://github.com/mmulet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6510497?v=4"
+    },
+    "forks": 132,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mmulet/term.everything"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "stars": 5086,
+    "language": "TypeScript",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "created_at": "2025-09-11T10:39:55Z",
+    "owner": {
+      "login": "ChromeDevTools",
+      "url": "https://github.com/ChromeDevTools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11260967?v=4"
+    },
+    "forks": 267,
+    "issues": 39,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "samhenrigold/LidAngleSensor",
+    "description": "tfw when you when your lid when uhh angle your lid sensor",
+    "stars": 3339,
+    "language": "Objective-C",
+    "url": "https://github.com/samhenrigold/LidAngleSensor",
+    "created_at": "2025-09-06T19:07:20Z",
+    "owner": {
+      "login": "samhenrigold",
+      "url": "https://github.com/samhenrigold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49251320?v=4"
+    },
+    "forks": 126,
+    "issues": 32,
+    "social_preview_url": "https://opengraph.githubassets.com/1/samhenrigold/LidAngleSensor"
+  },
+  {
+    "name": "tekaratzas/RustGPT",
+    "description": "An transformer based LLM. Written completely in Rust",
+    "stars": 2702,
+    "language": "Rust",
+    "url": "https://github.com/tekaratzas/RustGPT",
+    "created_at": "2025-09-13T22:05:55Z",
+    "owner": {
+      "login": "tekaratzas",
+      "url": "https://github.com/tekaratzas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9121201?v=4"
+    },
+    "forks": 216,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tekaratzas/RustGPT"
+  },
+  {
+    "name": "QwenLM/Qwen3-Omni",
+    "description": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.",
+    "stars": 2209,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/QwenLM/Qwen3-Omni",
+    "created_at": "2025-09-21T09:46:10Z",
+    "owner": {
+      "login": "QwenLM",
+      "url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "forks": 93,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/QwenLM/Qwen3-Omni"
+  },
+  {
+    "name": "JerryZLiu/Dayflow",
+    "description": "Generate a timeline of your day, automatically",
+    "stars": 2161,
+    "language": "Swift",
+    "url": "https://github.com/JerryZLiu/Dayflow",
+    "created_at": "2025-09-23T01:58:21Z",
+    "owner": {
+      "login": "JerryZLiu",
+      "url": "https://github.com/JerryZLiu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29084938?v=4"
+    },
+    "forks": 70,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/JerryZLiu/Dayflow"
+  },
+  {
+    "name": "little-book-of/linear-algebra",
+    "description": "A concise, beginner-friendly introduction to the core ideas of linear algebra.",
+    "stars": 1759,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/little-book-of/linear-algebra",
+    "created_at": "2025-09-02T03:28:30Z",
+    "owner": {
+      "login": "little-book-of",
+      "url": "https://github.com/little-book-of",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230477638?v=4"
+    },
+    "forks": 53,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/little-book-of/linear-algebra"
+  },
+  {
+    "name": "facebookresearch/map-anything",
+    "description": "MapAnything: Universal Feed-Forward Metric 3D Reconstruction",
+    "stars": 1759,
+    "language": "Python",
+    "url": "https://github.com/facebookresearch/map-anything",
+    "created_at": "2025-09-04T14:37:36Z",
+    "owner": {
+      "login": "facebookresearch",
+      "url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "forks": 82,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebookresearch/map-anything"
+  },
+  {
+    "name": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
+    "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
+    "stars": 1475,
+    "language": "GDScript",
+    "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
+    "created_at": "2025-09-13T15:29:58Z",
+    "owner": {
+      "login": "JHDev2006",
+      "url": "https://github.com/JHDev2006",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97353363?v=4"
+    },
+    "forks": 178,
+    "issues": 191,
+    "social_preview_url": "https://opengraph.githubassets.com/1/JHDev2006/Super-Mario-Bros.-Remastered-Public"
+  },
+  {
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+    "stars": 1442,
+    "language": "Python",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "created_at": "2025-09-16T03:41:49Z",
+    "owner": {
+      "login": "OpenBMB",
+      "url": "https://github.com/OpenBMB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89920203?v=4"
+    },
+    "forks": 148,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenBMB/VoxCPM"
+  }
+]

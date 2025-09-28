@@ -1,0 +1,162 @@
+[
+  {
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "stars": 27936,
+    "language": "Python",
+    "url": "https://github.com/github/spec-kit",
+    "created_at": "2025-08-21T22:54:31Z",
+    "owner": {
+      "login": "github",
+      "url": "https://github.com/github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+    },
+    "forks": 2351,
+    "issues": 281,
+    "social_preview_url": "https://opengraph.githubassets.com/1/github/spec-kit"
+  },
+  {
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "stars": 22700,
+    "language": "Swift",
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "created_at": "2025-07-04T14:34:38Z",
+    "owner": {
+      "login": "permissionlesstech",
+      "url": "https://github.com/permissionlesstech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
+    },
+    "forks": 2082,
+    "issues": 218,
+    "social_preview_url": "https://opengraph.githubassets.com/1/permissionlesstech/bitchat"
+  },
+  {
+    "name": "firecrawl/open-lovable",
+    "description": "🔥 Clone and recreate any website as a modern React app in seconds",
+    "stars": 20287,
+    "language": "TypeScript",
+    "url": "https://github.com/firecrawl/open-lovable",
+    "created_at": "2025-08-08T13:04:02Z",
+    "owner": {
+      "login": "firecrawl",
+      "url": "https://github.com/firecrawl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
+    },
+    "forks": 3644,
+    "issues": 90,
+    "social_preview_url": "https://opengraph.githubassets.com/1/firecrawl/open-lovable"
+  },
+  {
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "stars": 15918,
+    "language": "Python",
+    "url": "https://github.com/google/langextract",
+    "created_at": "2025-07-08T20:46:06Z",
+    "owner": {
+      "login": "google",
+      "url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "forks": 1095,
+    "issues": 82,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google/langextract"
+  },
+  {
+    "name": "wshobson/agents",
+    "description": "A collection of production-ready subagents for Claude Code",
+    "stars": 13952,
+    "language": null,
+    "url": "https://github.com/wshobson/agents",
+    "created_at": "2025-07-24T23:28:14Z",
+    "owner": {
+      "login": "wshobson",
+      "url": "https://github.com/wshobson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/553618?v=4"
+    },
+    "forks": 1511,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wshobson/agents"
+  },
+  {
+    "name": "PicoTrex/Awesome-Nano-Banana-images",
+    "description": "A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)",
+    "stars": 12667,
+    "language": null,
+    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+    "created_at": "2025-08-28T17:03:09Z",
+    "owner": {
+      "login": "PicoTrex",
+      "url": "https://github.com/PicoTrex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190918837?v=4"
+    },
+    "forks": 1302,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/PicoTrex/Awesome-Nano-Banana-images"
+  },
+  {
+    "name": "HW-whistleblower/True-Story-of-Pangu",
+    "description": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。",
+    "stars": 11394,
+    "language": null,
+    "url": "https://github.com/HW-whistleblower/True-Story-of-Pangu",
+    "created_at": "2025-07-05T20:40:24Z",
+    "owner": {
+      "login": "HW-whistleblower",
+      "url": "https://github.com/HW-whistleblower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219440165?v=4"
+    },
+    "forks": 1375,
+    "issues": 397,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HW-whistleblower/True-Story-of-Pangu"
+  },
+  {
+    "name": "sapientinc/HRM",
+    "description": "Hierarchical Reasoning Model Official Release",
+    "stars": 10719,
+    "language": "Python",
+    "url": "https://github.com/sapientinc/HRM",
+    "created_at": "2025-07-09T02:09:32Z",
+    "owner": {
+      "login": "sapientinc",
+      "url": "https://github.com/sapientinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188930505?v=4"
+    },
+    "forks": 1583,
+    "issues": 62,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sapientinc/HRM"
+  },
+  {
+    "name": "jd-opensource/joyagent-jdgenie",
+    "description": "开源的端到端产品级通用智能体",
+    "stars": 10310,
+    "language": "Java",
+    "url": "https://github.com/jd-opensource/joyagent-jdgenie",
+    "created_at": "2025-07-16T02:59:53Z",
+    "owner": {
+      "login": "jd-opensource",
+      "url": "https://github.com/jd-opensource",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
+    },
+    "forks": 1043,
+    "issues": 141,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jd-opensource/joyagent-jdgenie"
+  },
+  {
+    "name": "coleam00/context-engineering-intro",
+    "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
+    "stars": 10107,
+    "language": "Python",
+    "url": "https://github.com/coleam00/context-engineering-intro",
+    "created_at": "2025-07-02T11:54:47Z",
+    "owner": {
+      "login": "coleam00",
+      "url": "https://github.com/coleam00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47287758?v=4"
+    },
+    "forks": 2163,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/coleam00/context-engineering-intro"
+  }
+]
