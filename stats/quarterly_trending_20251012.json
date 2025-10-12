@@ -1,0 +1,162 @@
+[
+  {
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "stars": 34361,
+    "language": "Python",
+    "url": "https://github.com/github/spec-kit",
+    "created_at": "2025-08-21T22:54:31Z",
+    "owner": {
+      "login": "github",
+      "url": "https://github.com/github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+    },
+    "forks": 2932,
+    "issues": 345,
+    "social_preview_url": "https://opengraph.githubassets.com/1/github/spec-kit"
+  },
+  {
+    "name": "firecrawl/open-lovable",
+    "description": "🔥 Clone and recreate any website as a modern React app in seconds",
+    "stars": 20806,
+    "language": "TypeScript",
+    "url": "https://github.com/firecrawl/open-lovable",
+    "created_at": "2025-08-08T13:04:02Z",
+    "owner": {
+      "login": "firecrawl",
+      "url": "https://github.com/firecrawl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
+    },
+    "forks": 3798,
+    "issues": 96,
+    "social_preview_url": "https://opengraph.githubassets.com/1/firecrawl/open-lovable"
+  },
+  {
+    "name": "wshobson/agents",
+    "description": "Intelligent automation and multi-agent orchestration for Claude Code",
+    "stars": 16389,
+    "language": null,
+    "url": "https://github.com/wshobson/agents",
+    "created_at": "2025-07-24T23:28:14Z",
+    "owner": {
+      "login": "wshobson",
+      "url": "https://github.com/wshobson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/553618?v=4"
+    },
+    "forks": 1832,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wshobson/agents"
+  },
+  {
+    "name": "PicoTrex/Awesome-Nano-Banana-images",
+    "description": "A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)",
+    "stars": 14418,
+    "language": null,
+    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+    "created_at": "2025-08-28T17:03:09Z",
+    "owner": {
+      "login": "PicoTrex",
+      "url": "https://github.com/PicoTrex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190918837?v=4"
+    },
+    "forks": 1501,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/PicoTrex/Awesome-Nano-Banana-images"
+  },
+  {
+    "name": "jd-opensource/joyagent-jdgenie",
+    "description": "开源的端到端产品级通用智能体",
+    "stars": 10910,
+    "language": "Java",
+    "url": "https://github.com/jd-opensource/joyagent-jdgenie",
+    "created_at": "2025-07-16T02:59:53Z",
+    "owner": {
+      "login": "jd-opensource",
+      "url": "https://github.com/jd-opensource",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
+    },
+    "forks": 1165,
+    "issues": 160,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jd-opensource/joyagent-jdgenie"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "stars": 10444,
+    "language": "TypeScript",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "created_at": "2025-09-11T10:39:55Z",
+    "owner": {
+      "login": "ChromeDevTools",
+      "url": "https://github.com/ChromeDevTools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11260967?v=4"
+    },
+    "forks": 588,
+    "issues": 47,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "Wan-Video/Wan2.2",
+    "description": "Wan: Open and Advanced Large-Scale Video Generative Models",
+    "stars": 9950,
+    "language": "Python",
+    "url": "https://github.com/Wan-Video/Wan2.2",
+    "created_at": "2025-07-28T08:17:01Z",
+    "owner": {
+      "login": "Wan-Video",
+      "url": "https://github.com/Wan-Video",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200620180?v=4"
+    },
+    "forks": 1020,
+    "issues": 166,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Wan-Video/Wan2.2"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Frontier Open-Source Text-to-Speech",
+    "stars": 9549,
+    "language": null,
+    "url": "https://github.com/microsoft/VibeVoice",
+    "created_at": "2025-08-25T13:24:01Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 1178,
+    "issues": 30,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/VibeVoice"
+  },
+  {
+    "name": "contains-studio/agents",
+    "description": "sharing current agents in use",
+    "stars": 9433,
+    "language": null,
+    "url": "https://github.com/contains-studio/agents",
+    "created_at": "2025-07-28T14:42:35Z",
+    "owner": {
+      "login": "contains-studio",
+      "url": "https://github.com/contains-studio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216916882?v=4"
+    },
+    "forks": 1986,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/contains-studio/agents"
+  },
+  {
+    "name": "KittenML/KittenTTS",
+    "description": " State-of-the-art TTS model under 25MB 😻 ",
+    "stars": 8909,
+    "language": "Python",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "created_at": "2025-08-05T03:30:24Z",
+    "owner": {
+      "login": "KittenML",
+      "url": "https://github.com/KittenML",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224667585?v=4"
+    },
+    "forks": 439,
+    "issues": 65,
+    "social_preview_url": "https://opengraph.githubassets.com/1/KittenML/KittenTTS"
+  }
+]

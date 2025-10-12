@@ -1,0 +1,162 @@
+[
+  {
+    "name": "SamsungSAILMontreal/TinyRecursiveModels",
+    "description": null,
+    "stars": 3553,
+    "language": "Python",
+    "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
+    "created_at": "2025-10-07T13:24:28Z",
+    "owner": {
+      "login": "SamsungSAILMontreal",
+      "url": "https://github.com/SamsungSAILMontreal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127172610?v=4"
+    },
+    "forks": 409,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SamsungSAILMontreal/TinyRecursiveModels"
+  },
+  {
+    "name": "openai/openai-apps-sdk-examples",
+    "description": "Example apps for the Apps SDK",
+    "stars": 1296,
+    "language": "JavaScript",
+    "url": "https://github.com/openai/openai-apps-sdk-examples",
+    "created_at": "2025-10-06T05:28:01Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 169,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/openai-apps-sdk-examples"
+  },
+  {
+    "name": "fathulfahmy/aio-usb-drive",
+    "description": "A curated collection of useful to have programs on a multiboot USB drive",
+    "stars": 1209,
+    "language": null,
+    "url": "https://github.com/fathulfahmy/aio-usb-drive",
+    "created_at": "2025-10-06T15:02:22Z",
+    "owner": {
+      "login": "fathulfahmy",
+      "url": "https://github.com/fathulfahmy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100550389?v=4"
+    },
+    "forks": 53,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/fathulfahmy/aio-usb-drive"
+  },
+  {
+    "name": "Mordoria/unnamed_game_1_v2",
+    "description": "The Release of Mordoria",
+    "stars": 980,
+    "language": "Lua",
+    "url": "https://github.com/Mordoria/unnamed_game_1_v2",
+    "created_at": "2025-10-07T21:03:17Z",
+    "owner": {
+      "login": "Mordoria",
+      "url": "https://github.com/Mordoria",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220083714?v=4"
+    },
+    "forks": 90,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Mordoria/unnamed_game_1_v2"
+  },
+  {
+    "name": "Uak0/crypto-tax-calculator",
+    "description": "An advanced cryptocurrency & personal income tax calculator. ",
+    "stars": 593,
+    "language": "Python",
+    "url": "https://github.com/Uak0/crypto-tax-calculator",
+    "created_at": "2025-10-07T15:53:38Z",
+    "owner": {
+      "login": "Uak0",
+      "url": "https://github.com/Uak0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68066585?v=4"
+    },
+    "forks": 174,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Uak0/crypto-tax-calculator"
+  },
+  {
+    "name": "xbpeng/MimicKit",
+    "description": "Suite of motion imitation methods for training motion controllers.",
+    "stars": 570,
+    "language": "Python",
+    "url": "https://github.com/xbpeng/MimicKit",
+    "created_at": "2025-10-08T15:33:01Z",
+    "owner": {
+      "login": "xbpeng",
+      "url": "https://github.com/xbpeng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2289212?v=4"
+    },
+    "forks": 40,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xbpeng/MimicKit"
+  },
+  {
+    "name": "KsanaDock/Microverse",
+    "description": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication.",
+    "stars": 569,
+    "language": "GDScript",
+    "url": "https://github.com/KsanaDock/Microverse",
+    "created_at": "2025-10-09T08:52:25Z",
+    "owner": {
+      "login": "KsanaDock",
+      "url": "https://github.com/KsanaDock",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60680855?v=4"
+    },
+    "forks": 112,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/KsanaDock/Microverse"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "Claude Code superpowers: core skills library",
+    "stars": 466,
+    "language": "Shell",
+    "url": "https://github.com/obra/superpowers",
+    "created_at": "2025-10-09T19:45:18Z",
+    "owner": {
+      "login": "obra",
+      "url": "https://github.com/obra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45416?v=4"
+    },
+    "forks": 20,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/obra/superpowers"
+  },
+  {
+    "name": "simonw/claude-skills",
+    "description": "The contents of /mnt/skills in Claude's code interpreter environment",
+    "stars": 453,
+    "language": "Python",
+    "url": "https://github.com/simonw/claude-skills",
+    "created_at": "2025-10-10T02:04:10Z",
+    "owner": {
+      "login": "simonw",
+      "url": "https://github.com/simonw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9599?v=4"
+    },
+    "forks": 68,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/simonw/claude-skills"
+  },
+  {
+    "name": "mshumer/sora-extend",
+    "description": "Generate long Sora 2 videos that exceed OpenAI's native 12-second limit",
+    "stars": 404,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/mshumer/sora-extend",
+    "created_at": "2025-10-07T16:14:47Z",
+    "owner": {
+      "login": "mshumer",
+      "url": "https://github.com/mshumer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41550495?v=4"
+    },
+    "forks": 75,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mshumer/sora-extend"
+  }
+]
