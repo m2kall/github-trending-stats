@@ -1,0 +1,162 @@
+[
+  {
+    "name": "karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.",
+    "stars": 26131,
+    "language": "Python",
+    "url": "https://github.com/karpathy/nanochat",
+    "created_at": "2025-10-13T13:46:35Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 2640,
+    "issues": 74,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/nanochat"
+  },
+  {
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "stars": 1572,
+    "language": "Python",
+    "url": "https://github.com/virattt/dexter",
+    "created_at": "2025-10-14T21:02:00Z",
+    "owner": {
+      "login": "virattt",
+      "url": "https://github.com/virattt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/901795?v=4"
+    },
+    "forks": 183,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/virattt/dexter"
+  },
+  {
+    "name": "firecrawl/open-agent-builder",
+    "description": "🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution",
+    "stars": 849,
+    "language": "TypeScript",
+    "url": "https://github.com/firecrawl/open-agent-builder",
+    "created_at": "2025-10-16T15:34:46Z",
+    "owner": {
+      "login": "firecrawl",
+      "url": "https://github.com/firecrawl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
+    },
+    "forks": 142,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/firecrawl/open-agent-builder"
+  },
+  {
+    "name": "UZDoom/UZDoom",
+    "description": "UZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an advanced renderer, powerful scripting capabilities, and forked under a",
+    "stars": 716,
+    "language": "C++",
+    "url": "https://github.com/UZDoom/UZDoom",
+    "created_at": "2025-10-14T15:41:42Z",
+    "owner": {
+      "login": "UZDoom",
+      "url": "https://github.com/UZDoom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225690058?v=4"
+    },
+    "forks": 36,
+    "issues": 83,
+    "social_preview_url": "https://opengraph.githubassets.com/1/UZDoom/UZDoom"
+  },
+  {
+    "name": "Acn6S/crypto-tax-calculator",
+    "description": "An advanced cryptocurrency & personal income tax calculator.",
+    "stars": 581,
+    "language": "Python",
+    "url": "https://github.com/Acn6S/crypto-tax-calculator",
+    "created_at": "2025-10-17T16:05:52Z",
+    "owner": {
+      "login": "Acn6S",
+      "url": "https://github.com/Acn6S",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110196181?v=4"
+    },
+    "forks": 148,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Acn6S/crypto-tax-calculator"
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "stars": 451,
+    "language": null,
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "created_at": "2025-10-13T12:12:29Z",
+    "owner": {
+      "login": "msitarzewski",
+      "url": "https://github.com/msitarzewski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1972242?v=4"
+    },
+    "forks": 109,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/msitarzewski/agency-agents"
+  },
+  {
+    "name": "yusufkaraaslan/Skill_Seekers",
+    "description": "Single powerful tool to convert ANY documentation website into a Claude skill",
+    "stars": 426,
+    "language": "Python",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "created_at": "2025-10-17T14:43:48Z",
+    "owner": {
+      "login": "yusufkaraaslan",
+      "url": "https://github.com/yusufkaraaslan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11597362?v=4"
+    },
+    "forks": 34,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yusufkaraaslan/Skill_Seekers"
+  },
+  {
+    "name": "samber/ro",
+    "description": "🏎️ Reactive Programming paradigm for Go: declarative and composable API for event-driven applications",
+    "stars": 275,
+    "language": "Go",
+    "url": "https://github.com/samber/ro",
+    "created_at": "2025-10-14T12:06:01Z",
+    "owner": {
+      "login": "samber",
+      "url": "https://github.com/samber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2951285?v=4"
+    },
+    "forks": 9,
+    "issues": 116,
+    "social_preview_url": "https://opengraph.githubassets.com/1/samber/ro"
+  },
+  {
+    "name": "OpenImagingLab/FlashVSR",
+    "description": "Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decoder.",
+    "stars": 209,
+    "language": "Python",
+    "url": "https://github.com/OpenImagingLab/FlashVSR",
+    "created_at": "2025-10-14T12:20:30Z",
+    "owner": {
+      "login": "OpenImagingLab",
+      "url": "https://github.com/OpenImagingLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158265856?v=4"
+    },
+    "forks": 4,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenImagingLab/FlashVSR"
+  },
+  {
+    "name": "wimmerth/anyup",
+    "description": "Repository of the paper \"AnyUp: Universal Feature Upsampling\".",
+    "stars": 207,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/wimmerth/anyup",
+    "created_at": "2025-10-14T17:16:40Z",
+    "owner": {
+      "login": "wimmerth",
+      "url": "https://github.com/wimmerth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58000024?v=4"
+    },
+    "forks": 10,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wimmerth/anyup"
+  }
+]

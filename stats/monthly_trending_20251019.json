@@ -1,0 +1,162 @@
+[
+  {
+    "name": "karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.",
+    "stars": 26131,
+    "language": "Python",
+    "url": "https://github.com/karpathy/nanochat",
+    "created_at": "2025-10-13T13:46:35Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 2640,
+    "issues": 74,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/nanochat"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Skills",
+    "stars": 5032,
+    "language": "Python",
+    "url": "https://github.com/anthropics/skills",
+    "created_at": "2025-09-22T15:53:31Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 382,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/skills"
+  },
+  {
+    "name": "SamsungSAILMontreal/TinyRecursiveModels",
+    "description": null,
+    "stars": 4700,
+    "language": "Python",
+    "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
+    "created_at": "2025-10-07T13:24:28Z",
+    "owner": {
+      "login": "SamsungSAILMontreal",
+      "url": "https://github.com/SamsungSAILMontreal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127172610?v=4"
+    },
+    "forks": 607,
+    "issues": 20,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SamsungSAILMontreal/TinyRecursiveModels"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "Claude Code superpowers: core skills library",
+    "stars": 3868,
+    "language": "Shell",
+    "url": "https://github.com/obra/superpowers",
+    "created_at": "2025-10-09T19:45:18Z",
+    "owner": {
+      "login": "obra",
+      "url": "https://github.com/obra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45416?v=4"
+    },
+    "forks": 217,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/obra/superpowers"
+  },
+  {
+    "name": "JerryZLiu/Dayflow",
+    "description": "Generate a timeline of your day, automatically",
+    "stars": 3486,
+    "language": "Swift",
+    "url": "https://github.com/JerryZLiu/Dayflow",
+    "created_at": "2025-09-23T01:58:21Z",
+    "owner": {
+      "login": "JerryZLiu",
+      "url": "https://github.com/JerryZLiu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29084938?v=4"
+    },
+    "forks": 145,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/JerryZLiu/Dayflow"
+  },
+  {
+    "name": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "stars": 3433,
+    "language": "TypeScript",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "created_at": "2025-09-28T18:16:32Z",
+    "owner": {
+      "login": "Open-Dev-Society",
+      "url": "https://github.com/Open-Dev-Society",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177231203?v=4"
+    },
+    "forks": 387,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Open-Dev-Society/OpenStock"
+  },
+  {
+    "name": "tw93/Mole",
+    "description": "🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac",
+    "stars": 3381,
+    "language": "Shell",
+    "url": "https://github.com/tw93/Mole",
+    "created_at": "2025-09-23T06:38:40Z",
+    "owner": {
+      "login": "tw93",
+      "url": "https://github.com/tw93",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8736212?v=4"
+    },
+    "forks": 104,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tw93/Mole"
+  },
+  {
+    "name": "neuphonic/neutts-air",
+    "description": "On-device TTS model by Neuphonic",
+    "stars": 3351,
+    "language": "Python",
+    "url": "https://github.com/neuphonic/neutts-air",
+    "created_at": "2025-10-02T12:48:55Z",
+    "owner": {
+      "login": "neuphonic",
+      "url": "https://github.com/neuphonic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165819141?v=4"
+    },
+    "forks": 301,
+    "issues": 25,
+    "social_preview_url": "https://opengraph.githubassets.com/1/neuphonic/neutts-air"
+  },
+  {
+    "name": "pathwaycom/bdh",
+    "description": "Baby Dragon Hatchling (BDH) – Architecture and Code",
+    "stars": 3093,
+    "language": "Python",
+    "url": "https://github.com/pathwaycom/bdh",
+    "created_at": "2025-09-30T12:05:01Z",
+    "owner": {
+      "login": "pathwaycom",
+      "url": "https://github.com/pathwaycom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25750857?v=4"
+    },
+    "forks": 108,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pathwaycom/bdh"
+  },
+  {
+    "name": "QwenLM/Qwen3-Omni",
+    "description": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.",
+    "stars": 2674,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/QwenLM/Qwen3-Omni",
+    "created_at": "2025-09-21T09:46:10Z",
+    "owner": {
+      "login": "QwenLM",
+      "url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "forks": 142,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/QwenLM/Qwen3-Omni"
+  }
+]
