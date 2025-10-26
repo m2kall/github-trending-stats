@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deta/surf",
+    "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
+    "stars": 1725,
+    "language": "TypeScript",
+    "url": "https://github.com/deta/surf",
+    "created_at": "2025-10-20T15:09:57Z",
+    "owner": {
+      "login": "deta",
+      "url": "https://github.com/deta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47275976?v=4"
+    },
+    "forks": 110,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deta/surf"
+  },
+  {
+    "name": "anthropic-experimental/sandbox-runtime",
+    "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+    "stars": 1076,
+    "language": "TypeScript",
+    "url": "https://github.com/anthropic-experimental/sandbox-runtime",
+    "created_at": "2025-10-20T02:52:10Z",
+    "owner": {
+      "login": "anthropic-experimental",
+      "url": "https://github.com/anthropic-experimental",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167155430?v=4"
+    },
+    "forks": 50,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropic-experimental/sandbox-runtime"
+  },
+  {
+    "name": "rdumasia303/deepseek_ocr_app",
+    "description": "A quick vibe coded app for deepseek OCR",
+    "stars": 798,
+    "language": "JavaScript",
+    "url": "https://github.com/rdumasia303/deepseek_ocr_app",
+    "created_at": "2025-10-21T00:26:39Z",
+    "owner": {
+      "login": "rdumasia303",
+      "url": "https://github.com/rdumasia303",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120988431?v=4"
+    },
+    "forks": 89,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/rdumasia303/deepseek_ocr_app"
+  },
+  {
+    "name": "vercel/workflow",
+    "description": "Workflow DevKit: Build durable, resilient, and observable workflows",
+    "stars": 595,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel/workflow",
+    "created_at": "2025-10-23T09:07:31Z",
+    "owner": {
+      "login": "vercel",
+      "url": "https://github.com/vercel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4"
+    },
+    "forks": 32,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel/workflow"
+  },
+  {
+    "name": "mocred/spyder-osint",
+    "description": "An universal OSINT tool.",
+    "stars": 566,
+    "language": "Python",
+    "url": "https://github.com/mocred/spyder-osint",
+    "created_at": "2025-10-23T18:09:11Z",
+    "owner": {
+      "login": "mocred",
+      "url": "https://github.com/mocred",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55202423?v=4"
+    },
+    "forks": 263,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mocred/spyder-osint"
+  },
+  {
+    "name": "s4myot/crypto-tax-calculator",
+    "description": "An advanced cryptocurrency & personal income tax calculator.",
+    "stars": 544,
+    "language": "Python",
+    "url": "https://github.com/s4myot/crypto-tax-calculator",
+    "created_at": "2025-10-21T17:24:55Z",
+    "owner": {
+      "login": "s4myot",
+      "url": "https://github.com/s4myot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102112105?v=4"
+    },
+    "forks": 130,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/s4myot/crypto-tax-calculator"
+  },
+  {
+    "name": "lightly-ai/lightly-studio",
+    "description": "Curate, Annotate, and Manage Your Data in LightlyStudio.",
+    "stars": 543,
+    "language": "Python",
+    "url": "https://github.com/lightly-ai/lightly-studio",
+    "created_at": "2025-10-21T07:12:36Z",
+    "owner": {
+      "login": "lightly-ai",
+      "url": "https://github.com/lightly-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50146475?v=4"
+    },
+    "forks": 9,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lightly-ai/lightly-studio"
+  },
+  {
+    "name": "pguso/ai-agents-from-scratch",
+    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
+    "stars": 515,
+    "language": "JavaScript",
+    "url": "https://github.com/pguso/ai-agents-from-scratch",
+    "created_at": "2025-10-23T19:39:04Z",
+    "owner": {
+      "login": "pguso",
+      "url": "https://github.com/pguso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4007140?v=4"
+    },
+    "forks": 45,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pguso/ai-agents-from-scratch"
+  },
+  {
+    "name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "description": null,
+    "stars": 454,
+    "language": "Python",
+    "url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "created_at": "2025-10-21T23:30:09Z",
+    "owner": {
+      "login": "Bogdanovich77",
+      "url": "https://github.com/Bogdanovich77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20773790?v=4"
+    },
+    "forks": 56,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Bogdanovich77/DeekSeek-OCR---Dockerized-API"
+  },
+  {
+    "name": "setls/HacxGPT",
+    "description": "HacxGPT — a highly experimental language model derived from WormGPT’s core architecture. Created to investigate the nature of unrestricted reasoning, synthetic cognition, and the ethics of machine autonomy.",
+    "stars": 435,
+    "language": "Python",
+    "url": "https://github.com/setls/HacxGPT",
+    "created_at": "2025-10-21T20:25:03Z",
+    "owner": {
+      "login": "setls",
+      "url": "https://github.com/setls",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28115076?v=4"
+    },
+    "forks": 105,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/setls/HacxGPT"
+  }
+]

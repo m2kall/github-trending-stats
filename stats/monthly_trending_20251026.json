@@ -1,0 +1,162 @@
+[
+  {
+    "name": "karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.",
+    "stars": 32500,
+    "language": "Python",
+    "url": "https://github.com/karpathy/nanochat",
+    "created_at": "2025-10-13T13:46:35Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 3549,
+    "issues": 95,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/nanochat"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-OCR",
+    "description": "Contexts Optical Compression",
+    "stars": 17113,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "created_at": "2025-10-17T06:14:27Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1070,
+    "issues": 131,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-OCR"
+  },
+  {
+    "name": "SamsungSAILMontreal/TinyRecursiveModels",
+    "description": null,
+    "stars": 5165,
+    "language": "Python",
+    "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
+    "created_at": "2025-10-07T13:24:28Z",
+    "owner": {
+      "login": "SamsungSAILMontreal",
+      "url": "https://github.com/SamsungSAILMontreal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127172610?v=4"
+    },
+    "forks": 691,
+    "issues": 24,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SamsungSAILMontreal/TinyRecursiveModels"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "Claude Code superpowers: core skills library",
+    "stars": 4786,
+    "language": "Shell",
+    "url": "https://github.com/obra/superpowers",
+    "created_at": "2025-10-09T19:45:18Z",
+    "owner": {
+      "login": "obra",
+      "url": "https://github.com/obra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45416?v=4"
+    },
+    "forks": 305,
+    "issues": 20,
+    "social_preview_url": "https://opengraph.githubassets.com/1/obra/superpowers"
+  },
+  {
+    "name": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "stars": 4205,
+    "language": "TypeScript",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "created_at": "2025-09-28T18:16:32Z",
+    "owner": {
+      "login": "Open-Dev-Society",
+      "url": "https://github.com/Open-Dev-Society",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177231203?v=4"
+    },
+    "forks": 489,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Open-Dev-Society/OpenStock"
+  },
+  {
+    "name": "neuphonic/neutts-air",
+    "description": "On-device TTS model by Neuphonic",
+    "stars": 3663,
+    "language": "Python",
+    "url": "https://github.com/neuphonic/neutts-air",
+    "created_at": "2025-10-02T12:48:55Z",
+    "owner": {
+      "login": "neuphonic",
+      "url": "https://github.com/neuphonic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165819141?v=4"
+    },
+    "forks": 351,
+    "issues": 32,
+    "social_preview_url": "https://opengraph.githubassets.com/1/neuphonic/neutts-air"
+  },
+  {
+    "name": "pathwaycom/bdh",
+    "description": "Baby Dragon Hatchling (BDH) – Architecture and Code",
+    "stars": 3224,
+    "language": "Python",
+    "url": "https://github.com/pathwaycom/bdh",
+    "created_at": "2025-09-30T12:05:01Z",
+    "owner": {
+      "login": "pathwaycom",
+      "url": "https://github.com/pathwaycom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25750857?v=4"
+    },
+    "forks": 138,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pathwaycom/bdh"
+  },
+  {
+    "name": "midudev/jscamp",
+    "description": "Contenido y ejercicios del JSCamp InfoJobs",
+    "stars": 2800,
+    "language": "CSS",
+    "url": "https://github.com/midudev/jscamp",
+    "created_at": "2025-09-28T13:28:51Z",
+    "owner": {
+      "login": "midudev",
+      "url": "https://github.com/midudev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1561955?v=4"
+    },
+    "forks": 281,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/midudev/jscamp"
+  },
+  {
+    "name": "facebook/openzl",
+    "description": "A novel data compression framework",
+    "stars": 2574,
+    "language": "C",
+    "url": "https://github.com/facebook/openzl",
+    "created_at": "2025-09-30T18:30:07Z",
+    "owner": {
+      "login": "facebook",
+      "url": "https://github.com/facebook",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69631?v=4"
+    },
+    "forks": 101,
+    "issues": 47,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebook/openzl"
+  },
+  {
+    "name": "Tencent-Hunyuan/HunyuanImage-3.0",
+    "description": "HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation",
+    "stars": 2297,
+    "language": "Python",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanImage-3.0",
+    "created_at": "2025-09-27T07:18:47Z",
+    "owner": {
+      "login": "Tencent-Hunyuan",
+      "url": "https://github.com/Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "forks": 96,
+    "issues": 28,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent-Hunyuan/HunyuanImage-3.0"
+  }
+]
