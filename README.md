@@ -9,205 +9,201 @@
 - 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
 - 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-🕒 **最后更新时间**: 2025-10-26 02:00:26
+🕒 **最后更新时间**: 2025-11-02 02:03:13
 
 ---
 
 # 📊 周榜 (过去7天)
 
-## 1. [deta/surf](https://github.com/deta/surf)
+## 1. [tinkle-community/nofx](https://github.com/tinkle-community/nofx)
 
-![项目预览图](https://opengraph.githubassets.com/1/deta/surf)
+![项目预览图](https://opengraph.githubassets.com/1/tinkle-community/nofx)
 
-📝 **项目描述**: Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
+📝 **项目描述**: NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-⭐ **获得 Star**: 1,725
+⭐ **获得 Star**: 4,275
 
-💻 **主要编程语言**: TypeScript
+💻 **主要编程语言**: Go
 
-📅 **创建时间**: 2025-10-20
+📅 **创建时间**: 2025-10-28
 
-👤 **作者**: [deta](https://github.com/deta)
+👤 **作者**: [tinkle-community](https://github.com/tinkle-community)
 
-🔄 **Fork 数量**: 110
+🔄 **Fork 数量**: 972
 
-⚠️ **未解决 Issues**: 11
+⚠️ **未解决 Issues**: 109
 
 ---
 
-## 2. [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)
+## 2. [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)
 
-![项目预览图](https://opengraph.githubassets.com/1/anthropic-experimental/sandbox-runtime)
+![项目预览图](https://opengraph.githubassets.com/1/diet103/claude-code-infrastructure-showcase)
 
-📝 **项目描述**: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
+📝 **项目描述**: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-⭐ **获得 Star**: 1,076
+⭐ **获得 Star**: 1,750
 
-💻 **主要编程语言**: TypeScript
+💻 **主要编程语言**: Shell
 
-📅 **创建时间**: 2025-10-20
+📅 **创建时间**: 2025-10-30
 
-👤 **作者**: [anthropic-experimental](https://github.com/anthropic-experimental)
+👤 **作者**: [diet103](https://github.com/diet103)
 
-🔄 **Fork 数量**: 50
+🔄 **Fork 数量**: 277
+
+⚠️ **未解决 Issues**: 5
+
+---
+
+## 3. [Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)
+
+![项目预览图](https://opengraph.githubassets.com/1/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)
+
+⭐ **获得 Star**: 871
+
+💻 **主要编程语言**: C#
+
+📅 **创建时间**: 2025-10-28
+
+👤 **作者**: [Mr-sans-and-InitLoader-s-team](https://github.com/Mr-sans-and-InitLoader-s-team)
+
+🔄 **Fork 数量**: 103
 
 ⚠️ **未解决 Issues**: 7
 
 ---
 
-## 3. [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)
+## 4. [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5)
 
-![项目预览图](https://opengraph.githubassets.com/1/rdumasia303/deepseek_ocr_app)
+![项目预览图](https://opengraph.githubassets.com/1/baaivision/Emu3.5)
 
-📝 **项目描述**: A quick vibe coded app for deepseek OCR
+📝 **项目描述**: Native Multimodal Models are World Learners
 
-⭐ **获得 Star**: 798
-
-💻 **主要编程语言**: JavaScript
-
-📅 **创建时间**: 2025-10-21
-
-👤 **作者**: [rdumasia303](https://github.com/rdumasia303)
-
-🔄 **Fork 数量**: 89
-
-⚠️ **未解决 Issues**: 10
-
----
-
-## 4. [vercel/workflow](https://github.com/vercel/workflow)
-
-![项目预览图](https://opengraph.githubassets.com/1/vercel/workflow)
-
-📝 **项目描述**: Workflow DevKit: Build durable, resilient, and observable workflows
-
-⭐ **获得 Star**: 595
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2025-10-23
-
-👤 **作者**: [vercel](https://github.com/vercel)
-
-🔄 **Fork 数量**: 32
-
-⚠️ **未解决 Issues**: 22
-
----
-
-## 5. [mocred/spyder-osint](https://github.com/mocred/spyder-osint)
-
-![项目预览图](https://opengraph.githubassets.com/1/mocred/spyder-osint)
-
-📝 **项目描述**: An universal OSINT tool.
-
-⭐ **获得 Star**: 566
+⭐ **获得 Star**: 865
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-10-23
+📅 **创建时间**: 2025-10-29
 
-👤 **作者**: [mocred](https://github.com/mocred)
+👤 **作者**: [baaivision](https://github.com/baaivision)
 
-🔄 **Fork 数量**: 263
+🔄 **Fork 数量**: 26
+
+⚠️ **未解决 Issues**: 15
+
+---
+
+## 5. [MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)
+
+![项目预览图](https://opengraph.githubassets.com/1/MoonshotAI/Kimi-Linear)
+
+⭐ **获得 Star**: 781
+
+📅 **创建时间**: 2025-10-29
+
+👤 **作者**: [MoonshotAI](https://github.com/MoonshotAI)
+
+🔄 **Fork 数量**: 26
+
+⚠️ **未解决 Issues**: 2
+
+---
+
+## 6. [oyokki/sora2-watermark-remover](https://github.com/oyokki/sora2-watermark-remover)
+
+![项目预览图](https://opengraph.githubassets.com/1/oyokki/sora2-watermark-remover)
+
+📝 **项目描述**: Sora 2 AI generated videos gentle watermark remover
+
+⭐ **获得 Star**: 402
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-10-30
+
+👤 **作者**: [oyokki](https://github.com/oyokki)
+
+🔄 **Fork 数量**: 151
 
 ⚠️ **未解决 Issues**: 0
 
 ---
 
-## 6. [s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)
+## 7. [jun6ry/sora2-api](https://github.com/jun6ry/sora2-api)
 
-![项目预览图](https://opengraph.githubassets.com/1/s4myot/crypto-tax-calculator)
+![项目预览图](https://opengraph.githubassets.com/1/jun6ry/sora2-api)
 
-📝 **项目描述**: An advanced cryptocurrency & personal income tax calculator.
+📝 **项目描述**: A tool for generating videos using the Sora 2 API.
 
-⭐ **获得 Star**: 544
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-10-21
-
-👤 **作者**: [s4myot](https://github.com/s4myot)
-
-🔄 **Fork 数量**: 130
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 7. [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)
-
-![项目预览图](https://opengraph.githubassets.com/1/lightly-ai/lightly-studio)
-
-📝 **项目描述**: Curate, Annotate, and Manage Your Data in LightlyStudio.
-
-⭐ **获得 Star**: 543
+⭐ **获得 Star**: 359
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-10-21
+📅 **创建时间**: 2025-10-29
 
-👤 **作者**: [lightly-ai](https://github.com/lightly-ai)
-
-🔄 **Fork 数量**: 9
-
-⚠️ **未解决 Issues**: 6
-
----
-
-## 8. [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)
-
-![项目预览图](https://opengraph.githubassets.com/1/pguso/ai-agents-from-scratch)
-
-📝 **项目描述**: Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
-
-⭐ **获得 Star**: 515
-
-💻 **主要编程语言**: JavaScript
-
-📅 **创建时间**: 2025-10-23
-
-👤 **作者**: [pguso](https://github.com/pguso)
-
-🔄 **Fork 数量**: 45
-
-⚠️ **未解决 Issues**: 9
-
----
-
-## 9. [Bogdanovich77/DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API)
-
-![项目预览图](https://opengraph.githubassets.com/1/Bogdanovich77/DeekSeek-OCR---Dockerized-API)
-
-⭐ **获得 Star**: 454
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-10-21
-
-👤 **作者**: [Bogdanovich77](https://github.com/Bogdanovich77)
-
-🔄 **Fork 数量**: 56
-
-⚠️ **未解决 Issues**: 7
-
----
-
-## 10. [setls/HacxGPT](https://github.com/setls/HacxGPT)
-
-![项目预览图](https://opengraph.githubassets.com/1/setls/HacxGPT)
-
-📝 **项目描述**: HacxGPT — a highly experimental language model derived from WormGPT’s core architecture. Created to investigate the nature of unrestricted reasoning, synthetic cognition, and the ethics of machine autonomy.
-
-⭐ **获得 Star**: 435
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-10-21
-
-👤 **作者**: [setls](https://github.com/setls)
+👤 **作者**: [jun6ry](https://github.com/jun6ry)
 
 🔄 **Fork 数量**: 105
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 8. [kirodaki/eth-python-utils](https://github.com/kirodaki/eth-python-utils)
+
+![项目预览图](https://opengraph.githubassets.com/1/kirodaki/eth-python-utils)
+
+📝 **项目描述**: Ethereum utilities and protocol library for interacting with the network
+
+⭐ **获得 Star**: 326
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-10-27
+
+👤 **作者**: [kirodaki](https://github.com/kirodaki)
+
+🔄 **Fork 数量**: 191
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 9. [sahaj-b/ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders)
+
+![项目预览图](https://opengraph.githubassets.com/1/sahaj-b/ghostty-cursor-shaders)
+
+📝 **项目描述**: My custom cursor shaders for ghostty (trails and ripple/pulse effects)
+
+⭐ **获得 Star**: 316
+
+💻 **主要编程语言**: GLSL
+
+📅 **创建时间**: 2025-10-27
+
+👤 **作者**: [sahaj-b](https://github.com/sahaj-b)
+
+🔄 **Fork 数量**: 0
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 10. [juchain-network/chain](https://github.com/juchain-network/chain)
+
+![项目预览图](https://opengraph.githubassets.com/1/juchain-network/chain)
+
+📝 **项目描述**: JuChain: Ethereum-compatible blockchain with JPoSA consensus (DPoS+PoA). Fast, low-cost, EVM compatible. 
+
+⭐ **获得 Star**: 293
+
+💻 **主要编程语言**: Go
+
+📅 **创建时间**: 2025-10-27
+
+👤 **作者**: [juchain-network](https://github.com/juchain-network)
+
+🔄 **Fork 数量**: 1
 
 ⚠️ **未解决 Issues**: 0
 
@@ -221,7 +217,7 @@
 
 📝 **项目描述**: The best ChatGPT that $100 can buy.
 
-⭐ **获得 Star**: 32,500
+⭐ **获得 Star**: 34,935
 
 💻 **主要编程语言**: Python
 
@@ -229,9 +225,9 @@
 
 👤 **作者**: [karpathy](https://github.com/karpathy)
 
-🔄 **Fork 数量**: 3,549
+🔄 **Fork 数量**: 3,962
 
-⚠️ **未解决 Issues**: 95
+⚠️ **未解决 Issues**: 46
 
 ---
 
@@ -241,7 +237,7 @@
 
 📝 **项目描述**: Contexts Optical Compression
 
-⭐ **获得 Star**: 17,113
+⭐ **获得 Star**: 19,018
 
 💻 **主要编程语言**: Python
 
@@ -249,17 +245,77 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 1,070
+🔄 **Fork 数量**: 1,299
 
-⚠️ **未解决 Issues**: 131
+⚠️ **未解决 Issues**: 183
 
 ---
 
-## 3. [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
+## 3. [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
+
+![项目预览图](https://opengraph.githubassets.com/1/HKUDS/AI-Trader)
+
+📝 **项目描述**: "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
+
+⭐ **获得 Star**: 8,164
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-10-23
+
+👤 **作者**: [HKUDS](https://github.com/HKUDS)
+
+🔄 **Fork 数量**: 1,112
+
+⚠️ **未解决 Issues**: 29
+
+---
+
+## 4. [johannschopplich/toon](https://github.com/johannschopplich/toon)
+
+![项目预览图](https://opengraph.githubassets.com/1/johannschopplich/toon)
+
+📝 **项目描述**: 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec & TypeScript implementation.
+
+⭐ **获得 Star**: 7,475
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-10-22
+
+👤 **作者**: [johannschopplich](https://github.com/johannschopplich)
+
+🔄 **Fork 数量**: 225
+
+⚠️ **未解决 Issues**: 4
+
+---
+
+## 5. [obra/superpowers](https://github.com/obra/superpowers)
+
+![项目预览图](https://opengraph.githubassets.com/1/obra/superpowers)
+
+📝 **项目描述**: Claude Code superpowers: core skills library
+
+⭐ **获得 Star**: 5,577
+
+💻 **主要编程语言**: JavaScript
+
+📅 **创建时间**: 2025-10-09
+
+👤 **作者**: [obra](https://github.com/obra)
+
+🔄 **Fork 数量**: 396
+
+⚠️ **未解决 Issues**: 19
+
+---
+
+## 6. [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
 
 ![项目预览图](https://opengraph.githubassets.com/1/SamsungSAILMontreal/TinyRecursiveModels)
 
-⭐ **获得 Star**: 5,165
+⭐ **获得 Star**: 5,347
 
 💻 **主要编程语言**: Python
 
@@ -267,149 +323,89 @@
 
 👤 **作者**: [SamsungSAILMontreal](https://github.com/SamsungSAILMontreal)
 
-🔄 **Fork 数量**: 691
+🔄 **Fork 数量**: 746
 
-⚠️ **未解决 Issues**: 24
+⚠️ **未解决 Issues**: 29
 
 ---
 
-## 4. [obra/superpowers](https://github.com/obra/superpowers)
+## 7. [tinkle-community/nofx](https://github.com/tinkle-community/nofx)
 
-![项目预览图](https://opengraph.githubassets.com/1/obra/superpowers)
+![项目预览图](https://opengraph.githubassets.com/1/tinkle-community/nofx)
 
-📝 **项目描述**: Claude Code superpowers: core skills library
+📝 **项目描述**: NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-⭐ **获得 Star**: 4,786
+⭐ **获得 Star**: 4,275
 
-💻 **主要编程语言**: Shell
+💻 **主要编程语言**: Go
+
+📅 **创建时间**: 2025-10-28
+
+👤 **作者**: [tinkle-community](https://github.com/tinkle-community)
+
+🔄 **Fork 数量**: 972
+
+⚠️ **未解决 Issues**: 109
+
+---
+
+## 8. [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)
+
+![项目预览图](https://opengraph.githubassets.com/1/yusufkaraaslan/Skill_Seekers)
+
+📝 **项目描述**: Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+
+⭐ **获得 Star**: 3,083
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-10-17
+
+👤 **作者**: [yusufkaraaslan](https://github.com/yusufkaraaslan)
+
+🔄 **Fork 数量**: 310
+
+⚠️ **未解决 Issues**: 118
+
+---
+
+## 9. [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn)
+
+![项目预览图](https://opengraph.githubassets.com/1/ginobefun/agentic-design-patterns-cn)
+
+📝 **项目描述**: 《Agentic Design Patterns》中文翻译版
+
+⭐ **获得 Star**: 2,779
+
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2025-10-09
 
-👤 **作者**: [obra](https://github.com/obra)
+👤 **作者**: [ginobefun](https://github.com/ginobefun)
 
-🔄 **Fork 数量**: 305
+🔄 **Fork 数量**: 296
 
-⚠️ **未解决 Issues**: 20
+⚠️ **未解决 Issues**: 2
 
 ---
 
-## 5. [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+## 10. [alam00000/bentopdf](https://github.com/alam00000/bentopdf)
 
-![项目预览图](https://opengraph.githubassets.com/1/Open-Dev-Society/OpenStock)
+![项目预览图](https://opengraph.githubassets.com/1/alam00000/bentopdf)
 
-📝 **项目描述**: OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+📝 **项目描述**: A Privacy First PDF Toolkit
 
-⭐ **获得 Star**: 4,205
+⭐ **获得 Star**: 2,732
 
 💻 **主要编程语言**: TypeScript
 
-📅 **创建时间**: 2025-09-28
+📅 **创建时间**: 2025-10-12
 
-👤 **作者**: [Open-Dev-Society](https://github.com/Open-Dev-Society)
+👤 **作者**: [alam00000](https://github.com/alam00000)
 
-🔄 **Fork 数量**: 489
+🔄 **Fork 数量**: 174
 
-⚠️ **未解决 Issues**: 6
-
----
-
-## 6. [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
-
-![项目预览图](https://opengraph.githubassets.com/1/neuphonic/neutts-air)
-
-📝 **项目描述**: On-device TTS model by Neuphonic
-
-⭐ **获得 Star**: 3,663
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-10-02
-
-👤 **作者**: [neuphonic](https://github.com/neuphonic)
-
-🔄 **Fork 数量**: 351
-
-⚠️ **未解决 Issues**: 32
-
----
-
-## 7. [pathwaycom/bdh](https://github.com/pathwaycom/bdh)
-
-![项目预览图](https://opengraph.githubassets.com/1/pathwaycom/bdh)
-
-📝 **项目描述**: Baby Dragon Hatchling (BDH) – Architecture and Code
-
-⭐ **获得 Star**: 3,224
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-09-30
-
-👤 **作者**: [pathwaycom](https://github.com/pathwaycom)
-
-🔄 **Fork 数量**: 138
-
-⚠️ **未解决 Issues**: 2
-
----
-
-## 8. [midudev/jscamp](https://github.com/midudev/jscamp)
-
-![项目预览图](https://opengraph.githubassets.com/1/midudev/jscamp)
-
-📝 **项目描述**: Contenido y ejercicios del JSCamp InfoJobs
-
-⭐ **获得 Star**: 2,800
-
-💻 **主要编程语言**: CSS
-
-📅 **创建时间**: 2025-09-28
-
-👤 **作者**: [midudev](https://github.com/midudev)
-
-🔄 **Fork 数量**: 281
-
-⚠️ **未解决 Issues**: 2
-
----
-
-## 9. [facebook/openzl](https://github.com/facebook/openzl)
-
-![项目预览图](https://opengraph.githubassets.com/1/facebook/openzl)
-
-📝 **项目描述**: A novel data compression framework
-
-⭐ **获得 Star**: 2,574
-
-💻 **主要编程语言**: C
-
-📅 **创建时间**: 2025-09-30
-
-👤 **作者**: [facebook](https://github.com/facebook)
-
-🔄 **Fork 数量**: 101
-
-⚠️ **未解决 Issues**: 47
-
----
-
-## 10. [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
-
-![项目预览图](https://opengraph.githubassets.com/1/Tencent-Hunyuan/HunyuanImage-3.0)
-
-📝 **项目描述**: HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation
-
-⭐ **获得 Star**: 2,297
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-09-27
-
-👤 **作者**: [Tencent-Hunyuan](https://github.com/Tencent-Hunyuan)
-
-🔄 **Fork 数量**: 96
-
-⚠️ **未解决 Issues**: 28
+⚠️ **未解决 Issues**: 42
 
 ---
 
@@ -421,7 +417,7 @@
 
 📝 **项目描述**: 💫 Toolkit to help you get started with Spec-Driven Development
 
-⭐ **获得 Star**: 41,927
+⭐ **获得 Star**: 44,153
 
 💻 **主要编程语言**: Shell
 
@@ -429,9 +425,9 @@
 
 👤 **作者**: [github](https://github.com/github)
 
-🔄 **Fork 数量**: 3,590
+🔄 **Fork 数量**: 3,771
 
-⚠️ **未解决 Issues**: 383
+⚠️ **未解决 Issues**: 413
 
 ---
 
@@ -441,7 +437,7 @@
 
 📝 **项目描述**: The best ChatGPT that $100 can buy.
 
-⭐ **获得 Star**: 32,500
+⭐ **获得 Star**: 34,935
 
 💻 **主要编程语言**: Python
 
@@ -449,9 +445,9 @@
 
 👤 **作者**: [karpathy](https://github.com/karpathy)
 
-🔄 **Fork 数量**: 3,549
+🔄 **Fork 数量**: 3,962
 
-⚠️ **未解决 Issues**: 95
+⚠️ **未解决 Issues**: 46
 
 ---
 
@@ -461,7 +457,7 @@
 
 📝 **项目描述**: 🔥 Clone and recreate any website as a modern React app in seconds
 
-⭐ **获得 Star**: 21,292
+⭐ **获得 Star**: 21,452
 
 💻 **主要编程语言**: TypeScript
 
@@ -469,9 +465,9 @@
 
 👤 **作者**: [firecrawl](https://github.com/firecrawl)
 
-🔄 **Fork 数量**: 3,975
+🔄 **Fork 数量**: 4,037
 
-⚠️ **未解决 Issues**: 102
+⚠️ **未解决 Issues**: 106
 
 ---
 
@@ -481,7 +477,7 @@
 
 📝 **项目描述**: Contexts Optical Compression
 
-⭐ **获得 Star**: 17,113
+⭐ **获得 Star**: 19,018
 
 💻 **主要编程语言**: Python
 
@@ -489,9 +485,9 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 1,070
+🔄 **Fork 数量**: 1,299
 
-⚠️ **未解决 Issues**: 131
+⚠️ **未解决 Issues**: 183
 
 ---
 
@@ -501,15 +497,15 @@
 
 📝 **项目描述**: A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
 
-⭐ **获得 Star**: 14,980
+⭐ **获得 Star**: 15,186
 
 📅 **创建时间**: 2025-08-28
 
 👤 **作者**: [PicoTrex](https://github.com/PicoTrex)
 
-🔄 **Fork 数量**: 1,561
+🔄 **Fork 数量**: 1,583
 
-⚠️ **未解决 Issues**: 13
+⚠️ **未解决 Issues**: 14
 
 ---
 
@@ -519,7 +515,7 @@
 
 📝 **项目描述**: Public repository for Skills
 
-⭐ **获得 Star**: 13,686
+⭐ **获得 Star**: 14,994
 
 💻 **主要编程语言**: Python
 
@@ -527,9 +523,9 @@
 
 👤 **作者**: [anthropics](https://github.com/anthropics)
 
-🔄 **Fork 数量**: 1,050
+🔄 **Fork 数量**: 1,235
 
-⚠️ **未解决 Issues**: 46
+⚠️ **未解决 Issues**: 56
 
 ---
 
@@ -539,7 +535,7 @@
 
 📝 **项目描述**: Chrome DevTools for coding agents
 
-⭐ **获得 Star**: 12,661
+⭐ **获得 Star**: 13,510
 
 💻 **主要编程语言**: TypeScript
 
@@ -547,9 +543,9 @@
 
 👤 **作者**: [ChromeDevTools](https://github.com/ChromeDevTools)
 
-🔄 **Fork 数量**: 737
+🔄 **Fork 数量**: 796
 
-⚠️ **未解决 Issues**: 46
+⚠️ **未解决 Issues**: 44
 
 ---
 
@@ -559,15 +555,15 @@
 
 📝 **项目描述**: Frontier Open-Source Text-to-Speech
 
-⭐ **获得 Star**: 9,744
+⭐ **获得 Star**: 9,820
 
 📅 **创建时间**: 2025-08-25
 
 👤 **作者**: [microsoft](https://github.com/microsoft)
 
-🔄 **Fork 数量**: 1,228
+🔄 **Fork 数量**: 1,245
 
-⚠️ **未解决 Issues**: 32
+⚠️ **未解决 Issues**: 33
 
 ---
 
@@ -577,7 +573,7 @@
 
 📝 **项目描述**:  State-of-the-art TTS model under 25MB 😻 
 
-⭐ **获得 Star**: 9,006
+⭐ **获得 Star**: 9,039
 
 💻 **主要编程语言**: Python
 
@@ -587,27 +583,27 @@
 
 🔄 **Fork 数量**: 449
 
-⚠️ **未解决 Issues**: 66
+⚠️ **未解决 Issues**: 67
 
 ---
 
-## 10. [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3)
+## 10. [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
 
-![项目预览图](https://opengraph.githubassets.com/1/facebookresearch/dinov3)
+![项目预览图](https://opengraph.githubassets.com/1/HKUDS/AI-Trader)
 
-📝 **项目描述**: Reference PyTorch implementation and models for DINOv3
+📝 **项目描述**: "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
 
-⭐ **获得 Star**: 7,925
+⭐ **获得 Star**: 8,164
 
-💻 **主要编程语言**: Jupyter Notebook
+💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-08-07
+📅 **创建时间**: 2025-10-23
 
-👤 **作者**: [facebookresearch](https://github.com/facebookresearch)
+👤 **作者**: [HKUDS](https://github.com/HKUDS)
 
-🔄 **Fork 数量**: 521
+🔄 **Fork 数量**: 1,112
 
-⚠️ **未解决 Issues**: 115
+⚠️ **未解决 Issues**: 29
 
 ---
 
@@ -617,7 +613,7 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3)
 
-⭐ **获得 Star**: 99,956
+⭐ **获得 Star**: 100,097
 
 💻 **主要编程语言**: Python
 
@@ -625,9 +621,9 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 16,306
+🔄 **Fork 数量**: 16,324
 
-⚠️ **未解决 Issues**: 73
+⚠️ **未解决 Issues**: 75
 
 ---
 
@@ -637,15 +633,15 @@
 
 📝 **项目描述**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
-⭐ **获得 Star**: 93,161
+⭐ **获得 Star**: 94,002
 
 📅 **创建时间**: 2025-03-05
 
 👤 **作者**: [x1xhlol](https://github.com/x1xhlol)
 
-🔄 **Fork 数量**: 25,195
+🔄 **Fork 数量**: 25,386
 
-⚠️ **未解决 Issues**: 90
+⚠️ **未解决 Issues**: 96
 
 ---
 
@@ -653,15 +649,15 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1)
 
-⭐ **获得 Star**: 91,371
+⭐ **获得 Star**: 91,427
 
 📅 **创建时间**: 2025-01-20
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 11,768
+🔄 **Fork 数量**: 11,782
 
-⚠️ **未解决 Issues**: 44
+⚠️ **未解决 Issues**: 41
 
 ---
 

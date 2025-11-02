@@ -1,0 +1,162 @@
+[
+  {
+    "name": "tinkle-community/nofx",
+    "description": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard",
+    "stars": 4275,
+    "language": "Go",
+    "url": "https://github.com/tinkle-community/nofx",
+    "created_at": "2025-10-28T07:17:53Z",
+    "owner": {
+      "login": "tinkle-community",
+      "url": "https://github.com/tinkle-community",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240652709?v=4"
+    },
+    "forks": 972,
+    "issues": 109,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tinkle-community/nofx"
+  },
+  {
+    "name": "diet103/claude-code-infrastructure-showcase",
+    "description": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
+    "stars": 1750,
+    "language": "Shell",
+    "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
+    "created_at": "2025-10-30T03:12:16Z",
+    "owner": {
+      "login": "diet103",
+      "url": "https://github.com/diet103",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215228613?v=4"
+    },
+    "forks": 277,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/diet103/claude-code-infrastructure-showcase"
+  },
+  {
+    "name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
+    "description": null,
+    "stars": 871,
+    "language": "C#",
+    "url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
+    "created_at": "2025-10-28T01:40:36Z",
+    "owner": {
+      "login": "Mr-sans-and-InitLoader-s-team",
+      "url": "https://github.com/Mr-sans-and-InitLoader-s-team",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240609560?v=4"
+    },
+    "forks": 103,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview"
+  },
+  {
+    "name": "baaivision/Emu3.5",
+    "description": "Native Multimodal Models are World Learners",
+    "stars": 865,
+    "language": "Python",
+    "url": "https://github.com/baaivision/Emu3.5",
+    "created_at": "2025-10-29T13:40:19Z",
+    "owner": {
+      "login": "baaivision",
+      "url": "https://github.com/baaivision",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118160626?v=4"
+    },
+    "forks": 26,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/baaivision/Emu3.5"
+  },
+  {
+    "name": "MoonshotAI/Kimi-Linear",
+    "description": null,
+    "stars": 781,
+    "language": null,
+    "url": "https://github.com/MoonshotAI/Kimi-Linear",
+    "created_at": "2025-10-29T18:18:03Z",
+    "owner": {
+      "login": "MoonshotAI",
+      "url": "https://github.com/MoonshotAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+    },
+    "forks": 26,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MoonshotAI/Kimi-Linear"
+  },
+  {
+    "name": "oyokki/sora2-watermark-remover",
+    "description": "Sora 2 AI generated videos gentle watermark remover",
+    "stars": 402,
+    "language": "Python",
+    "url": "https://github.com/oyokki/sora2-watermark-remover",
+    "created_at": "2025-10-30T16:30:16Z",
+    "owner": {
+      "login": "oyokki",
+      "url": "https://github.com/oyokki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49602615?v=4"
+    },
+    "forks": 151,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/oyokki/sora2-watermark-remover"
+  },
+  {
+    "name": "jun6ry/sora2-api",
+    "description": "A tool for generating videos using the Sora 2 API.",
+    "stars": 359,
+    "language": "Python",
+    "url": "https://github.com/jun6ry/sora2-api",
+    "created_at": "2025-10-29T09:29:16Z",
+    "owner": {
+      "login": "jun6ry",
+      "url": "https://github.com/jun6ry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61596500?v=4"
+    },
+    "forks": 105,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jun6ry/sora2-api"
+  },
+  {
+    "name": "kirodaki/eth-python-utils",
+    "description": "Ethereum utilities and protocol library for interacting with the network",
+    "stars": 326,
+    "language": "Python",
+    "url": "https://github.com/kirodaki/eth-python-utils",
+    "created_at": "2025-10-27T14:51:26Z",
+    "owner": {
+      "login": "kirodaki",
+      "url": "https://github.com/kirodaki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108832567?v=4"
+    },
+    "forks": 191,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/kirodaki/eth-python-utils"
+  },
+  {
+    "name": "sahaj-b/ghostty-cursor-shaders",
+    "description": "My custom cursor shaders for ghostty (trails and ripple/pulse effects)",
+    "stars": 316,
+    "language": "GLSL",
+    "url": "https://github.com/sahaj-b/ghostty-cursor-shaders",
+    "created_at": "2025-10-27T12:32:20Z",
+    "owner": {
+      "login": "sahaj-b",
+      "url": "https://github.com/sahaj-b",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94101577?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sahaj-b/ghostty-cursor-shaders"
+  },
+  {
+    "name": "juchain-network/chain",
+    "description": "JuChain: Ethereum-compatible blockchain with JPoSA consensus (DPoS+PoA). Fast, low-cost, EVM compatible. ",
+    "stars": 293,
+    "language": "Go",
+    "url": "https://github.com/juchain-network/chain",
+    "created_at": "2025-10-27T14:16:01Z",
+    "owner": {
+      "login": "juchain-network",
+      "url": "https://github.com/juchain-network",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240508444?v=4"
+    },
+    "forks": 1,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/juchain-network/chain"
+  }
+]

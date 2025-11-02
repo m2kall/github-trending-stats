@@ -1,0 +1,162 @@
+[
+  {
+    "name": "karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.",
+    "stars": 34935,
+    "language": "Python",
+    "url": "https://github.com/karpathy/nanochat",
+    "created_at": "2025-10-13T13:46:35Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 3962,
+    "issues": 46,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/nanochat"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-OCR",
+    "description": "Contexts Optical Compression",
+    "stars": 19018,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "created_at": "2025-10-17T06:14:27Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1299,
+    "issues": 183,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-OCR"
+  },
+  {
+    "name": "HKUDS/AI-Trader",
+    "description": "\"AI-Trader: Can AI Beat the Market?\" Live Trading: https://hkuds.github.io/AI-Trader/",
+    "stars": 8164,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "created_at": "2025-10-23T12:45:00Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 1112,
+    "issues": 29,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/AI-Trader"
+  },
+  {
+    "name": "johannschopplich/toon",
+    "description": "🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec & TypeScript implementation.",
+    "stars": 7475,
+    "language": "TypeScript",
+    "url": "https://github.com/johannschopplich/toon",
+    "created_at": "2025-10-22T18:17:32Z",
+    "owner": {
+      "login": "johannschopplich",
+      "url": "https://github.com/johannschopplich",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27850750?v=4"
+    },
+    "forks": 225,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/johannschopplich/toon"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "Claude Code superpowers: core skills library",
+    "stars": 5577,
+    "language": "JavaScript",
+    "url": "https://github.com/obra/superpowers",
+    "created_at": "2025-10-09T19:45:18Z",
+    "owner": {
+      "login": "obra",
+      "url": "https://github.com/obra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45416?v=4"
+    },
+    "forks": 396,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/obra/superpowers"
+  },
+  {
+    "name": "SamsungSAILMontreal/TinyRecursiveModels",
+    "description": null,
+    "stars": 5347,
+    "language": "Python",
+    "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
+    "created_at": "2025-10-07T13:24:28Z",
+    "owner": {
+      "login": "SamsungSAILMontreal",
+      "url": "https://github.com/SamsungSAILMontreal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127172610?v=4"
+    },
+    "forks": 746,
+    "issues": 29,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SamsungSAILMontreal/TinyRecursiveModels"
+  },
+  {
+    "name": "tinkle-community/nofx",
+    "description": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard",
+    "stars": 4275,
+    "language": "Go",
+    "url": "https://github.com/tinkle-community/nofx",
+    "created_at": "2025-10-28T07:17:53Z",
+    "owner": {
+      "login": "tinkle-community",
+      "url": "https://github.com/tinkle-community",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240652709?v=4"
+    },
+    "forks": 972,
+    "issues": 109,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tinkle-community/nofx"
+  },
+  {
+    "name": "yusufkaraaslan/Skill_Seekers",
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "stars": 3083,
+    "language": "Python",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "created_at": "2025-10-17T14:43:48Z",
+    "owner": {
+      "login": "yusufkaraaslan",
+      "url": "https://github.com/yusufkaraaslan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11597362?v=4"
+    },
+    "forks": 310,
+    "issues": 118,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yusufkaraaslan/Skill_Seekers"
+  },
+  {
+    "name": "ginobefun/agentic-design-patterns-cn",
+    "description": "《Agentic Design Patterns》中文翻译版",
+    "stars": 2779,
+    "language": "Python",
+    "url": "https://github.com/ginobefun/agentic-design-patterns-cn",
+    "created_at": "2025-10-09T04:36:28Z",
+    "owner": {
+      "login": "ginobefun",
+      "url": "https://github.com/ginobefun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21135334?v=4"
+    },
+    "forks": 296,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ginobefun/agentic-design-patterns-cn"
+  },
+  {
+    "name": "alam00000/bentopdf",
+    "description": "A Privacy First PDF Toolkit",
+    "stars": 2732,
+    "language": "TypeScript",
+    "url": "https://github.com/alam00000/bentopdf",
+    "created_at": "2025-10-12T13:30:08Z",
+    "owner": {
+      "login": "alam00000",
+      "url": "https://github.com/alam00000",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50314772?v=4"
+    },
+    "forks": 174,
+    "issues": 42,
+    "social_preview_url": "https://opengraph.githubassets.com/1/alam00000/bentopdf"
+  }
+]

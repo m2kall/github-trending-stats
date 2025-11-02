@@ -1,0 +1,162 @@
+[
+  {
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "stars": 44153,
+    "language": "Shell",
+    "url": "https://github.com/github/spec-kit",
+    "created_at": "2025-08-21T22:54:31Z",
+    "owner": {
+      "login": "github",
+      "url": "https://github.com/github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+    },
+    "forks": 3771,
+    "issues": 413,
+    "social_preview_url": "https://opengraph.githubassets.com/1/github/spec-kit"
+  },
+  {
+    "name": "karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.",
+    "stars": 34935,
+    "language": "Python",
+    "url": "https://github.com/karpathy/nanochat",
+    "created_at": "2025-10-13T13:46:35Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 3962,
+    "issues": 46,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/nanochat"
+  },
+  {
+    "name": "firecrawl/open-lovable",
+    "description": "🔥 Clone and recreate any website as a modern React app in seconds",
+    "stars": 21452,
+    "language": "TypeScript",
+    "url": "https://github.com/firecrawl/open-lovable",
+    "created_at": "2025-08-08T13:04:02Z",
+    "owner": {
+      "login": "firecrawl",
+      "url": "https://github.com/firecrawl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
+    },
+    "forks": 4037,
+    "issues": 106,
+    "social_preview_url": "https://opengraph.githubassets.com/1/firecrawl/open-lovable"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-OCR",
+    "description": "Contexts Optical Compression",
+    "stars": 19018,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "created_at": "2025-10-17T06:14:27Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1299,
+    "issues": 183,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-OCR"
+  },
+  {
+    "name": "PicoTrex/Awesome-Nano-Banana-images",
+    "description": "A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)",
+    "stars": 15186,
+    "language": null,
+    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+    "created_at": "2025-08-28T17:03:09Z",
+    "owner": {
+      "login": "PicoTrex",
+      "url": "https://github.com/PicoTrex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190918837?v=4"
+    },
+    "forks": 1583,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/PicoTrex/Awesome-Nano-Banana-images"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Skills",
+    "stars": 14994,
+    "language": "Python",
+    "url": "https://github.com/anthropics/skills",
+    "created_at": "2025-09-22T15:53:31Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 1235,
+    "issues": 56,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/skills"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "stars": 13510,
+    "language": "TypeScript",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "created_at": "2025-09-11T10:39:55Z",
+    "owner": {
+      "login": "ChromeDevTools",
+      "url": "https://github.com/ChromeDevTools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11260967?v=4"
+    },
+    "forks": 796,
+    "issues": 44,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Frontier Open-Source Text-to-Speech",
+    "stars": 9820,
+    "language": null,
+    "url": "https://github.com/microsoft/VibeVoice",
+    "created_at": "2025-08-25T13:24:01Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 1245,
+    "issues": 33,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/VibeVoice"
+  },
+  {
+    "name": "KittenML/KittenTTS",
+    "description": " State-of-the-art TTS model under 25MB 😻 ",
+    "stars": 9039,
+    "language": "Python",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "created_at": "2025-08-05T03:30:24Z",
+    "owner": {
+      "login": "KittenML",
+      "url": "https://github.com/KittenML",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224667585?v=4"
+    },
+    "forks": 449,
+    "issues": 67,
+    "social_preview_url": "https://opengraph.githubassets.com/1/KittenML/KittenTTS"
+  },
+  {
+    "name": "HKUDS/AI-Trader",
+    "description": "\"AI-Trader: Can AI Beat the Market?\" Live Trading: https://hkuds.github.io/AI-Trader/",
+    "stars": 8164,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "created_at": "2025-10-23T12:45:00Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 1112,
+    "issues": 29,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/AI-Trader"
+  }
+]
