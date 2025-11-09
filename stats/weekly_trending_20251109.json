@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Snapchat/Valdi",
+    "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.",
+    "stars": 2223,
+    "language": "C++",
+    "url": "https://github.com/Snapchat/Valdi",
+    "created_at": "2025-11-06T17:33:28Z",
+    "owner": {
+      "login": "Snapchat",
+      "url": "https://github.com/Snapchat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40505220?v=4"
+    },
+    "forks": 51,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Snapchat/Valdi"
+  },
+  {
+    "name": "Snowflake-Labs/pg_lake",
+    "description": "pg_lake: Postgres with Iceberg and data lake access",
+    "stars": 1093,
+    "language": "C",
+    "url": "https://github.com/Snowflake-Labs/pg_lake",
+    "created_at": "2025-11-04T10:38:17Z",
+    "owner": {
+      "login": "Snowflake-Labs",
+      "url": "https://github.com/Snowflake-Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58992620?v=4"
+    },
+    "forks": 42,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Snowflake-Labs/pg_lake"
+  },
+  {
+    "name": "openpcc/openpcc",
+    "description": "An open-source framework for provably private AI inference",
+    "stars": 737,
+    "language": "Go",
+    "url": "https://github.com/openpcc/openpcc",
+    "created_at": "2025-11-05T10:17:20Z",
+    "owner": {
+      "login": "openpcc",
+      "url": "https://github.com/openpcc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234499499?v=4"
+    },
+    "forks": 20,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openpcc/openpcc"
+  },
+  {
+    "name": "SolanaUpdateTools/solana-starter-kit",
+    "description": "Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI.",
+    "stars": 691,
+    "language": null,
+    "url": "https://github.com/SolanaUpdateTools/solana-starter-kit",
+    "created_at": "2025-11-06T20:08:59Z",
+    "owner": {
+      "login": "SolanaUpdateTools",
+      "url": "https://github.com/SolanaUpdateTools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242421498?v=4"
+    },
+    "forks": 2,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SolanaUpdateTools/solana-starter-kit"
+  },
+  {
+    "name": "eooce/Auto-login-netlib",
+    "description": "自动登录netlib.re网站保活域名",
+    "stars": 440,
+    "language": "JavaScript",
+    "url": "https://github.com/eooce/Auto-login-netlib",
+    "created_at": "2025-11-06T11:43:07Z",
+    "owner": {
+      "login": "eooce",
+      "url": "https://github.com/eooce",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142894633?v=4"
+    },
+    "forks": 998,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/eooce/Auto-login-netlib"
+  },
+  {
+    "name": "rakkiez/sora2-watermark-remover",
+    "description": "Sora 2 AI generated videos gentle watermark remover",
+    "stars": 392,
+    "language": "Python",
+    "url": "https://github.com/rakkiez/sora2-watermark-remover",
+    "created_at": "2025-11-05T15:20:06Z",
+    "owner": {
+      "login": "rakkiez",
+      "url": "https://github.com/rakkiez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6995881?v=4"
+    },
+    "forks": 180,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/rakkiez/sora2-watermark-remover"
+  },
+  {
+    "name": "qy527145/acemcp",
+    "description": "一个将ACE(Augment Context Engine) 做成MCP的项目",
+    "stars": 264,
+    "language": "Python",
+    "url": "https://github.com/qy527145/acemcp",
+    "created_at": "2025-11-06T10:13:39Z",
+    "owner": {
+      "login": "qy527145",
+      "url": "https://github.com/qy527145",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39358262?v=4"
+    },
+    "forks": 59,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/qy527145/acemcp"
+  },
+  {
+    "name": "Infatoshi/all-of-it",
+    "description": null,
+    "stars": 257,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/Infatoshi/all-of-it",
+    "created_at": "2025-11-04T04:06:52Z",
+    "owner": {
+      "login": "Infatoshi",
+      "url": "https://github.com/Infatoshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
+    },
+    "forks": 16,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Infatoshi/all-of-it"
+  },
+  {
+    "name": "steipete/mcporter",
+    "description": "Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.",
+    "stars": 230,
+    "language": "TypeScript",
+    "url": "https://github.com/steipete/mcporter",
+    "created_at": "2025-11-05T03:29:59Z",
+    "owner": {
+      "login": "steipete",
+      "url": "https://github.com/steipete",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58493?v=4"
+    },
+    "forks": 7,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/steipete/mcporter"
+  },
+  {
+    "name": "th1n0/CVE-2025-59287",
+    "description": "WSUS vulnerability PoC",
+    "stars": 225,
+    "language": "Python",
+    "url": "https://github.com/th1n0/CVE-2025-59287",
+    "created_at": "2025-11-04T18:38:28Z",
+    "owner": {
+      "login": "th1n0",
+      "url": "https://github.com/th1n0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189520174?v=4"
+    },
+    "forks": 84,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/th1n0/CVE-2025-59287"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.",
+    "stars": 36142,
+    "language": "Python",
+    "url": "https://github.com/karpathy/nanochat",
+    "created_at": "2025-10-13T13:46:35Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 4214,
+    "issues": 48,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/nanochat"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-OCR",
+    "description": "Contexts Optical Compression",
+    "stars": 19914,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "created_at": "2025-10-17T06:14:27Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1440,
+    "issues": 210,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-OCR"
+  },
+  {
+    "name": "toon-format/toon",
+    "description": "🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.",
+    "stars": 11910,
+    "language": "TypeScript",
+    "url": "https://github.com/toon-format/toon",
+    "created_at": "2025-10-22T18:17:32Z",
+    "owner": {
+      "login": "toon-format",
+      "url": "https://github.com/toon-format",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241380424?v=4"
+    },
+    "forks": 434,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/toon-format/toon"
+  },
+  {
+    "name": "HKUDS/AI-Trader",
+    "description": "\"AI-Trader: Can AI Beat the Market?\" Live Trading Bench: https://hkuds.github.io/AI-Trader/",
+    "stars": 9124,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "created_at": "2025-10-23T12:45:00Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 1334,
+    "issues": 40,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/AI-Trader"
+  },
+  {
+    "name": "NoFxAiOS/nofx",
+    "description": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard",
+    "stars": 7126,
+    "language": "TypeScript",
+    "url": "https://github.com/NoFxAiOS/nofx",
+    "created_at": "2025-10-28T07:17:53Z",
+    "owner": {
+      "login": "NoFxAiOS",
+      "url": "https://github.com/NoFxAiOS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241546879?v=4"
+    },
+    "forks": 1754,
+    "issues": 279,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NoFxAiOS/nofx"
+  },
+  {
+    "name": "diet103/claude-code-infrastructure-showcase",
+    "description": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
+    "stars": 4167,
+    "language": "Shell",
+    "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
+    "created_at": "2025-10-30T03:12:16Z",
+    "owner": {
+      "login": "diet103",
+      "url": "https://github.com/diet103",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215228613?v=4"
+    },
+    "forks": 585,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/diet103/claude-code-infrastructure-showcase"
+  },
+  {
+    "name": "yusufkaraaslan/Skill_Seekers",
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "stars": 3603,
+    "language": "Python",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "created_at": "2025-10-17T14:43:48Z",
+    "owner": {
+      "login": "yusufkaraaslan",
+      "url": "https://github.com/yusufkaraaslan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11597362?v=4"
+    },
+    "forks": 362,
+    "issues": 118,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yusufkaraaslan/Skill_Seekers"
+  },
+  {
+    "name": "alam00000/bentopdf",
+    "description": "A Privacy First PDF Toolkit",
+    "stars": 3482,
+    "language": "TypeScript",
+    "url": "https://github.com/alam00000/bentopdf",
+    "created_at": "2025-10-12T13:30:08Z",
+    "owner": {
+      "login": "alam00000",
+      "url": "https://github.com/alam00000",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50314772?v=4"
+    },
+    "forks": 228,
+    "issues": 46,
+    "social_preview_url": "https://opengraph.githubassets.com/1/alam00000/bentopdf"
+  },
+  {
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "stars": 2733,
+    "language": "Python",
+    "url": "https://github.com/virattt/dexter",
+    "created_at": "2025-10-14T21:02:00Z",
+    "owner": {
+      "login": "virattt",
+      "url": "https://github.com/virattt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/901795?v=4"
+    },
+    "forks": 348,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/virattt/dexter"
+  },
+  {
+    "name": "wquguru/nof0",
+    "description": "NOF0 - 开源的 AI 交易竞技场",
+    "stars": 2656,
+    "language": "Go",
+    "url": "https://github.com/wquguru/nof0",
+    "created_at": "2025-10-22T16:30:45Z",
+    "owner": {
+      "login": "wquguru",
+      "url": "https://github.com/wquguru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209866177?v=4"
+    },
+    "forks": 415,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wquguru/nof0"
+  }
+]
