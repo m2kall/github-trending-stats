@@ -1,0 +1,162 @@
+[
+  {
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "stars": 48670,
+    "language": "Python",
+    "url": "https://github.com/github/spec-kit",
+    "created_at": "2025-08-21T22:54:31Z",
+    "owner": {
+      "login": "github",
+      "url": "https://github.com/github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+    },
+    "forks": 4157,
+    "issues": 444,
+    "social_preview_url": "https://opengraph.githubassets.com/1/github/spec-kit"
+  },
+  {
+    "name": "karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.",
+    "stars": 36796,
+    "language": "Python",
+    "url": "https://github.com/karpathy/nanochat",
+    "created_at": "2025-10-13T13:46:35Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 4435,
+    "issues": 43,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/nanochat"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-OCR",
+    "description": "Contexts Optical Compression",
+    "stars": 20484,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "created_at": "2025-10-17T06:14:27Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1754,
+    "issues": 238,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-OCR"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Skills",
+    "stars": 17081,
+    "language": "Python",
+    "url": "https://github.com/anthropics/skills",
+    "created_at": "2025-09-22T15:53:31Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 1547,
+    "issues": 67,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/skills"
+  },
+  {
+    "name": "toon-format/toon",
+    "description": "🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.",
+    "stars": 16205,
+    "language": "TypeScript",
+    "url": "https://github.com/toon-format/toon",
+    "created_at": "2025-10-22T18:17:32Z",
+    "owner": {
+      "login": "toon-format",
+      "url": "https://github.com/toon-format",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241380424?v=4"
+    },
+    "forks": 653,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/toon-format/toon"
+  },
+  {
+    "name": "PicoTrex/Awesome-Nano-Banana-images",
+    "description": "A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)",
+    "stars": 15898,
+    "language": null,
+    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+    "created_at": "2025-08-28T17:03:09Z",
+    "owner": {
+      "login": "PicoTrex",
+      "url": "https://github.com/PicoTrex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190918837?v=4"
+    },
+    "forks": 1680,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/PicoTrex/Awesome-Nano-Banana-images"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "stars": 14650,
+    "language": "TypeScript",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "created_at": "2025-09-11T10:39:55Z",
+    "owner": {
+      "login": "ChromeDevTools",
+      "url": "https://github.com/ChromeDevTools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11260967?v=4"
+    },
+    "forks": 884,
+    "issues": 54,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "description": "Frontier Open-Source Text-to-Speech",
+    "stars": 9956,
+    "language": null,
+    "url": "https://github.com/microsoft/VibeVoice",
+    "created_at": "2025-08-25T13:24:01Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 1270,
+    "issues": 33,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/VibeVoice"
+  },
+  {
+    "name": "HKUDS/AI-Trader",
+    "description": "\"AI-Trader: Can AI Beat the Market?\" Live Trading Bench: https://ai4trade.ai",
+    "stars": 9385,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "created_at": "2025-10-23T12:45:00Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 1432,
+    "issues": 48,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/AI-Trader"
+  },
+  {
+    "name": "Snapchat/Valdi",
+    "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.",
+    "stars": 9247,
+    "language": "C++",
+    "url": "https://github.com/Snapchat/Valdi",
+    "created_at": "2025-11-06T17:33:28Z",
+    "owner": {
+      "login": "Snapchat",
+      "url": "https://github.com/Snapchat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40505220?v=4"
+    },
+    "forks": 294,
+    "issues": 37,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Snapchat/Valdi"
+  }
+]

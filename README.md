@@ -9,83 +9,101 @@
 - 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
 - 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-🕒 **最后更新时间**: 2025-11-09 02:02:20
+🕒 **最后更新时间**: 2025-11-16 02:05:19
 
 ---
 
 # 📊 周榜 (过去7天)
 
-## 1. [Snapchat/Valdi](https://github.com/Snapchat/Valdi)
+## 1. [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)
 
-![项目预览图](https://opengraph.githubassets.com/1/Snapchat/Valdi)
+![项目预览图](https://opengraph.githubassets.com/1/cryptocj520/crypto-trading-open)
 
-📝 **项目描述**: Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+📝 **项目描述**: crypto-trading-open
 
-⭐ **获得 Star**: 2,223
+⭐ **获得 Star**: 1,137
 
-💻 **主要编程语言**: C++
+💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2025-11-06
+📅 **创建时间**: 2025-11-11
 
-👤 **作者**: [Snapchat](https://github.com/Snapchat)
+👤 **作者**: [cryptocj520](https://github.com/cryptocj520)
 
-🔄 **Fork 数量**: 51
+🔄 **Fork 数量**: 644
 
-⚠️ **未解决 Issues**: 9
-
----
-
-## 2. [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake)
-
-![项目预览图](https://opengraph.githubassets.com/1/Snowflake-Labs/pg_lake)
-
-📝 **项目描述**: pg_lake: Postgres with Iceberg and data lake access
-
-⭐ **获得 Star**: 1,093
-
-💻 **主要编程语言**: C
-
-📅 **创建时间**: 2025-11-04
-
-👤 **作者**: [Snowflake-Labs](https://github.com/Snowflake-Labs)
-
-🔄 **Fork 数量**: 42
-
-⚠️ **未解决 Issues**: 22
+⚠️ **未解决 Issues**: 8
 
 ---
 
-## 3. [openpcc/openpcc](https://github.com/openpcc/openpcc)
+## 2. [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)
 
-![项目预览图](https://opengraph.githubassets.com/1/openpcc/openpcc)
+![项目预览图](https://opengraph.githubassets.com/1/ByteDance-Seed/Depth-Anything-3)
 
-📝 **项目描述**: An open-source framework for provably private AI inference
+📝 **项目描述**: Depth Anything 3
 
-⭐ **获得 Star**: 737
+⭐ **获得 Star**: 1,052
 
-💻 **主要编程语言**: Go
+💻 **主要编程语言**: Jupyter Notebook
 
-📅 **创建时间**: 2025-11-05
+📅 **创建时间**: 2025-11-12
 
-👤 **作者**: [openpcc](https://github.com/openpcc)
+👤 **作者**: [ByteDance-Seed](https://github.com/ByteDance-Seed)
 
-🔄 **Fork 数量**: 20
+🔄 **Fork 数量**: 55
 
-⚠️ **未解决 Issues**: 2
+⚠️ **未解决 Issues**: 10
 
 ---
 
-## 4. [SolanaUpdateTools/solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit)
+## 3. [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits)
 
-![项目预览图](https://opengraph.githubassets.com/1/SolanaUpdateTools/solana-starter-kit)
+![项目预览图](https://opengraph.githubassets.com/1/f/git-rewrite-commits)
 
-📝 **项目描述**: Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI.
+📝 **项目描述**: AI-powered git commit message rewriter using Ollama or GPT
 
-⭐ **获得 Star**: 691
+⭐ **获得 Star**: 728
 
-📅 **创建时间**: 2025-11-06
+💻 **主要编程语言**: TypeScript
 
-👤 **作者**: [SolanaUpdateTools](https://github.com/SolanaUpdateTools)
+📅 **创建时间**: 2025-11-10
+
+👤 **作者**: [f](https://github.com/f)
+
+🔄 **Fork 数量**: 25
+
+⚠️ **未解决 Issues**: 5
+
+---
+
+## 4. [rbalestr-lab/lejepa](https://github.com/rbalestr-lab/lejepa)
+
+![项目预览图](https://opengraph.githubassets.com/1/rbalestr-lab/lejepa)
+
+⭐ **获得 Star**: 402
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-11-11
+
+👤 **作者**: [rbalestr-lab](https://github.com/rbalestr-lab)
+
+🔄 **Fork 数量**: 25
+
+⚠️ **未解决 Issues**: 8
+
+---
+
+## 5. [hopx-ai/mcp](https://github.com/hopx-ai/mcp)
+
+![项目预览图](https://opengraph.githubassets.com/1/hopx-ai/mcp)
+
+⭐ **获得 Star**: 335
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-11-10
+
+👤 **作者**: [hopx-ai](https://github.com/hopx-ai)
 
 🔄 **Fork 数量**: 2
 
@@ -93,173 +111,109 @@
 
 ---
 
-## 5. [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)
+## 6. [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode)
 
-![项目预览图](https://opengraph.githubassets.com/1/eooce/Auto-login-netlib)
+![项目预览图](https://opengraph.githubassets.com/1/universal-tool-calling-protocol/code-mode)
 
-📝 **项目描述**: 自动登录netlib.re网站保活域名
+📝 **项目描述**: 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. 
 
-⭐ **获得 Star**: 440
-
-💻 **主要编程语言**: JavaScript
-
-📅 **创建时间**: 2025-11-06
-
-👤 **作者**: [eooce](https://github.com/eooce)
-
-🔄 **Fork 数量**: 998
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 6. [rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover)
-
-![项目预览图](https://opengraph.githubassets.com/1/rakkiez/sora2-watermark-remover)
-
-📝 **项目描述**: Sora 2 AI generated videos gentle watermark remover
-
-⭐ **获得 Star**: 392
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-11-05
-
-👤 **作者**: [rakkiez](https://github.com/rakkiez)
-
-🔄 **Fork 数量**: 180
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 7. [qy527145/acemcp](https://github.com/qy527145/acemcp)
-
-![项目预览图](https://opengraph.githubassets.com/1/qy527145/acemcp)
-
-📝 **项目描述**: 一个将ACE(Augment Context Engine) 做成MCP的项目
-
-⭐ **获得 Star**: 264
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-11-06
-
-👤 **作者**: [qy527145](https://github.com/qy527145)
-
-🔄 **Fork 数量**: 59
-
-⚠️ **未解决 Issues**: 2
-
----
-
-## 8. [Infatoshi/all-of-it](https://github.com/Infatoshi/all-of-it)
-
-![项目预览图](https://opengraph.githubassets.com/1/Infatoshi/all-of-it)
-
-⭐ **获得 Star**: 257
-
-💻 **主要编程语言**: Jupyter Notebook
-
-📅 **创建时间**: 2025-11-04
-
-👤 **作者**: [Infatoshi](https://github.com/Infatoshi)
-
-🔄 **Fork 数量**: 16
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 9. [steipete/mcporter](https://github.com/steipete/mcporter)
-
-![项目预览图](https://opengraph.githubassets.com/1/steipete/mcporter)
-
-📝 **项目描述**: Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
-
-⭐ **获得 Star**: 230
+⭐ **获得 Star**: 290
 
 💻 **主要编程语言**: TypeScript
 
-📅 **创建时间**: 2025-11-05
+📅 **创建时间**: 2025-11-11
 
-👤 **作者**: [steipete](https://github.com/steipete)
+👤 **作者**: [universal-tool-calling-protocol](https://github.com/universal-tool-calling-protocol)
 
-🔄 **Fork 数量**: 7
+🔄 **Fork 数量**: 23
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 7. [nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz)
+
+![项目预览图](https://opengraph.githubassets.com/1/nusquama/n8nworkflows.xyz)
+
+📝 **项目描述**: N8N Workflows Catalog
+
+⭐ **获得 Star**: 284
+
+📅 **创建时间**: 2025-11-12
+
+👤 **作者**: [nusquama](https://github.com/nusquama)
+
+🔄 **Fork 数量**: 72
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 8. [Meph1s-t/Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal)
+
+![项目预览图](https://opengraph.githubassets.com/1/Meph1s-t/Startrail-Gal)
+
+⭐ **获得 Star**: 261
+
+💻 **主要编程语言**: Ren'Py
+
+📅 **创建时间**: 2025-11-10
+
+👤 **作者**: [Meph1s-t](https://github.com/Meph1s-t)
+
+🔄 **Fork 数量**: 18
+
+⚠️ **未解决 Issues**: 29
+
+---
+
+## 9. [Haleclipse/Claudix](https://github.com/Haleclipse/Claudix)
+
+![项目预览图](https://opengraph.githubassets.com/1/Haleclipse/Claudix)
+
+📝 **项目描述**: Gorgeous Claude Code Extend for VS Code.
+
+⭐ **获得 Star**: 233
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-11-13
+
+👤 **作者**: [Haleclipse](https://github.com/Haleclipse)
+
+🔄 **Fork 数量**: 13
+
+⚠️ **未解决 Issues**: 12
+
+---
+
+## 10. [xPOURY4/CodeCraft-Architect](https://github.com/xPOURY4/CodeCraft-Architect)
+
+![项目预览图](https://opengraph.githubassets.com/1/xPOURY4/CodeCraft-Architect)
+
+📝 **项目描述**: AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices. Designed to boost developer productivity and code quality when used as the primary prompt.
+
+⭐ **获得 Star**: 231
+
+📅 **创建时间**: 2025-11-12
+
+👤 **作者**: [xPOURY4](https://github.com/xPOURY4)
+
+🔄 **Fork 数量**: 63
 
 ⚠️ **未解决 Issues**: 1
 
 ---
 
-## 10. [th1n0/CVE-2025-59287](https://github.com/th1n0/CVE-2025-59287)
-
-![项目预览图](https://opengraph.githubassets.com/1/th1n0/CVE-2025-59287)
-
-📝 **项目描述**: WSUS vulnerability PoC
-
-⭐ **获得 Star**: 225
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-11-04
-
-👤 **作者**: [th1n0](https://github.com/th1n0)
-
-🔄 **Fork 数量**: 84
-
-⚠️ **未解决 Issues**: 0
-
----
-
 # 📊 月榜 (过去30天)
 
-## 1. [karpathy/nanochat](https://github.com/karpathy/nanochat)
-
-![项目预览图](https://opengraph.githubassets.com/1/karpathy/nanochat)
-
-📝 **项目描述**: The best ChatGPT that $100 can buy.
-
-⭐ **获得 Star**: 36,142
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-10-13
-
-👤 **作者**: [karpathy](https://github.com/karpathy)
-
-🔄 **Fork 数量**: 4,214
-
-⚠️ **未解决 Issues**: 48
-
----
-
-## 2. [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
-
-![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-OCR)
-
-📝 **项目描述**: Contexts Optical Compression
-
-⭐ **获得 Star**: 19,914
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-10-17
-
-👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
-
-🔄 **Fork 数量**: 1,440
-
-⚠️ **未解决 Issues**: 210
-
----
-
-## 3. [toon-format/toon](https://github.com/toon-format/toon)
+## 1. [toon-format/toon](https://github.com/toon-format/toon)
 
 ![项目预览图](https://opengraph.githubassets.com/1/toon-format/toon)
 
-📝 **项目描述**: 🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
+📝 **项目描述**: 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-⭐ **获得 Star**: 11,910
+⭐ **获得 Star**: 16,205
 
 💻 **主要编程语言**: TypeScript
 
@@ -267,19 +221,19 @@
 
 👤 **作者**: [toon-format](https://github.com/toon-format)
 
-🔄 **Fork 数量**: 434
+🔄 **Fork 数量**: 653
 
-⚠️ **未解决 Issues**: 6
+⚠️ **未解决 Issues**: 13
 
 ---
 
-## 4. [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
+## 2. [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
 
 ![项目预览图](https://opengraph.githubassets.com/1/HKUDS/AI-Trader)
 
-📝 **项目描述**: "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://hkuds.github.io/AI-Trader/
+📝 **项目描述**: "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-⭐ **获得 Star**: 9,124
+⭐ **获得 Star**: 9,385
 
 💻 **主要编程语言**: Python
 
@@ -287,19 +241,39 @@
 
 👤 **作者**: [HKUDS](https://github.com/HKUDS)
 
-🔄 **Fork 数量**: 1,334
+🔄 **Fork 数量**: 1,432
 
-⚠️ **未解决 Issues**: 40
+⚠️ **未解决 Issues**: 48
 
 ---
 
-## 5. [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)
+## 3. [Snapchat/Valdi](https://github.com/Snapchat/Valdi)
+
+![项目预览图](https://opengraph.githubassets.com/1/Snapchat/Valdi)
+
+📝 **项目描述**: Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+
+⭐ **获得 Star**: 9,247
+
+💻 **主要编程语言**: C++
+
+📅 **创建时间**: 2025-11-06
+
+👤 **作者**: [Snapchat](https://github.com/Snapchat)
+
+🔄 **Fork 数量**: 294
+
+⚠️ **未解决 Issues**: 37
+
+---
+
+## 4. [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)
 
 ![项目预览图](https://opengraph.githubassets.com/1/NoFxAiOS/nofx)
 
 📝 **项目描述**: NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
-⭐ **获得 Star**: 7,126
+⭐ **获得 Star**: 7,586
 
 💻 **主要编程语言**: TypeScript
 
@@ -307,19 +281,19 @@
 
 👤 **作者**: [NoFxAiOS](https://github.com/NoFxAiOS)
 
-🔄 **Fork 数量**: 1,754
+🔄 **Fork 数量**: 1,946
 
-⚠️ **未解决 Issues**: 279
+⚠️ **未解决 Issues**: 326
 
 ---
 
-## 6. [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)
+## 5. [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)
 
 ![项目预览图](https://opengraph.githubassets.com/1/diet103/claude-code-infrastructure-showcase)
 
 📝 **项目描述**: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 
-⭐ **获得 Star**: 4,167
+⭐ **获得 Star**: 6,638
 
 💻 **主要编程语言**: Shell
 
@@ -327,79 +301,19 @@
 
 👤 **作者**: [diet103](https://github.com/diet103)
 
-🔄 **Fork 数量**: 585
+🔄 **Fork 数量**: 849
 
-⚠️ **未解决 Issues**: 10
-
----
-
-## 7. [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)
-
-![项目预览图](https://opengraph.githubassets.com/1/yusufkaraaslan/Skill_Seekers)
-
-📝 **项目描述**: Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-
-⭐ **获得 Star**: 3,603
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-10-17
-
-👤 **作者**: [yusufkaraaslan](https://github.com/yusufkaraaslan)
-
-🔄 **Fork 数量**: 362
-
-⚠️ **未解决 Issues**: 118
+⚠️ **未解决 Issues**: 13
 
 ---
 
-## 8. [alam00000/bentopdf](https://github.com/alam00000/bentopdf)
-
-![项目预览图](https://opengraph.githubassets.com/1/alam00000/bentopdf)
-
-📝 **项目描述**: A Privacy First PDF Toolkit
-
-⭐ **获得 Star**: 3,482
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2025-10-12
-
-👤 **作者**: [alam00000](https://github.com/alam00000)
-
-🔄 **Fork 数量**: 228
-
-⚠️ **未解决 Issues**: 46
-
----
-
-## 9. [virattt/dexter](https://github.com/virattt/dexter)
-
-![项目预览图](https://opengraph.githubassets.com/1/virattt/dexter)
-
-📝 **项目描述**: An autonomous agent for deep financial research
-
-⭐ **获得 Star**: 2,733
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-10-14
-
-👤 **作者**: [virattt](https://github.com/virattt)
-
-🔄 **Fork 数量**: 348
-
-⚠️ **未解决 Issues**: 8
-
----
-
-## 10. [wquguru/nof0](https://github.com/wquguru/nof0)
+## 6. [wquguru/nof0](https://github.com/wquguru/nof0)
 
 ![项目预览图](https://opengraph.githubassets.com/1/wquguru/nof0)
 
 📝 **项目描述**: NOF0 - 开源的 AI 交易竞技场
 
-⭐ **获得 Star**: 2,656
+⭐ **获得 Star**: 2,706
 
 💻 **主要编程语言**: Go
 
@@ -407,9 +321,89 @@
 
 👤 **作者**: [wquguru](https://github.com/wquguru)
 
-🔄 **Fork 数量**: 415
+🔄 **Fork 数量**: 429
 
 ⚠️ **未解决 Issues**: 14
+
+---
+
+## 7. [deta/surf](https://github.com/deta/surf)
+
+![项目预览图](https://opengraph.githubassets.com/1/deta/surf)
+
+📝 **项目描述**: Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
+
+⭐ **获得 Star**: 2,680
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-10-20
+
+👤 **作者**: [deta](https://github.com/deta)
+
+🔄 **Fork 数量**: 190
+
+⚠️ **未解决 Issues**: 19
+
+---
+
+## 8. [borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot)
+
+![项目预览图](https://opengraph.githubassets.com/1/borndotcom/react-native-godot)
+
+📝 **项目描述**: React Native Godot - Embed Godot Engine in React Native apps
+
+⭐ **获得 Star**: 2,374
+
+💻 **主要编程语言**: C++
+
+📅 **创建时间**: 2025-11-01
+
+👤 **作者**: [borndotcom](https://github.com/borndotcom)
+
+🔄 **Fork 数量**: 96
+
+⚠️ **未解决 Issues**: 6
+
+---
+
+## 9. [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)
+
+![项目预览图](https://opengraph.githubassets.com/1/TimmyOVO/deepseek-ocr.rs)
+
+📝 **项目描述**: Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
+
+⭐ **获得 Star**: 1,878
+
+💻 **主要编程语言**: Rust
+
+📅 **创建时间**: 2025-10-25
+
+👤 **作者**: [TimmyOVO](https://github.com/TimmyOVO)
+
+🔄 **Fork 数量**: 142
+
+⚠️ **未解决 Issues**: 7
+
+---
+
+## 10. [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory)
+
+![项目预览图](https://opengraph.githubassets.com/1/CaviraOSS/OpenMemory)
+
+📝 **项目描述**: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.
+
+⭐ **获得 Star**: 1,877
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-10-19
+
+👤 **作者**: [CaviraOSS](https://github.com/CaviraOSS)
+
+🔄 **Fork 数量**: 205
+
+⚠️ **未解决 Issues**: 1
 
 ---
 
@@ -421,17 +415,17 @@
 
 📝 **项目描述**: 💫 Toolkit to help you get started with Spec-Driven Development
 
-⭐ **获得 Star**: 46,197
+⭐ **获得 Star**: 48,670
 
-💻 **主要编程语言**: Shell
+💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2025-08-21
 
 👤 **作者**: [github](https://github.com/github)
 
-🔄 **Fork 数量**: 3,962
+🔄 **Fork 数量**: 4,157
 
-⚠️ **未解决 Issues**: 440
+⚠️ **未解决 Issues**: 444
 
 ---
 
@@ -441,7 +435,7 @@
 
 📝 **项目描述**: The best ChatGPT that $100 can buy.
 
-⭐ **获得 Star**: 36,142
+⭐ **获得 Star**: 36,796
 
 💻 **主要编程语言**: Python
 
@@ -449,9 +443,9 @@
 
 👤 **作者**: [karpathy](https://github.com/karpathy)
 
-🔄 **Fork 数量**: 4,214
+🔄 **Fork 数量**: 4,435
 
-⚠️ **未解决 Issues**: 48
+⚠️ **未解决 Issues**: 43
 
 ---
 
@@ -461,7 +455,7 @@
 
 📝 **项目描述**: Contexts Optical Compression
 
-⭐ **获得 Star**: 19,914
+⭐ **获得 Star**: 20,484
 
 💻 **主要编程语言**: Python
 
@@ -469,9 +463,9 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 1,440
+🔄 **Fork 数量**: 1,754
 
-⚠️ **未解决 Issues**: 210
+⚠️ **未解决 Issues**: 238
 
 ---
 
@@ -481,7 +475,7 @@
 
 📝 **项目描述**: Public repository for Skills
 
-⭐ **获得 Star**: 15,947
+⭐ **获得 Star**: 17,081
 
 💻 **主要编程语言**: Python
 
@@ -489,57 +483,19 @@
 
 👤 **作者**: [anthropics](https://github.com/anthropics)
 
-🔄 **Fork 数量**: 1,380
+🔄 **Fork 数量**: 1,547
 
-⚠️ **未解决 Issues**: 61
-
----
-
-## 5. [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
-
-![项目预览图](https://opengraph.githubassets.com/1/PicoTrex/Awesome-Nano-Banana-images)
-
-📝 **项目描述**: A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
-
-⭐ **获得 Star**: 15,693
-
-📅 **创建时间**: 2025-08-28
-
-👤 **作者**: [PicoTrex](https://github.com/PicoTrex)
-
-🔄 **Fork 数量**: 1,637
-
-⚠️ **未解决 Issues**: 14
+⚠️ **未解决 Issues**: 67
 
 ---
 
-## 6. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-
-![项目预览图](https://opengraph.githubassets.com/1/ChromeDevTools/chrome-devtools-mcp)
-
-📝 **项目描述**: Chrome DevTools for coding agents
-
-⭐ **获得 Star**: 14,161
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2025-09-11
-
-👤 **作者**: [ChromeDevTools](https://github.com/ChromeDevTools)
-
-🔄 **Fork 数量**: 852
-
-⚠️ **未解决 Issues**: 50
-
----
-
-## 7. [toon-format/toon](https://github.com/toon-format/toon)
+## 5. [toon-format/toon](https://github.com/toon-format/toon)
 
 ![项目预览图](https://opengraph.githubassets.com/1/toon-format/toon)
 
-📝 **项目描述**: 🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
+📝 **项目描述**: 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
-⭐ **获得 Star**: 11,910
+⭐ **获得 Star**: 16,205
 
 💻 **主要编程语言**: TypeScript
 
@@ -547,9 +503,47 @@
 
 👤 **作者**: [toon-format](https://github.com/toon-format)
 
-🔄 **Fork 数量**: 434
+🔄 **Fork 数量**: 653
 
-⚠️ **未解决 Issues**: 6
+⚠️ **未解决 Issues**: 13
+
+---
+
+## 6. [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
+
+![项目预览图](https://opengraph.githubassets.com/1/PicoTrex/Awesome-Nano-Banana-images)
+
+📝 **项目描述**: A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
+
+⭐ **获得 Star**: 15,898
+
+📅 **创建时间**: 2025-08-28
+
+👤 **作者**: [PicoTrex](https://github.com/PicoTrex)
+
+🔄 **Fork 数量**: 1,680
+
+⚠️ **未解决 Issues**: 16
+
+---
+
+## 7. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
+![项目预览图](https://opengraph.githubassets.com/1/ChromeDevTools/chrome-devtools-mcp)
+
+📝 **项目描述**: Chrome DevTools for coding agents
+
+⭐ **获得 Star**: 14,650
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2025-09-11
+
+👤 **作者**: [ChromeDevTools](https://github.com/ChromeDevTools)
+
+🔄 **Fork 数量**: 884
+
+⚠️ **未解决 Issues**: 54
 
 ---
 
@@ -559,13 +553,13 @@
 
 📝 **项目描述**: Frontier Open-Source Text-to-Speech
 
-⭐ **获得 Star**: 9,886
+⭐ **获得 Star**: 9,956
 
 📅 **创建时间**: 2025-08-25
 
 👤 **作者**: [microsoft](https://github.com/microsoft)
 
-🔄 **Fork 数量**: 1,251
+🔄 **Fork 数量**: 1,270
 
 ⚠️ **未解决 Issues**: 33
 
@@ -575,9 +569,9 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/HKUDS/AI-Trader)
 
-📝 **项目描述**: "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://hkuds.github.io/AI-Trader/
+📝 **项目描述**: "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
-⭐ **获得 Star**: 9,124
+⭐ **获得 Star**: 9,385
 
 💻 **主要编程语言**: Python
 
@@ -585,29 +579,29 @@
 
 👤 **作者**: [HKUDS](https://github.com/HKUDS)
 
-🔄 **Fork 数量**: 1,334
+🔄 **Fork 数量**: 1,432
 
-⚠️ **未解决 Issues**: 40
+⚠️ **未解决 Issues**: 48
 
 ---
 
-## 10. [openai/agents.md](https://github.com/openai/agents.md)
+## 10. [Snapchat/Valdi](https://github.com/Snapchat/Valdi)
 
-![项目预览图](https://opengraph.githubassets.com/1/openai/agents.md)
+![项目预览图](https://opengraph.githubassets.com/1/Snapchat/Valdi)
 
-📝 **项目描述**: AGENTS.md — a simple, open format for guiding coding agents
+📝 **项目描述**: Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
-⭐ **获得 Star**: 8,015
+⭐ **获得 Star**: 9,247
 
-💻 **主要编程语言**: TypeScript
+💻 **主要编程语言**: C++
 
-📅 **创建时间**: 2025-08-19
+📅 **创建时间**: 2025-11-06
 
-👤 **作者**: [openai](https://github.com/openai)
+👤 **作者**: [Snapchat](https://github.com/Snapchat)
 
-🔄 **Fork 数量**: 623
+🔄 **Fork 数量**: 294
 
-⚠️ **未解决 Issues**: 79
+⚠️ **未解决 Issues**: 37
 
 ---
 
@@ -617,7 +611,7 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-V3)
 
-⭐ **获得 Star**: 100,200
+⭐ **获得 Star**: 100,290
 
 💻 **主要编程语言**: Python
 
@@ -625,9 +619,9 @@
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 16,325
+🔄 **Fork 数量**: 16,348
 
-⚠️ **未解决 Issues**: 69
+⚠️ **未解决 Issues**: 70
 
 ---
 
@@ -637,15 +631,15 @@
 
 📝 **项目描述**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
-⭐ **获得 Star**: 94,883
+⭐ **获得 Star**: 95,752
 
 📅 **创建时间**: 2025-03-05
 
 👤 **作者**: [x1xhlol](https://github.com/x1xhlol)
 
-🔄 **Fork 数量**: 25,592
+🔄 **Fork 数量**: 25,787
 
-⚠️ **未解决 Issues**: 100
+⚠️ **未解决 Issues**: 94
 
 ---
 
@@ -653,15 +647,15 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-R1)
 
-⭐ **获得 Star**: 91,455
+⭐ **获得 Star**: 91,485
 
 📅 **创建时间**: 2025-01-20
 
 👤 **作者**: [deepseek-ai](https://github.com/deepseek-ai)
 
-🔄 **Fork 数量**: 11,783
+🔄 **Fork 数量**: 11,776
 
-⚠️ **未解决 Issues**: 37
+⚠️ **未解决 Issues**: 36
 
 ---
 
