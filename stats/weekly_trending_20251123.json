@@ -1,0 +1,162 @@
+[
+  {
+    "name": "karpathy/reader3",
+    "description": "Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.",
+    "stars": 1809,
+    "language": "Python",
+    "url": "https://github.com/karpathy/reader3",
+    "created_at": "2025-11-18T02:37:00Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 195,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/reader3"
+  },
+  {
+    "name": "supertone-inc/supertonic",
+    "description": "Lightning-fast, on-device TTS — running natively via ONNX.",
+    "stars": 632,
+    "language": "Swift",
+    "url": "https://github.com/supertone-inc/supertonic",
+    "created_at": "2025-11-18T08:23:58Z",
+    "owner": {
+      "login": "supertone-inc",
+      "url": "https://github.com/supertone-inc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61007505?v=4"
+    },
+    "forks": 51,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/supertone-inc/supertonic"
+  },
+  {
+    "name": "Norsico/Video-Materials-AutoGEN-Workstation",
+    "description": "一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。",
+    "stars": 600,
+    "language": "Python",
+    "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
+    "created_at": "2025-11-18T13:04:59Z",
+    "owner": {
+      "login": "Norsico",
+      "url": "https://github.com/Norsico",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138738955?v=4"
+    },
+    "forks": 131,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Norsico/Video-Materials-AutoGEN-Workstation"
+  },
+  {
+    "name": "buyukakyuz/install-nothing",
+    "description": "A terminal application that simulates installing things but doesn't actually install anything",
+    "stars": 571,
+    "language": "Rust",
+    "url": "https://github.com/buyukakyuz/install-nothing",
+    "created_at": "2025-11-17T22:03:19Z",
+    "owner": {
+      "login": "buyukakyuz",
+      "url": "https://github.com/buyukakyuz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99087793?v=4"
+    },
+    "forks": 12,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/buyukakyuz/install-nothing"
+  },
+  {
+    "name": "hexagonal-sun/moss",
+    "description": "Rust Linux-compatible kernel",
+    "stars": 526,
+    "language": "Rust",
+    "url": "https://github.com/hexagonal-sun/moss",
+    "created_at": "2025-11-20T14:54:10Z",
+    "owner": {
+      "login": "hexagonal-sun",
+      "url": "https://github.com/hexagonal-sun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222664?v=4"
+    },
+    "forks": 10,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hexagonal-sun/moss"
+  },
+  {
+    "name": "Tencent-Hunyuan/HunyuanVideo-1.5",
+    "description": "HunyuanVideo-1.5: A leading lightweight video generation model",
+    "stars": 410,
+    "language": "Python",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
+    "created_at": "2025-11-20T06:15:42Z",
+    "owner": {
+      "login": "Tencent-Hunyuan",
+      "url": "https://github.com/Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "forks": 21,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent-Hunyuan/HunyuanVideo-1.5"
+  },
+  {
+    "name": "deepseek-ai/LPLB",
+    "description": "An early research stage MoE load balancer based on inear programming.",
+    "stars": 320,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/LPLB",
+    "created_at": "2025-11-19T07:02:55Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 13,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/LPLB"
+  },
+  {
+    "name": "dzhng/claude-agent-server",
+    "description": "Run Claude Agent (Claude Code) in a sandbox, control it via websocket",
+    "stars": 319,
+    "language": "TypeScript",
+    "url": "https://github.com/dzhng/claude-agent-server",
+    "created_at": "2025-11-19T05:33:56Z",
+    "owner": {
+      "login": "dzhng",
+      "url": "https://github.com/dzhng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4"
+    },
+    "forks": 27,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dzhng/claude-agent-server"
+  },
+  {
+    "name": "Mic92/strace-macos",
+    "description": "A clone of the strace command for macOS",
+    "stars": 317,
+    "language": "Python",
+    "url": "https://github.com/Mic92/strace-macos",
+    "created_at": "2025-11-17T10:40:39Z",
+    "owner": {
+      "login": "Mic92",
+      "url": "https://github.com/Mic92",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96200?v=4"
+    },
+    "forks": 3,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Mic92/strace-macos"
+  },
+  {
+    "name": "karpathy/llm-council",
+    "description": "LLM Council works together to answer your hardest questions",
+    "stars": 279,
+    "language": "Python",
+    "url": "https://github.com/karpathy/llm-council",
+    "created_at": "2025-11-22T23:24:14Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 46,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/llm-council"
+  }
+]

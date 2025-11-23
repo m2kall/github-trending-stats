@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Snapchat/Valdi",
+    "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.",
+    "stars": 12443,
+    "language": "C++",
+    "url": "https://github.com/Snapchat/Valdi",
+    "created_at": "2025-11-06T17:33:28Z",
+    "owner": {
+      "login": "Snapchat",
+      "url": "https://github.com/Snapchat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40505220?v=4"
+    },
+    "forks": 419,
+    "issues": 44,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Snapchat/Valdi"
+  },
+  {
+    "name": "NoFxAiOS/nofx",
+    "description": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard",
+    "stars": 7978,
+    "language": "Go",
+    "url": "https://github.com/NoFxAiOS/nofx",
+    "created_at": "2025-10-28T07:17:53Z",
+    "owner": {
+      "login": "NoFxAiOS",
+      "url": "https://github.com/NoFxAiOS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241546879?v=4"
+    },
+    "forks": 2078,
+    "issues": 334,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NoFxAiOS/nofx"
+  },
+  {
+    "name": "diet103/claude-code-infrastructure-showcase",
+    "description": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
+    "stars": 6962,
+    "language": "Shell",
+    "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
+    "created_at": "2025-10-30T03:12:16Z",
+    "owner": {
+      "login": "diet103",
+      "url": "https://github.com/diet103",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215228613?v=4"
+    },
+    "forks": 906,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/diet103/claude-code-infrastructure-showcase"
+  },
+  {
+    "name": "francescopace/espectre",
+    "description": "🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
+    "stars": 3223,
+    "language": "C",
+    "url": "https://github.com/francescopace/espectre",
+    "created_at": "2025-10-26T10:41:51Z",
+    "owner": {
+      "login": "francescopace",
+      "url": "https://github.com/francescopace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11478455?v=4"
+    },
+    "forks": 215,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/francescopace/espectre"
+  },
+  {
+    "name": "ByteDance-Seed/Depth-Anything-3",
+    "description": "Depth Anything 3",
+    "stars": 2563,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/ByteDance-Seed/Depth-Anything-3",
+    "created_at": "2025-11-12T08:44:03Z",
+    "owner": {
+      "login": "ByteDance-Seed",
+      "url": "https://github.com/ByteDance-Seed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202897071?v=4"
+    },
+    "forks": 170,
+    "issues": 58,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ByteDance-Seed/Depth-Anything-3"
+  },
+  {
+    "name": "borndotcom/react-native-godot",
+    "description": "React Native Godot - Embed Godot Engine in React Native apps",
+    "stars": 2422,
+    "language": "C++",
+    "url": "https://github.com/borndotcom/react-native-godot",
+    "created_at": "2025-11-01T10:54:51Z",
+    "owner": {
+      "login": "borndotcom",
+      "url": "https://github.com/borndotcom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111642311?v=4"
+    },
+    "forks": 100,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/borndotcom/react-native-godot"
+  },
+  {
+    "name": "straight-tamago/misaka26",
+    "description": "iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. ",
+    "stars": 2312,
+    "language": null,
+    "url": "https://github.com/straight-tamago/misaka26",
+    "created_at": "2025-11-16T14:48:46Z",
+    "owner": {
+      "login": "straight-tamago",
+      "url": "https://github.com/straight-tamago",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121408851?v=4"
+    },
+    "forks": 93,
+    "issues": 223,
+    "social_preview_url": "https://opengraph.githubassets.com/1/straight-tamago/misaka26"
+  },
+  {
+    "name": "facebookresearch/omnilingual-asr",
+    "description": "Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages",
+    "stars": 2178,
+    "language": "Python",
+    "url": "https://github.com/facebookresearch/omnilingual-asr",
+    "created_at": "2025-11-06T22:38:00Z",
+    "owner": {
+      "login": "facebookresearch",
+      "url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "forks": 179,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebookresearch/omnilingual-asr"
+  },
+  {
+    "name": "TimmyOVO/deepseek-ocr.rs",
+    "description": "Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.",
+    "stars": 1947,
+    "language": "Rust",
+    "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
+    "created_at": "2025-10-25T13:42:10Z",
+    "owner": {
+      "login": "TimmyOVO",
+      "url": "https://github.com/TimmyOVO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47740511?v=4"
+    },
+    "forks": 148,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/TimmyOVO/deepseek-ocr.rs"
+  },
+  {
+    "name": "liujuntao123/smart-excalidraw-next",
+    "description": "A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language",
+    "stars": 1898,
+    "language": "JavaScript",
+    "url": "https://github.com/liujuntao123/smart-excalidraw-next",
+    "created_at": "2025-10-30T02:12:40Z",
+    "owner": {
+      "login": "liujuntao123",
+      "url": "https://github.com/liujuntao123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22583601?v=4"
+    },
+    "forks": 238,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/liujuntao123/smart-excalidraw-next"
+  }
+]
