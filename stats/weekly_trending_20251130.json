@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Facepunch/sbox-public",
+    "description": "s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games",
+    "stars": 2805,
+    "language": "C#",
+    "url": "https://github.com/Facepunch/sbox-public",
+    "created_at": "2025-11-24T08:18:33Z",
+    "owner": {
+      "login": "Facepunch",
+      "url": "https://github.com/Facepunch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3371040?v=4"
+    },
+    "forks": 161,
+    "issues": 39,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Facepunch/sbox-public"
+  },
+  {
+    "name": "Tongyi-MAI/Z-Image",
+    "description": null,
+    "stars": 2356,
+    "language": null,
+    "url": "https://github.com/Tongyi-MAI/Z-Image",
+    "created_at": "2025-11-26T09:18:10Z",
+    "owner": {
+      "login": "Tongyi-MAI",
+      "url": "https://github.com/Tongyi-MAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246097416?v=4"
+    },
+    "forks": 109,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tongyi-MAI/Z-Image"
+  },
+  {
+    "name": "HisMax/RedInk",
+    "description": "红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\"",
+    "stars": 1953,
+    "language": "Python",
+    "url": "https://github.com/HisMax/RedInk",
+    "created_at": "2025-11-25T10:12:54Z",
+    "owner": {
+      "login": "HisMax",
+      "url": "https://github.com/HisMax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42793695?v=4"
+    },
+    "forks": 400,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HisMax/RedInk"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-Math-V2",
+    "description": null,
+    "stars": 1056,
+    "language": null,
+    "url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
+    "created_at": "2025-11-27T06:12:26Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 56,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-Math-V2"
+  },
+  {
+    "name": "black-forest-labs/flux2",
+    "description": "Official inference repo for FLUX.2 models",
+    "stars": 914,
+    "language": "Python",
+    "url": "https://github.com/black-forest-labs/flux2",
+    "created_at": "2025-11-24T23:28:49Z",
+    "owner": {
+      "login": "black-forest-labs",
+      "url": "https://github.com/black-forest-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164064024?v=4"
+    },
+    "forks": 38,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/black-forest-labs/flux2"
+  },
+  {
+    "name": "Rohithgilla12/data-peek",
+    "description": "A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.",
+    "stars": 636,
+    "language": "TypeScript",
+    "url": "https://github.com/Rohithgilla12/data-peek",
+    "created_at": "2025-11-28T09:36:04Z",
+    "owner": {
+      "login": "Rohithgilla12",
+      "url": "https://github.com/Rohithgilla12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19389850?v=4"
+    },
+    "forks": 38,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Rohithgilla12/data-peek"
+  },
+  {
+    "name": "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
+    "description": "Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court",
+    "stars": 514,
+    "language": "HTML",
+    "url": "https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
+    "created_at": "2025-11-28T15:45:40Z",
+    "owner": {
+      "login": "Hong-Kong-Emergency-Coordination-Hub",
+      "url": "https://github.com/Hong-Kong-Emergency-Coordination-Hub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246666143?v=4"
+    },
+    "forks": 65,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary"
+  },
+  {
+    "name": "drak6y/Trading-Bot-For-Binance-Future",
+    "description": "Technical-analysis–driven crypto trading bot for Binance Futures.",
+    "stars": 511,
+    "language": "Python",
+    "url": "https://github.com/drak6y/Trading-Bot-For-Binance-Future",
+    "created_at": "2025-11-24T17:01:56Z",
+    "owner": {
+      "login": "drak6y",
+      "url": "https://github.com/drak6y",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35601651?v=4"
+    },
+    "forks": 73,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/drak6y/Trading-Bot-For-Binance-Future"
+  },
+  {
+    "name": "portrret/spyder-osint",
+    "description": "An universal osint tool.",
+    "stars": 482,
+    "language": "Python",
+    "url": "https://github.com/portrret/spyder-osint",
+    "created_at": "2025-11-27T16:34:58Z",
+    "owner": {
+      "login": "portrret",
+      "url": "https://github.com/portrret",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12428445?v=4"
+    },
+    "forks": 98,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/portrret/spyder-osint"
+  },
+  {
+    "name": "Gururagavendra/gmail-cleaner",
+    "description": "web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like",
+    "stars": 328,
+    "language": "Python",
+    "url": "https://github.com/Gururagavendra/gmail-cleaner",
+    "created_at": "2025-11-29T09:19:54Z",
+    "owner": {
+      "login": "Gururagavendra",
+      "url": "https://github.com/Gururagavendra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84856326?v=4"
+    },
+    "forks": 14,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Gururagavendra/gmail-cleaner"
+  }
+]

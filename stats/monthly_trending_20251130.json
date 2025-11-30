@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Snapchat/Valdi",
+    "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.",
+    "stars": 14581,
+    "language": "C++",
+    "url": "https://github.com/Snapchat/Valdi",
+    "created_at": "2025-11-06T17:33:28Z",
+    "owner": {
+      "login": "Snapchat",
+      "url": "https://github.com/Snapchat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40505220?v=4"
+    },
+    "forks": 471,
+    "issues": 49,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Snapchat/Valdi"
+  },
+  {
+    "name": "karpathy/llm-council",
+    "description": "LLM Council works together to answer your hardest questions",
+    "stars": 7805,
+    "language": "Python",
+    "url": "https://github.com/karpathy/llm-council",
+    "created_at": "2025-11-22T23:24:14Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 1202,
+    "issues": 44,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/llm-council"
+  },
+  {
+    "name": "ByteDance-Seed/Depth-Anything-3",
+    "description": "Depth Anything 3",
+    "stars": 2998,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/ByteDance-Seed/Depth-Anything-3",
+    "created_at": "2025-11-12T08:44:03Z",
+    "owner": {
+      "login": "ByteDance-Seed",
+      "url": "https://github.com/ByteDance-Seed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202897071?v=4"
+    },
+    "forks": 228,
+    "issues": 75,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ByteDance-Seed/Depth-Anything-3"
+  },
+  {
+    "name": "unhappychoice/gitlogue",
+    "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+    "stars": 2853,
+    "language": "Rust",
+    "url": "https://github.com/unhappychoice/gitlogue",
+    "created_at": "2025-11-08T21:22:33Z",
+    "owner": {
+      "login": "unhappychoice",
+      "url": "https://github.com/unhappychoice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5608948?v=4"
+    },
+    "forks": 53,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/unhappychoice/gitlogue"
+  },
+  {
+    "name": "Facepunch/sbox-public",
+    "description": "s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games",
+    "stars": 2805,
+    "language": "C#",
+    "url": "https://github.com/Facepunch/sbox-public",
+    "created_at": "2025-11-24T08:18:33Z",
+    "owner": {
+      "login": "Facepunch",
+      "url": "https://github.com/Facepunch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3371040?v=4"
+    },
+    "forks": 161,
+    "issues": 39,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Facepunch/sbox-public"
+  },
+  {
+    "name": "straight-tamago/misaka26",
+    "description": "iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. ",
+    "stars": 2760,
+    "language": null,
+    "url": "https://github.com/straight-tamago/misaka26",
+    "created_at": "2025-11-16T14:48:46Z",
+    "owner": {
+      "login": "straight-tamago",
+      "url": "https://github.com/straight-tamago",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121408851?v=4"
+    },
+    "forks": 115,
+    "issues": 259,
+    "social_preview_url": "https://opengraph.githubassets.com/1/straight-tamago/misaka26"
+  },
+  {
+    "name": "ZeroLu/awesome-nanobanana-pro",
+    "description": "🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
+    "stars": 2652,
+    "language": null,
+    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
+    "created_at": "2025-11-10T13:51:03Z",
+    "owner": {
+      "login": "ZeroLu",
+      "url": "https://github.com/ZeroLu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7347148?v=4"
+    },
+    "forks": 205,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ZeroLu/awesome-nanobanana-pro"
+  },
+  {
+    "name": "borndotcom/react-native-godot",
+    "description": "React Native Godot - Embed Godot Engine in React Native apps",
+    "stars": 2444,
+    "language": "C++",
+    "url": "https://github.com/borndotcom/react-native-godot",
+    "created_at": "2025-11-01T10:54:51Z",
+    "owner": {
+      "login": "borndotcom",
+      "url": "https://github.com/borndotcom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111642311?v=4"
+    },
+    "forks": 102,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/borndotcom/react-native-godot"
+  },
+  {
+    "name": "Tongyi-MAI/Z-Image",
+    "description": null,
+    "stars": 2356,
+    "language": null,
+    "url": "https://github.com/Tongyi-MAI/Z-Image",
+    "created_at": "2025-11-26T09:18:10Z",
+    "owner": {
+      "login": "Tongyi-MAI",
+      "url": "https://github.com/Tongyi-MAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246097416?v=4"
+    },
+    "forks": 109,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tongyi-MAI/Z-Image"
+  },
+  {
+    "name": "facebookresearch/omnilingual-asr",
+    "description": "Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages",
+    "stars": 2316,
+    "language": "Python",
+    "url": "https://github.com/facebookresearch/omnilingual-asr",
+    "created_at": "2025-11-06T22:38:00Z",
+    "owner": {
+      "login": "facebookresearch",
+      "url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "forks": 188,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/facebookresearch/omnilingual-asr"
+  }
+]
