@@ -1,0 +1,162 @@
+[
+  {
+    "name": "karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.",
+    "stars": 38167,
+    "language": "Python",
+    "url": "https://github.com/karpathy/nanochat",
+    "created_at": "2025-10-13T13:46:35Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 4756,
+    "issues": 72,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/nanochat"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-OCR",
+    "description": "Contexts Optical Compression",
+    "stars": 21214,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "created_at": "2025-10-17T06:14:27Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1885,
+    "issues": 258,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-OCR"
+  },
+  {
+    "name": "toon-format/toon",
+    "description": "🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.",
+    "stars": 20327,
+    "language": "TypeScript",
+    "url": "https://github.com/toon-format/toon",
+    "created_at": "2025-10-22T18:17:32Z",
+    "owner": {
+      "login": "toon-format",
+      "url": "https://github.com/toon-format",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241380424?v=4"
+    },
+    "forks": 890,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/toon-format/toon"
+  },
+  {
+    "name": "anthropics/skills",
+    "description": "Public repository for Skills",
+    "stars": 19635,
+    "language": "Python",
+    "url": "https://github.com/anthropics/skills",
+    "created_at": "2025-09-22T15:53:31Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 1861,
+    "issues": 86,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/skills"
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "stars": 16062,
+    "language": "TypeScript",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "created_at": "2025-09-11T10:39:55Z",
+    "owner": {
+      "login": "ChromeDevTools",
+      "url": "https://github.com/ChromeDevTools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11260967?v=4"
+    },
+    "forks": 989,
+    "issues": 56,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "name": "Snapchat/Valdi",
+    "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.",
+    "stars": 15769,
+    "language": "C++",
+    "url": "https://github.com/Snapchat/Valdi",
+    "created_at": "2025-11-06T17:33:28Z",
+    "owner": {
+      "login": "Snapchat",
+      "url": "https://github.com/Snapchat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40505220?v=4"
+    },
+    "forks": 530,
+    "issues": 55,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Snapchat/Valdi"
+  },
+  {
+    "name": "karpathy/llm-council",
+    "description": "LLM Council works together to answer your hardest questions",
+    "stars": 9968,
+    "language": "Python",
+    "url": "https://github.com/karpathy/llm-council",
+    "created_at": "2025-11-22T23:24:14Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 1670,
+    "issues": 61,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/llm-council"
+  },
+  {
+    "name": "HKUDS/AI-Trader",
+    "description": "\"AI-Trader: Can AI Beat the Market?\" Live Trading Bench: https://ai4trade.ai",
+    "stars": 9803,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "created_at": "2025-10-23T12:45:00Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 1552,
+    "issues": 39,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/AI-Trader"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "Claude Code superpowers: core skills library",
+    "stars": 8898,
+    "language": "Shell",
+    "url": "https://github.com/obra/superpowers",
+    "created_at": "2025-10-09T19:45:18Z",
+    "owner": {
+      "login": "obra",
+      "url": "https://github.com/obra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45416?v=4"
+    },
+    "forks": 739,
+    "issues": 41,
+    "social_preview_url": "https://opengraph.githubassets.com/1/obra/superpowers"
+  },
+  {
+    "name": "NoFxAiOS/nofx",
+    "description": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, and real-time dashboard",
+    "stars": 8681,
+    "language": "Go",
+    "url": "https://github.com/NoFxAiOS/nofx",
+    "created_at": "2025-10-28T07:17:53Z",
+    "owner": {
+      "login": "NoFxAiOS",
+      "url": "https://github.com/NoFxAiOS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241546879?v=4"
+    },
+    "forks": 2221,
+    "issues": 365,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NoFxAiOS/nofx"
+  }
+]

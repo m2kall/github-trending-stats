@@ -1,0 +1,162 @@
+[
+  {
+    "name": "assetnote/react2shell-scanner",
+    "description": "High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)",
+    "stars": 792,
+    "language": "Python",
+    "url": "https://github.com/assetnote/react2shell-scanner",
+    "created_at": "2025-12-04T06:55:04Z",
+    "owner": {
+      "login": "assetnote",
+      "url": "https://github.com/assetnote",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35264812?v=4"
+    },
+    "forks": 89,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/assetnote/react2shell-scanner"
+  },
+  {
+    "name": "ejpir/CVE-2025-55182-research",
+    "description": "CVE-2025-55182 POC",
+    "stars": 672,
+    "language": "JavaScript",
+    "url": "https://github.com/ejpir/CVE-2025-55182-research",
+    "created_at": "2025-12-03T21:16:22Z",
+    "owner": {
+      "login": "ejpir",
+      "url": "https://github.com/ejpir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16493171?v=4"
+    },
+    "forks": 189,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ejpir/CVE-2025-55182-research"
+  },
+  {
+    "name": "msanft/CVE-2025-55182",
+    "description": "Explanation and full RCE PoC for CVE-2025-55182",
+    "stars": 570,
+    "language": "Python",
+    "url": "https://github.com/msanft/CVE-2025-55182",
+    "created_at": "2025-12-04T11:49:55Z",
+    "owner": {
+      "login": "msanft",
+      "url": "https://github.com/msanft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58110325?v=4"
+    },
+    "forks": 92,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/msanft/CVE-2025-55182"
+  },
+  {
+    "name": "guhcostan/mac-cleaner-cli",
+    "description": null,
+    "stars": 398,
+    "language": "TypeScript",
+    "url": "https://github.com/guhcostan/mac-cleaner-cli",
+    "created_at": "2025-12-04T12:49:07Z",
+    "owner": {
+      "login": "guhcostan",
+      "url": "https://github.com/guhcostan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22989468?v=4"
+    },
+    "forks": 36,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/guhcostan/mac-cleaner-cli"
+  },
+  {
+    "name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+    "description": "Original Proof-of-Concept's for React2Shell CVE-2025-55182",
+    "stars": 387,
+    "language": "JavaScript",
+    "url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+    "created_at": "2025-12-05T08:00:07Z",
+    "owner": {
+      "login": "lachlan2k",
+      "url": "https://github.com/lachlan2k",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4683714?v=4"
+    },
+    "forks": 26,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lachlan2k/React2Shell-CVE-2025-55182-original-poc"
+  },
+  {
+    "name": "crowmd/GoogleMapAIagent",
+    "description": null,
+    "stars": 299,
+    "language": null,
+    "url": "https://github.com/crowmd/GoogleMapAIagent",
+    "created_at": "2025-12-05T16:26:38Z",
+    "owner": {
+      "login": "crowmd",
+      "url": "https://github.com/crowmd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207404183?v=4"
+    },
+    "forks": 90,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/crowmd/GoogleMapAIagent"
+  },
+  {
+    "name": "norish-recipes/norish",
+    "description": "Norish - A realtime, self-hosted recipe app for families & friends ",
+    "stars": 287,
+    "language": "TypeScript",
+    "url": "https://github.com/norish-recipes/norish",
+    "created_at": "2025-12-03T09:15:43Z",
+    "owner": {
+      "login": "norish-recipes",
+      "url": "https://github.com/norish-recipes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247553455?v=4"
+    },
+    "forks": 15,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/norish-recipes/norish"
+  },
+  {
+    "name": "mrknow001/RSC_Detector",
+    "description": "Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.",
+    "stars": 256,
+    "language": "JavaScript",
+    "url": "https://github.com/mrknow001/RSC_Detector",
+    "created_at": "2025-12-05T05:53:25Z",
+    "owner": {
+      "login": "mrknow001",
+      "url": "https://github.com/mrknow001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46807619?v=4"
+    },
+    "forks": 33,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mrknow001/RSC_Detector"
+  },
+  {
+    "name": "Alibaba-Quark/LiveAvatar",
+    "description": "Implementation of \"Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length\"",
+    "stars": 246,
+    "language": null,
+    "url": "https://github.com/Alibaba-Quark/LiveAvatar",
+    "created_at": "2025-12-04T11:06:10Z",
+    "owner": {
+      "login": "Alibaba-Quark",
+      "url": "https://github.com/Alibaba-Quark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234896613?v=4"
+    },
+    "forks": 19,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Alibaba-Quark/LiveAvatar"
+  },
+  {
+    "name": "AstRoZbEamwAv/smart-contracts-and-mev-bot-deployer",
+    "description": "Best platform to deploy smart contracts on Ethereum & BSC — tokens, NFTs, DeFi & MEV bots.",
+    "stars": 233,
+    "language": "Solidity",
+    "url": "https://github.com/AstRoZbEamwAv/smart-contracts-and-mev-bot-deployer",
+    "created_at": "2025-12-01T20:38:42Z",
+    "owner": {
+      "login": "AstRoZbEamwAv",
+      "url": "https://github.com/AstRoZbEamwAv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246999348?v=4"
+    },
+    "forks": 135,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/AstRoZbEamwAv/smart-contracts-and-mev-bot-deployer"
+  }
+]
