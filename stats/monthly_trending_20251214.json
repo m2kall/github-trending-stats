@@ -1,0 +1,162 @@
+[
+  {
+    "name": "zai-org/Open-AutoGLM",
+    "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+    "stars": 13689,
+    "language": "Python",
+    "url": "https://github.com/zai-org/Open-AutoGLM",
+    "created_at": "2025-12-08T09:23:44Z",
+    "owner": {
+      "login": "zai-org",
+      "url": "https://github.com/zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "forks": 2142,
+    "issues": 100,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zai-org/Open-AutoGLM"
+  },
+  {
+    "name": "karpathy/llm-council",
+    "description": "LLM Council works together to answer your hardest questions",
+    "stars": 11113,
+    "language": "Python",
+    "url": "https://github.com/karpathy/llm-council",
+    "created_at": "2025-11-22T23:24:14Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 1989,
+    "issues": 73,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/llm-council"
+  },
+  {
+    "name": "Tongyi-MAI/Z-Image",
+    "description": null,
+    "stars": 6792,
+    "language": "Python",
+    "url": "https://github.com/Tongyi-MAI/Z-Image",
+    "created_at": "2025-11-26T09:18:10Z",
+    "owner": {
+      "login": "Tongyi-MAI",
+      "url": "https://github.com/Tongyi-MAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246097416?v=4"
+    },
+    "forks": 380,
+    "issues": 54,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tongyi-MAI/Z-Image"
+  },
+  {
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "description": "🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library",
+    "stars": 3804,
+    "language": "TypeScript",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "created_at": "2025-11-23T07:17:48Z",
+    "owner": {
+      "login": "YouMind-OpenLab",
+      "url": "https://github.com/YouMind-OpenLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245655810?v=4"
+    },
+    "forks": 339,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "name": "HisMax/RedInk",
+    "description": "红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\"",
+    "stars": 3599,
+    "language": "Python",
+    "url": "https://github.com/HisMax/RedInk",
+    "created_at": "2025-11-25T10:12:54Z",
+    "owner": {
+      "login": "HisMax",
+      "url": "https://github.com/HisMax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42793695?v=4"
+    },
+    "forks": 698,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HisMax/RedInk"
+  },
+  {
+    "name": "Facepunch/sbox-public",
+    "description": "s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games",
+    "stars": 3355,
+    "language": "C#",
+    "url": "https://github.com/Facepunch/sbox-public",
+    "created_at": "2025-11-24T08:18:33Z",
+    "owner": {
+      "login": "Facepunch",
+      "url": "https://github.com/Facepunch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3371040?v=4"
+    },
+    "forks": 215,
+    "issues": 44,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Facepunch/sbox-public"
+  },
+  {
+    "name": "pshenok/server-survival",
+    "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
+    "stars": 3241,
+    "language": "JavaScript",
+    "url": "https://github.com/pshenok/server-survival",
+    "created_at": "2025-11-21T02:36:29Z",
+    "owner": {
+      "login": "pshenok",
+      "url": "https://github.com/pshenok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42213409?v=4"
+    },
+    "forks": 350,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pshenok/server-survival"
+  },
+  {
+    "name": "straight-tamago/misaka26",
+    "description": "iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. ",
+    "stars": 3064,
+    "language": null,
+    "url": "https://github.com/straight-tamago/misaka26",
+    "created_at": "2025-11-16T14:48:46Z",
+    "owner": {
+      "login": "straight-tamago",
+      "url": "https://github.com/straight-tamago",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121408851?v=4"
+    },
+    "forks": 130,
+    "issues": 287,
+    "social_preview_url": "https://opengraph.githubassets.com/1/straight-tamago/misaka26"
+  },
+  {
+    "name": "donlon/cloudflare-error-page",
+    "description": "Cloudflare error page generator",
+    "stars": 2796,
+    "language": "EJS",
+    "url": "https://github.com/donlon/cloudflare-error-page",
+    "created_at": "2025-11-19T12:00:12Z",
+    "owner": {
+      "login": "donlon",
+      "url": "https://github.com/donlon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4056887?v=4"
+    },
+    "forks": 140,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/donlon/cloudflare-error-page"
+  },
+  {
+    "name": "karpathy/reader3",
+    "description": "Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.",
+    "stars": 2613,
+    "language": "Python",
+    "url": "https://github.com/karpathy/reader3",
+    "created_at": "2025-11-18T02:37:00Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 333,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/reader3"
+  }
+]

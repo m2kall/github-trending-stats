@@ -1,0 +1,162 @@
+[
+  {
+    "name": "zai-org/Open-AutoGLM",
+    "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+    "stars": 13689,
+    "language": "Python",
+    "url": "https://github.com/zai-org/Open-AutoGLM",
+    "created_at": "2025-12-08T09:23:44Z",
+    "owner": {
+      "login": "zai-org",
+      "url": "https://github.com/zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "forks": 2142,
+    "issues": 100,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zai-org/Open-AutoGLM"
+  },
+  {
+    "name": "mistralai/mistral-vibe",
+    "description": "Minimal CLI coding agent by Mistral",
+    "stars": 1903,
+    "language": "Python",
+    "url": "https://github.com/mistralai/mistral-vibe",
+    "created_at": "2025-12-08T18:56:59Z",
+    "owner": {
+      "login": "mistralai",
+      "url": "https://github.com/mistralai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132372032?v=4"
+    },
+    "forks": 134,
+    "issues": 98,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mistralai/mistral-vibe"
+  },
+  {
+    "name": "cporter202/API-mega-list",
+    "description": "This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪",
+    "stars": 940,
+    "language": "JavaScript",
+    "url": "https://github.com/cporter202/API-mega-list",
+    "created_at": "2025-12-09T15:36:20Z",
+    "owner": {
+      "login": "cporter202",
+      "url": "https://github.com/cporter202",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163957687?v=4"
+    },
+    "forks": 208,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cporter202/API-mega-list"
+  },
+  {
+    "name": "actionstatelabs/android-action-kernel",
+    "description": null,
+    "stars": 586,
+    "language": "Python",
+    "url": "https://github.com/actionstatelabs/android-action-kernel",
+    "created_at": "2025-12-11T11:07:23Z",
+    "owner": {
+      "login": "actionstatelabs",
+      "url": "https://github.com/actionstatelabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249093843?v=4"
+    },
+    "forks": 66,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/actionstatelabs/android-action-kernel"
+  },
+  {
+    "name": "typsusan-zzz/canvas-drawing-editor",
+    "description": "强大的 Canvas 画布编辑器 Web Component，零依赖，支持 Vue 2/3、React、Angular 和原生 HTML | A powerful canvas-based drawing editor Web Component - Zero dependencies, works with Vue 2/3, React, Angular, and vanilla HTML",
+    "stars": 577,
+    "language": "TypeScript",
+    "url": "https://github.com/typsusan-zzz/canvas-drawing-editor",
+    "created_at": "2025-12-08T06:09:38Z",
+    "owner": {
+      "login": "typsusan-zzz",
+      "url": "https://github.com/typsusan-zzz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228842672?v=4"
+    },
+    "forks": 5,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/typsusan-zzz/canvas-drawing-editor"
+  },
+  {
+    "name": "cporter202/scraping-apis-for-devs",
+    "description": "This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications. ",
+    "stars": 576,
+    "language": "JavaScript",
+    "url": "https://github.com/cporter202/scraping-apis-for-devs",
+    "created_at": "2025-12-10T18:35:41Z",
+    "owner": {
+      "login": "cporter202",
+      "url": "https://github.com/cporter202",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163957687?v=4"
+    },
+    "forks": 128,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cporter202/scraping-apis-for-devs"
+  },
+  {
+    "name": "tobi/qmd",
+    "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+    "stars": 563,
+    "language": "TypeScript",
+    "url": "https://github.com/tobi/qmd",
+    "created_at": "2025-12-08T14:22:57Z",
+    "owner": {
+      "login": "tobi",
+      "url": "https://github.com/tobi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347?v=4"
+    },
+    "forks": 16,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tobi/qmd"
+  },
+  {
+    "name": "zai-org/GLM-ASR",
+    "description": "GLM-ASR-Nano: A robust, open-source speech recognition model with 1.5B parameters",
+    "stars": 476,
+    "language": "Python",
+    "url": "https://github.com/zai-org/GLM-ASR",
+    "created_at": "2025-12-09T17:27:18Z",
+    "owner": {
+      "login": "zai-org",
+      "url": "https://github.com/zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "forks": 41,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zai-org/GLM-ASR"
+  },
+  {
+    "name": "karpathy/hn-time-capsule",
+    "description": "Analyzing Hacker News discussions from a decade ago in hindsight with LLMs",
+    "stars": 363,
+    "language": "Python",
+    "url": "https://github.com/karpathy/hn-time-capsule",
+    "created_at": "2025-12-10T16:10:52Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 35,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/hn-time-capsule"
+  },
+  {
+    "name": "t3tra-dev/MoZuku",
+    "description": "日本語文章の解析・校正を行う LSP サーバー。",
+    "stars": 347,
+    "language": "C++",
+    "url": "https://github.com/t3tra-dev/MoZuku",
+    "created_at": "2025-12-08T23:23:24Z",
+    "owner": {
+      "login": "t3tra-dev",
+      "url": "https://github.com/t3tra-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115448016?v=4"
+    },
+    "forks": 8,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/t3tra-dev/MoZuku"
+  }
+]
