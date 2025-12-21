@@ -1,0 +1,162 @@
+[
+  {
+    "name": "zai-org/Open-AutoGLM",
+    "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+    "stars": 18234,
+    "language": "Python",
+    "url": "https://github.com/zai-org/Open-AutoGLM",
+    "created_at": "2025-12-08T09:23:44Z",
+    "owner": {
+      "login": "zai-org",
+      "url": "https://github.com/zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "forks": 2854,
+    "issues": 145,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zai-org/Open-AutoGLM"
+  },
+  {
+    "name": "karpathy/llm-council",
+    "description": "LLM Council works together to answer your hardest questions",
+    "stars": 11727,
+    "language": "Python",
+    "url": "https://github.com/karpathy/llm-council",
+    "created_at": "2025-11-22T23:24:14Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 2170,
+    "issues": 76,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/llm-council"
+  },
+  {
+    "name": "Tongyi-MAI/Z-Image",
+    "description": null,
+    "stars": 7495,
+    "language": "Python",
+    "url": "https://github.com/Tongyi-MAI/Z-Image",
+    "created_at": "2025-11-26T09:18:10Z",
+    "owner": {
+      "login": "Tongyi-MAI",
+      "url": "https://github.com/Tongyi-MAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246097416?v=4"
+    },
+    "forks": 443,
+    "issues": 60,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tongyi-MAI/Z-Image"
+  },
+  {
+    "name": "Anionex/banana-slides",
+    "description": "一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌",
+    "stars": 5230,
+    "language": "TypeScript",
+    "url": "https://github.com/Anionex/banana-slides",
+    "created_at": "2025-11-29T17:37:26Z",
+    "owner": {
+      "login": "Anionex",
+      "url": "https://github.com/Anionex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123177548?v=4"
+    },
+    "forks": 577,
+    "issues": 26,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Anionex/banana-slides"
+  },
+  {
+    "name": "apple/ml-sharp",
+    "description": "Sharp Monocular View Synthesis in Less Than a Second",
+    "stars": 4271,
+    "language": "Python",
+    "url": "https://github.com/apple/ml-sharp",
+    "created_at": "2025-12-12T03:46:09Z",
+    "owner": {
+      "login": "apple",
+      "url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "forks": 259,
+    "issues": 26,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apple/ml-sharp"
+  },
+  {
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "description": "🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library",
+    "stars": 4133,
+    "language": "TypeScript",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "created_at": "2025-11-23T07:17:48Z",
+    "owner": {
+      "login": "YouMind-OpenLab",
+      "url": "https://github.com/YouMind-OpenLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245655810?v=4"
+    },
+    "forks": 375,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "name": "HisMax/RedInk",
+    "description": "红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\"",
+    "stars": 3952,
+    "language": "Python",
+    "url": "https://github.com/HisMax/RedInk",
+    "created_at": "2025-11-25T10:12:54Z",
+    "owner": {
+      "login": "HisMax",
+      "url": "https://github.com/HisMax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42793695?v=4"
+    },
+    "forks": 783,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HisMax/RedInk"
+  },
+  {
+    "name": "Facepunch/sbox-public",
+    "description": "s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games",
+    "stars": 3426,
+    "language": "C#",
+    "url": "https://github.com/Facepunch/sbox-public",
+    "created_at": "2025-11-24T08:18:33Z",
+    "owner": {
+      "login": "Facepunch",
+      "url": "https://github.com/Facepunch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3371040?v=4"
+    },
+    "forks": 220,
+    "issues": 45,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Facepunch/sbox-public"
+  },
+  {
+    "name": "666OS/ClashMac",
+    "description": "基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.",
+    "stars": 2594,
+    "language": null,
+    "url": "https://github.com/666OS/ClashMac",
+    "created_at": "2025-11-28T04:41:02Z",
+    "owner": {
+      "login": "666OS",
+      "url": "https://github.com/666OS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179918304?v=4"
+    },
+    "forks": 101,
+    "issues": 24,
+    "social_preview_url": "https://opengraph.githubassets.com/1/666OS/ClashMac"
+  },
+  {
+    "name": "HKUDS/Paper2Slides",
+    "description": "\"Paper2Slides: From Paper to Presentation in One Click\"",
+    "stars": 2381,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/Paper2Slides",
+    "created_at": "2025-12-07T06:15:43Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 325,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/Paper2Slides"
+  }
+]

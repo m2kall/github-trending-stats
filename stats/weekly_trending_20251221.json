@@ -1,0 +1,162 @@
+[
+  {
+    "name": "productdevbook/port-killer",
+    "description": "Native macOS app for finding and killing processes on open ports. Perfect for developers.",
+    "stars": 2298,
+    "language": "Swift",
+    "url": "https://github.com/productdevbook/port-killer",
+    "created_at": "2025-12-16T01:44:50Z",
+    "owner": {
+      "login": "productdevbook",
+      "url": "https://github.com/productdevbook",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38668796?v=4"
+    },
+    "forks": 63,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/productdevbook/port-killer"
+  },
+  {
+    "name": "agentskills/agentskills",
+    "description": "Specification and documentation for Agent Skills",
+    "stars": 1640,
+    "language": "Python",
+    "url": "https://github.com/agentskills/agentskills",
+    "created_at": "2025-12-16T15:47:19Z",
+    "owner": {
+      "login": "agentskills",
+      "url": "https://github.com/agentskills",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249824077?v=4"
+    },
+    "forks": 66,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/agentskills/agentskills"
+  },
+  {
+    "name": "2025Emma/vibe-coding-cn",
+    "description": null,
+    "stars": 859,
+    "language": "Python",
+    "url": "https://github.com/2025Emma/vibe-coding-cn",
+    "created_at": "2025-12-17T00:10:23Z",
+    "owner": {
+      "login": "2025Emma",
+      "url": "https://github.com/2025Emma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196145255?v=4"
+    },
+    "forks": 98,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/2025Emma/vibe-coding-cn"
+  },
+  {
+    "name": "gaearon/rscexplorer",
+    "description": "A tool for people curious about the React Server Components protocol",
+    "stars": 805,
+    "language": "TypeScript",
+    "url": "https://github.com/gaearon/rscexplorer",
+    "created_at": "2025-12-16T09:57:01Z",
+    "owner": {
+      "login": "gaearon",
+      "url": "https://github.com/gaearon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/810438?v=4"
+    },
+    "forks": 21,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/gaearon/rscexplorer"
+  },
+  {
+    "name": "XiaomiMiMo/MiMo-V2-Flash",
+    "description": "MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model",
+    "stars": 750,
+    "language": null,
+    "url": "https://github.com/XiaomiMiMo/MiMo-V2-Flash",
+    "created_at": "2025-12-15T16:28:22Z",
+    "owner": {
+      "login": "XiaomiMiMo",
+      "url": "https://github.com/XiaomiMiMo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
+    },
+    "forks": 23,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/XiaomiMiMo/MiMo-V2-Flash"
+  },
+  {
+    "name": "mmarinovic/tailwindsql",
+    "description": null,
+    "stars": 514,
+    "language": "TypeScript",
+    "url": "https://github.com/mmarinovic/tailwindsql",
+    "created_at": "2025-12-15T13:40:25Z",
+    "owner": {
+      "login": "mmarinovic",
+      "url": "https://github.com/mmarinovic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4189477?v=4"
+    },
+    "forks": 12,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mmarinovic/tailwindsql"
+  },
+  {
+    "name": "GuDaStudio/skills",
+    "description": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.",
+    "stars": 456,
+    "language": "PowerShell",
+    "url": "https://github.com/GuDaStudio/skills",
+    "created_at": "2025-12-16T14:54:52Z",
+    "owner": {
+      "login": "GuDaStudio",
+      "url": "https://github.com/GuDaStudio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242145772?v=4"
+    },
+    "forks": 25,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/GuDaStudio/skills"
+  },
+  {
+    "name": "KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
+    "description": "100+ LLM interview questions with answers. ",
+    "stars": 455,
+    "language": null,
+    "url": "https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
+    "created_at": "2025-12-17T12:11:53Z",
+    "owner": {
+      "login": "KalyanKS-NLP",
+      "url": "https://github.com/KalyanKS-NLP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202506543?v=4"
+    },
+    "forks": 74,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub"
+  },
+  {
+    "name": "Lulzx/tinypdf",
+    "description": "Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.",
+    "stars": 453,
+    "language": "TypeScript",
+    "url": "https://github.com/Lulzx/tinypdf",
+    "created_at": "2025-12-18T18:47:20Z",
+    "owner": {
+      "login": "Lulzx",
+      "url": "https://github.com/Lulzx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22330483?v=4"
+    },
+    "forks": 6,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Lulzx/tinypdf"
+  },
+  {
+    "name": "FunAudioLLM/Fun-ASR",
+    "description": "Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. ",
+    "stars": 448,
+    "language": "Python",
+    "url": "https://github.com/FunAudioLLM/Fun-ASR",
+    "created_at": "2025-12-15T01:46:48Z",
+    "owner": {
+      "login": "FunAudioLLM",
+      "url": "https://github.com/FunAudioLLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167062371?v=4"
+    },
+    "forks": 25,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/FunAudioLLM/Fun-ASR"
+  }
+]
