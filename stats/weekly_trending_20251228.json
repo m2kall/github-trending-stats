@@ -1,0 +1,162 @@
+[
+  {
+    "name": "bellard/mquickjs",
+    "description": "Public repository of the Micro QuickJS Javascript Engine",
+    "stars": 4436,
+    "language": "C",
+    "url": "https://github.com/bellard/mquickjs",
+    "created_at": "2025-12-22T14:20:32Z",
+    "owner": {
+      "login": "bellard",
+      "url": "https://github.com/bellard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6490144?v=4"
+    },
+    "forks": 153,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bellard/mquickjs"
+  },
+  {
+    "name": "antonmedv/textarea",
+    "description": "A minimalist text editor that lives in URL",
+    "stars": 933,
+    "language": "HTML",
+    "url": "https://github.com/antonmedv/textarea",
+    "created_at": "2025-12-22T22:29:15Z",
+    "owner": {
+      "login": "antonmedv",
+      "url": "https://github.com/antonmedv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141232?v=4"
+    },
+    "forks": 62,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antonmedv/textarea"
+  },
+  {
+    "name": "ClashConnectRules/Self-Configuration",
+    "description": null,
+    "stars": 693,
+    "language": null,
+    "url": "https://github.com/ClashConnectRules/Self-Configuration",
+    "created_at": "2025-12-25T02:02:25Z",
+    "owner": {
+      "login": "ClashConnectRules",
+      "url": "https://github.com/ClashConnectRules",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223047880?v=4"
+    },
+    "forks": 52,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ClashConnectRules/Self-Configuration"
+  },
+  {
+    "name": "parcadei/Continuous-Claude-v2",
+    "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.",
+    "stars": 657,
+    "language": "Python",
+    "url": "https://github.com/parcadei/Continuous-Claude-v2",
+    "created_at": "2025-12-23T00:12:49Z",
+    "owner": {
+      "login": "parcadei",
+      "url": "https://github.com/parcadei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227596144?v=4"
+    },
+    "forks": 51,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/parcadei/Continuous-Claude-v2"
+  },
+  {
+    "name": "dennisyang1986/opensqt_market_maker",
+    "description": "OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。",
+    "stars": 543,
+    "language": "Go",
+    "url": "https://github.com/dennisyang1986/opensqt_market_maker",
+    "created_at": "2025-12-24T11:22:01Z",
+    "owner": {
+      "login": "dennisyang1986",
+      "url": "https://github.com/dennisyang1986",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12760701?v=4"
+    },
+    "forks": 247,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dennisyang1986/opensqt_market_maker"
+  },
+  {
+    "name": "jlongster/tigma",
+    "description": null,
+    "stars": 490,
+    "language": "TypeScript",
+    "url": "https://github.com/jlongster/tigma",
+    "created_at": "2025-12-22T14:36:39Z",
+    "owner": {
+      "login": "jlongster",
+      "url": "https://github.com/jlongster",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17031?v=4"
+    },
+    "forks": 13,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jlongster/tigma"
+  },
+  {
+    "name": "leedrake5/unredact",
+    "description": "A simple tool for reading in poorly redacted documents and reproducing their origional form",
+    "stars": 425,
+    "language": "Python",
+    "url": "https://github.com/leedrake5/unredact",
+    "created_at": "2025-12-23T06:28:32Z",
+    "owner": {
+      "login": "leedrake5",
+      "url": "https://github.com/leedrake5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1229542?v=4"
+    },
+    "forks": 54,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/leedrake5/unredact"
+  },
+  {
+    "name": "abusoww/tuxmate",
+    "description": "THE MISSING BULK APP INSTALLER FOR LINUX",
+    "stars": 425,
+    "language": "TypeScript",
+    "url": "https://github.com/abusoww/tuxmate",
+    "created_at": "2025-12-24T03:35:39Z",
+    "owner": {
+      "login": "abusoww",
+      "url": "https://github.com/abusoww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146867646?v=4"
+    },
+    "forks": 15,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/abusoww/tuxmate"
+  },
+  {
+    "name": "elijah0528/video2ascii",
+    "description": "WebGL-powered React Component for video to ASCII conversion",
+    "stars": 418,
+    "language": "TypeScript",
+    "url": "https://github.com/elijah0528/video2ascii",
+    "created_at": "2025-12-22T05:55:04Z",
+    "owner": {
+      "login": "elijah0528",
+      "url": "https://github.com/elijah0528",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80718858?v=4"
+    },
+    "forks": 29,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/elijah0528/video2ascii"
+  },
+  {
+    "name": "FunAudioLLM/Fun-Audio-Chat",
+    "description": "Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions.",
+    "stars": 417,
+    "language": "Python",
+    "url": "https://github.com/FunAudioLLM/Fun-Audio-Chat",
+    "created_at": "2025-12-23T07:06:36Z",
+    "owner": {
+      "login": "FunAudioLLM",
+      "url": "https://github.com/FunAudioLLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167062371?v=4"
+    },
+    "forks": 33,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/FunAudioLLM/Fun-Audio-Chat"
+  }
+]
