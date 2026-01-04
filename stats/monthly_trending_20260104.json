@@ -1,0 +1,162 @@
+[
+  {
+    "name": "zai-org/Open-AutoGLM",
+    "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+    "stars": 20557,
+    "language": "Python",
+    "url": "https://github.com/zai-org/Open-AutoGLM",
+    "created_at": "2025-12-08T09:23:44Z",
+    "owner": {
+      "login": "zai-org",
+      "url": "https://github.com/zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "forks": 3294,
+    "issues": 187,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zai-org/Open-AutoGLM"
+  },
+  {
+    "name": "pranshuparmar/witr",
+    "description": "Why is this running?",
+    "stars": 9580,
+    "language": "Go",
+    "url": "https://github.com/pranshuparmar/witr",
+    "created_at": "2025-12-20T17:26:59Z",
+    "owner": {
+      "login": "pranshuparmar",
+      "url": "https://github.com/pranshuparmar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4262592?v=4"
+    },
+    "forks": 194,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pranshuparmar/witr"
+  },
+  {
+    "name": "apple/ml-sharp",
+    "description": "Sharp Monocular View Synthesis in Less Than a Second",
+    "stars": 6410,
+    "language": "Python",
+    "url": "https://github.com/apple/ml-sharp",
+    "created_at": "2025-12-12T03:46:09Z",
+    "owner": {
+      "login": "apple",
+      "url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "forks": 410,
+    "issues": 50,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apple/ml-sharp"
+  },
+  {
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+    "stars": 5396,
+    "language": "Python",
+    "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "created_at": "2025-12-21T02:43:42Z",
+    "owner": {
+      "login": "muratcankoylan",
+      "url": "https://github.com/muratcankoylan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132029956?v=4"
+    },
+    "forks": 424,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/muratcankoylan/Agent-Skills-for-Context-Engineering"
+  },
+  {
+    "name": "2025Emma/vibe-coding-cn",
+    "description": null,
+    "stars": 4948,
+    "language": "Python",
+    "url": "https://github.com/2025Emma/vibe-coding-cn",
+    "created_at": "2025-12-17T00:10:23Z",
+    "owner": {
+      "login": "2025Emma",
+      "url": "https://github.com/2025Emma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196145255?v=4"
+    },
+    "forks": 584,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/2025Emma/vibe-coding-cn"
+  },
+  {
+    "name": "bellard/mquickjs",
+    "description": "Public repository of the Micro QuickJS Javascript Engine",
+    "stars": 4940,
+    "language": "C",
+    "url": "https://github.com/bellard/mquickjs",
+    "created_at": "2025-12-22T14:20:32Z",
+    "owner": {
+      "login": "bellard",
+      "url": "https://github.com/bellard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6490144?v=4"
+    },
+    "forks": 175,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bellard/mquickjs"
+  },
+  {
+    "name": "agentskills/agentskills",
+    "description": "Specification and documentation for Agent Skills",
+    "stars": 4270,
+    "language": "Python",
+    "url": "https://github.com/agentskills/agentskills",
+    "created_at": "2025-12-16T15:47:19Z",
+    "owner": {
+      "login": "agentskills",
+      "url": "https://github.com/agentskills",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249824077?v=4"
+    },
+    "forks": 210,
+    "issues": 39,
+    "social_preview_url": "https://opengraph.githubassets.com/1/agentskills/agentskills"
+  },
+  {
+    "name": "gommzystudio/device-activity-tracker",
+    "description": "A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)",
+    "stars": 4218,
+    "language": "TypeScript",
+    "url": "https://github.com/gommzystudio/device-activity-tracker",
+    "created_at": "2025-12-07T14:56:14Z",
+    "owner": {
+      "login": "gommzystudio",
+      "url": "https://github.com/gommzystudio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69911165?v=4"
+    },
+    "forks": 565,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/gommzystudio/device-activity-tracker"
+  },
+  {
+    "name": "thu-ml/TurboDiffusion",
+    "description": "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
+    "stars": 2989,
+    "language": "Python",
+    "url": "https://github.com/thu-ml/TurboDiffusion",
+    "created_at": "2025-12-06T00:25:35Z",
+    "owner": {
+      "login": "thu-ml",
+      "url": "https://github.com/thu-ml",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19198992?v=4"
+    },
+    "forks": 193,
+    "issues": 51,
+    "social_preview_url": "https://opengraph.githubassets.com/1/thu-ml/TurboDiffusion"
+  },
+  {
+    "name": "AnmolSaini16/mapcn",
+    "description": "Beautiful map components. 100% Free, Zero config, one command setup.",
+    "stars": 2980,
+    "language": "TypeScript",
+    "url": "https://github.com/AnmolSaini16/mapcn",
+    "created_at": "2025-12-28T10:57:22Z",
+    "owner": {
+      "login": "AnmolSaini16",
+      "url": "https://github.com/AnmolSaini16",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72123368?v=4"
+    },
+    "forks": 145,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/AnmolSaini16/mapcn"
+  }
+]

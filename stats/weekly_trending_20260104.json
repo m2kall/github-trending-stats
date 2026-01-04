@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Tencent-Hunyuan/HY-Motion-1.0",
+    "description": "HY-Motion model for 3D character animation generation. ",
+    "stars": 1328,
+    "language": "Python",
+    "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
+    "created_at": "2025-12-29T11:09:18Z",
+    "owner": {
+      "login": "Tencent-Hunyuan",
+      "url": "https://github.com/Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "forks": 80,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent-Hunyuan/HY-Motion-1.0"
+  },
+  {
+    "name": "buyukakyuz/corroded",
+    "description": "Illegal rust",
+    "stars": 1132,
+    "language": "Rust",
+    "url": "https://github.com/buyukakyuz/corroded",
+    "created_at": "2025-12-29T22:24:33Z",
+    "owner": {
+      "login": "buyukakyuz",
+      "url": "https://github.com/buyukakyuz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99087793?v=4"
+    },
+    "forks": 30,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/buyukakyuz/corroded"
+  },
+  {
+    "name": "IQuestLab/IQuest-Coder-V1",
+    "description": null,
+    "stars": 894,
+    "language": "Python",
+    "url": "https://github.com/IQuestLab/IQuest-Coder-V1",
+    "created_at": "2025-12-31T06:42:57Z",
+    "owner": {
+      "login": "IQuestLab",
+      "url": "https://github.com/IQuestLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248444512?v=4"
+    },
+    "forks": 50,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/IQuestLab/IQuest-Coder-V1"
+  },
+  {
+    "name": "CloudAI-X/claude-workflow-v2",
+    "description": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands",
+    "stars": 870,
+    "language": "Python",
+    "url": "https://github.com/CloudAI-X/claude-workflow-v2",
+    "created_at": "2026-01-01T02:20:41Z",
+    "owner": {
+      "login": "CloudAI-X",
+      "url": "https://github.com/CloudAI-X",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252792870?v=4"
+    },
+    "forks": 134,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/CloudAI-X/claude-workflow-v2"
+  },
+  {
+    "name": "heilcheng/awesome-agent-skills",
+    "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
+    "stars": 835,
+    "language": null,
+    "url": "https://github.com/heilcheng/awesome-agent-skills",
+    "created_at": "2025-12-29T21:13:40Z",
+    "owner": {
+      "login": "heilcheng",
+      "url": "https://github.com/heilcheng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155233908?v=4"
+    },
+    "forks": 58,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/heilcheng/awesome-agent-skills"
+  },
+  {
+    "name": "Lulzx/zpdf",
+    "description": "Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.",
+    "stars": 700,
+    "language": "Zig",
+    "url": "https://github.com/Lulzx/zpdf",
+    "created_at": "2025-12-30T18:09:29Z",
+    "owner": {
+      "login": "Lulzx",
+      "url": "https://github.com/Lulzx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22330483?v=4"
+    },
+    "forks": 21,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Lulzx/zpdf"
+  },
+  {
+    "name": "op7418/guizang-s-prompt",
+    "description": "这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.）",
+    "stars": 623,
+    "language": null,
+    "url": "https://github.com/op7418/guizang-s-prompt",
+    "created_at": "2025-12-29T03:41:15Z",
+    "owner": {
+      "login": "op7418",
+      "url": "https://github.com/op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "forks": 62,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/op7418/guizang-s-prompt"
+  },
+  {
+    "name": "VoidmatrixHeathcliff/VoidNovelEngine",
+    "description": "A free, modern engine for visual novels | 自由，现代化的视觉小说引擎",
+    "stars": 511,
+    "language": null,
+    "url": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine",
+    "created_at": "2025-12-31T03:19:29Z",
+    "owner": {
+      "login": "VoidmatrixHeathcliff",
+      "url": "https://github.com/VoidmatrixHeathcliff",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46210663?v=4"
+    },
+    "forks": 47,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoidmatrixHeathcliff/VoidNovelEngine"
+  },
+  {
+    "name": "itshover/itshover",
+    "description": "Icons that move with intent",
+    "stars": 490,
+    "language": "TypeScript",
+    "url": "https://github.com/itshover/itshover",
+    "created_at": "2025-12-29T06:34:14Z",
+    "owner": {
+      "login": "itshover",
+      "url": "https://github.com/itshover",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251727837?v=4"
+    },
+    "forks": 29,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/itshover/itshover"
+  },
+  {
+    "name": "alexknowshtml/smaug",
+    "description": "Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug collects the valuable things you bookmark.",
+    "stars": 414,
+    "language": "JavaScript",
+    "url": "https://github.com/alexknowshtml/smaug",
+    "created_at": "2026-01-02T02:55:25Z",
+    "owner": {
+      "login": "alexknowshtml",
+      "url": "https://github.com/alexknowshtml",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3707?v=4"
+    },
+    "forks": 41,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/alexknowshtml/smaug"
+  }
+]
