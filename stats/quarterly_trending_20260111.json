@@ -1,0 +1,162 @@
+[
+  {
+    "name": "deepseek-ai/DeepSeek-OCR",
+    "description": "Contexts Optical Compression",
+    "stars": 21962,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "created_at": "2025-10-17T06:14:27Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 1998,
+    "issues": 273,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-OCR"
+  },
+  {
+    "name": "toon-format/toon",
+    "description": "🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.",
+    "stars": 21684,
+    "language": "TypeScript",
+    "url": "https://github.com/toon-format/toon",
+    "created_at": "2025-10-22T18:17:32Z",
+    "owner": {
+      "login": "toon-format",
+      "url": "https://github.com/toon-format",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241380424?v=4"
+    },
+    "forks": 953,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/toon-format/toon"
+  },
+  {
+    "name": "zai-org/Open-AutoGLM",
+    "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+    "stars": 21528,
+    "language": "Python",
+    "url": "https://github.com/zai-org/Open-AutoGLM",
+    "created_at": "2025-12-08T09:23:44Z",
+    "owner": {
+      "login": "zai-org",
+      "url": "https://github.com/zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "forks": 3423,
+    "issues": 196,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zai-org/Open-AutoGLM"
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "stars": 17345,
+    "language": "Python",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "created_at": "2025-10-17T07:15:01Z",
+    "owner": {
+      "login": "ComposioHQ",
+      "url": "https://github.com/ComposioHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128464815?v=4"
+    },
+    "forks": 1798,
+    "issues": 26,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "name": "Snapchat/Valdi",
+    "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.",
+    "stars": 16111,
+    "language": "C++",
+    "url": "https://github.com/Snapchat/Valdi",
+    "created_at": "2025-11-06T17:33:28Z",
+    "owner": {
+      "login": "Snapchat",
+      "url": "https://github.com/Snapchat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40505220?v=4"
+    },
+    "forks": 544,
+    "issues": 58,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Snapchat/Valdi"
+  },
+  {
+    "name": "code-yeongyu/oh-my-opencode",
+    "description": "The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.",
+    "stars": 13477,
+    "language": "TypeScript",
+    "url": "https://github.com/code-yeongyu/oh-my-opencode",
+    "created_at": "2025-12-03T01:40:05Z",
+    "owner": {
+      "login": "code-yeongyu",
+      "url": "https://github.com/code-yeongyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11153873?v=4"
+    },
+    "forks": 916,
+    "issues": 198,
+    "social_preview_url": "https://opengraph.githubassets.com/1/code-yeongyu/oh-my-opencode"
+  },
+  {
+    "name": "karpathy/llm-council",
+    "description": "LLM Council works together to answer your hardest questions",
+    "stars": 13041,
+    "language": "Python",
+    "url": "https://github.com/karpathy/llm-council",
+    "created_at": "2025-11-22T23:24:14Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 2571,
+    "issues": 94,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/llm-council"
+  },
+  {
+    "name": "lbjlaq/Antigravity-Manager",
+    "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+    "stars": 10937,
+    "language": "Rust",
+    "url": "https://github.com/lbjlaq/Antigravity-Manager",
+    "created_at": "2025-11-26T10:47:13Z",
+    "owner": {
+      "login": "lbjlaq",
+      "url": "https://github.com/lbjlaq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22748003?v=4"
+    },
+    "forks": 1326,
+    "issues": 370,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lbjlaq/Antigravity-Manager"
+  },
+  {
+    "name": "pranshuparmar/witr",
+    "description": "Why is this running?",
+    "stars": 10702,
+    "language": "Go",
+    "url": "https://github.com/pranshuparmar/witr",
+    "created_at": "2025-12-20T17:26:59Z",
+    "owner": {
+      "login": "pranshuparmar",
+      "url": "https://github.com/pranshuparmar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4262592?v=4"
+    },
+    "forks": 239,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pranshuparmar/witr"
+  },
+  {
+    "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+    "stars": 10676,
+    "language": "Python",
+    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "created_at": "2025-11-30T11:36:31Z",
+    "owner": {
+      "login": "nextlevelbuilder",
+      "url": "https://github.com/nextlevelbuilder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246974152?v=4"
+    },
+    "forks": 1138,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nextlevelbuilder/ui-ux-pro-max-skill"
+  }
+]

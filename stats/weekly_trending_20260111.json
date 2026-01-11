@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ChrisWiles/claude-code-showcase",
+    "description": "Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows",
+    "stars": 3784,
+    "language": "JavaScript",
+    "url": "https://github.com/ChrisWiles/claude-code-showcase",
+    "created_at": "2026-01-06T18:51:02Z",
+    "owner": {
+      "login": "ChrisWiles",
+      "url": "https://github.com/ChrisWiles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9455409?v=4"
+    },
+    "forks": 342,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ChrisWiles/claude-code-showcase"
+  },
+  {
+    "name": "snarktank/ralph",
+    "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
+    "stars": 1813,
+    "language": "TypeScript",
+    "url": "https://github.com/snarktank/ralph",
+    "created_at": "2026-01-07T14:45:10Z",
+    "owner": {
+      "login": "snarktank",
+      "url": "https://github.com/snarktank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152063952?v=4"
+    },
+    "forks": 280,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/snarktank/ralph"
+  },
+  {
+    "name": "ophub/fnnas",
+    "description": "Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+    "stars": 1365,
+    "language": "Shell",
+    "url": "https://github.com/ophub/fnnas",
+    "created_at": "2026-01-06T13:44:30Z",
+    "owner": {
+      "login": "ophub",
+      "url": "https://github.com/ophub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68696949?v=4"
+    },
+    "forks": 239,
+    "issues": 102,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ophub/fnnas"
+  },
+  {
+    "name": "dvdsgl/claude-canvas",
+    "description": "Give Claude Code an external monitor",
+    "stars": 1028,
+    "language": "TypeScript",
+    "url": "https://github.com/dvdsgl/claude-canvas",
+    "created_at": "2026-01-06T23:24:00Z",
+    "owner": {
+      "login": "dvdsgl",
+      "url": "https://github.com/dvdsgl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108197?v=4"
+    },
+    "forks": 97,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dvdsgl/claude-canvas"
+  },
+  {
+    "name": "Dammyjay93/claude-design-skill",
+    "description": "A Claude Code skill for crafted, enterprise-grade UI design",
+    "stars": 837,
+    "language": "Shell",
+    "url": "https://github.com/Dammyjay93/claude-design-skill",
+    "created_at": "2026-01-05T00:41:45Z",
+    "owner": {
+      "login": "Dammyjay93",
+      "url": "https://github.com/Dammyjay93",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86404480?v=4"
+    },
+    "forks": 72,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Dammyjay93/claude-design-skill"
+  },
+  {
+    "name": "x011/smtp-tunnel-proxy",
+    "description": "A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.",
+    "stars": 758,
+    "language": "Python",
+    "url": "https://github.com/x011/smtp-tunnel-proxy",
+    "created_at": "2026-01-06T19:38:32Z",
+    "owner": {
+      "login": "x011",
+      "url": "https://github.com/x011",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4313821?v=4"
+    },
+    "forks": 61,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/x011/smtp-tunnel-proxy"
+  },
+  {
+    "name": "jarrodwatts/claude-code-config",
+    "description": "My personal Claude Code configuration - rules, hooks, agents, skills, and commands",
+    "stars": 712,
+    "language": "Python",
+    "url": "https://github.com/jarrodwatts/claude-code-config",
+    "created_at": "2026-01-08T06:30:49Z",
+    "owner": {
+      "login": "jarrodwatts",
+      "url": "https://github.com/jarrodwatts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+    },
+    "forks": 87,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jarrodwatts/claude-code-config"
+  },
+  {
+    "name": "Dimillian/CodexSkillManager",
+    "description": "macOS app to manage your Codex skills",
+    "stars": 527,
+    "language": "Swift",
+    "url": "https://github.com/Dimillian/CodexSkillManager",
+    "created_at": "2026-01-07T11:45:21Z",
+    "owner": {
+      "login": "Dimillian",
+      "url": "https://github.com/Dimillian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/535509?v=4"
+    },
+    "forks": 33,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Dimillian/CodexSkillManager"
+  },
+  {
+    "name": "QwenLM/Qwen3-VL-Embedding",
+    "description": null,
+    "stars": 484,
+    "language": "Python",
+    "url": "https://github.com/QwenLM/Qwen3-VL-Embedding",
+    "created_at": "2026-01-08T03:42:57Z",
+    "owner": {
+      "login": "QwenLM",
+      "url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "forks": 35,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/QwenLM/Qwen3-VL-Embedding"
+  },
+  {
+    "name": "torvalds/AudioNoise",
+    "description": "Random digital audio effects",
+    "stars": 460,
+    "language": "C",
+    "url": "https://github.com/torvalds/AudioNoise",
+    "created_at": "2026-01-09T02:33:29Z",
+    "owner": {
+      "login": "torvalds",
+      "url": "https://github.com/torvalds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=4"
+    },
+    "forks": 11,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/torvalds/AudioNoise"
+  }
+]
