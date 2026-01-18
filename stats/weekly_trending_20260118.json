@@ -1,0 +1,162 @@
+[
+  {
+    "name": "vercel-labs/json-render",
+    "description": "AI → JSON → UI",
+    "stars": 5860,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel-labs/json-render",
+    "created_at": "2026-01-14T17:22:39Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 268,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/json-render"
+  },
+  {
+    "name": "deepseek-ai/Engram",
+    "description": "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models",
+    "stars": 2731,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/Engram",
+    "created_at": "2026-01-12T05:26:50Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 153,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/Engram"
+  },
+  {
+    "name": "DevAgentForge/Claude-Cowork",
+    "description": "OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.",
+    "stars": 1650,
+    "language": "TypeScript",
+    "url": "https://github.com/DevAgentForge/Claude-Cowork",
+    "created_at": "2026-01-13T09:34:40Z",
+    "owner": {
+      "login": "DevAgentForge",
+      "url": "https://github.com/DevAgentForge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253069662?v=4"
+    },
+    "forks": 250,
+    "issues": 21,
+    "social_preview_url": "https://opengraph.githubassets.com/1/DevAgentForge/Claude-Cowork"
+  },
+  {
+    "name": "trailofbits/skills",
+    "description": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows",
+    "stars": 1261,
+    "language": "Python",
+    "url": "https://github.com/trailofbits/skills",
+    "created_at": "2026-01-14T18:23:21Z",
+    "owner": {
+      "login": "trailofbits",
+      "url": "https://github.com/trailofbits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2314423?v=4"
+    },
+    "forks": 96,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/trailofbits/skills"
+  },
+  {
+    "name": "different-ai/openwork",
+    "description": "An open-source alternative to Claude Cowork, powered by OpenCode",
+    "stars": 1198,
+    "language": "TypeScript",
+    "url": "https://github.com/different-ai/openwork",
+    "created_at": "2026-01-14T01:39:31Z",
+    "owner": {
+      "login": "different-ai",
+      "url": "https://github.com/different-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118544361?v=4"
+    },
+    "forks": 71,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/different-ai/openwork"
+  },
+  {
+    "name": "accomplish-ai/openwork",
+    "description": "Openwork™ is the open source Al coworker that lives on your desktop",
+    "stars": 1137,
+    "language": "TypeScript",
+    "url": "https://github.com/accomplish-ai/openwork",
+    "created_at": "2026-01-14T12:22:38Z",
+    "owner": {
+      "login": "accomplish-ai",
+      "url": "https://github.com/accomplish-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244819219?v=4"
+    },
+    "forks": 192,
+    "issues": 29,
+    "social_preview_url": "https://opengraph.githubassets.com/1/accomplish-ai/openwork"
+  },
+  {
+    "name": "vercel-labs/add-skill",
+    "description": null,
+    "stars": 998,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel-labs/add-skill",
+    "created_at": "2026-01-14T21:31:18Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 48,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/add-skill"
+  },
+  {
+    "name": "21st-dev/1code",
+    "description": "Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)",
+    "stars": 887,
+    "language": "TypeScript",
+    "url": "https://github.com/21st-dev/1code",
+    "created_at": "2026-01-14T02:12:40Z",
+    "owner": {
+      "login": "21st-dev",
+      "url": "https://github.com/21st-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199367026?v=4"
+    },
+    "forks": 99,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/21st-dev/1code"
+  },
+  {
+    "name": "likaia/nginxpulse",
+    "description": "轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。",
+    "stars": 841,
+    "language": "Go",
+    "url": "https://github.com/likaia/nginxpulse",
+    "created_at": "2026-01-13T04:19:14Z",
+    "owner": {
+      "login": "likaia",
+      "url": "https://github.com/likaia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35120858?v=4"
+    },
+    "forks": 68,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/likaia/nginxpulse"
+  },
+  {
+    "name": "vudovn/antigravity-kit",
+    "description": null,
+    "stars": 752,
+    "language": "Python",
+    "url": "https://github.com/vudovn/antigravity-kit",
+    "created_at": "2026-01-14T09:06:28Z",
+    "owner": {
+      "login": "vudovn",
+      "url": "https://github.com/vudovn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116963762?v=4"
+    },
+    "forks": 159,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vudovn/antigravity-kit"
+  }
+]

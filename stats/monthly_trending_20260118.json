@@ -1,0 +1,162 @@
+[
+  {
+    "name": "pranshuparmar/witr",
+    "description": "Why is this running?",
+    "stars": 11043,
+    "language": "Go",
+    "url": "https://github.com/pranshuparmar/witr",
+    "created_at": "2025-12-20T17:26:59Z",
+    "owner": {
+      "login": "pranshuparmar",
+      "url": "https://github.com/pranshuparmar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4262592?v=4"
+    },
+    "forks": 247,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pranshuparmar/witr"
+  },
+  {
+    "name": "OthmanAdi/planning-with-files",
+    "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
+    "stars": 9680,
+    "language": "Python",
+    "url": "https://github.com/OthmanAdi/planning-with-files",
+    "created_at": "2026-01-03T07:37:28Z",
+    "owner": {
+      "login": "OthmanAdi",
+      "url": "https://github.com/OthmanAdi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78882424?v=4"
+    },
+    "forks": 856,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OthmanAdi/planning-with-files"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
+    "stars": 8945,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "created_at": "2025-12-28T15:35:54Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 1170,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/DeepTutor"
+  },
+  {
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+    "stars": 7307,
+    "language": "Python",
+    "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "created_at": "2025-12-21T02:43:42Z",
+    "owner": {
+      "login": "muratcankoylan",
+      "url": "https://github.com/muratcankoylan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132029956?v=4"
+    },
+    "forks": 575,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/muratcankoylan/Agent-Skills-for-Context-Engineering"
+  },
+  {
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "stars": 7203,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "created_at": "2026-01-11T05:38:15Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 342,
+    "issues": 77,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/agent-browser"
+  },
+  {
+    "name": "kepano/obsidian-skills",
+    "description": "Agent skills for Obsidian",
+    "stars": 6956,
+    "language": null,
+    "url": "https://github.com/kepano/obsidian-skills",
+    "created_at": "2026-01-02T21:45:11Z",
+    "owner": {
+      "login": "kepano",
+      "url": "https://github.com/kepano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10565871?v=4"
+    },
+    "forks": 346,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/kepano/obsidian-skills"
+  },
+  {
+    "name": "vercel-labs/json-render",
+    "description": "AI → JSON → UI",
+    "stars": 5860,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel-labs/json-render",
+    "created_at": "2026-01-14T17:22:39Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 268,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/json-render"
+  },
+  {
+    "name": "bellard/mquickjs",
+    "description": "Public repository of the Micro QuickJS Javascript Engine",
+    "stars": 5325,
+    "language": "C",
+    "url": "https://github.com/bellard/mquickjs",
+    "created_at": "2025-12-22T14:20:32Z",
+    "owner": {
+      "login": "bellard",
+      "url": "https://github.com/bellard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6490144?v=4"
+    },
+    "forks": 188,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/bellard/mquickjs"
+  },
+  {
+    "name": "ChrisWiles/claude-code-showcase",
+    "description": "Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows",
+    "stars": 4893,
+    "language": "JavaScript",
+    "url": "https://github.com/ChrisWiles/claude-code-showcase",
+    "created_at": "2026-01-06T18:51:02Z",
+    "owner": {
+      "login": "ChrisWiles",
+      "url": "https://github.com/ChrisWiles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9455409?v=4"
+    },
+    "forks": 410,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ChrisWiles/claude-code-showcase"
+  },
+  {
+    "name": "AnmolSaini16/mapcn",
+    "description": "Beautiful map components. 100% Free, Zero config, one command setup.",
+    "stars": 4740,
+    "language": "TypeScript",
+    "url": "https://github.com/AnmolSaini16/mapcn",
+    "created_at": "2025-12-28T10:57:22Z",
+    "owner": {
+      "login": "AnmolSaini16",
+      "url": "https://github.com/AnmolSaini16",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72123368?v=4"
+    },
+    "forks": 236,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/AnmolSaini16/mapcn"
+  }
+]
