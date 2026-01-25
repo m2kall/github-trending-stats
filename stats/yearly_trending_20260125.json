@@ -1,0 +1,50 @@
+[
+  {
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "stars": 110881,
+    "language": null,
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "created_at": "2025-03-05T16:38:29Z",
+    "owner": {
+      "login": "x1xhlol",
+      "url": "https://github.com/x1xhlol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185671340?v=4"
+    },
+    "forks": 28950,
+    "issues": 114,
+    "social_preview_url": "https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "name": "google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "stars": 92384,
+    "language": "TypeScript",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "created_at": "2025-04-17T17:04:31Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 10793,
+    "issues": 1995,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/gemini-cli"
+  },
+  {
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "stars": 86505,
+    "language": "TypeScript",
+    "url": "https://github.com/anomalyco/opencode",
+    "created_at": "2025-04-30T20:08:00Z",
+    "owner": {
+      "login": "anomalyco",
+      "url": "https://github.com/anomalyco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66570915?v=4"
+    },
+    "forks": 7832,
+    "issues": 3821,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anomalyco/opencode"
+  }
+]

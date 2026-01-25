@@ -1,0 +1,162 @@
+[
+  {
+    "name": "xai-org/x-algorithm",
+    "description": "Algorithm powering the For You feed on X",
+    "stars": 13192,
+    "language": "Rust",
+    "url": "https://github.com/xai-org/x-algorithm",
+    "created_at": "2026-01-19T23:12:35Z",
+    "owner": {
+      "login": "xai-org",
+      "url": "https://github.com/xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "forks": 2255,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xai-org/x-algorithm"
+  },
+  {
+    "name": "QwenLM/Qwen3-TTS",
+    "description": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.",
+    "stars": 3565,
+    "language": "Python",
+    "url": "https://github.com/QwenLM/Qwen3-TTS",
+    "created_at": "2026-01-21T06:41:32Z",
+    "owner": {
+      "login": "QwenLM",
+      "url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "forks": 319,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/QwenLM/Qwen3-TTS"
+  },
+  {
+    "name": "anthropics/original_performance_takehome",
+    "description": "Anthropic's original performance take-home, now open for you to try!",
+    "stars": 2755,
+    "language": "Python",
+    "url": "https://github.com/anthropics/original_performance_takehome",
+    "created_at": "2026-01-19T19:16:04Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 550,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/original_performance_takehome"
+  },
+  {
+    "name": "op7418/Humanizer-zh",
+    "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
+    "stars": 1356,
+    "language": null,
+    "url": "https://github.com/op7418/Humanizer-zh",
+    "created_at": "2026-01-19T04:23:44Z",
+    "owner": {
+      "login": "op7418",
+      "url": "https://github.com/op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "forks": 138,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/op7418/Humanizer-zh"
+  },
+  {
+    "name": "lukilabs/craft-agents-oss",
+    "description": null,
+    "stars": 1249,
+    "language": "TypeScript",
+    "url": "https://github.com/lukilabs/craft-agents-oss",
+    "created_at": "2026-01-19T10:35:59Z",
+    "owner": {
+      "login": "lukilabs",
+      "url": "https://github.com/lukilabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
+    },
+    "forks": 183,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lukilabs/craft-agents-oss"
+  },
+  {
+    "name": "CloudAI-X/threejs-skills",
+    "description": null,
+    "stars": 877,
+    "language": null,
+    "url": "https://github.com/CloudAI-X/threejs-skills",
+    "created_at": "2026-01-19T21:15:21Z",
+    "owner": {
+      "login": "CloudAI-X",
+      "url": "https://github.com/CloudAI-X",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252792870?v=4"
+    },
+    "forks": 108,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/CloudAI-X/threejs-skills"
+  },
+  {
+    "name": "remotion-dev/skills",
+    "description": "Agent Skills",
+    "stars": 762,
+    "language": "TypeScript",
+    "url": "https://github.com/remotion-dev/skills",
+    "created_at": "2026-01-19T09:58:43Z",
+    "owner": {
+      "login": "remotion-dev",
+      "url": "https://github.com/remotion-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85344006?v=4"
+    },
+    "forks": 85,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/remotion-dev/skills"
+  },
+  {
+    "name": "op7418/Youtube-clipper-skill",
+    "description": null,
+    "stars": 621,
+    "language": "Python",
+    "url": "https://github.com/op7418/Youtube-clipper-skill",
+    "created_at": "2026-01-22T03:28:37Z",
+    "owner": {
+      "login": "op7418",
+      "url": "https://github.com/op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "forks": 97,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/op7418/Youtube-clipper-skill"
+  },
+  {
+    "name": "majcheradam/ocrbase",
+    "description": "📄 PDF ->.MD/.JSON Document OCR and structured data extraction API. PaddleOCR + LLM-powered parsing. Real-time WebSocket updates. Type-safe TypeScript SDK with React hooks. Self-hostable.",
+    "stars": 612,
+    "language": "TypeScript",
+    "url": "https://github.com/majcheradam/ocrbase",
+    "created_at": "2026-01-20T00:42:56Z",
+    "owner": {
+      "login": "majcheradam",
+      "url": "https://github.com/majcheradam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63547690?v=4"
+    },
+    "forks": 42,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/majcheradam/ocrbase"
+  },
+  {
+    "name": "terausss/polymarket-copy-trading-bot",
+    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot",
+    "stars": 594,
+    "language": "Python",
+    "url": "https://github.com/terausss/polymarket-copy-trading-bot",
+    "created_at": "2026-01-21T12:57:18Z",
+    "owner": {
+      "login": "terausss",
+      "url": "https://github.com/terausss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24262121?v=4"
+    },
+    "forks": 16,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/terausss/polymarket-copy-trading-bot"
+  }
+]

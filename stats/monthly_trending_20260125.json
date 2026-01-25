@@ -1,0 +1,162 @@
+[
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
+    "stars": 25608,
+    "language": "JavaScript",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "created_at": "2026-01-18T00:51:51Z",
+    "owner": {
+      "login": "affaan-m",
+      "url": "https://github.com/affaan-m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4"
+    },
+    "forks": 3074,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "xai-org/x-algorithm",
+    "description": "Algorithm powering the For You feed on X",
+    "stars": 13192,
+    "language": "Rust",
+    "url": "https://github.com/xai-org/x-algorithm",
+    "created_at": "2026-01-19T23:12:35Z",
+    "owner": {
+      "login": "xai-org",
+      "url": "https://github.com/xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "forks": 2255,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xai-org/x-algorithm"
+  },
+  {
+    "name": "OthmanAdi/planning-with-files",
+    "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
+    "stars": 11164,
+    "language": "Python",
+    "url": "https://github.com/OthmanAdi/planning-with-files",
+    "created_at": "2026-01-03T07:37:28Z",
+    "owner": {
+      "login": "OthmanAdi",
+      "url": "https://github.com/OthmanAdi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78882424?v=4"
+    },
+    "forks": 1021,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OthmanAdi/planning-with-files"
+  },
+  {
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "stars": 10219,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "created_at": "2026-01-11T05:38:15Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 553,
+    "issues": 125,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/agent-browser"
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
+    "stars": 9672,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "created_at": "2025-12-28T15:35:54Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 1274,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/DeepTutor"
+  },
+  {
+    "name": "vercel-labs/json-render",
+    "description": "AI → JSON → UI",
+    "stars": 8939,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel-labs/json-render",
+    "created_at": "2026-01-14T17:22:39Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 461,
+    "issues": 30,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/json-render"
+  },
+  {
+    "name": "kepano/obsidian-skills",
+    "description": "Agent skills for Obsidian",
+    "stars": 8049,
+    "language": null,
+    "url": "https://github.com/kepano/obsidian-skills",
+    "created_at": "2026-01-02T21:45:11Z",
+    "owner": {
+      "login": "kepano",
+      "url": "https://github.com/kepano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10565871?v=4"
+    },
+    "forks": 420,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/kepano/obsidian-skills"
+  },
+  {
+    "name": "snarktank/ralph",
+    "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
+    "stars": 7482,
+    "language": "TypeScript",
+    "url": "https://github.com/snarktank/ralph",
+    "created_at": "2026-01-07T14:45:10Z",
+    "owner": {
+      "login": "snarktank",
+      "url": "https://github.com/snarktank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152063952?v=4"
+    },
+    "forks": 893,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/snarktank/ralph"
+  },
+  {
+    "name": "originalankur/maptoposter",
+    "description": "Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.",
+    "stars": 7408,
+    "language": "Python",
+    "url": "https://github.com/originalankur/maptoposter",
+    "created_at": "2026-01-08T12:29:35Z",
+    "owner": {
+      "login": "originalankur",
+      "url": "https://github.com/originalankur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11364?v=4"
+    },
+    "forks": 675,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/originalankur/maptoposter"
+  },
+  {
+    "name": "different-ai/openwork",
+    "description": "An open-source alternative to Claude Cowork, powered by opencode",
+    "stars": 6912,
+    "language": "TypeScript",
+    "url": "https://github.com/different-ai/openwork",
+    "created_at": "2026-01-14T01:39:31Z",
+    "owner": {
+      "login": "different-ai",
+      "url": "https://github.com/different-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118544361?v=4"
+    },
+    "forks": 500,
+    "issues": 57,
+    "social_preview_url": "https://opengraph.githubassets.com/1/different-ai/openwork"
+  }
+]
