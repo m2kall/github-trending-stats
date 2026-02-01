@@ -1,0 +1,50 @@
+[
+  {
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "stars": 133469,
+    "language": "TypeScript",
+    "url": "https://github.com/openclaw/openclaw",
+    "created_at": "2025-11-24T10:16:47Z",
+    "owner": {
+      "login": "openclaw",
+      "url": "https://github.com/openclaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
+    },
+    "forks": 19411,
+    "issues": 1311,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openclaw/openclaw"
+  },
+  {
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "stars": 112391,
+    "language": null,
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "created_at": "2025-03-05T16:38:29Z",
+    "owner": {
+      "login": "x1xhlol",
+      "url": "https://github.com/x1xhlol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185671340?v=4"
+    },
+    "forks": 29257,
+    "issues": 119,
+    "social_preview_url": "https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "stars": 94046,
+    "language": "TypeScript",
+    "url": "https://github.com/anomalyco/opencode",
+    "created_at": "2025-04-30T20:08:00Z",
+    "owner": {
+      "login": "anomalyco",
+      "url": "https://github.com/anomalyco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66570915?v=4"
+    },
+    "forks": 8746,
+    "issues": 4418,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anomalyco/opencode"
+  }
+]

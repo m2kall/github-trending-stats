@@ -1,0 +1,162 @@
+[
+  {
+    "name": "lukilabs/beautiful-mermaid",
+    "description": null,
+    "stars": 4572,
+    "language": "TypeScript",
+    "url": "https://github.com/lukilabs/beautiful-mermaid",
+    "created_at": "2026-01-28T16:31:46Z",
+    "owner": {
+      "login": "lukilabs",
+      "url": "https://github.com/lukilabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
+    },
+    "forks": 129,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lukilabs/beautiful-mermaid"
+  },
+  {
+    "name": "cloudflare/moltworker",
+    "description": "Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers",
+    "stars": 3714,
+    "language": "TypeScript",
+    "url": "https://github.com/cloudflare/moltworker",
+    "created_at": "2026-01-27T11:09:39Z",
+    "owner": {
+      "login": "cloudflare",
+      "url": "https://github.com/cloudflare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+    },
+    "forks": 549,
+    "issues": 50,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cloudflare/moltworker"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": null,
+    "stars": 3324,
+    "language": null,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "created_at": "2026-01-27T03:53:13Z",
+    "owner": {
+      "login": "forrestchang",
+      "url": "https://github.com/forrestchang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7857126?v=4"
+    },
+    "forks": 244,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "antfu/skills",
+    "description": "Anthony Fu's curated collection of agent skills.",
+    "stars": 2472,
+    "language": "TypeScript",
+    "url": "https://github.com/antfu/skills",
+    "created_at": "2026-01-28T05:59:03Z",
+    "owner": {
+      "login": "antfu",
+      "url": "https://github.com/antfu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11247099?v=4"
+    },
+    "forks": 94,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antfu/skills"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-OCR-2",
+    "description": "Visual Causal Flow",
+    "stars": 1779,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR-2",
+    "created_at": "2026-01-27T03:05:42Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 130,
+    "issues": 32,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/DeepSeek-OCR-2"
+  },
+  {
+    "name": "Robbyant/lingbot-world",
+    "description": "Advancing Open-source World Models",
+    "stars": 1333,
+    "language": "Python",
+    "url": "https://github.com/Robbyant/lingbot-world",
+    "created_at": "2026-01-28T04:52:50Z",
+    "owner": {
+      "login": "Robbyant",
+      "url": "https://github.com/Robbyant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
+    },
+    "forks": 63,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Robbyant/lingbot-world"
+  },
+  {
+    "name": "mindfold-ai/Trellis",
+    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
+    "stars": 1296,
+    "language": "Shell",
+    "url": "https://github.com/mindfold-ai/Trellis",
+    "created_at": "2026-01-26T11:49:10Z",
+    "owner": {
+      "login": "mindfold-ai",
+      "url": "https://github.com/mindfold-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219217320?v=4"
+    },
+    "forks": 61,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mindfold-ai/Trellis"
+  },
+  {
+    "name": "QwenLM/Qwen3-ASR",
+    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.",
+    "stars": 909,
+    "language": "Python",
+    "url": "https://github.com/QwenLM/Qwen3-ASR",
+    "created_at": "2026-01-28T05:44:59Z",
+    "owner": {
+      "login": "QwenLM",
+      "url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "forks": 66,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/QwenLM/Qwen3-ASR"
+  },
+  {
+    "name": "DingTalk-Real-AI/dingtalk-moltbot-connector",
+    "description": "将钉钉机器人连接到 OpenClaw Gateway 的OpenClaw Plugin，支持 AI Card 流式响应",
+    "stars": 647,
+    "language": "TypeScript",
+    "url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector",
+    "created_at": "2026-01-28T09:51:24Z",
+    "owner": {
+      "login": "DingTalk-Real-AI",
+      "url": "https://github.com/DingTalk-Real-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257675475?v=4"
+    },
+    "forks": 41,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/DingTalk-Real-AI/dingtalk-moltbot-connector"
+  },
+  {
+    "name": "jmuncor/tokentap",
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.      ",
+    "stars": 626,
+    "language": "Python",
+    "url": "https://github.com/jmuncor/tokentap",
+    "created_at": "2026-01-27T04:54:55Z",
+    "owner": {
+      "login": "jmuncor",
+      "url": "https://github.com/jmuncor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191727717?v=4"
+    },
+    "forks": 30,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jmuncor/tokentap"
+  }
+]

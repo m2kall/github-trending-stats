@@ -1,0 +1,162 @@
+[
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
+    "stars": 36351,
+    "language": "JavaScript",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "created_at": "2026-01-18T00:51:51Z",
+    "owner": {
+      "login": "affaan-m",
+      "url": "https://github.com/affaan-m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4"
+    },
+    "forks": 4492,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "xai-org/x-algorithm",
+    "description": "Algorithm powering the For You feed on X",
+    "stars": 14288,
+    "language": "Rust",
+    "url": "https://github.com/xai-org/x-algorithm",
+    "created_at": "2026-01-19T23:12:35Z",
+    "owner": {
+      "login": "xai-org",
+      "url": "https://github.com/xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "forks": 2473,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xai-org/x-algorithm"
+  },
+  {
+    "name": "OthmanAdi/planning-with-files",
+    "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
+    "stars": 11942,
+    "language": "Python",
+    "url": "https://github.com/OthmanAdi/planning-with-files",
+    "created_at": "2026-01-03T07:37:28Z",
+    "owner": {
+      "login": "OthmanAdi",
+      "url": "https://github.com/OthmanAdi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78882424?v=4"
+    },
+    "forks": 1098,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OthmanAdi/planning-with-files"
+  },
+  {
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "stars": 11915,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "created_at": "2026-01-11T05:38:15Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 664,
+    "issues": 143,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/agent-browser"
+  },
+  {
+    "name": "vercel-labs/json-render",
+    "description": "AI → JSON → UI",
+    "stars": 9766,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel-labs/json-render",
+    "created_at": "2026-01-14T17:22:39Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 517,
+    "issues": 37,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/json-render"
+  },
+  {
+    "name": "snarktank/ralph",
+    "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
+    "stars": 8952,
+    "language": "TypeScript",
+    "url": "https://github.com/snarktank/ralph",
+    "created_at": "2026-01-07T14:45:10Z",
+    "owner": {
+      "login": "snarktank",
+      "url": "https://github.com/snarktank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152063952?v=4"
+    },
+    "forks": 1056,
+    "issues": 44,
+    "social_preview_url": "https://opengraph.githubassets.com/1/snarktank/ralph"
+  },
+  {
+    "name": "originalankur/maptoposter",
+    "description": "Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.",
+    "stars": 8713,
+    "language": "Python",
+    "url": "https://github.com/originalankur/maptoposter",
+    "created_at": "2026-01-08T12:29:35Z",
+    "owner": {
+      "login": "originalankur",
+      "url": "https://github.com/originalankur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11364?v=4"
+    },
+    "forks": 786,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/originalankur/maptoposter"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行",
+    "stars": 8340,
+    "language": "Python",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "created_at": "2026-01-10T06:43:20Z",
+    "owner": {
+      "login": "ZhuLinsen",
+      "url": "https://github.com/ZhuLinsen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42829555?v=4"
+    },
+    "forks": 8767,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "different-ai/openwork",
+    "description": "An open-source alternative to Claude Cowork, powered by opencode",
+    "stars": 8098,
+    "language": "TypeScript",
+    "url": "https://github.com/different-ai/openwork",
+    "created_at": "2026-01-14T01:39:31Z",
+    "owner": {
+      "login": "different-ai",
+      "url": "https://github.com/different-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118544361?v=4"
+    },
+    "forks": 632,
+    "issues": 73,
+    "social_preview_url": "https://opengraph.githubassets.com/1/different-ai/openwork"
+  },
+  {
+    "name": "chatfire-AI/huobao-drama",
+    "description": "🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator \"One Sentence to Complete Drama: Fully Automated from Script to Final Video\"",
+    "stars": 6816,
+    "language": "Vue",
+    "url": "https://github.com/chatfire-AI/huobao-drama",
+    "created_at": "2026-01-05T11:38:30Z",
+    "owner": {
+      "login": "chatfire-AI",
+      "url": "https://github.com/chatfire-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248649058?v=4"
+    },
+    "forks": 1252,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/chatfire-AI/huobao-drama"
+  }
+]

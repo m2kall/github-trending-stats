@@ -1,0 +1,162 @@
+[
+  {
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "stars": 133469,
+    "language": "TypeScript",
+    "url": "https://github.com/openclaw/openclaw",
+    "created_at": "2025-11-24T10:16:47Z",
+    "owner": {
+      "login": "openclaw",
+      "url": "https://github.com/openclaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
+    },
+    "forks": 19411,
+    "issues": 1310,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openclaw/openclaw"
+  },
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
+    "stars": 36351,
+    "language": "JavaScript",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "created_at": "2026-01-18T00:51:51Z",
+    "owner": {
+      "login": "affaan-m",
+      "url": "https://github.com/affaan-m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4"
+    },
+    "forks": 4493,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "code-yeongyu/oh-my-opencode",
+    "description": "The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.",
+    "stars": 26588,
+    "language": "TypeScript",
+    "url": "https://github.com/code-yeongyu/oh-my-opencode",
+    "created_at": "2025-12-03T01:40:05Z",
+    "owner": {
+      "login": "code-yeongyu",
+      "url": "https://github.com/code-yeongyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11153873?v=4"
+    },
+    "forks": 1933,
+    "issues": 388,
+    "social_preview_url": "https://opengraph.githubassets.com/1/code-yeongyu/oh-my-opencode"
+  },
+  {
+    "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+    "stars": 25624,
+    "language": "Python",
+    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "created_at": "2025-11-30T11:36:31Z",
+    "owner": {
+      "login": "nextlevelbuilder",
+      "url": "https://github.com/nextlevelbuilder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246974152?v=4"
+    },
+    "forks": 2597,
+    "issues": 44,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nextlevelbuilder/ui-ux-pro-max-skill"
+  },
+  {
+    "name": "zai-org/Open-AutoGLM",
+    "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+    "stars": 22938,
+    "language": "Python",
+    "url": "https://github.com/zai-org/Open-AutoGLM",
+    "created_at": "2025-12-08T09:23:44Z",
+    "owner": {
+      "login": "zai-org",
+      "url": "https://github.com/zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "forks": 3627,
+    "issues": 220,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zai-org/Open-AutoGLM"
+  },
+  {
+    "name": "lbjlaq/Antigravity-Manager",
+    "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+    "stars": 20023,
+    "language": "Rust",
+    "url": "https://github.com/lbjlaq/Antigravity-Manager",
+    "created_at": "2025-11-26T10:47:13Z",
+    "owner": {
+      "login": "lbjlaq",
+      "url": "https://github.com/lbjlaq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22748003?v=4"
+    },
+    "forks": 2293,
+    "issues": 924,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lbjlaq/Antigravity-Manager"
+  },
+  {
+    "name": "vercel-labs/agent-skills",
+    "description": "Vercel's official collection of agent skills",
+    "stars": 18221,
+    "language": "JavaScript",
+    "url": "https://github.com/vercel-labs/agent-skills",
+    "created_at": "2025-12-08T19:10:06Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 1673,
+    "issues": 60,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/agent-skills"
+  },
+  {
+    "name": "Snapchat/Valdi",
+    "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.",
+    "stars": 16261,
+    "language": "C++",
+    "url": "https://github.com/Snapchat/Valdi",
+    "created_at": "2025-11-06T17:33:28Z",
+    "owner": {
+      "login": "Snapchat",
+      "url": "https://github.com/Snapchat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40505220?v=4"
+    },
+    "forks": 545,
+    "issues": 57,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Snapchat/Valdi"
+  },
+  {
+    "name": "xai-org/x-algorithm",
+    "description": "Algorithm powering the For You feed on X",
+    "stars": 14288,
+    "language": "Rust",
+    "url": "https://github.com/xai-org/x-algorithm",
+    "created_at": "2026-01-19T23:12:35Z",
+    "owner": {
+      "login": "xai-org",
+      "url": "https://github.com/xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "forks": 2473,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xai-org/x-algorithm"
+  },
+  {
+    "name": "karpathy/llm-council",
+    "description": "LLM Council works together to answer your hardest questions",
+    "stars": 14054,
+    "language": "Python",
+    "url": "https://github.com/karpathy/llm-council",
+    "created_at": "2025-11-22T23:24:14Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 2827,
+    "issues": 98,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/llm-council"
+  }
+]
