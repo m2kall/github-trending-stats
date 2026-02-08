@@ -1,0 +1,162 @@
+[
+  {
+    "name": "BlockRunAI/ClawRouter",
+    "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
+    "stars": 1610,
+    "language": "TypeScript",
+    "url": "https://github.com/BlockRunAI/ClawRouter",
+    "created_at": "2026-02-03T17:32:00Z",
+    "owner": {
+      "login": "BlockRunAI",
+      "url": "https://github.com/BlockRunAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
+    },
+    "forks": 161,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/BlockRunAI/ClawRouter"
+  },
+  {
+    "name": "sheeki03/tirith",
+    "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
+    "stars": 1540,
+    "language": "Rust",
+    "url": "https://github.com/sheeki03/tirith",
+    "created_at": "2026-02-02T04:33:47Z",
+    "owner": {
+      "login": "sheeki03",
+      "url": "https://github.com/sheeki03",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36009418?v=4"
+    },
+    "forks": 45,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sheeki03/tirith"
+  },
+  {
+    "name": "anthropics/claudes-c-compiler",
+    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
+    "stars": 1467,
+    "language": "Rust",
+    "url": "https://github.com/anthropics/claudes-c-compiler",
+    "created_at": "2026-02-04T22:42:22Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 76,
+    "issues": 214,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/claudes-c-compiler"
+  },
+  {
+    "name": "antonpk1/excalidraw-mcp-app",
+    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude",
+    "stars": 874,
+    "language": "TypeScript",
+    "url": "https://github.com/antonpk1/excalidraw-mcp-app",
+    "created_at": "2026-02-04T23:04:00Z",
+    "owner": {
+      "login": "antonpk1",
+      "url": "https://github.com/antonpk1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
+    },
+    "forks": 51,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antonpk1/excalidraw-mcp-app"
+  },
+  {
+    "name": "zai-org/GLM-OCR",
+    "description": "GLM-OCR: Accurate ×  Fast × Comprehensive",
+    "stars": 730,
+    "language": "Python",
+    "url": "https://github.com/zai-org/GLM-OCR",
+    "created_at": "2026-02-02T12:59:43Z",
+    "owner": {
+      "login": "zai-org",
+      "url": "https://github.com/zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "forks": 60,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zai-org/GLM-OCR"
+  },
+  {
+    "name": "foru17/clash-master",
+    "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
+    "stars": 711,
+    "language": "TypeScript",
+    "url": "https://github.com/foru17/clash-master",
+    "created_at": "2026-02-05T17:22:09Z",
+    "owner": {
+      "login": "foru17",
+      "url": "https://github.com/foru17",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
+    },
+    "forks": 47,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/foru17/clash-master"
+  },
+  {
+    "name": "eljojo/rememory",
+    "description": "have a plan for the worst-case scenario",
+    "stars": 582,
+    "language": "Go",
+    "url": "https://github.com/eljojo/rememory",
+    "created_at": "2026-02-03T08:13:42Z",
+    "owner": {
+      "login": "eljojo",
+      "url": "https://github.com/eljojo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
+    },
+    "forks": 17,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/eljojo/rememory"
+  },
+  {
+    "name": "SamNet-dev/paqctl",
+    "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
+    "stars": 553,
+    "language": "Shell",
+    "url": "https://github.com/SamNet-dev/paqctl",
+    "created_at": "2026-02-04T04:39:02Z",
+    "owner": {
+      "login": "SamNet-dev",
+      "url": "https://github.com/SamNet-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
+    },
+    "forks": 69,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SamNet-dev/paqctl"
+  },
+  {
+    "name": "cfinke/EpsteIn",
+    "description": "See which of your LinkedIn connections appear in the Epstein files.",
+    "stars": 459,
+    "language": "Python",
+    "url": "https://github.com/cfinke/EpsteIn",
+    "created_at": "2026-02-04T07:41:08Z",
+    "owner": {
+      "login": "cfinke",
+      "url": "https://github.com/cfinke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
+    },
+    "forks": 25,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cfinke/EpsteIn"
+  },
+  {
+    "name": "fspecii/ace-step-ui",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+    "stars": 434,
+    "language": "JavaScript",
+    "url": "https://github.com/fspecii/ace-step-ui",
+    "created_at": "2026-02-04T01:09:45Z",
+    "owner": {
+      "login": "fspecii",
+      "url": "https://github.com/fspecii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
+    },
+    "forks": 66,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/fspecii/ace-step-ui"
+  }
+]

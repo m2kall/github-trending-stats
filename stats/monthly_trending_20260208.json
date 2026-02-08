@@ -1,0 +1,162 @@
+[
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
+    "stars": 41864,
+    "language": "JavaScript",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "created_at": "2026-01-18T00:51:51Z",
+    "owner": {
+      "login": "affaan-m",
+      "url": "https://github.com/affaan-m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4"
+    },
+    "forks": 5186,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "xai-org/x-algorithm",
+    "description": "Algorithm powering the For You feed on X",
+    "stars": 15082,
+    "language": "Rust",
+    "url": "https://github.com/xai-org/x-algorithm",
+    "created_at": "2026-01-19T23:12:35Z",
+    "owner": {
+      "login": "xai-org",
+      "url": "https://github.com/xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "forks": 2631,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xai-org/x-algorithm"
+  },
+  {
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "stars": 13147,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "created_at": "2026-01-11T05:38:15Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 760,
+    "issues": 170,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/agent-browser"
+  },
+  {
+    "name": "HKUDS/nanobot",
+    "description": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
+    "stars": 12421,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/nanobot",
+    "created_at": "2026-02-01T07:16:15Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 1671,
+    "issues": 223,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/nanobot"
+  },
+  {
+    "name": "VoltAgent/awesome-openclaw-skills",
+    "description": "The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.",
+    "stars": 11305,
+    "language": null,
+    "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "created_at": "2026-01-25T09:22:32Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 1141,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills"
+  },
+  {
+    "name": "vercel-labs/json-render",
+    "description": "AI → JSON → UI",
+    "stars": 10097,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel-labs/json-render",
+    "created_at": "2026-01-14T17:22:39Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 537,
+    "issues": 40,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/json-render"
+  },
+  {
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行",
+    "stars": 9828,
+    "language": "Python",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "created_at": "2026-01-10T06:43:20Z",
+    "owner": {
+      "login": "ZhuLinsen",
+      "url": "https://github.com/ZhuLinsen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42829555?v=4"
+    },
+    "forks": 10324,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "name": "different-ai/openwork",
+    "description": "An open-source alternative to Claude Cowork, powered by opencode",
+    "stars": 8854,
+    "language": "TypeScript",
+    "url": "https://github.com/different-ai/openwork",
+    "created_at": "2026-01-14T01:39:31Z",
+    "owner": {
+      "login": "different-ai",
+      "url": "https://github.com/different-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118544361?v=4"
+    },
+    "forks": 724,
+    "issues": 84,
+    "social_preview_url": "https://opengraph.githubassets.com/1/different-ai/openwork"
+  },
+  {
+    "name": "cloudflare/moltworker",
+    "description": "Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers",
+    "stars": 8074,
+    "language": "TypeScript",
+    "url": "https://github.com/cloudflare/moltworker",
+    "created_at": "2026-01-27T11:09:39Z",
+    "owner": {
+      "login": "cloudflare",
+      "url": "https://github.com/cloudflare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+    },
+    "forks": 1293,
+    "issues": 57,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cloudflare/moltworker"
+  },
+  {
+    "name": "sickn33/antigravity-awesome-skills",
+    "description": "The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
+    "stars": 7801,
+    "language": "Python",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills",
+    "created_at": "2026-01-14T17:48:09Z",
+    "owner": {
+      "login": "sickn33",
+      "url": "https://github.com/sickn33",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184072420?v=4"
+    },
+    "forks": 1632,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sickn33/antigravity-awesome-skills"
+  }
+]
