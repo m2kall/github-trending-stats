@@ -1,0 +1,162 @@
+[
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
+    "stars": 46040,
+    "language": "JavaScript",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "created_at": "2026-01-18T00:51:51Z",
+    "owner": {
+      "login": "affaan-m",
+      "url": "https://github.com/affaan-m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4"
+    },
+    "forks": 5697,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "HKUDS/nanobot",
+    "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
+    "stars": 18943,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/nanobot",
+    "created_at": "2026-02-01T07:16:15Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 2782,
+    "issues": 416,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/nanobot"
+  },
+  {
+    "name": "xai-org/x-algorithm",
+    "description": "Algorithm powering the For You feed on X",
+    "stars": 15441,
+    "language": "Rust",
+    "url": "https://github.com/xai-org/x-algorithm",
+    "created_at": "2026-01-19T23:12:35Z",
+    "owner": {
+      "login": "xai-org",
+      "url": "https://github.com/xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "forks": 2701,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xai-org/x-algorithm"
+  },
+  {
+    "name": "VoltAgent/awesome-openclaw-skills",
+    "description": "The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.",
+    "stars": 15067,
+    "language": null,
+    "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "created_at": "2026-01-25T09:22:32Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 1519,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills"
+  },
+  {
+    "name": "cloudflare/moltworker",
+    "description": "Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers",
+    "stars": 8679,
+    "language": "TypeScript",
+    "url": "https://github.com/cloudflare/moltworker",
+    "created_at": "2026-01-27T11:09:39Z",
+    "owner": {
+      "login": "cloudflare",
+      "url": "https://github.com/cloudflare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+    },
+    "forks": 1483,
+    "issues": 85,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cloudflare/moltworker"
+  },
+  {
+    "name": "qwibitai/nanoclaw",
+    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "stars": 8313,
+    "language": "TypeScript",
+    "url": "https://github.com/qwibitai/nanoclaw",
+    "created_at": "2026-01-31T15:47:22Z",
+    "owner": {
+      "login": "qwibitai",
+      "url": "https://github.com/qwibitai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255066954?v=4"
+    },
+    "forks": 1074,
+    "issues": 80,
+    "social_preview_url": "https://opengraph.githubassets.com/1/qwibitai/nanoclaw"
+  },
+  {
+    "name": "sipeed/picoclaw",
+    "description": "picoclaw",
+    "stars": 7829,
+    "language": "Go",
+    "url": "https://github.com/sipeed/picoclaw",
+    "created_at": "2026-02-04T12:32:35Z",
+    "owner": {
+      "login": "sipeed",
+      "url": "https://github.com/sipeed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44034752?v=4"
+    },
+    "forks": 751,
+    "issues": 71,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sipeed/picoclaw"
+  },
+  {
+    "name": "QwenLM/Qwen3-TTS",
+    "description": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.",
+    "stars": 7688,
+    "language": "Python",
+    "url": "https://github.com/QwenLM/Qwen3-TTS",
+    "created_at": "2026-01-21T06:41:32Z",
+    "owner": {
+      "login": "QwenLM",
+      "url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "forks": 962,
+    "issues": 62,
+    "social_preview_url": "https://opengraph.githubassets.com/1/QwenLM/Qwen3-TTS"
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "stars": 7323,
+    "language": "Python",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "created_at": "2026-01-23T20:11:54Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 717,
+    "issues": 41,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/knowledge-work-plugins"
+  },
+  {
+    "name": "lukilabs/beautiful-mermaid",
+    "description": null,
+    "stars": 7036,
+    "language": "TypeScript",
+    "url": "https://github.com/lukilabs/beautiful-mermaid",
+    "created_at": "2026-01-28T16:31:46Z",
+    "owner": {
+      "login": "lukilabs",
+      "url": "https://github.com/lukilabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
+    },
+    "forks": 209,
+    "issues": 29,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lukilabs/beautiful-mermaid"
+  }
+]

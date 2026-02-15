@@ -1,0 +1,162 @@
+[
+  {
+    "name": "PeonPing/peon-ping",
+    "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
+    "stars": 2038,
+    "language": "Shell",
+    "url": "https://github.com/PeonPing/peon-ping",
+    "created_at": "2026-02-09T23:12:48Z",
+    "owner": {
+      "login": "PeonPing",
+      "url": "https://github.com/PeonPing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261260381?v=4"
+    },
+    "forks": 138,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/PeonPing/peon-ping"
+  },
+  {
+    "name": "xyzeva/k-id-age-verifier",
+    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)",
+    "stars": 1499,
+    "language": "TypeScript",
+    "url": "https://github.com/xyzeva/k-id-age-verifier",
+    "created_at": "2026-02-11T18:29:34Z",
+    "owner": {
+      "login": "xyzeva",
+      "url": "https://github.com/xyzeva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133499694?v=4"
+    },
+    "forks": 54,
+    "issues": 44,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xyzeva/k-id-age-verifier"
+  },
+  {
+    "name": "jlia0/tinyclaw",
+    "description": "TinyClaw is a team of personal agents that collaborate with each other",
+    "stars": 1386,
+    "language": "TypeScript",
+    "url": "https://github.com/jlia0/tinyclaw",
+    "created_at": "2026-02-09T00:34:11Z",
+    "owner": {
+      "login": "jlia0",
+      "url": "https://github.com/jlia0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24471281?v=4"
+    },
+    "forks": 185,
+    "issues": 42,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jlia0/tinyclaw"
+  },
+  {
+    "name": "theonlyhennygod/zeroclaw",
+    "description": "claw done right 🦀",
+    "stars": 1093,
+    "language": "Rust",
+    "url": "https://github.com/theonlyhennygod/zeroclaw",
+    "created_at": "2026-02-13T08:56:04Z",
+    "owner": {
+      "login": "theonlyhennygod",
+      "url": "https://github.com/theonlyhennygod",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144828210?v=4"
+    },
+    "forks": 77,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/theonlyhennygod/zeroclaw"
+  },
+  {
+    "name": "promptpirate-x/discord-id-bypass-tool",
+    "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
+    "stars": 1086,
+    "language": "HTML",
+    "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
+    "created_at": "2026-02-10T15:49:55Z",
+    "owner": {
+      "login": "promptpirate-x",
+      "url": "https://github.com/promptpirate-x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214351522?v=4"
+    },
+    "forks": 63,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/promptpirate-x/discord-id-bypass-tool"
+  },
+  {
+    "name": "RevylAI/greenlight",
+    "description": "Pre-submission compliance scanner for the Apple App Store",
+    "stars": 813,
+    "language": "Go",
+    "url": "https://github.com/RevylAI/greenlight",
+    "created_at": "2026-02-11T22:54:47Z",
+    "owner": {
+      "login": "RevylAI",
+      "url": "https://github.com/RevylAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137441477?v=4"
+    },
+    "forks": 58,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/RevylAI/greenlight"
+  },
+  {
+    "name": "zai-org/GLM-5",
+    "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "stars": 787,
+    "language": null,
+    "url": "https://github.com/zai-org/GLM-5",
+    "created_at": "2026-02-09T08:17:02Z",
+    "owner": {
+      "login": "zai-org",
+      "url": "https://github.com/zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "forks": 72,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zai-org/GLM-5"
+  },
+  {
+    "name": "mickamy/sql-tap",
+    "description": "Watch SQL traffic in real-time with a TUI",
+    "stars": 582,
+    "language": "Go",
+    "url": "https://github.com/mickamy/sql-tap",
+    "created_at": "2026-02-14T01:41:59Z",
+    "owner": {
+      "login": "mickamy",
+      "url": "https://github.com/mickamy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11856337?v=4"
+    },
+    "forks": 7,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mickamy/sql-tap"
+  },
+  {
+    "name": "devops-interviews/devops-interviews",
+    "description": "DevOps Interview Questions",
+    "stars": 487,
+    "language": null,
+    "url": "https://github.com/devops-interviews/devops-interviews",
+    "created_at": "2026-02-12T16:41:47Z",
+    "owner": {
+      "login": "devops-interviews",
+      "url": "https://github.com/devops-interviews",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261252522?v=4"
+    },
+    "forks": 74,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/devops-interviews/devops-interviews"
+  },
+  {
+    "name": "aeromomo/claw-compactor",
+    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+    "stars": 456,
+    "language": "Python",
+    "url": "https://github.com/aeromomo/claw-compactor",
+    "created_at": "2026-02-10T00:27:08Z",
+    "owner": {
+      "login": "aeromomo",
+      "url": "https://github.com/aeromomo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7247541?v=4"
+    },
+    "forks": 39,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/aeromomo/claw-compactor"
+  }
+]

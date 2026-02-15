@@ -9,209 +9,205 @@
 - 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
 - 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-🕒 **最后更新时间**: 2026-02-08 03:18:54
+🕒 **最后更新时间**: 2026-02-15 02:50:59
 
 ---
 
 # 📊 周榜 (过去7天)
 
-## 1. [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)
+## 1. [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)
 
-![项目预览图](https://opengraph.githubassets.com/1/BlockRunAI/ClawRouter)
+![项目预览图](https://opengraph.githubassets.com/1/PeonPing/peon-ping)
 
-📝 **项目描述**: Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
+📝 **项目描述**: Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.
 
-⭐ **获得 Star**: 1,610
+⭐ **获得 Star**: 2,038
+
+💻 **主要编程语言**: Shell
+
+📅 **创建时间**: 2026-02-09
+
+👤 **作者**: [PeonPing](https://github.com/PeonPing)
+
+🔄 **Fork 数量**: 138
+
+⚠️ **未解决 Issues**: 5
+
+---
+
+## 2. [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)
+
+![项目预览图](https://opengraph.githubassets.com/1/xyzeva/k-id-age-verifier)
+
+📝 **项目描述**: automatically verify your age on discord, twitch, kick, quora and more (k-id)
+
+⭐ **获得 Star**: 1,499
 
 💻 **主要编程语言**: TypeScript
 
-📅 **创建时间**: 2026-02-03
+📅 **创建时间**: 2026-02-11
 
-👤 **作者**: [BlockRunAI](https://github.com/BlockRunAI)
+👤 **作者**: [xyzeva](https://github.com/xyzeva)
 
-🔄 **Fork 数量**: 161
+🔄 **Fork 数量**: 54
 
-⚠️ **未解决 Issues**: 3
-
----
-
-## 2. [sheeki03/tirith](https://github.com/sheeki03/tirith)
-
-![项目预览图](https://opengraph.githubassets.com/1/sheeki03/tirith)
-
-📝 **项目描述**: Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
-
-⭐ **获得 Star**: 1,540
-
-💻 **主要编程语言**: Rust
-
-📅 **创建时间**: 2026-02-02
-
-👤 **作者**: [sheeki03](https://github.com/sheeki03)
-
-🔄 **Fork 数量**: 45
-
-⚠️ **未解决 Issues**: 3
+⚠️ **未解决 Issues**: 44
 
 ---
 
-## 3. [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)
+## 3. [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw)
 
-![项目预览图](https://opengraph.githubassets.com/1/anthropics/claudes-c-compiler)
+![项目预览图](https://opengraph.githubassets.com/1/jlia0/tinyclaw)
 
-📝 **项目描述**: Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
+📝 **项目描述**: TinyClaw is a team of personal agents that collaborate with each other
 
-⭐ **获得 Star**: 1,467
-
-💻 **主要编程语言**: Rust
-
-📅 **创建时间**: 2026-02-04
-
-👤 **作者**: [anthropics](https://github.com/anthropics)
-
-🔄 **Fork 数量**: 76
-
-⚠️ **未解决 Issues**: 214
-
----
-
-## 4. [antonpk1/excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app)
-
-![项目预览图](https://opengraph.githubassets.com/1/antonpk1/excalidraw-mcp-app)
-
-📝 **项目描述**: Excalidraw MCP App Server — hand-drawn diagrams for Claude
-
-⭐ **获得 Star**: 874
+⭐ **获得 Star**: 1,386
 
 💻 **主要编程语言**: TypeScript
 
-📅 **创建时间**: 2026-02-04
+📅 **创建时间**: 2026-02-09
 
-👤 **作者**: [antonpk1](https://github.com/antonpk1)
+👤 **作者**: [jlia0](https://github.com/jlia0)
 
-🔄 **Fork 数量**: 51
+🔄 **Fork 数量**: 185
 
-⚠️ **未解决 Issues**: 2
+⚠️ **未解决 Issues**: 42
 
 ---
 
-## 5. [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)
+## 4. [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw)
 
-![项目预览图](https://opengraph.githubassets.com/1/zai-org/GLM-OCR)
+![项目预览图](https://opengraph.githubassets.com/1/theonlyhennygod/zeroclaw)
 
-📝 **项目描述**: GLM-OCR: Accurate ×  Fast × Comprehensive
+📝 **项目描述**: claw done right 🦀
 
-⭐ **获得 Star**: 730
+⭐ **获得 Star**: 1,093
 
-💻 **主要编程语言**: Python
+💻 **主要编程语言**: Rust
 
-📅 **创建时间**: 2026-02-02
+📅 **创建时间**: 2026-02-13
+
+👤 **作者**: [theonlyhennygod](https://github.com/theonlyhennygod)
+
+🔄 **Fork 数量**: 77
+
+⚠️ **未解决 Issues**: 12
+
+---
+
+## 5. [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)
+
+![项目预览图](https://opengraph.githubassets.com/1/promptpirate-x/discord-id-bypass-tool)
+
+📝 **项目描述**: A verified tool that works on any potato computer that will let you bypass discord verification
+
+⭐ **获得 Star**: 1,086
+
+💻 **主要编程语言**: HTML
+
+📅 **创建时间**: 2026-02-10
+
+👤 **作者**: [promptpirate-x](https://github.com/promptpirate-x)
+
+🔄 **Fork 数量**: 63
+
+⚠️ **未解决 Issues**: 13
+
+---
+
+## 6. [RevylAI/greenlight](https://github.com/RevylAI/greenlight)
+
+![项目预览图](https://opengraph.githubassets.com/1/RevylAI/greenlight)
+
+📝 **项目描述**: Pre-submission compliance scanner for the Apple App Store
+
+⭐ **获得 Star**: 813
+
+💻 **主要编程语言**: Go
+
+📅 **创建时间**: 2026-02-11
+
+👤 **作者**: [RevylAI](https://github.com/RevylAI)
+
+🔄 **Fork 数量**: 58
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 7. [zai-org/GLM-5](https://github.com/zai-org/GLM-5)
+
+![项目预览图](https://opengraph.githubassets.com/1/zai-org/GLM-5)
+
+📝 **项目描述**: GLM-5: From Vibe Coding to Agentic Engineering
+
+⭐ **获得 Star**: 787
+
+📅 **创建时间**: 2026-02-09
 
 👤 **作者**: [zai-org](https://github.com/zai-org)
 
-🔄 **Fork 数量**: 60
+🔄 **Fork 数量**: 72
 
-⚠️ **未解决 Issues**: 23
-
----
-
-## 6. [foru17/clash-master](https://github.com/foru17/clash-master)
-
-![项目预览图](https://opengraph.githubassets.com/1/foru17/clash-master)
-
-📝 **项目描述**: A modern and elegant dashboard for visualizing and managing Clash network traffic.
-
-⭐ **获得 Star**: 711
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2026-02-05
-
-👤 **作者**: [foru17](https://github.com/foru17)
-
-🔄 **Fork 数量**: 47
-
-⚠️ **未解决 Issues**: 11
+⚠️ **未解决 Issues**: 7
 
 ---
 
-## 7. [eljojo/rememory](https://github.com/eljojo/rememory)
+## 8. [mickamy/sql-tap](https://github.com/mickamy/sql-tap)
 
-![项目预览图](https://opengraph.githubassets.com/1/eljojo/rememory)
+![项目预览图](https://opengraph.githubassets.com/1/mickamy/sql-tap)
 
-📝 **项目描述**: have a plan for the worst-case scenario
+📝 **项目描述**: Watch SQL traffic in real-time with a TUI
 
 ⭐ **获得 Star**: 582
 
 💻 **主要编程语言**: Go
 
-📅 **创建时间**: 2026-02-03
+📅 **创建时间**: 2026-02-14
 
-👤 **作者**: [eljojo](https://github.com/eljojo)
+👤 **作者**: [mickamy](https://github.com/mickamy)
 
-🔄 **Fork 数量**: 17
-
-⚠️ **未解决 Issues**: 4
-
----
-
-## 8. [SamNet-dev/paqctl](https://github.com/SamNet-dev/paqctl)
-
-![项目预览图](https://opengraph.githubassets.com/1/SamNet-dev/paqctl)
-
-📝 **项目描述**: Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation
-
-⭐ **获得 Star**: 553
-
-💻 **主要编程语言**: Shell
-
-📅 **创建时间**: 2026-02-04
-
-👤 **作者**: [SamNet-dev](https://github.com/SamNet-dev)
-
-🔄 **Fork 数量**: 69
+🔄 **Fork 数量**: 7
 
 ⚠️ **未解决 Issues**: 3
 
 ---
 
-## 9. [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn)
+## 9. [devops-interviews/devops-interviews](https://github.com/devops-interviews/devops-interviews)
 
-![项目预览图](https://opengraph.githubassets.com/1/cfinke/EpsteIn)
+![项目预览图](https://opengraph.githubassets.com/1/devops-interviews/devops-interviews)
 
-📝 **项目描述**: See which of your LinkedIn connections appear in the Epstein files.
+📝 **项目描述**: DevOps Interview Questions
 
-⭐ **获得 Star**: 459
+⭐ **获得 Star**: 487
 
-💻 **主要编程语言**: Python
+📅 **创建时间**: 2026-02-12
 
-📅 **创建时间**: 2026-02-04
+👤 **作者**: [devops-interviews](https://github.com/devops-interviews)
 
-👤 **作者**: [cfinke](https://github.com/cfinke)
+🔄 **Fork 数量**: 74
 
-🔄 **Fork 数量**: 25
-
-⚠️ **未解决 Issues**: 2
+⚠️ **未解决 Issues**: 0
 
 ---
 
-## 10. [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui)
+## 10. [aeromomo/claw-compactor](https://github.com/aeromomo/claw-compactor)
 
-![项目预览图](https://opengraph.githubassets.com/1/fspecii/ace-step-ui)
+![项目预览图](https://opengraph.githubassets.com/1/aeromomo/claw-compactor)
 
-📝 **项目描述**: 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
+📝 **项目描述**: 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.
 
-⭐ **获得 Star**: 434
+⭐ **获得 Star**: 456
 
-💻 **主要编程语言**: JavaScript
+💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2026-02-04
+📅 **创建时间**: 2026-02-10
 
-👤 **作者**: [fspecii](https://github.com/fspecii)
+👤 **作者**: [aeromomo](https://github.com/aeromomo)
 
-🔄 **Fork 数量**: 66
+🔄 **Fork 数量**: 39
 
-⚠️ **未解决 Issues**: 22
+⚠️ **未解决 Issues**: 0
 
 ---
 
@@ -223,7 +219,7 @@
 
 📝 **项目描述**: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-⭐ **获得 Star**: 41,864
+⭐ **获得 Star**: 46,040
 
 💻 **主要编程语言**: JavaScript
 
@@ -231,59 +227,19 @@
 
 👤 **作者**: [affaan-m](https://github.com/affaan-m)
 
-🔄 **Fork 数量**: 5,186
+🔄 **Fork 数量**: 5,697
 
-⚠️ **未解决 Issues**: 11
-
----
-
-## 2. [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
-
-![项目预览图](https://opengraph.githubassets.com/1/xai-org/x-algorithm)
-
-📝 **项目描述**: Algorithm powering the For You feed on X
-
-⭐ **获得 Star**: 15,082
-
-💻 **主要编程语言**: Rust
-
-📅 **创建时间**: 2026-01-19
-
-👤 **作者**: [xai-org](https://github.com/xai-org)
-
-🔄 **Fork 数量**: 2,631
-
-⚠️ **未解决 Issues**: 0
+⚠️ **未解决 Issues**: 14
 
 ---
 
-## 3. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-
-![项目预览图](https://opengraph.githubassets.com/1/vercel-labs/agent-browser)
-
-📝 **项目描述**: Browser automation CLI for AI agents
-
-⭐ **获得 Star**: 13,147
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2026-01-11
-
-👤 **作者**: [vercel-labs](https://github.com/vercel-labs)
-
-🔄 **Fork 数量**: 760
-
-⚠️ **未解决 Issues**: 170
-
----
-
-## 4. [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+## 2. [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
 
 ![项目预览图](https://opengraph.githubassets.com/1/HKUDS/nanobot)
 
-📝 **项目描述**: "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+📝 **项目描述**: "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-⭐ **获得 Star**: 12,421
+⭐ **获得 Star**: 18,943
 
 💻 **主要编程语言**: Python
 
@@ -291,97 +247,57 @@
 
 👤 **作者**: [HKUDS](https://github.com/HKUDS)
 
-🔄 **Fork 数量**: 1,671
+🔄 **Fork 数量**: 2,782
 
-⚠️ **未解决 Issues**: 223
+⚠️ **未解决 Issues**: 416
 
 ---
 
-## 5. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
+## 3. [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+
+![项目预览图](https://opengraph.githubassets.com/1/xai-org/x-algorithm)
+
+📝 **项目描述**: Algorithm powering the For You feed on X
+
+⭐ **获得 Star**: 15,441
+
+💻 **主要编程语言**: Rust
+
+📅 **创建时间**: 2026-01-19
+
+👤 **作者**: [xai-org](https://github.com/xai-org)
+
+🔄 **Fork 数量**: 2,701
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 4. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
 
 ![项目预览图](https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills)
 
 📝 **项目描述**: The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-⭐ **获得 Star**: 11,305
+⭐ **获得 Star**: 15,067
 
 📅 **创建时间**: 2026-01-25
 
 👤 **作者**: [VoltAgent](https://github.com/VoltAgent)
 
-🔄 **Fork 数量**: 1,141
+🔄 **Fork 数量**: 1,519
 
-⚠️ **未解决 Issues**: 3
-
----
-
-## 6. [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
-
-![项目预览图](https://opengraph.githubassets.com/1/vercel-labs/json-render)
-
-📝 **项目描述**: AI → JSON → UI
-
-⭐ **获得 Star**: 10,097
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2026-01-14
-
-👤 **作者**: [vercel-labs](https://github.com/vercel-labs)
-
-🔄 **Fork 数量**: 537
-
-⚠️ **未解决 Issues**: 40
+⚠️ **未解决 Issues**: 5
 
 ---
 
-## 7. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-
-![项目预览图](https://opengraph.githubassets.com/1/ZhuLinsen/daily_stock_analysis)
-
-📝 **项目描述**: LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
-
-⭐ **获得 Star**: 9,828
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2026-01-10
-
-👤 **作者**: [ZhuLinsen](https://github.com/ZhuLinsen)
-
-🔄 **Fork 数量**: 10,324
-
-⚠️ **未解决 Issues**: 16
-
----
-
-## 8. [different-ai/openwork](https://github.com/different-ai/openwork)
-
-![项目预览图](https://opengraph.githubassets.com/1/different-ai/openwork)
-
-📝 **项目描述**: An open-source alternative to Claude Cowork, powered by opencode
-
-⭐ **获得 Star**: 8,854
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2026-01-14
-
-👤 **作者**: [different-ai](https://github.com/different-ai)
-
-🔄 **Fork 数量**: 724
-
-⚠️ **未解决 Issues**: 84
-
----
-
-## 9. [cloudflare/moltworker](https://github.com/cloudflare/moltworker)
+## 5. [cloudflare/moltworker](https://github.com/cloudflare/moltworker)
 
 ![项目预览图](https://opengraph.githubassets.com/1/cloudflare/moltworker)
 
 📝 **项目描述**: Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
-⭐ **获得 Star**: 8,074
+⭐ **获得 Star**: 8,679
 
 💻 **主要编程语言**: TypeScript
 
@@ -389,29 +305,107 @@
 
 👤 **作者**: [cloudflare](https://github.com/cloudflare)
 
-🔄 **Fork 数量**: 1,293
+🔄 **Fork 数量**: 1,483
 
-⚠️ **未解决 Issues**: 57
+⚠️ **未解决 Issues**: 85
 
 ---
 
-## 10. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
+## 6. [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
 
-![项目预览图](https://opengraph.githubassets.com/1/sickn33/antigravity-awesome-skills)
+![项目预览图](https://opengraph.githubassets.com/1/qwibitai/nanoclaw)
 
-📝 **项目描述**: The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+📝 **项目描述**: A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-⭐ **获得 Star**: 7,801
+⭐ **获得 Star**: 8,313
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2026-01-31
+
+👤 **作者**: [qwibitai](https://github.com/qwibitai)
+
+🔄 **Fork 数量**: 1,074
+
+⚠️ **未解决 Issues**: 80
+
+---
+
+## 7. [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
+
+![项目预览图](https://opengraph.githubassets.com/1/sipeed/picoclaw)
+
+📝 **项目描述**: picoclaw
+
+⭐ **获得 Star**: 7,829
+
+💻 **主要编程语言**: Go
+
+📅 **创建时间**: 2026-02-04
+
+👤 **作者**: [sipeed](https://github.com/sipeed)
+
+🔄 **Fork 数量**: 751
+
+⚠️ **未解决 Issues**: 71
+
+---
+
+## 8. [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+
+![项目预览图](https://opengraph.githubassets.com/1/QwenLM/Qwen3-TTS)
+
+📝 **项目描述**: Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
+
+⭐ **获得 Star**: 7,688
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2026-01-14
+📅 **创建时间**: 2026-01-21
 
-👤 **作者**: [sickn33](https://github.com/sickn33)
+👤 **作者**: [QwenLM](https://github.com/QwenLM)
 
-🔄 **Fork 数量**: 1,632
+🔄 **Fork 数量**: 962
 
-⚠️ **未解决 Issues**: 2
+⚠️ **未解决 Issues**: 62
+
+---
+
+## 9. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
+![项目预览图](https://opengraph.githubassets.com/1/anthropics/knowledge-work-plugins)
+
+📝 **项目描述**: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+
+⭐ **获得 Star**: 7,323
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-01-23
+
+👤 **作者**: [anthropics](https://github.com/anthropics)
+
+🔄 **Fork 数量**: 717
+
+⚠️ **未解决 Issues**: 41
+
+---
+
+## 10. [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)
+
+![项目预览图](https://opengraph.githubassets.com/1/lukilabs/beautiful-mermaid)
+
+⭐ **获得 Star**: 7,036
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2026-01-28
+
+👤 **作者**: [lukilabs](https://github.com/lukilabs)
+
+🔄 **Fork 数量**: 209
+
+⚠️ **未解决 Issues**: 29
 
 ---
 
@@ -423,7 +417,7 @@
 
 📝 **项目描述**: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-⭐ **获得 Star**: 174,228
+⭐ **获得 Star**: 194,615
 
 💻 **主要编程语言**: TypeScript
 
@@ -431,9 +425,9 @@
 
 👤 **作者**: [openclaw](https://github.com/openclaw)
 
-🔄 **Fork 数量**: 28,442
+🔄 **Fork 数量**: 33,579
 
-⚠️ **未解决 Issues**: 4,558
+⚠️ **未解决 Issues**: 5,871
 
 ---
 
@@ -443,7 +437,7 @@
 
 📝 **项目描述**: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-⭐ **获得 Star**: 41,864
+⭐ **获得 Star**: 46,040
 
 💻 **主要编程语言**: JavaScript
 
@@ -451,9 +445,9 @@
 
 👤 **作者**: [affaan-m](https://github.com/affaan-m)
 
-🔄 **Fork 数量**: 5,186
+🔄 **Fork 数量**: 5,697
 
-⚠️ **未解决 Issues**: 11
+⚠️ **未解决 Issues**: 14
 
 ---
 
@@ -461,9 +455,9 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/code-yeongyu/oh-my-opencode)
 
-📝 **项目描述**: The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+📝 **项目描述**: the best agent harness
 
-⭐ **获得 Star**: 29,285
+⭐ **获得 Star**: 31,455
 
 💻 **主要编程语言**: TypeScript
 
@@ -471,9 +465,9 @@
 
 👤 **作者**: [code-yeongyu](https://github.com/code-yeongyu)
 
-🔄 **Fork 数量**: 2,154
+🔄 **Fork 数量**: 2,348
 
-⚠️ **未解决 Issues**: 248
+⚠️ **未解决 Issues**: 242
 
 ---
 
@@ -483,7 +477,7 @@
 
 📝 **项目描述**: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
-⭐ **获得 Star**: 29,263
+⭐ **获得 Star**: 31,253
 
 💻 **主要编程语言**: Python
 
@@ -491,9 +485,9 @@
 
 👤 **作者**: [nextlevelbuilder](https://github.com/nextlevelbuilder)
 
-🔄 **Fork 数量**: 2,924
+🔄 **Fork 数量**: 3,078
 
-⚠️ **未解决 Issues**: 48
+⚠️ **未解决 Issues**: 51
 
 ---
 
@@ -503,7 +497,7 @@
 
 📝 **项目描述**: An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-⭐ **获得 Star**: 23,193
+⭐ **获得 Star**: 23,424
 
 💻 **主要编程语言**: Python
 
@@ -511,9 +505,9 @@
 
 👤 **作者**: [zai-org](https://github.com/zai-org)
 
-🔄 **Fork 数量**: 3,662
+🔄 **Fork 数量**: 3,704
 
-⚠️ **未解决 Issues**: 224
+⚠️ **未解决 Issues**: 225
 
 ---
 
@@ -523,7 +517,7 @@
 
 📝 **项目描述**: Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 
-⭐ **获得 Star**: 21,934
+⭐ **获得 Star**: 23,347
 
 💻 **主要编程语言**: Rust
 
@@ -531,9 +525,9 @@
 
 👤 **作者**: [lbjlaq](https://github.com/lbjlaq)
 
-🔄 **Fork 数量**: 2,485
+🔄 **Fork 数量**: 2,638
 
-⚠️ **未解决 Issues**: 1,109
+⚠️ **未解决 Issues**: 1,309
 
 ---
 
@@ -543,7 +537,7 @@
 
 📝 **项目描述**: Vercel's official collection of agent skills
 
-⭐ **获得 Star**: 19,399
+⭐ **获得 Star**: 20,368
 
 💻 **主要编程语言**: JavaScript
 
@@ -551,19 +545,39 @@
 
 👤 **作者**: [vercel-labs](https://github.com/vercel-labs)
 
-🔄 **Fork 数量**: 1,788
+🔄 **Fork 数量**: 1,847
 
-⚠️ **未解决 Issues**: 68
+⚠️ **未解决 Issues**: 70
 
 ---
 
-## 8. [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+## 8. [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+
+![项目预览图](https://opengraph.githubassets.com/1/HKUDS/nanobot)
+
+📝 **项目描述**: "🐈 nanobot: The Ultra-Lightweight OpenClaw"
+
+⭐ **获得 Star**: 18,943
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-02-01
+
+👤 **作者**: [HKUDS](https://github.com/HKUDS)
+
+🔄 **Fork 数量**: 2,782
+
+⚠️ **未解决 Issues**: 416
+
+---
+
+## 9. [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
 
 ![项目预览图](https://opengraph.githubassets.com/1/xai-org/x-algorithm)
 
 📝 **项目描述**: Algorithm powering the For You feed on X
 
-⭐ **获得 Star**: 15,082
+⭐ **获得 Star**: 15,441
 
 💻 **主要编程语言**: Rust
 
@@ -571,47 +585,25 @@
 
 👤 **作者**: [xai-org](https://github.com/xai-org)
 
-🔄 **Fork 数量**: 2,631
+🔄 **Fork 数量**: 2,701
 
 ⚠️ **未解决 Issues**: 0
 
 ---
 
-## 9. [karpathy/llm-council](https://github.com/karpathy/llm-council)
+## 10. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
 
-![项目预览图](https://opengraph.githubassets.com/1/karpathy/llm-council)
+![项目预览图](https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills)
 
-📝 **项目描述**: LLM Council works together to answer your hardest questions
+📝 **项目描述**: The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
-⭐ **获得 Star**: 14,291
+⭐ **获得 Star**: 15,067
 
-💻 **主要编程语言**: Python
+📅 **创建时间**: 2026-01-25
 
-📅 **创建时间**: 2025-11-22
+👤 **作者**: [VoltAgent](https://github.com/VoltAgent)
 
-👤 **作者**: [karpathy](https://github.com/karpathy)
-
-🔄 **Fork 数量**: 2,889
-
-⚠️ **未解决 Issues**: 100
-
----
-
-## 10. [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
-
-![项目预览图](https://opengraph.githubassets.com/1/OthmanAdi/planning-with-files)
-
-📝 **项目描述**: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-
-⭐ **获得 Star**: 13,328
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2026-01-03
-
-👤 **作者**: [OthmanAdi](https://github.com/OthmanAdi)
-
-🔄 **Fork 数量**: 1,232
+🔄 **Fork 数量**: 1,519
 
 ⚠️ **未解决 Issues**: 5
 
@@ -625,7 +617,7 @@
 
 📝 **项目描述**: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-⭐ **获得 Star**: 174,228
+⭐ **获得 Star**: 194,615
 
 💻 **主要编程语言**: TypeScript
 
@@ -633,9 +625,9 @@
 
 👤 **作者**: [openclaw](https://github.com/openclaw)
 
-🔄 **Fork 数量**: 28,442
+🔄 **Fork 数量**: 33,579
 
-⚠️ **未解决 Issues**: 4,558
+⚠️ **未解决 Issues**: 5,871
 
 ---
 
@@ -645,15 +637,15 @@
 
 📝 **项目描述**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
-⭐ **获得 Star**: 113,679
+⭐ **获得 Star**: 114,549
 
 📅 **创建时间**: 2025-03-05
 
 👤 **作者**: [x1xhlol](https://github.com/x1xhlol)
 
-🔄 **Fork 数量**: 29,495
+🔄 **Fork 数量**: 29,601
 
-⚠️ **未解决 Issues**: 121
+⚠️ **未解决 Issues**: 123
 
 ---
 
@@ -663,7 +655,7 @@
 
 📝 **项目描述**: The open source coding agent.
 
-⭐ **获得 Star**: 99,843
+⭐ **获得 Star**: 104,659
 
 💻 **主要编程语言**: TypeScript
 
@@ -671,9 +663,9 @@
 
 👤 **作者**: [anomalyco](https://github.com/anomalyco)
 
-🔄 **Fork 数量**: 9,525
+🔄 **Fork 数量**: 10,175
 
-⚠️ **未解决 Issues**: 4,716
+⚠️ **未解决 Issues**: 5,196
 
 ---
 
