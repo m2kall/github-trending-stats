@@ -1,0 +1,162 @@
+[
+  {
+    "name": "HKUDS/nanobot",
+    "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
+    "stars": 22770,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/nanobot",
+    "created_at": "2026-02-01T07:16:15Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 3533,
+    "issues": 562,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/nanobot"
+  },
+  {
+    "name": "VoltAgent/awesome-openclaw-skills",
+    "description": "The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.",
+    "stars": 17721,
+    "language": null,
+    "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "created_at": "2026-01-25T09:22:32Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 1821,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills"
+  },
+  {
+    "name": "sipeed/picoclaw",
+    "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+    "stars": 17545,
+    "language": "Go",
+    "url": "https://github.com/sipeed/picoclaw",
+    "created_at": "2026-02-04T12:32:35Z",
+    "owner": {
+      "login": "sipeed",
+      "url": "https://github.com/sipeed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44034752?v=4"
+    },
+    "forks": 2062,
+    "issues": 287,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sipeed/picoclaw"
+  },
+  {
+    "name": "zeroclaw-labs/zeroclaw",
+    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
+    "stars": 16446,
+    "language": "Rust",
+    "url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "created_at": "2026-02-13T08:56:04Z",
+    "owner": {
+      "login": "zeroclaw-labs",
+      "url": "https://github.com/zeroclaw-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
+    },
+    "forks": 1860,
+    "issues": 49,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zeroclaw-labs/zeroclaw"
+  },
+  {
+    "name": "qwibitai/nanoclaw",
+    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "stars": 10923,
+    "language": "TypeScript",
+    "url": "https://github.com/qwibitai/nanoclaw",
+    "created_at": "2026-01-31T15:47:22Z",
+    "owner": {
+      "login": "qwibitai",
+      "url": "https://github.com/qwibitai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255066954?v=4"
+    },
+    "forks": 1562,
+    "issues": 89,
+    "social_preview_url": "https://opengraph.githubassets.com/1/qwibitai/nanoclaw"
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "description": "The open-source voice synthesis studio powered by Qwen3-TTS.",
+    "stars": 9517,
+    "language": "TypeScript",
+    "url": "https://github.com/jamiepine/voicebox",
+    "created_at": "2026-01-25T12:27:03Z",
+    "owner": {
+      "login": "jamiepine",
+      "url": "https://github.com/jamiepine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32987599?v=4"
+    },
+    "forks": 985,
+    "issues": 111,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jamiepine/voicebox"
+  },
+  {
+    "name": "cloudflare/moltworker",
+    "description": "Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers",
+    "stars": 9046,
+    "language": "TypeScript",
+    "url": "https://github.com/cloudflare/moltworker",
+    "created_at": "2026-01-27T11:09:39Z",
+    "owner": {
+      "login": "cloudflare",
+      "url": "https://github.com/cloudflare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+    },
+    "forks": 1615,
+    "issues": 104,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cloudflare/moltworker"
+  },
+  {
+    "name": "lukilabs/beautiful-mermaid",
+    "description": null,
+    "stars": 7248,
+    "language": "TypeScript",
+    "url": "https://github.com/lukilabs/beautiful-mermaid",
+    "created_at": "2026-01-28T16:31:46Z",
+    "owner": {
+      "login": "lukilabs",
+      "url": "https://github.com/lukilabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
+    },
+    "forks": 224,
+    "issues": 30,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lukilabs/beautiful-mermaid"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": null,
+    "stars": 6648,
+    "language": null,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "created_at": "2026-01-27T03:53:13Z",
+    "owner": {
+      "login": "forrestchang",
+      "url": "https://github.com/forrestchang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7857126?v=4"
+    },
+    "forks": 451,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "Leey21/awesome-ai-research-writing",
+    "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
+    "stars": 6548,
+    "language": null,
+    "url": "https://github.com/Leey21/awesome-ai-research-writing",
+    "created_at": "2026-01-30T07:59:30Z",
+    "owner": {
+      "login": "Leey21",
+      "url": "https://github.com/Leey21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112166430?v=4"
+    },
+    "forks": 501,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Leey21/awesome-ai-research-writing"
+  }
+]

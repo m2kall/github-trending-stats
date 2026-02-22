@@ -1,0 +1,162 @@
+[
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
+    "stars": 49113,
+    "language": "JavaScript",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "created_at": "2026-01-18T00:51:51Z",
+    "owner": {
+      "login": "affaan-m",
+      "url": "https://github.com/affaan-m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4"
+    },
+    "forks": 6094,
+    "issues": 21,
+    "social_preview_url": "https://opengraph.githubassets.com/1/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+    "stars": 33314,
+    "language": "Python",
+    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "created_at": "2025-11-30T11:36:31Z",
+    "owner": {
+      "login": "nextlevelbuilder",
+      "url": "https://github.com/nextlevelbuilder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246974152?v=4"
+    },
+    "forks": 3301,
+    "issues": 55,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nextlevelbuilder/ui-ux-pro-max-skill"
+  },
+  {
+    "name": "code-yeongyu/oh-my-opencode",
+    "description": "the best agent harness",
+    "stars": 32872,
+    "language": "TypeScript",
+    "url": "https://github.com/code-yeongyu/oh-my-opencode",
+    "created_at": "2025-12-03T01:40:05Z",
+    "owner": {
+      "login": "code-yeongyu",
+      "url": "https://github.com/code-yeongyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11153873?v=4"
+    },
+    "forks": 2479,
+    "issues": 213,
+    "social_preview_url": "https://opengraph.githubassets.com/1/code-yeongyu/oh-my-opencode"
+  },
+  {
+    "name": "lbjlaq/Antigravity-Manager",
+    "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+    "stars": 23890,
+    "language": "Rust",
+    "url": "https://github.com/lbjlaq/Antigravity-Manager",
+    "created_at": "2025-11-26T10:47:13Z",
+    "owner": {
+      "login": "lbjlaq",
+      "url": "https://github.com/lbjlaq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22748003?v=4"
+    },
+    "forks": 2678,
+    "issues": 1378,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lbjlaq/Antigravity-Manager"
+  },
+  {
+    "name": "zai-org/Open-AutoGLM",
+    "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+    "stars": 23568,
+    "language": "Python",
+    "url": "https://github.com/zai-org/Open-AutoGLM",
+    "created_at": "2025-12-08T09:23:44Z",
+    "owner": {
+      "login": "zai-org",
+      "url": "https://github.com/zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "forks": 3723,
+    "issues": 225,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zai-org/Open-AutoGLM"
+  },
+  {
+    "name": "HKUDS/nanobot",
+    "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
+    "stars": 22770,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/nanobot",
+    "created_at": "2026-02-01T07:16:15Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 3533,
+    "issues": 562,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/nanobot"
+  },
+  {
+    "name": "vercel-labs/agent-skills",
+    "description": "Vercel's official collection of agent skills",
+    "stars": 20910,
+    "language": "JavaScript",
+    "url": "https://github.com/vercel-labs/agent-skills",
+    "created_at": "2025-12-08T19:10:06Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 1900,
+    "issues": 77,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/agent-skills"
+  },
+  {
+    "name": "VoltAgent/awesome-openclaw-skills",
+    "description": "The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.",
+    "stars": 17721,
+    "language": null,
+    "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "created_at": "2026-01-25T09:22:32Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 1821,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills"
+  },
+  {
+    "name": "sipeed/picoclaw",
+    "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+    "stars": 17545,
+    "language": "Go",
+    "url": "https://github.com/sipeed/picoclaw",
+    "created_at": "2026-02-04T12:32:35Z",
+    "owner": {
+      "login": "sipeed",
+      "url": "https://github.com/sipeed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44034752?v=4"
+    },
+    "forks": 2062,
+    "issues": 287,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sipeed/picoclaw"
+  },
+  {
+    "name": "gsd-build/get-shit-done",
+    "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
+    "stars": 17123,
+    "language": "JavaScript",
+    "url": "https://github.com/gsd-build/get-shit-done",
+    "created_at": "2025-12-14T14:17:12Z",
+    "owner": {
+      "login": "gsd-build",
+      "url": "https://github.com/gsd-build",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
+    },
+    "forks": 1556,
+    "issues": 175,
+    "social_preview_url": "https://opengraph.githubassets.com/1/gsd-build/get-shit-done"
+  }
+]
