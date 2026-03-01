@@ -1,0 +1,162 @@
+[
+  {
+    "name": "HKUDS/nanobot",
+    "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
+    "stars": 26921,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/nanobot",
+    "created_at": "2026-02-01T07:16:15Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 4298,
+    "issues": 749,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/nanobot"
+  },
+  {
+    "name": "zeroclaw-labs/zeroclaw",
+    "description": "Fast, small, and fully autonomous AI assistant framework — deploy anywhere, swap anything 🦀",
+    "stars": 21220,
+    "language": "Rust",
+    "url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "created_at": "2026-02-13T08:56:04Z",
+    "owner": {
+      "login": "zeroclaw-labs",
+      "url": "https://github.com/zeroclaw-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
+    },
+    "forks": 2654,
+    "issues": 63,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zeroclaw-labs/zeroclaw"
+  },
+  {
+    "name": "sipeed/picoclaw",
+    "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+    "stars": 21149,
+    "language": "Go",
+    "url": "https://github.com/sipeed/picoclaw",
+    "created_at": "2026-02-04T12:32:35Z",
+    "owner": {
+      "login": "sipeed",
+      "url": "https://github.com/sipeed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44034752?v=4"
+    },
+    "forks": 2670,
+    "issues": 390,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sipeed/picoclaw"
+  },
+  {
+    "name": "qwibitai/nanoclaw",
+    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "stars": 16619,
+    "language": "TypeScript",
+    "url": "https://github.com/qwibitai/nanoclaw",
+    "created_at": "2026-01-31T15:47:22Z",
+    "owner": {
+      "login": "qwibitai",
+      "url": "https://github.com/qwibitai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255066954?v=4"
+    },
+    "forks": 2617,
+    "issues": 233,
+    "social_preview_url": "https://opengraph.githubassets.com/1/qwibitai/nanoclaw"
+  },
+  {
+    "name": "hesamsheikh/awesome-openclaw-usecases",
+    "description": "A community collection of OpenClaw use cases for making life easier.",
+    "stars": 13366,
+    "language": null,
+    "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "created_at": "2026-02-08T22:08:17Z",
+    "owner": {
+      "login": "hesamsheikh",
+      "url": "https://github.com/hesamsheikh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
+    },
+    "forks": 1109,
+    "issues": 24,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hesamsheikh/awesome-openclaw-usecases"
+  },
+  {
+    "name": "AlexsJones/llmfit",
+    "description": "497 models. 133 providers. One command to find what runs on your hardware.",
+    "stars": 7018,
+    "language": "Rust",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "created_at": "2026-02-15T16:11:31Z",
+    "owner": {
+      "login": "AlexsJones",
+      "url": "https://github.com/AlexsJones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
+    },
+    "forks": 414,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/AlexsJones/llmfit"
+  },
+  {
+    "name": "HKUDS/ClawWork",
+    "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+    "stars": 5916,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/ClawWork",
+    "created_at": "2026-02-15T16:41:38Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 718,
+    "issues": 24,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/ClawWork"
+  },
+  {
+    "name": "RightNow-AI/openfang",
+    "description": "Open-source Agent Operating System",
+    "stars": 5786,
+    "language": "Rust",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "created_at": "2026-02-24T23:12:38Z",
+    "owner": {
+      "login": "RightNow-AI",
+      "url": "https://github.com/RightNow-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
+    },
+    "forks": 605,
+    "issues": 69,
+    "social_preview_url": "https://opengraph.githubassets.com/1/RightNow-AI/openfang"
+  },
+  {
+    "name": "millionco/react-doctor",
+    "description": "Let coding agents diagnose and fix your React code",
+    "stars": 5064,
+    "language": "TypeScript",
+    "url": "https://github.com/millionco/react-doctor",
+    "created_at": "2026-02-13T09:02:13Z",
+    "owner": {
+      "login": "millionco",
+      "url": "https://github.com/millionco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85101781?v=4"
+    },
+    "forks": 162,
+    "issues": 39,
+    "social_preview_url": "https://opengraph.githubassets.com/1/millionco/react-doctor"
+  },
+  {
+    "name": "anthropics/financial-services-plugins",
+    "description": null,
+    "stars": 4906,
+    "language": "Python",
+    "url": "https://github.com/anthropics/financial-services-plugins",
+    "created_at": "2026-02-23T19:24:50Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 482,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/financial-services-plugins"
+  }
+]

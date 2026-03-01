@@ -9,203 +9,201 @@
 - 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
 - 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-🕒 **最后更新时间**: 2026-02-22 02:46:24
+🕒 **最后更新时间**: 2026-03-01 02:53:30
 
 ---
 
 # 📊 周榜 (过去7天)
 
-## 1. [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer)
+## 1. [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)
 
-![项目预览图](https://opengraph.githubassets.com/1/nicobailon/visual-explainer)
+![项目预览图](https://opengraph.githubassets.com/1/RightNow-AI/openfang)
 
-📝 **项目描述**: Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps
+📝 **项目描述**: Open-source Agent Operating System
 
-⭐ **获得 Star**: 2,218
+⭐ **获得 Star**: 5,786
 
-💻 **主要编程语言**: HTML
+💻 **主要编程语言**: Rust
 
-📅 **创建时间**: 2026-02-16
-
-👤 **作者**: [nicobailon](https://github.com/nicobailon)
-
-🔄 **Fork 数量**: 142
-
-⚠️ **未解决 Issues**: 3
-
----
-
-## 2. [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)
-
-![项目预览图](https://opengraph.githubassets.com/1/nullclaw/nullclaw)
-
-📝 **项目描述**: Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
-
-⭐ **获得 Star**: 1,527
-
-💻 **主要编程语言**: Zig
-
-📅 **创建时间**: 2026-02-16
-
-👤 **作者**: [nullclaw](https://github.com/nullclaw)
-
-🔄 **Fork 数量**: 162
-
-⚠️ **未解决 Issues**: 9
-
----
-
-## 3. [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA)
-
-![项目预览图](https://opengraph.githubassets.com/1/Zaneham/BarraCUDA)
-
-📝 **项目描述**: Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code.
-
-⭐ **获得 Star**: 1,265
-
-💻 **主要编程语言**: C
-
-📅 **创建时间**: 2026-02-16
-
-👤 **作者**: [Zaneham](https://github.com/Zaneham)
-
-🔄 **Fork 数量**: 48
-
-⚠️ **未解决 Issues**: 13
-
----
-
-## 4. [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)
-
-![项目预览图](https://opengraph.githubassets.com/1/ShinMegamiBoson/OpenPlanter)
-
-⭐ **获得 Star**: 801
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2026-02-20
-
-👤 **作者**: [ShinMegamiBoson](https://github.com/ShinMegamiBoson)
-
-🔄 **Fork 数量**: 118
-
-⚠️ **未解决 Issues**: 9
-
----
-
-## 5. [DataExpert-io/ai-engineer-handbook](https://github.com/DataExpert-io/ai-engineer-handbook)
-
-![项目预览图](https://opengraph.githubassets.com/1/DataExpert-io/ai-engineer-handbook)
-
-📝 **项目描述**: All the links, books, and creators you need to follow to stay up to date with AI!
-
-⭐ **获得 Star**: 776
-
-📅 **创建时间**: 2026-02-16
-
-👤 **作者**: [DataExpert-io](https://github.com/DataExpert-io)
-
-🔄 **Fork 数量**: 117
-
-⚠️ **未解决 Issues**: 0
-
----
-
-## 6. [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)
-
-![项目预览图](https://opengraph.githubassets.com/1/RightNow-AI/picolm)
-
-📝 **项目描述**: Run a 1-billion parameter LLM on a $10 board with 256MB RAM
-
-⭐ **获得 Star**: 531
-
-💻 **主要编程语言**: C
-
-📅 **创建时间**: 2026-02-19
+📅 **创建时间**: 2026-02-24
 
 👤 **作者**: [RightNow-AI](https://github.com/RightNow-AI)
 
-🔄 **Fork 数量**: 60
+🔄 **Fork 数量**: 605
 
-⚠️ **未解决 Issues**: 6
-
----
-
-## 7. [Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)
-
-![项目预览图](https://opengraph.githubassets.com/1/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)
-
-📝 **项目描述**: Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets.
-
-⭐ **获得 Star**: 518
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2026-02-19
-
-👤 **作者**: [Daniel-Dias001](https://github.com/Daniel-Dias001)
-
-🔄 **Fork 数量**: 2
-
-⚠️ **未解决 Issues**: 0
+⚠️ **未解决 Issues**: 69
 
 ---
 
-## 8. [CraftyGeezer/Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)
+## 2. [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)
 
-![项目预览图](https://opengraph.githubassets.com/1/CraftyGeezer/Kalshi-Polymarket-Ai-bot)
+![项目预览图](https://opengraph.githubassets.com/1/anthropics/financial-services-plugins)
 
-⭐ **获得 Star**: 405
+⭐ **获得 Star**: 4,906
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2026-02-21
+📅 **创建时间**: 2026-02-23
 
-👤 **作者**: [CraftyGeezer](https://github.com/CraftyGeezer)
+👤 **作者**: [anthropics](https://github.com/anthropics)
 
-🔄 **Fork 数量**: 1
+🔄 **Fork 数量**: 482
+
+⚠️ **未解决 Issues**: 8
+
+---
+
+## 3. [cloudflare/vinext](https://github.com/cloudflare/vinext)
+
+![项目预览图](https://opengraph.githubassets.com/1/cloudflare/vinext)
+
+📝 **项目描述**: Vite plugin that reimplements the Next.js API surface — deploy anywhere
+
+⭐ **获得 Star**: 4,727
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2026-02-24
+
+👤 **作者**: [cloudflare](https://github.com/cloudflare)
+
+🔄 **Fork 数量**: 140
+
+⚠️ **未解决 Issues**: 58
+
+---
+
+## 4. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
+![项目预览图](https://opengraph.githubassets.com/1/Panniantong/Agent-Reach)
+
+📝 **项目描述**: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+⭐ **获得 Star**: 3,087
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-02-24
+
+👤 **作者**: [Panniantong](https://github.com/Panniantong)
+
+🔄 **Fork 数量**: 247
 
 ⚠️ **未解决 Issues**: 0
 
 ---
 
-## 9. [tnm/zclaw](https://github.com/tnm/zclaw)
+## 5. [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)
 
-![项目预览图](https://opengraph.githubassets.com/1/tnm/zclaw)
+![项目预览图](https://opengraph.githubassets.com/1/agentscope-ai/CoPaw)
 
-📝 **项目描述**: Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, memory, and more.
+📝 **项目描述**: Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
-⭐ **获得 Star**: 388
+⭐ **获得 Star**: 2,172
 
-💻 **主要编程语言**: C
+💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2026-02-16
+📅 **创建时间**: 2026-02-24
 
-👤 **作者**: [tnm](https://github.com/tnm)
+👤 **作者**: [agentscope-ai](https://github.com/agentscope-ai)
 
-🔄 **Fork 数量**: 17
+🔄 **Fork 数量**: 210
+
+⚠️ **未解决 Issues**: 81
+
+---
+
+## 6. [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)
+
+![项目预览图](https://opengraph.githubassets.com/1/peteromallet/dataclaw)
+
+⭐ **获得 Star**: 1,620
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-02-24
+
+👤 **作者**: [peteromallet](https://github.com/peteromallet)
+
+🔄 **Fork 数量**: 202
+
+⚠️ **未解决 Issues**: 2
+
+---
+
+## 7. [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)
+
+![项目预览图](https://opengraph.githubassets.com/1/Polymarket/polymarket-cli)
+
+⭐ **获得 Star**: 1,343
+
+💻 **主要编程语言**: Rust
+
+📅 **创建时间**: 2026-02-24
+
+👤 **作者**: [Polymarket](https://github.com/Polymarket)
+
+🔄 **Fork 数量**: 124
+
+⚠️ **未解决 Issues**: 21
+
+---
+
+## 8. [mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices)
+
+![项目预览图](https://opengraph.githubassets.com/1/mgechev/skills-best-practices)
+
+📝 **项目描述**: Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.
+
+⭐ **获得 Star**: 892
+
+📅 **创建时间**: 2026-02-24
+
+👤 **作者**: [mgechev](https://github.com/mgechev)
+
+🔄 **Fork 数量**: 58
 
 ⚠️ **未解决 Issues**: 1
 
 ---
 
-## 10. [Pickle-Pixel/ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot)
+## 9. [taigrr/spank](https://github.com/taigrr/spank)
 
-![项目预览图](https://opengraph.githubassets.com/1/Pickle-Pixel/ApplyPilot)
+![项目预览图](https://opengraph.githubassets.com/1/taigrr/spank)
 
-📝 **项目描述**: AI agent that applies to jobs for you. Any site. Any form.
+📝 **项目描述**: Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 
-⭐ **获得 Star**: 314
+⭐ **获得 Star**: 776
+
+💻 **主要编程语言**: Go
+
+📅 **创建时间**: 2026-02-23
+
+👤 **作者**: [taigrr](https://github.com/taigrr)
+
+🔄 **Fork 数量**: 33
+
+⚠️ **未解决 Issues**: 1
+
+---
+
+## 10. [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk)
+
+![项目预览图](https://opengraph.githubassets.com/1/apple/python-apple-fm-sdk)
+
+📝 **项目描述**: Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
+
+⭐ **获得 Star**: 732
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2026-02-17
+📅 **创建时间**: 2026-02-25
 
-👤 **作者**: [Pickle-Pixel](https://github.com/Pickle-Pixel)
+👤 **作者**: [apple](https://github.com/apple)
 
-🔄 **Fork 数量**: 88
+🔄 **Fork 数量**: 45
 
-⚠️ **未解决 Issues**: 4
+⚠️ **未解决 Issues**: 3
 
 ---
 
@@ -217,7 +215,7 @@
 
 📝 **项目描述**: "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-⭐ **获得 Star**: 22,770
+⭐ **获得 Star**: 26,921
 
 💻 **主要编程语言**: Python
 
@@ -225,27 +223,29 @@
 
 👤 **作者**: [HKUDS](https://github.com/HKUDS)
 
-🔄 **Fork 数量**: 3,533
+🔄 **Fork 数量**: 4,298
 
-⚠️ **未解决 Issues**: 562
+⚠️ **未解决 Issues**: 749
 
 ---
 
-## 2. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
+## 2. [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
 
-![项目预览图](https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills)
+![项目预览图](https://opengraph.githubassets.com/1/zeroclaw-labs/zeroclaw)
 
-📝 **项目描述**: The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
+📝 **项目描述**: Fast, small, and fully autonomous AI assistant framework — deploy anywhere, swap anything 🦀
 
-⭐ **获得 Star**: 17,721
+⭐ **获得 Star**: 21,220
 
-📅 **创建时间**: 2026-01-25
+💻 **主要编程语言**: Rust
 
-👤 **作者**: [VoltAgent](https://github.com/VoltAgent)
+📅 **创建时间**: 2026-02-13
 
-🔄 **Fork 数量**: 1,821
+👤 **作者**: [zeroclaw-labs](https://github.com/zeroclaw-labs)
 
-⚠️ **未解决 Issues**: 10
+🔄 **Fork 数量**: 2,654
+
+⚠️ **未解决 Issues**: 63
 
 ---
 
@@ -255,7 +255,7 @@
 
 📝 **项目描述**: Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-⭐ **获得 Star**: 17,545
+⭐ **获得 Star**: 21,149
 
 💻 **主要编程语言**: Go
 
@@ -263,39 +263,19 @@
 
 👤 **作者**: [sipeed](https://github.com/sipeed)
 
-🔄 **Fork 数量**: 2,062
+🔄 **Fork 数量**: 2,670
 
-⚠️ **未解决 Issues**: 287
-
----
-
-## 4. [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
-
-![项目预览图](https://opengraph.githubassets.com/1/zeroclaw-labs/zeroclaw)
-
-📝 **项目描述**: Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
-
-⭐ **获得 Star**: 16,446
-
-💻 **主要编程语言**: Rust
-
-📅 **创建时间**: 2026-02-13
-
-👤 **作者**: [zeroclaw-labs](https://github.com/zeroclaw-labs)
-
-🔄 **Fork 数量**: 1,860
-
-⚠️ **未解决 Issues**: 49
+⚠️ **未解决 Issues**: 390
 
 ---
 
-## 5. [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
+## 4. [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
 
 ![项目预览图](https://opengraph.githubassets.com/1/qwibitai/nanoclaw)
 
 📝 **项目描述**: A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
-⭐ **获得 Star**: 10,923
+⭐ **获得 Star**: 16,619
 
 💻 **主要编程语言**: TypeScript
 
@@ -303,101 +283,125 @@
 
 👤 **作者**: [qwibitai](https://github.com/qwibitai)
 
-🔄 **Fork 数量**: 1,562
+🔄 **Fork 数量**: 2,617
 
-⚠️ **未解决 Issues**: 89
+⚠️ **未解决 Issues**: 233
 
 ---
 
-## 6. [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+## 5. [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
 
-![项目预览图](https://opengraph.githubassets.com/1/jamiepine/voicebox)
+![项目预览图](https://opengraph.githubassets.com/1/hesamsheikh/awesome-openclaw-usecases)
 
-📝 **项目描述**: The open-source voice synthesis studio powered by Qwen3-TTS.
+📝 **项目描述**: A community collection of OpenClaw use cases for making life easier.
 
-⭐ **获得 Star**: 9,517
+⭐ **获得 Star**: 13,366
+
+📅 **创建时间**: 2026-02-08
+
+👤 **作者**: [hesamsheikh](https://github.com/hesamsheikh)
+
+🔄 **Fork 数量**: 1,109
+
+⚠️ **未解决 Issues**: 24
+
+---
+
+## 6. [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+
+![项目预览图](https://opengraph.githubassets.com/1/AlexsJones/llmfit)
+
+📝 **项目描述**: 497 models. 133 providers. One command to find what runs on your hardware.
+
+⭐ **获得 Star**: 7,018
+
+💻 **主要编程语言**: Rust
+
+📅 **创建时间**: 2026-02-15
+
+👤 **作者**: [AlexsJones](https://github.com/AlexsJones)
+
+🔄 **Fork 数量**: 414
+
+⚠️ **未解决 Issues**: 31
+
+---
+
+## 7. [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)
+
+![项目预览图](https://opengraph.githubassets.com/1/HKUDS/ClawWork)
+
+📝 **项目描述**: "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
+
+⭐ **获得 Star**: 5,916
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-02-15
+
+👤 **作者**: [HKUDS](https://github.com/HKUDS)
+
+🔄 **Fork 数量**: 718
+
+⚠️ **未解决 Issues**: 24
+
+---
+
+## 8. [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)
+
+![项目预览图](https://opengraph.githubassets.com/1/RightNow-AI/openfang)
+
+📝 **项目描述**: Open-source Agent Operating System
+
+⭐ **获得 Star**: 5,786
+
+💻 **主要编程语言**: Rust
+
+📅 **创建时间**: 2026-02-24
+
+👤 **作者**: [RightNow-AI](https://github.com/RightNow-AI)
+
+🔄 **Fork 数量**: 605
+
+⚠️ **未解决 Issues**: 69
+
+---
+
+## 9. [millionco/react-doctor](https://github.com/millionco/react-doctor)
+
+![项目预览图](https://opengraph.githubassets.com/1/millionco/react-doctor)
+
+📝 **项目描述**: Let coding agents diagnose and fix your React code
+
+⭐ **获得 Star**: 5,064
 
 💻 **主要编程语言**: TypeScript
 
-📅 **创建时间**: 2026-01-25
+📅 **创建时间**: 2026-02-13
 
-👤 **作者**: [jamiepine](https://github.com/jamiepine)
+👤 **作者**: [millionco](https://github.com/millionco)
 
-🔄 **Fork 数量**: 985
+🔄 **Fork 数量**: 162
 
-⚠️ **未解决 Issues**: 111
-
----
-
-## 7. [cloudflare/moltworker](https://github.com/cloudflare/moltworker)
-
-![项目预览图](https://opengraph.githubassets.com/1/cloudflare/moltworker)
-
-📝 **项目描述**: Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
-
-⭐ **获得 Star**: 9,046
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2026-01-27
-
-👤 **作者**: [cloudflare](https://github.com/cloudflare)
-
-🔄 **Fork 数量**: 1,615
-
-⚠️ **未解决 Issues**: 104
+⚠️ **未解决 Issues**: 39
 
 ---
 
-## 8. [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)
+## 10. [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)
 
-![项目预览图](https://opengraph.githubassets.com/1/lukilabs/beautiful-mermaid)
+![项目预览图](https://opengraph.githubassets.com/1/anthropics/financial-services-plugins)
 
-⭐ **获得 Star**: 7,248
+⭐ **获得 Star**: 4,906
 
-💻 **主要编程语言**: TypeScript
+💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2026-01-28
+📅 **创建时间**: 2026-02-23
 
-👤 **作者**: [lukilabs](https://github.com/lukilabs)
+👤 **作者**: [anthropics](https://github.com/anthropics)
 
-🔄 **Fork 数量**: 224
+🔄 **Fork 数量**: 482
 
-⚠️ **未解决 Issues**: 30
-
----
-
-## 9. [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
-
-![项目预览图](https://opengraph.githubassets.com/1/forrestchang/andrej-karpathy-skills)
-
-⭐ **获得 Star**: 6,648
-
-📅 **创建时间**: 2026-01-27
-
-👤 **作者**: [forrestchang](https://github.com/forrestchang)
-
-🔄 **Fork 数量**: 451
-
-⚠️ **未解决 Issues**: 11
-
----
-
-## 10. [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)
-
-![项目预览图](https://opengraph.githubassets.com/1/Leey21/awesome-ai-research-writing)
-
-📝 **项目描述**: Elevate your AI research writing, no more tedious polishing ✨ 
-
-⭐ **获得 Star**: 6,548
-
-📅 **创建时间**: 2026-01-30
-
-👤 **作者**: [Leey21](https://github.com/Leey21)
-
-🔄 **Fork 数量**: 501
-
-⚠️ **未解决 Issues**: 6
+⚠️ **未解决 Issues**: 8
 
 ---
 
@@ -407,9 +411,9 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/affaan-m/everything-claude-code)
 
-📝 **项目描述**: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
+📝 **项目描述**: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
 
-⭐ **获得 Star**: 49,113
+⭐ **获得 Star**: 54,921
 
 💻 **主要编程语言**: JavaScript
 
@@ -417,39 +421,19 @@
 
 👤 **作者**: [affaan-m](https://github.com/affaan-m)
 
-🔄 **Fork 数量**: 6,094
+🔄 **Fork 数量**: 6,772
 
-⚠️ **未解决 Issues**: 21
-
----
-
-## 2. [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-
-![项目预览图](https://opengraph.githubassets.com/1/nextlevelbuilder/ui-ux-pro-max-skill)
-
-📝 **项目描述**: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-⭐ **获得 Star**: 33,314
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-11-30
-
-👤 **作者**: [nextlevelbuilder](https://github.com/nextlevelbuilder)
-
-🔄 **Fork 数量**: 3,301
-
-⚠️ **未解决 Issues**: 55
+⚠️ **未解决 Issues**: 22
 
 ---
 
-## 3. [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+## 2. [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
 
 ![项目预览图](https://opengraph.githubassets.com/1/code-yeongyu/oh-my-opencode)
 
 📝 **项目描述**: the best agent harness
 
-⭐ **获得 Star**: 32,872
+⭐ **获得 Star**: 35,580
 
 💻 **主要编程语言**: TypeScript
 
@@ -457,59 +441,19 @@
 
 👤 **作者**: [code-yeongyu](https://github.com/code-yeongyu)
 
-🔄 **Fork 数量**: 2,479
+🔄 **Fork 数量**: 2,690
 
-⚠️ **未解决 Issues**: 213
-
----
-
-## 4. [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
-
-![项目预览图](https://opengraph.githubassets.com/1/lbjlaq/Antigravity-Manager)
-
-📝 **项目描述**: Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-
-⭐ **获得 Star**: 23,890
-
-💻 **主要编程语言**: Rust
-
-📅 **创建时间**: 2025-11-26
-
-👤 **作者**: [lbjlaq](https://github.com/lbjlaq)
-
-🔄 **Fork 数量**: 2,678
-
-⚠️ **未解决 Issues**: 1,378
+⚠️ **未解决 Issues**: 271
 
 ---
 
-## 5. [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
-
-![项目预览图](https://opengraph.githubassets.com/1/zai-org/Open-AutoGLM)
-
-📝 **项目描述**: An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-
-⭐ **获得 Star**: 23,568
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2025-12-08
-
-👤 **作者**: [zai-org](https://github.com/zai-org)
-
-🔄 **Fork 数量**: 3,723
-
-⚠️ **未解决 Issues**: 225
-
----
-
-## 6. [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+## 3. [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
 
 ![项目预览图](https://opengraph.githubassets.com/1/HKUDS/nanobot)
 
 📝 **项目描述**: "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-⭐ **获得 Star**: 22,770
+⭐ **获得 Star**: 26,921
 
 💻 **主要编程语言**: Python
 
@@ -517,9 +461,67 @@
 
 👤 **作者**: [HKUDS](https://github.com/HKUDS)
 
-🔄 **Fork 数量**: 3,533
+🔄 **Fork 数量**: 4,299
 
-⚠️ **未解决 Issues**: 562
+⚠️ **未解决 Issues**: 749
+
+---
+
+## 4. [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
+
+![项目预览图](https://opengraph.githubassets.com/1/zai-org/Open-AutoGLM)
+
+📝 **项目描述**: An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
+⭐ **获得 Star**: 23,848
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2025-12-08
+
+👤 **作者**: [zai-org](https://github.com/zai-org)
+
+🔄 **Fork 数量**: 3,772
+
+⚠️ **未解决 Issues**: 229
+
+---
+
+## 5. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
+
+![项目预览图](https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills)
+
+📝 **项目描述**: The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
+
+⭐ **获得 Star**: 23,123
+
+📅 **创建时间**: 2026-01-25
+
+👤 **作者**: [VoltAgent](https://github.com/VoltAgent)
+
+🔄 **Fork 数量**: 2,307
+
+⚠️ **未解决 Issues**: 3
+
+---
+
+## 6. [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
+
+![项目预览图](https://opengraph.githubassets.com/1/gsd-build/get-shit-done)
+
+📝 **项目描述**: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+
+⭐ **获得 Star**: 22,333
+
+💻 **主要编程语言**: JavaScript
+
+📅 **创建时间**: 2025-12-14
+
+👤 **作者**: [gsd-build](https://github.com/gsd-build)
+
+🔄 **Fork 数量**: 1,933
+
+⚠️ **未解决 Issues**: 217
 
 ---
 
@@ -529,7 +531,7 @@
 
 📝 **项目描述**: Vercel's official collection of agent skills
 
-⭐ **获得 Star**: 20,910
+⭐ **获得 Star**: 21,609
 
 💻 **主要编程语言**: JavaScript
 
@@ -537,27 +539,29 @@
 
 👤 **作者**: [vercel-labs](https://github.com/vercel-labs)
 
-🔄 **Fork 数量**: 1,900
+🔄 **Fork 数量**: 1,973
 
-⚠️ **未解决 Issues**: 77
+⚠️ **未解决 Issues**: 86
 
 ---
 
-## 8. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
+## 8. [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
 
-![项目预览图](https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills)
+![项目预览图](https://opengraph.githubassets.com/1/zeroclaw-labs/zeroclaw)
 
-📝 **项目描述**: The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
+📝 **项目描述**: Fast, small, and fully autonomous AI assistant framework — deploy anywhere, swap anything 🦀
 
-⭐ **获得 Star**: 17,721
+⭐ **获得 Star**: 21,220
 
-📅 **创建时间**: 2026-01-25
+💻 **主要编程语言**: Rust
 
-👤 **作者**: [VoltAgent](https://github.com/VoltAgent)
+📅 **创建时间**: 2026-02-13
 
-🔄 **Fork 数量**: 1,821
+👤 **作者**: [zeroclaw-labs](https://github.com/zeroclaw-labs)
 
-⚠️ **未解决 Issues**: 10
+🔄 **Fork 数量**: 2,654
+
+⚠️ **未解决 Issues**: 63
 
 ---
 
@@ -567,7 +571,7 @@
 
 📝 **项目描述**: Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-⭐ **获得 Star**: 17,545
+⭐ **获得 Star**: 21,149
 
 💻 **主要编程语言**: Go
 
@@ -575,29 +579,29 @@
 
 👤 **作者**: [sipeed](https://github.com/sipeed)
 
-🔄 **Fork 数量**: 2,062
+🔄 **Fork 数量**: 2,670
 
-⚠️ **未解决 Issues**: 287
+⚠️ **未解决 Issues**: 390
 
 ---
 
-## 10. [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
+## 10. [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
 
-![项目预览图](https://opengraph.githubassets.com/1/gsd-build/get-shit-done)
+![项目预览图](https://opengraph.githubassets.com/1/koala73/worldmonitor)
 
-📝 **项目描述**: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
+📝 **项目描述**: Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
-⭐ **获得 Star**: 17,123
+⭐ **获得 Star**: 18,055
 
-💻 **主要编程语言**: JavaScript
+💻 **主要编程语言**: TypeScript
 
-📅 **创建时间**: 2025-12-14
+📅 **创建时间**: 2026-01-08
 
-👤 **作者**: [gsd-build](https://github.com/gsd-build)
+👤 **作者**: [koala73](https://github.com/koala73)
 
-🔄 **Fork 数量**: 1,556
+🔄 **Fork 数量**: 2,911
 
-⚠️ **未解决 Issues**: 175
+⚠️ **未解决 Issues**: 44
 
 ---
 
@@ -609,7 +613,7 @@
 
 📝 **项目描述**: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-⭐ **获得 Star**: 216,461
+⭐ **获得 Star**: 240,568
 
 💻 **主要编程语言**: TypeScript
 
@@ -617,9 +621,9 @@
 
 👤 **作者**: [openclaw](https://github.com/openclaw)
 
-🔄 **Fork 数量**: 40,798
+🔄 **Fork 数量**: 46,479
 
-⚠️ **未解决 Issues**: 8,915
+⚠️ **未解决 Issues**: 9,538
 
 ---
 
@@ -629,15 +633,15 @@
 
 📝 **项目描述**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
-⭐ **获得 Star**: 115,767
+⭐ **获得 Star**: 126,501
 
 📅 **创建时间**: 2025-03-05
 
 👤 **作者**: [x1xhlol](https://github.com/x1xhlol)
 
-🔄 **Fork 数量**: 29,869
+🔄 **Fork 数量**: 32,409
 
-⚠️ **未解决 Issues**: 119
+⚠️ **未解决 Issues**: 131
 
 ---
 
@@ -647,7 +651,7 @@
 
 📝 **项目描述**: The open source coding agent.
 
-⭐ **获得 Star**: 108,187
+⭐ **获得 Star**: 113,136
 
 💻 **主要编程语言**: TypeScript
 
@@ -655,9 +659,9 @@
 
 👤 **作者**: [anomalyco](https://github.com/anomalyco)
 
-🔄 **Fork 数量**: 10,697
+🔄 **Fork 数量**: 11,364
 
-⚠️ **未解决 Issues**: 5,607
+⚠️ **未解决 Issues**: 6,019
 
 ---
 

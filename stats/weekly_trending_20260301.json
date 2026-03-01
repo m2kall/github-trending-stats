@@ -1,0 +1,162 @@
+[
+  {
+    "name": "RightNow-AI/openfang",
+    "description": "Open-source Agent Operating System",
+    "stars": 5786,
+    "language": "Rust",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "created_at": "2026-02-24T23:12:38Z",
+    "owner": {
+      "login": "RightNow-AI",
+      "url": "https://github.com/RightNow-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
+    },
+    "forks": 605,
+    "issues": 69,
+    "social_preview_url": "https://opengraph.githubassets.com/1/RightNow-AI/openfang"
+  },
+  {
+    "name": "anthropics/financial-services-plugins",
+    "description": null,
+    "stars": 4906,
+    "language": "Python",
+    "url": "https://github.com/anthropics/financial-services-plugins",
+    "created_at": "2026-02-23T19:24:50Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 482,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/financial-services-plugins"
+  },
+  {
+    "name": "cloudflare/vinext",
+    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+    "stars": 4727,
+    "language": "TypeScript",
+    "url": "https://github.com/cloudflare/vinext",
+    "created_at": "2026-02-24T05:07:41Z",
+    "owner": {
+      "login": "cloudflare",
+      "url": "https://github.com/cloudflare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+    },
+    "forks": 140,
+    "issues": 58,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cloudflare/vinext"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "stars": 3087,
+    "language": "Python",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "created_at": "2026-02-24T02:10:24Z",
+    "owner": {
+      "login": "Panniantong",
+      "url": "https://github.com/Panniantong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
+    },
+    "forks": 247,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "agentscope-ai/CoPaw",
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+    "stars": 2172,
+    "language": "Python",
+    "url": "https://github.com/agentscope-ai/CoPaw",
+    "created_at": "2026-02-24T03:42:56Z",
+    "owner": {
+      "login": "agentscope-ai",
+      "url": "https://github.com/agentscope-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
+    },
+    "forks": 210,
+    "issues": 81,
+    "social_preview_url": "https://opengraph.githubassets.com/1/agentscope-ai/CoPaw"
+  },
+  {
+    "name": "peteromallet/dataclaw",
+    "description": null,
+    "stars": 1620,
+    "language": "Python",
+    "url": "https://github.com/peteromallet/dataclaw",
+    "created_at": "2026-02-24T20:33:55Z",
+    "owner": {
+      "login": "peteromallet",
+      "url": "https://github.com/peteromallet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
+    },
+    "forks": 202,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/peteromallet/dataclaw"
+  },
+  {
+    "name": "Polymarket/polymarket-cli",
+    "description": null,
+    "stars": 1343,
+    "language": "Rust",
+    "url": "https://github.com/Polymarket/polymarket-cli",
+    "created_at": "2026-02-24T13:41:46Z",
+    "owner": {
+      "login": "Polymarket",
+      "url": "https://github.com/Polymarket",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
+    },
+    "forks": 124,
+    "issues": 21,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Polymarket/polymarket-cli"
+  },
+  {
+    "name": "mgechev/skills-best-practices",
+    "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
+    "stars": 892,
+    "language": null,
+    "url": "https://github.com/mgechev/skills-best-practices",
+    "created_at": "2026-02-24T19:47:38Z",
+    "owner": {
+      "login": "mgechev",
+      "url": "https://github.com/mgechev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
+    },
+    "forks": 58,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mgechev/skills-best-practices"
+  },
+  {
+    "name": "taigrr/spank",
+    "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+    "stars": 776,
+    "language": "Go",
+    "url": "https://github.com/taigrr/spank",
+    "created_at": "2026-02-23T00:43:05Z",
+    "owner": {
+      "login": "taigrr",
+      "url": "https://github.com/taigrr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8261498?v=4"
+    },
+    "forks": 33,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/taigrr/spank"
+  },
+  {
+    "name": "apple/python-apple-fm-sdk",
+    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
+    "stars": 732,
+    "language": "Python",
+    "url": "https://github.com/apple/python-apple-fm-sdk",
+    "created_at": "2026-02-25T19:30:46Z",
+    "owner": {
+      "login": "apple",
+      "url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "forks": 45,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apple/python-apple-fm-sdk"
+  }
+]
