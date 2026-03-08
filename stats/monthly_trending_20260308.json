@@ -1,0 +1,162 @@
+[
+  {
+    "name": "zeroclaw-labs/zeroclaw",
+    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
+    "stars": 24318,
+    "language": "Rust",
+    "url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "created_at": "2026-02-13T08:56:04Z",
+    "owner": {
+      "login": "zeroclaw-labs",
+      "url": "https://github.com/zeroclaw-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
+    },
+    "forks": 3124,
+    "issues": 247,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zeroclaw-labs/zeroclaw"
+  },
+  {
+    "name": "hesamsheikh/awesome-openclaw-usecases",
+    "description": "A community collection of OpenClaw use cases for making life easier.",
+    "stars": 20512,
+    "language": null,
+    "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "created_at": "2026-02-08T22:08:17Z",
+    "owner": {
+      "login": "hesamsheikh",
+      "url": "https://github.com/hesamsheikh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
+    },
+    "forks": 1691,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hesamsheikh/awesome-openclaw-usecases"
+  },
+  {
+    "name": "googleworkspace/cli",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+    "stars": 15352,
+    "language": "Rust",
+    "url": "https://github.com/googleworkspace/cli",
+    "created_at": "2026-03-02T19:46:06Z",
+    "owner": {
+      "login": "googleworkspace",
+      "url": "https://github.com/googleworkspace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
+    },
+    "forks": 566,
+    "issues": 61,
+    "social_preview_url": "https://opengraph.githubassets.com/1/googleworkspace/cli"
+  },
+  {
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+    "stars": 12554,
+    "language": "Rust",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "created_at": "2026-02-15T16:11:31Z",
+    "owner": {
+      "login": "AlexsJones",
+      "url": "https://github.com/AlexsJones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
+    },
+    "forks": 709,
+    "issues": 34,
+    "social_preview_url": "https://opengraph.githubassets.com/1/AlexsJones/llmfit"
+  },
+  {
+    "name": "RightNow-AI/openfang",
+    "description": "Open-source Agent Operating System",
+    "stars": 12043,
+    "language": "Rust",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "created_at": "2026-02-24T23:12:38Z",
+    "owner": {
+      "login": "RightNow-AI",
+      "url": "https://github.com/RightNow-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
+    },
+    "forks": 1300,
+    "issues": 160,
+    "social_preview_url": "https://opengraph.githubassets.com/1/RightNow-AI/openfang"
+  },
+  {
+    "name": "agentscope-ai/CoPaw",
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+    "stars": 9399,
+    "language": "Python",
+    "url": "https://github.com/agentscope-ai/CoPaw",
+    "created_at": "2026-02-24T03:42:56Z",
+    "owner": {
+      "login": "agentscope-ai",
+      "url": "https://github.com/agentscope-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
+    },
+    "forks": 1045,
+    "issues": 308,
+    "social_preview_url": "https://opengraph.githubassets.com/1/agentscope-ai/CoPaw"
+  },
+  {
+    "name": "openai/symphony",
+    "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+    "stars": 8524,
+    "language": "Elixir",
+    "url": "https://github.com/openai/symphony",
+    "created_at": "2026-02-26T21:54:00Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 582,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/symphony"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "Open-source orchestration for zero-human companies",
+    "stars": 8357,
+    "language": "TypeScript",
+    "url": "https://github.com/paperclipai/paperclip",
+    "created_at": "2026-03-02T15:01:51Z",
+    "owner": {
+      "login": "paperclipai",
+      "url": "https://github.com/paperclipai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
+    },
+    "forks": 950,
+    "issues": 201,
+    "social_preview_url": "https://opengraph.githubassets.com/1/paperclipai/paperclip"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "stars": 6860,
+    "language": "Python",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "created_at": "2026-02-24T02:10:24Z",
+    "owner": {
+      "login": "Panniantong",
+      "url": "https://github.com/Panniantong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
+    },
+    "forks": 501,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Panniantong/Agent-Reach"
+  },
+  {
+    "name": "HKUDS/ClawWork",
+    "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours\"",
+    "stars": 6754,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/ClawWork",
+    "created_at": "2026-02-15T16:41:38Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 852,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/ClawWork"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "googleworkspace/cli",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+    "stars": 15352,
+    "language": "Rust",
+    "url": "https://github.com/googleworkspace/cli",
+    "created_at": "2026-03-02T19:46:06Z",
+    "owner": {
+      "login": "googleworkspace",
+      "url": "https://github.com/googleworkspace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
+    },
+    "forks": 566,
+    "issues": 61,
+    "social_preview_url": "https://opengraph.githubassets.com/1/googleworkspace/cli"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "Open-source orchestration for zero-human companies",
+    "stars": 8357,
+    "language": "TypeScript",
+    "url": "https://github.com/paperclipai/paperclip",
+    "created_at": "2026-03-02T15:01:51Z",
+    "owner": {
+      "login": "paperclipai",
+      "url": "https://github.com/paperclipai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
+    },
+    "forks": 950,
+    "issues": 201,
+    "social_preview_url": "https://opengraph.githubassets.com/1/paperclipai/paperclip"
+  },
+  {
+    "name": "karpathy/autoresearch",
+    "description": "AI agents running research on single-GPU nanochat training automatically",
+    "stars": 2497,
+    "language": "Python",
+    "url": "https://github.com/karpathy/autoresearch",
+    "created_at": "2026-03-06T22:00:43Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 308,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/autoresearch"
+  },
+  {
+    "name": "elder-plinius/OBLITERATUS",
+    "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+    "stars": 2223,
+    "language": "Python",
+    "url": "https://github.com/elder-plinius/OBLITERATUS",
+    "created_at": "2026-03-03T19:37:51Z",
+    "owner": {
+      "login": "elder-plinius",
+      "url": "https://github.com/elder-plinius",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
+    },
+    "forks": 386,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/elder-plinius/OBLITERATUS"
+  },
+  {
+    "name": "LeoYeAI/openclaw-master-skills",
+    "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
+    "stars": 1451,
+    "language": "Python",
+    "url": "https://github.com/LeoYeAI/openclaw-master-skills",
+    "created_at": "2026-03-02T02:02:25Z",
+    "owner": {
+      "login": "LeoYeAI",
+      "url": "https://github.com/LeoYeAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
+    },
+    "forks": 368,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/LeoYeAI/openclaw-master-skills"
+  },
+  {
+    "name": "slowmist/openclaw-security-practice-guide",
+    "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
+    "stars": 1333,
+    "language": "Shell",
+    "url": "https://github.com/slowmist/openclaw-security-practice-guide",
+    "created_at": "2026-03-02T06:52:52Z",
+    "owner": {
+      "login": "slowmist",
+      "url": "https://github.com/slowmist",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
+    },
+    "forks": 88,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/slowmist/openclaw-security-practice-guide"
+  },
+  {
+    "name": "twostraws/SwiftUI-Agent-Skill",
+    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+    "stars": 1099,
+    "language": null,
+    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+    "created_at": "2026-03-05T20:13:14Z",
+    "owner": {
+      "login": "twostraws",
+      "url": "https://github.com/twostraws",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
+    },
+    "forks": 30,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/twostraws/SwiftUI-Agent-Skill"
+  },
+  {
+    "name": "LeoYeAI/openclaw-guardian",
+    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai",
+    "stars": 1051,
+    "language": "Shell",
+    "url": "https://github.com/LeoYeAI/openclaw-guardian",
+    "created_at": "2026-03-02T01:51:35Z",
+    "owner": {
+      "login": "LeoYeAI",
+      "url": "https://github.com/LeoYeAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
+    },
+    "forks": 390,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/LeoYeAI/openclaw-guardian"
+  },
+  {
+    "name": "cyxzdev/Uncodixfy",
+    "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
+    "stars": 879,
+    "language": null,
+    "url": "https://github.com/cyxzdev/Uncodixfy",
+    "created_at": "2026-03-06T02:24:36Z",
+    "owner": {
+      "login": "cyxzdev",
+      "url": "https://github.com/cyxzdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
+    },
+    "forks": 61,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cyxzdev/Uncodixfy"
+  },
+  {
+    "name": "duoan/TorchCode",
+    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.",
+    "stars": 793,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/duoan/TorchCode",
+    "created_at": "2026-03-04T03:25:54Z",
+    "owner": {
+      "login": "duoan",
+      "url": "https://github.com/duoan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2378740?v=4"
+    },
+    "forks": 35,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/duoan/TorchCode"
+  }
+]

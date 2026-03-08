@@ -1,0 +1,162 @@
+[
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 65023,
+    "language": "JavaScript",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "created_at": "2026-01-18T00:51:51Z",
+    "owner": {
+      "login": "affaan-m",
+      "url": "https://github.com/affaan-m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4"
+    },
+    "forks": 8067,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "stars": 33242,
+    "language": "TypeScript",
+    "url": "https://github.com/koala73/worldmonitor",
+    "created_at": "2026-01-08T17:26:06Z",
+    "owner": {
+      "login": "koala73",
+      "url": "https://github.com/koala73",
+      "avatar_url": "https://avatars.githubusercontent.com/u/996596?v=4"
+    },
+    "forks": 5579,
+    "issues": 118,
+    "social_preview_url": "https://opengraph.githubassets.com/1/koala73/worldmonitor"
+  },
+  {
+    "name": "VoltAgent/awesome-openclaw-skills",
+    "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
+    "stars": 30715,
+    "language": null,
+    "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "created_at": "2026-01-25T09:22:32Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 2958,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills"
+  },
+  {
+    "name": "HKUDS/nanobot",
+    "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
+    "stars": 30076,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/nanobot",
+    "created_at": "2026-02-01T07:16:15Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 4915,
+    "issues": 925,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/nanobot"
+  },
+  {
+    "name": "gsd-build/get-shit-done",
+    "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+    "stars": 25875,
+    "language": "JavaScript",
+    "url": "https://github.com/gsd-build/get-shit-done",
+    "created_at": "2025-12-14T14:17:12Z",
+    "owner": {
+      "login": "gsd-build",
+      "url": "https://github.com/gsd-build",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
+    },
+    "forks": 2203,
+    "issues": 267,
+    "social_preview_url": "https://opengraph.githubassets.com/1/gsd-build/get-shit-done"
+  },
+  {
+    "name": "zeroclaw-labs/zeroclaw",
+    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
+    "stars": 24318,
+    "language": "Rust",
+    "url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "created_at": "2026-02-13T08:56:04Z",
+    "owner": {
+      "login": "zeroclaw-labs",
+      "url": "https://github.com/zeroclaw-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
+    },
+    "forks": 3124,
+    "issues": 247,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zeroclaw-labs/zeroclaw"
+  },
+  {
+    "name": "sipeed/picoclaw",
+    "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+    "stars": 22767,
+    "language": "Go",
+    "url": "https://github.com/sipeed/picoclaw",
+    "created_at": "2026-02-04T12:32:35Z",
+    "owner": {
+      "login": "sipeed",
+      "url": "https://github.com/sipeed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44034752?v=4"
+    },
+    "forks": 2987,
+    "issues": 467,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sipeed/picoclaw"
+  },
+  {
+    "name": "sickn33/antigravity-awesome-skills",
+    "description": "The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
+    "stars": 21459,
+    "language": "Python",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills",
+    "created_at": "2026-01-14T17:48:09Z",
+    "owner": {
+      "login": "sickn33",
+      "url": "https://github.com/sickn33",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184072420?v=4"
+    },
+    "forks": 3737,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sickn33/antigravity-awesome-skills"
+  },
+  {
+    "name": "hesamsheikh/awesome-openclaw-usecases",
+    "description": "A community collection of OpenClaw use cases for making life easier.",
+    "stars": 20512,
+    "language": null,
+    "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "created_at": "2026-02-08T22:08:17Z",
+    "owner": {
+      "login": "hesamsheikh",
+      "url": "https://github.com/hesamsheikh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
+    },
+    "forks": 1691,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hesamsheikh/awesome-openclaw-usecases"
+  },
+  {
+    "name": "qwibitai/nanoclaw",
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "stars": 20110,
+    "language": "TypeScript",
+    "url": "https://github.com/qwibitai/nanoclaw",
+    "created_at": "2026-01-31T15:47:22Z",
+    "owner": {
+      "login": "qwibitai",
+      "url": "https://github.com/qwibitai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255066954?v=4"
+    },
+    "forks": 3315,
+    "issues": 262,
+    "social_preview_url": "https://opengraph.githubassets.com/1/qwibitai/nanoclaw"
+  }
+]
