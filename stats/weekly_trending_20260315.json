@@ -1,0 +1,162 @@
+[
+  {
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer",
+    "stars": 10818,
+    "language": "TypeScript",
+    "url": "https://github.com/garrytan/gstack",
+    "created_at": "2026-03-11T21:22:45Z",
+    "owner": {
+      "login": "garrytan",
+      "url": "https://github.com/garrytan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
+    },
+    "forks": 1293,
+    "issues": 36,
+    "social_preview_url": "https://opengraph.githubassets.com/1/garrytan/gstack"
+  },
+  {
+    "name": "davebcn87/pi-autoresearch",
+    "description": "Autonomous experiment loop extension for pi",
+    "stars": 1630,
+    "language": "TypeScript",
+    "url": "https://github.com/davebcn87/pi-autoresearch",
+    "created_at": "2026-03-11T20:25:53Z",
+    "owner": {
+      "login": "davebcn87",
+      "url": "https://github.com/davebcn87",
+      "avatar_url": "https://avatars.githubusercontent.com/u/477473?v=4"
+    },
+    "forks": 78,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/davebcn87/pi-autoresearch"
+  },
+  {
+    "name": "TianyiDataScience/openclaw-control-center",
+    "description": "Turn OpenClaw from a black box into a local control center you can see, trust, and control.",
+    "stars": 1451,
+    "language": "TypeScript",
+    "url": "https://github.com/TianyiDataScience/openclaw-control-center",
+    "created_at": "2026-03-11T11:52:02Z",
+    "owner": {
+      "login": "TianyiDataScience",
+      "url": "https://github.com/TianyiDataScience",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119813959?v=4"
+    },
+    "forks": 197,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/TianyiDataScience/openclaw-control-center"
+  },
+  {
+    "name": "gsd-build/gsd-2",
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
+    "stars": 1165,
+    "language": "TypeScript",
+    "url": "https://github.com/gsd-build/gsd-2",
+    "created_at": "2026-03-11T04:28:49Z",
+    "owner": {
+      "login": "gsd-build",
+      "url": "https://github.com/gsd-build",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
+    },
+    "forks": 96,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/gsd-build/gsd-2"
+  },
+  {
+    "name": "aiming-lab/MetaClaw",
+    "description": "Just talk to your agent — it learns and EVOLVES.",
+    "stars": 1150,
+    "language": "Python",
+    "url": "https://github.com/aiming-lab/MetaClaw",
+    "created_at": "2026-03-09T13:47:13Z",
+    "owner": {
+      "login": "aiming-lab",
+      "url": "https://github.com/aiming-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
+    },
+    "forks": 147,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/aiming-lab/MetaClaw"
+  },
+  {
+    "name": "pasky/chrome-cdp-skill",
+    "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+    "stars": 993,
+    "language": "JavaScript",
+    "url": "https://github.com/pasky/chrome-cdp-skill",
+    "created_at": "2026-03-13T00:35:39Z",
+    "owner": {
+      "login": "pasky",
+      "url": "https://github.com/pasky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18439?v=4"
+    },
+    "forks": 49,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pasky/chrome-cdp-skill"
+  },
+  {
+    "name": "knowsuchagency/mcp2cli",
+    "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
+    "stars": 963,
+    "language": "Python",
+    "url": "https://github.com/knowsuchagency/mcp2cli",
+    "created_at": "2026-03-09T03:46:37Z",
+    "owner": {
+      "login": "knowsuchagency",
+      "url": "https://github.com/knowsuchagency",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
+    },
+    "forks": 58,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/knowsuchagency/mcp2cli"
+  },
+  {
+    "name": "larksuite/openclaw-lark",
+    "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件",
+    "stars": 922,
+    "language": "TypeScript",
+    "url": "https://github.com/larksuite/openclaw-lark",
+    "created_at": "2026-03-09T07:41:03Z",
+    "owner": {
+      "login": "larksuite",
+      "url": "https://github.com/larksuite",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
+    },
+    "forks": 73,
+    "issues": 92,
+    "social_preview_url": "https://opengraph.githubassets.com/1/larksuite/openclaw-lark"
+  },
+  {
+    "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
+    "stars": 916,
+    "language": "Python",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "created_at": "2026-03-10T07:31:45Z",
+    "owner": {
+      "login": "wanshuiyin",
+      "url": "https://github.com/wanshuiyin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76990859?v=4"
+    },
+    "forks": 87,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "name": "chrisworsey55/atlas-gic",
+    "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
+    "stars": 784,
+    "language": null,
+    "url": "https://github.com/chrisworsey55/atlas-gic",
+    "created_at": "2026-03-11T18:51:14Z",
+    "owner": {
+      "login": "chrisworsey55",
+      "url": "https://github.com/chrisworsey55",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184298966?v=4"
+    },
+    "forks": 168,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/chrisworsey55/atlas-gic"
+  }
+]

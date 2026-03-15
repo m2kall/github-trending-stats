@@ -9,29 +9,229 @@
 - 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
 - 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-🕒 **最后更新时间**: 2026-03-08 02:43:27
+🕒 **最后更新时间**: 2026-03-15 03:15:28
 
 ---
 
 # 📊 周榜 (过去7天)
 
-## 1. [googleworkspace/cli](https://github.com/googleworkspace/cli)
+## 1. [garrytan/gstack](https://github.com/garrytan/gstack)
 
-![项目预览图](https://opengraph.githubassets.com/1/googleworkspace/cli)
+![项目预览图](https://opengraph.githubassets.com/1/garrytan/gstack)
 
-📝 **项目描述**: Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+📝 **项目描述**: Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer
 
-⭐ **获得 Star**: 15,352
+⭐ **获得 Star**: 10,818
 
-💻 **主要编程语言**: Rust
+💻 **主要编程语言**: TypeScript
 
-📅 **创建时间**: 2026-03-02
+📅 **创建时间**: 2026-03-11
 
-👤 **作者**: [googleworkspace](https://github.com/googleworkspace)
+👤 **作者**: [garrytan](https://github.com/garrytan)
 
-🔄 **Fork 数量**: 566
+🔄 **Fork 数量**: 1,293
 
-⚠️ **未解决 Issues**: 61
+⚠️ **未解决 Issues**: 36
+
+---
+
+## 2. [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
+
+![项目预览图](https://opengraph.githubassets.com/1/davebcn87/pi-autoresearch)
+
+📝 **项目描述**: Autonomous experiment loop extension for pi
+
+⭐ **获得 Star**: 1,630
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2026-03-11
+
+👤 **作者**: [davebcn87](https://github.com/davebcn87)
+
+🔄 **Fork 数量**: 78
+
+⚠️ **未解决 Issues**: 5
+
+---
+
+## 3. [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)
+
+![项目预览图](https://opengraph.githubassets.com/1/TianyiDataScience/openclaw-control-center)
+
+📝 **项目描述**: Turn OpenClaw from a black box into a local control center you can see, trust, and control.
+
+⭐ **获得 Star**: 1,451
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2026-03-11
+
+👤 **作者**: [TianyiDataScience](https://github.com/TianyiDataScience)
+
+🔄 **Fork 数量**: 197
+
+⚠️ **未解决 Issues**: 13
+
+---
+
+## 4. [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
+
+![项目预览图](https://opengraph.githubassets.com/1/gsd-build/gsd-2)
+
+📝 **项目描述**: A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
+
+⭐ **获得 Star**: 1,165
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2026-03-11
+
+👤 **作者**: [gsd-build](https://github.com/gsd-build)
+
+🔄 **Fork 数量**: 96
+
+⚠️ **未解决 Issues**: 8
+
+---
+
+## 5. [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw)
+
+![项目预览图](https://opengraph.githubassets.com/1/aiming-lab/MetaClaw)
+
+📝 **项目描述**: Just talk to your agent — it learns and EVOLVES.
+
+⭐ **获得 Star**: 1,150
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-03-09
+
+👤 **作者**: [aiming-lab](https://github.com/aiming-lab)
+
+🔄 **Fork 数量**: 147
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 6. [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)
+
+![项目预览图](https://opengraph.githubassets.com/1/pasky/chrome-cdp-skill)
+
+📝 **项目描述**: Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
+
+⭐ **获得 Star**: 993
+
+💻 **主要编程语言**: JavaScript
+
+📅 **创建时间**: 2026-03-13
+
+👤 **作者**: [pasky](https://github.com/pasky)
+
+🔄 **Fork 数量**: 49
+
+⚠️ **未解决 Issues**: 11
+
+---
+
+## 7. [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli)
+
+![项目预览图](https://opengraph.githubassets.com/1/knowsuchagency/mcp2cli)
+
+📝 **项目描述**: Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
+
+⭐ **获得 Star**: 963
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-03-09
+
+👤 **作者**: [knowsuchagency](https://github.com/knowsuchagency)
+
+🔄 **Fork 数量**: 58
+
+⚠️ **未解决 Issues**: 0
+
+---
+
+## 8. [larksuite/openclaw-lark](https://github.com/larksuite/openclaw-lark)
+
+![项目预览图](https://opengraph.githubassets.com/1/larksuite/openclaw-lark)
+
+📝 **项目描述**: 飞书官方出品的 OpenClaw 飞书/Lark Channel 插件
+
+⭐ **获得 Star**: 922
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2026-03-09
+
+👤 **作者**: [larksuite](https://github.com/larksuite)
+
+🔄 **Fork 数量**: 73
+
+⚠️ **未解决 Issues**: 92
+
+---
+
+## 9. [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
+
+![项目预览图](https://opengraph.githubassets.com/1/wanshuiyin/Auto-claude-code-research-in-sleep)
+
+📝 **项目描述**: ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP
+
+⭐ **获得 Star**: 916
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-03-10
+
+👤 **作者**: [wanshuiyin](https://github.com/wanshuiyin)
+
+🔄 **Fork 数量**: 87
+
+⚠️ **未解决 Issues**: 5
+
+---
+
+## 10. [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic)
+
+![项目预览图](https://opengraph.githubassets.com/1/chrisworsey55/atlas-gic)
+
+📝 **项目描述**: ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch
+
+⭐ **获得 Star**: 784
+
+📅 **创建时间**: 2026-03-11
+
+👤 **作者**: [chrisworsey55](https://github.com/chrisworsey55)
+
+🔄 **Fork 数量**: 168
+
+⚠️ **未解决 Issues**: 1
+
+---
+
+# 📊 月榜 (过去30天)
+
+## 1. [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+
+![项目预览图](https://opengraph.githubassets.com/1/karpathy/autoresearch)
+
+📝 **项目描述**: AI agents running research on single-GPU nanochat training automatically
+
+⭐ **获得 Star**: 34,358
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-03-06
+
+👤 **作者**: [karpathy](https://github.com/karpathy)
+
+🔄 **Fork 数量**: 4,660
+
+⚠️ **未解决 Issues**: 121
 
 ---
 
@@ -41,7 +241,7 @@
 
 📝 **项目描述**: Open-source orchestration for zero-human companies
 
-⭐ **获得 Star**: 8,357
+⭐ **获得 Star**: 23,390
 
 💻 **主要编程语言**: TypeScript
 
@@ -49,205 +249,9 @@
 
 👤 **作者**: [paperclipai](https://github.com/paperclipai)
 
-🔄 **Fork 数量**: 950
+🔄 **Fork 数量**: 3,096
 
-⚠️ **未解决 Issues**: 201
-
----
-
-## 3. [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
-
-![项目预览图](https://opengraph.githubassets.com/1/karpathy/autoresearch)
-
-📝 **项目描述**: AI agents running research on single-GPU nanochat training automatically
-
-⭐ **获得 Star**: 2,497
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2026-03-06
-
-👤 **作者**: [karpathy](https://github.com/karpathy)
-
-🔄 **Fork 数量**: 308
-
-⚠️ **未解决 Issues**: 9
-
----
-
-## 4. [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)
-
-![项目预览图](https://opengraph.githubassets.com/1/elder-plinius/OBLITERATUS)
-
-📝 **项目描述**: OBLITERATE THE CHAINS THAT BIND YOU
-
-⭐ **获得 Star**: 2,223
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2026-03-03
-
-👤 **作者**: [elder-plinius](https://github.com/elder-plinius)
-
-🔄 **Fork 数量**: 386
-
-⚠️ **未解决 Issues**: 13
-
----
-
-## 5. [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills)
-
-![项目预览图](https://opengraph.githubassets.com/1/LeoYeAI/openclaw-master-skills)
-
-📝 **项目描述**: 🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai
-
-⭐ **获得 Star**: 1,451
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2026-03-02
-
-👤 **作者**: [LeoYeAI](https://github.com/LeoYeAI)
-
-🔄 **Fork 数量**: 368
-
-⚠️ **未解决 Issues**: 1
-
----
-
-## 6. [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide)
-
-![项目预览图](https://opengraph.githubassets.com/1/slowmist/openclaw-security-practice-guide)
-
-📝 **项目描述**: This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.
-
-⭐ **获得 Star**: 1,333
-
-💻 **主要编程语言**: Shell
-
-📅 **创建时间**: 2026-03-02
-
-👤 **作者**: [slowmist](https://github.com/slowmist)
-
-🔄 **Fork 数量**: 88
-
-⚠️ **未解决 Issues**: 4
-
----
-
-## 7. [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)
-
-![项目预览图](https://opengraph.githubassets.com/1/twostraws/SwiftUI-Agent-Skill)
-
-📝 **项目描述**: SwiftUI agent skill for Claude Code, Codex, and other AI tools.
-
-⭐ **获得 Star**: 1,099
-
-📅 **创建时间**: 2026-03-05
-
-👤 **作者**: [twostraws](https://github.com/twostraws)
-
-🔄 **Fork 数量**: 30
-
-⚠️ **未解决 Issues**: 5
-
----
-
-## 8. [LeoYeAI/openclaw-guardian](https://github.com/LeoYeAI/openclaw-guardian)
-
-![项目预览图](https://opengraph.githubassets.com/1/LeoYeAI/openclaw-guardian)
-
-📝 **项目描述**: 🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai
-
-⭐ **获得 Star**: 1,051
-
-💻 **主要编程语言**: Shell
-
-📅 **创建时间**: 2026-03-02
-
-👤 **作者**: [LeoYeAI](https://github.com/LeoYeAI)
-
-🔄 **Fork 数量**: 390
-
-⚠️ **未解决 Issues**: 3
-
----
-
-## 9. [cyxzdev/Uncodixfy](https://github.com/cyxzdev/Uncodixfy)
-
-![项目预览图](https://opengraph.githubassets.com/1/cyxzdev/Uncodixfy)
-
-📝 **项目描述**: the holly uncodexify instructions - letting GPT create uncodexified UI
-
-⭐ **获得 Star**: 879
-
-📅 **创建时间**: 2026-03-06
-
-👤 **作者**: [cyxzdev](https://github.com/cyxzdev)
-
-🔄 **Fork 数量**: 61
-
-⚠️ **未解决 Issues**: 1
-
----
-
-## 10. [duoan/TorchCode](https://github.com/duoan/TorchCode)
-
-![项目预览图](https://opengraph.githubassets.com/1/duoan/TorchCode)
-
-📝 **项目描述**: 🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.
-
-⭐ **获得 Star**: 793
-
-💻 **主要编程语言**: Jupyter Notebook
-
-📅 **创建时间**: 2026-03-04
-
-👤 **作者**: [duoan](https://github.com/duoan)
-
-🔄 **Fork 数量**: 35
-
-⚠️ **未解决 Issues**: 2
-
----
-
-# 📊 月榜 (过去30天)
-
-## 1. [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
-
-![项目预览图](https://opengraph.githubassets.com/1/zeroclaw-labs/zeroclaw)
-
-📝 **项目描述**: Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
-
-⭐ **获得 Star**: 24,318
-
-💻 **主要编程语言**: Rust
-
-📅 **创建时间**: 2026-02-13
-
-👤 **作者**: [zeroclaw-labs](https://github.com/zeroclaw-labs)
-
-🔄 **Fork 数量**: 3,124
-
-⚠️ **未解决 Issues**: 247
-
----
-
-## 2. [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
-
-![项目预览图](https://opengraph.githubassets.com/1/hesamsheikh/awesome-openclaw-usecases)
-
-📝 **项目描述**: A community collection of OpenClaw use cases for making life easier.
-
-⭐ **获得 Star**: 20,512
-
-📅 **创建时间**: 2026-02-08
-
-👤 **作者**: [hesamsheikh](https://github.com/hesamsheikh)
-
-🔄 **Fork 数量**: 1,691
-
-⚠️ **未解决 Issues**: 23
+⚠️ **未解决 Issues**: 567
 
 ---
 
@@ -257,7 +261,7 @@
 
 📝 **项目描述**: Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-⭐ **获得 Star**: 15,352
+⭐ **获得 Star**: 20,323
 
 💻 **主要编程语言**: Rust
 
@@ -265,9 +269,9 @@
 
 👤 **作者**: [googleworkspace](https://github.com/googleworkspace)
 
-🔄 **Fork 数量**: 566
+🔄 **Fork 数量**: 928
 
-⚠️ **未解决 Issues**: 61
+⚠️ **未解决 Issues**: 67
 
 ---
 
@@ -277,7 +281,7 @@
 
 📝 **项目描述**: Hundreds of models & providers. One command to find what runs on your hardware.
 
-⭐ **获得 Star**: 12,554
+⭐ **获得 Star**: 16,671
 
 💻 **主要编程语言**: Rust
 
@@ -285,9 +289,9 @@
 
 👤 **作者**: [AlexsJones](https://github.com/AlexsJones)
 
-🔄 **Fork 数量**: 709
+🔄 **Fork 数量**: 948
 
-⚠️ **未解决 Issues**: 34
+⚠️ **未解决 Issues**: 78
 
 ---
 
@@ -297,7 +301,7 @@
 
 📝 **项目描述**: Open-source Agent Operating System
 
-⭐ **获得 Star**: 12,043
+⭐ **获得 Star**: 14,419
 
 💻 **主要编程语言**: Rust
 
@@ -305,29 +309,29 @@
 
 👤 **作者**: [RightNow-AI](https://github.com/RightNow-AI)
 
-🔄 **Fork 数量**: 1,300
+🔄 **Fork 数量**: 1,702
 
-⚠️ **未解决 Issues**: 160
+⚠️ **未解决 Issues**: 112
 
 ---
 
-## 6. [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)
+## 6. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
-![项目预览图](https://opengraph.githubassets.com/1/agentscope-ai/CoPaw)
+![项目预览图](https://opengraph.githubassets.com/1/HKUDS/CLI-Anything)
 
-📝 **项目描述**: Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
+📝 **项目描述**: CLI-Anything: Making ALL Software Agent-Native
 
-⭐ **获得 Star**: 9,399
+⭐ **获得 Star**: 13,905
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2026-02-24
+📅 **创建时间**: 2026-03-08
 
-👤 **作者**: [agentscope-ai](https://github.com/agentscope-ai)
+👤 **作者**: [HKUDS](https://github.com/HKUDS)
 
-🔄 **Fork 数量**: 1,045
+🔄 **Fork 数量**: 1,167
 
-⚠️ **未解决 Issues**: 308
+⚠️ **未解决 Issues**: 48
 
 ---
 
@@ -337,7 +341,7 @@
 
 📝 **项目描述**: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 
-⭐ **获得 Star**: 8,524
+⭐ **获得 Star**: 12,599
 
 💻 **主要编程语言**: Elixir
 
@@ -345,69 +349,69 @@
 
 👤 **作者**: [openai](https://github.com/openai)
 
-🔄 **Fork 数量**: 582
+🔄 **Fork 数量**: 975
 
-⚠️ **未解决 Issues**: 0
-
----
-
-## 8. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-
-![项目预览图](https://opengraph.githubassets.com/1/paperclipai/paperclip)
-
-📝 **项目描述**: Open-source orchestration for zero-human companies
-
-⭐ **获得 Star**: 8,357
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2026-03-02
-
-👤 **作者**: [paperclipai](https://github.com/paperclipai)
-
-🔄 **Fork 数量**: 950
-
-⚠️ **未解决 Issues**: 201
+⚠️ **未解决 Issues**: 1
 
 ---
 
-## 9. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+## 8. [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)
 
-![项目预览图](https://opengraph.githubassets.com/1/Panniantong/Agent-Reach)
+![项目预览图](https://opengraph.githubassets.com/1/agentscope-ai/CoPaw)
 
-📝 **项目描述**: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+📝 **项目描述**: Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
-⭐ **获得 Star**: 6,860
+⭐ **获得 Star**: 11,514
 
 💻 **主要编程语言**: Python
 
 📅 **创建时间**: 2026-02-24
 
-👤 **作者**: [Panniantong](https://github.com/Panniantong)
+👤 **作者**: [agentscope-ai](https://github.com/agentscope-ai)
 
-🔄 **Fork 数量**: 501
+🔄 **Fork 数量**: 1,371
 
-⚠️ **未解决 Issues**: 8
+⚠️ **未解决 Issues**: 477
 
 ---
 
-## 10. [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)
+## 9. [garrytan/gstack](https://github.com/garrytan/gstack)
 
-![项目预览图](https://opengraph.githubassets.com/1/HKUDS/ClawWork)
+![项目预览图](https://opengraph.githubassets.com/1/garrytan/gstack)
 
-📝 **项目描述**: "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
+📝 **项目描述**: Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer
 
-⭐ **获得 Star**: 6,754
+⭐ **获得 Star**: 10,818
+
+💻 **主要编程语言**: TypeScript
+
+📅 **创建时间**: 2026-03-11
+
+👤 **作者**: [garrytan](https://github.com/garrytan)
+
+🔄 **Fork 数量**: 1,293
+
+⚠️ **未解决 Issues**: 36
+
+---
+
+## 10. [cft0808/edict](https://github.com/cft0808/edict)
+
+![项目预览图](https://opengraph.githubassets.com/1/cft0808/edict)
+
+📝 **项目描述**: 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
+
+⭐ **获得 Star**: 9,244
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2026-02-15
+📅 **创建时间**: 2026-02-23
 
-👤 **作者**: [HKUDS](https://github.com/HKUDS)
+👤 **作者**: [cft0808](https://github.com/cft0808)
 
-🔄 **Fork 数量**: 852
+🔄 **Fork 数量**: 822
 
-⚠️ **未解决 Issues**: 22
+⚠️ **未解决 Issues**: 119
 
 ---
 
@@ -419,7 +423,7 @@
 
 📝 **项目描述**: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-⭐ **获得 Star**: 65,023
+⭐ **获得 Star**: 76,037
 
 💻 **主要编程语言**: JavaScript
 
@@ -427,9 +431,9 @@
 
 👤 **作者**: [affaan-m](https://github.com/affaan-m)
 
-🔄 **Fork 数量**: 8,067
+🔄 **Fork 数量**: 9,496
 
-⚠️ **未解决 Issues**: 18
+⚠️ **未解决 Issues**: 17
 
 ---
 
@@ -439,7 +443,7 @@
 
 📝 **项目描述**: Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
-⭐ **获得 Star**: 33,242
+⭐ **获得 Star**: 38,006
 
 💻 **主要编程语言**: TypeScript
 
@@ -447,9 +451,9 @@
 
 👤 **作者**: [koala73](https://github.com/koala73)
 
-🔄 **Fork 数量**: 5,579
+🔄 **Fork 数量**: 6,325
 
-⚠️ **未解决 Issues**: 118
+⚠️ **未解决 Issues**: 138
 
 ---
 
@@ -459,25 +463,45 @@
 
 📝 **项目描述**: The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 
-⭐ **获得 Star**: 30,715
+⭐ **获得 Star**: 37,433
 
 📅 **创建时间**: 2026-01-25
 
 👤 **作者**: [VoltAgent](https://github.com/VoltAgent)
 
-🔄 **Fork 数量**: 2,958
+🔄 **Fork 数量**: 3,593
 
-⚠️ **未解决 Issues**: 3
+⚠️ **未解决 Issues**: 1
 
 ---
 
-## 4. [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+## 4. [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+
+![项目预览图](https://opengraph.githubassets.com/1/karpathy/autoresearch)
+
+📝 **项目描述**: AI agents running research on single-GPU nanochat training automatically
+
+⭐ **获得 Star**: 34,358
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-03-06
+
+👤 **作者**: [karpathy](https://github.com/karpathy)
+
+🔄 **Fork 数量**: 4,660
+
+⚠️ **未解决 Issues**: 121
+
+---
+
+## 5. [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
 
 ![项目预览图](https://opengraph.githubassets.com/1/HKUDS/nanobot)
 
 📝 **项目描述**: "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-⭐ **获得 Star**: 30,076
+⭐ **获得 Star**: 33,520
 
 💻 **主要编程语言**: Python
 
@@ -485,29 +509,9 @@
 
 👤 **作者**: [HKUDS](https://github.com/HKUDS)
 
-🔄 **Fork 数量**: 4,915
+🔄 **Fork 数量**: 5,584
 
-⚠️ **未解决 Issues**: 925
-
----
-
-## 5. [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
-
-![项目预览图](https://opengraph.githubassets.com/1/gsd-build/get-shit-done)
-
-📝 **项目描述**: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-
-⭐ **获得 Star**: 25,875
-
-💻 **主要编程语言**: JavaScript
-
-📅 **创建时间**: 2025-12-14
-
-👤 **作者**: [gsd-build](https://github.com/gsd-build)
-
-🔄 **Fork 数量**: 2,203
-
-⚠️ **未解决 Issues**: 267
+⚠️ **未解决 Issues**: 909
 
 ---
 
@@ -517,7 +521,7 @@
 
 📝 **项目描述**: Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-⭐ **获得 Star**: 24,318
+⭐ **获得 Star**: 27,069
 
 💻 **主要编程语言**: Rust
 
@@ -525,19 +529,37 @@
 
 👤 **作者**: [zeroclaw-labs](https://github.com/zeroclaw-labs)
 
-🔄 **Fork 数量**: 3,124
+🔄 **Fork 数量**: 3,578
 
-⚠️ **未解决 Issues**: 247
+⚠️ **未解决 Issues**: 368
 
 ---
 
-## 7. [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
+## 7. [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
+
+![项目预览图](https://opengraph.githubassets.com/1/hesamsheikh/awesome-openclaw-usecases)
+
+📝 **项目描述**: A community collection of OpenClaw use cases for making life easier.
+
+⭐ **获得 Star**: 24,789
+
+📅 **创建时间**: 2026-02-08
+
+👤 **作者**: [hesamsheikh](https://github.com/hesamsheikh)
+
+🔄 **Fork 数量**: 2,035
+
+⚠️ **未解决 Issues**: 32
+
+---
+
+## 8. [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
 
 ![项目预览图](https://opengraph.githubassets.com/1/sipeed/picoclaw)
 
 📝 **项目描述**: Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
-⭐ **获得 Star**: 22,767
+⭐ **获得 Star**: 24,729
 
 💻 **主要编程语言**: Go
 
@@ -545,19 +567,19 @@
 
 👤 **作者**: [sipeed](https://github.com/sipeed)
 
-🔄 **Fork 数量**: 2,987
+🔄 **Fork 数量**: 3,332
 
-⚠️ **未解决 Issues**: 467
+⚠️ **未解决 Issues**: 607
 
 ---
 
-## 8. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
+## 9. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 
 ![项目预览图](https://opengraph.githubassets.com/1/sickn33/antigravity-awesome-skills)
 
 📝 **项目描述**: The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 
-⭐ **获得 Star**: 21,459
+⭐ **获得 Star**: 24,357
 
 💻 **主要编程语言**: Python
 
@@ -565,47 +587,29 @@
 
 👤 **作者**: [sickn33](https://github.com/sickn33)
 
-🔄 **Fork 数量**: 3,737
+🔄 **Fork 数量**: 4,190
 
-⚠️ **未解决 Issues**: 12
-
----
-
-## 9. [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
-
-![项目预览图](https://opengraph.githubassets.com/1/hesamsheikh/awesome-openclaw-usecases)
-
-📝 **项目描述**: A community collection of OpenClaw use cases for making life easier.
-
-⭐ **获得 Star**: 20,512
-
-📅 **创建时间**: 2026-02-08
-
-👤 **作者**: [hesamsheikh](https://github.com/hesamsheikh)
-
-🔄 **Fork 数量**: 1,691
-
-⚠️ **未解决 Issues**: 23
+⚠️ **未解决 Issues**: 1
 
 ---
 
-## 10. [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
+## 10. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 
-![项目预览图](https://opengraph.githubassets.com/1/qwibitai/nanoclaw)
+![项目预览图](https://opengraph.githubassets.com/1/paperclipai/paperclip)
 
-📝 **项目描述**: A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+📝 **项目描述**: Open-source orchestration for zero-human companies
 
-⭐ **获得 Star**: 20,110
+⭐ **获得 Star**: 23,391
 
 💻 **主要编程语言**: TypeScript
 
-📅 **创建时间**: 2026-01-31
+📅 **创建时间**: 2026-03-02
 
-👤 **作者**: [qwibitai](https://github.com/qwibitai)
+👤 **作者**: [paperclipai](https://github.com/paperclipai)
 
-🔄 **Fork 数量**: 3,315
+🔄 **Fork 数量**: 3,096
 
-⚠️ **未解决 Issues**: 262
+⚠️ **未解决 Issues**: 567
 
 ---
 
@@ -617,7 +621,7 @@
 
 📝 **项目描述**: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-⭐ **获得 Star**: 275,978
+⭐ **获得 Star**: 313,221
 
 💻 **主要编程语言**: TypeScript
 
@@ -625,9 +629,9 @@
 
 👤 **作者**: [openclaw](https://github.com/openclaw)
 
-🔄 **Fork 数量**: 52,692
+🔄 **Fork 数量**: 59,738
 
-⚠️ **未解决 Issues**: 10,627
+⚠️ **未解决 Issues**: 13,821
 
 ---
 
@@ -637,7 +641,7 @@
 
 📝 **项目描述**: The open source coding agent.
 
-⭐ **获得 Star**: 117,920
+⭐ **获得 Star**: 122,247
 
 💻 **主要编程语言**: TypeScript
 
@@ -645,9 +649,9 @@
 
 👤 **作者**: [anomalyco](https://github.com/anomalyco)
 
-🔄 **Fork 数量**: 12,049
+🔄 **Fork 数量**: 12,676
 
-⚠️ **未解决 Issues**: 6,506
+⚠️ **未解决 Issues**: 6,872
 
 ---
 
@@ -657,7 +661,7 @@
 
 📝 **项目描述**: An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-⭐ **获得 Star**: 96,824
+⭐ **获得 Star**: 97,742
 
 💻 **主要编程语言**: TypeScript
 
@@ -665,9 +669,9 @@
 
 👤 **作者**: [google-gemini](https://github.com/google-gemini)
 
-🔄 **Fork 数量**: 12,007
+🔄 **Fork 数量**: 12,257
 
-⚠️ **未解决 Issues**: 2,691
+⚠️ **未解决 Issues**: 2,910
 
 ---
 

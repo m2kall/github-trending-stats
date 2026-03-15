@@ -1,0 +1,50 @@
+[
+  {
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "stars": 313221,
+    "language": "TypeScript",
+    "url": "https://github.com/openclaw/openclaw",
+    "created_at": "2025-11-24T10:16:47Z",
+    "owner": {
+      "login": "openclaw",
+      "url": "https://github.com/openclaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
+    },
+    "forks": 59738,
+    "issues": 13821,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openclaw/openclaw"
+  },
+  {
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "stars": 122247,
+    "language": "TypeScript",
+    "url": "https://github.com/anomalyco/opencode",
+    "created_at": "2025-04-30T20:08:00Z",
+    "owner": {
+      "login": "anomalyco",
+      "url": "https://github.com/anomalyco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66570915?v=4"
+    },
+    "forks": 12676,
+    "issues": 6872,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anomalyco/opencode"
+  },
+  {
+    "name": "google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "stars": 97742,
+    "language": "TypeScript",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "created_at": "2025-04-17T17:04:31Z",
+    "owner": {
+      "login": "google-gemini",
+      "url": "https://github.com/google-gemini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
+    },
+    "forks": 12257,
+    "issues": 2910,
+    "social_preview_url": "https://opengraph.githubassets.com/1/google-gemini/gemini-cli"
+  }
+]

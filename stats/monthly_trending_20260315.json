@@ -1,0 +1,162 @@
+[
+  {
+    "name": "karpathy/autoresearch",
+    "description": "AI agents running research on single-GPU nanochat training automatically",
+    "stars": 34358,
+    "language": "Python",
+    "url": "https://github.com/karpathy/autoresearch",
+    "created_at": "2026-03-06T22:00:43Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 4660,
+    "issues": 121,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/autoresearch"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "Open-source orchestration for zero-human companies",
+    "stars": 23390,
+    "language": "TypeScript",
+    "url": "https://github.com/paperclipai/paperclip",
+    "created_at": "2026-03-02T15:01:51Z",
+    "owner": {
+      "login": "paperclipai",
+      "url": "https://github.com/paperclipai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
+    },
+    "forks": 3096,
+    "issues": 567,
+    "social_preview_url": "https://opengraph.githubassets.com/1/paperclipai/paperclip"
+  },
+  {
+    "name": "googleworkspace/cli",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+    "stars": 20323,
+    "language": "Rust",
+    "url": "https://github.com/googleworkspace/cli",
+    "created_at": "2026-03-02T19:46:06Z",
+    "owner": {
+      "login": "googleworkspace",
+      "url": "https://github.com/googleworkspace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
+    },
+    "forks": 928,
+    "issues": 67,
+    "social_preview_url": "https://opengraph.githubassets.com/1/googleworkspace/cli"
+  },
+  {
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+    "stars": 16671,
+    "language": "Rust",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "created_at": "2026-02-15T16:11:31Z",
+    "owner": {
+      "login": "AlexsJones",
+      "url": "https://github.com/AlexsJones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
+    },
+    "forks": 948,
+    "issues": 78,
+    "social_preview_url": "https://opengraph.githubassets.com/1/AlexsJones/llmfit"
+  },
+  {
+    "name": "RightNow-AI/openfang",
+    "description": "Open-source Agent Operating System",
+    "stars": 14419,
+    "language": "Rust",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "created_at": "2026-02-24T23:12:38Z",
+    "owner": {
+      "login": "RightNow-AI",
+      "url": "https://github.com/RightNow-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
+    },
+    "forks": 1702,
+    "issues": 112,
+    "social_preview_url": "https://opengraph.githubassets.com/1/RightNow-AI/openfang"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "CLI-Anything: Making ALL Software Agent-Native",
+    "stars": 13905,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "created_at": "2026-03-08T13:52:57Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 1167,
+    "issues": 48,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "openai/symphony",
+    "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+    "stars": 12599,
+    "language": "Elixir",
+    "url": "https://github.com/openai/symphony",
+    "created_at": "2026-02-26T21:54:00Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 975,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/symphony"
+  },
+  {
+    "name": "agentscope-ai/CoPaw",
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+    "stars": 11514,
+    "language": "Python",
+    "url": "https://github.com/agentscope-ai/CoPaw",
+    "created_at": "2026-02-24T03:42:56Z",
+    "owner": {
+      "login": "agentscope-ai",
+      "url": "https://github.com/agentscope-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
+    },
+    "forks": 1371,
+    "issues": 477,
+    "social_preview_url": "https://opengraph.githubassets.com/1/agentscope-ai/CoPaw"
+  },
+  {
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer",
+    "stars": 10818,
+    "language": "TypeScript",
+    "url": "https://github.com/garrytan/gstack",
+    "created_at": "2026-03-11T21:22:45Z",
+    "owner": {
+      "login": "garrytan",
+      "url": "https://github.com/garrytan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
+    },
+    "forks": 1293,
+    "issues": 36,
+    "social_preview_url": "https://opengraph.githubassets.com/1/garrytan/gstack"
+  },
+  {
+    "name": "cft0808/edict",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+    "stars": 9244,
+    "language": "Python",
+    "url": "https://github.com/cft0808/edict",
+    "created_at": "2026-02-23T14:35:04Z",
+    "owner": {
+      "login": "cft0808",
+      "url": "https://github.com/cft0808",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41196455?v=4"
+    },
+    "forks": 822,
+    "issues": 119,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cft0808/edict"
+  }
+]
