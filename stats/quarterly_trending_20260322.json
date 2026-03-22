@@ -1,0 +1,162 @@
+[
+  {
+    "name": "affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 94498,
+    "language": "JavaScript",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "created_at": "2026-01-18T00:51:51Z",
+    "owner": {
+      "login": "affaan-m",
+      "url": "https://github.com/affaan-m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4"
+    },
+    "forks": 12367,
+    "issues": 45,
+    "social_preview_url": "https://opengraph.githubassets.com/1/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "karpathy/autoresearch",
+    "description": "AI agents running research on single-GPU nanochat training automatically",
+    "stars": 48351,
+    "language": "Python",
+    "url": "https://github.com/karpathy/autoresearch",
+    "created_at": "2026-03-06T22:00:43Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 6715,
+    "issues": 149,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/autoresearch"
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "stars": 42248,
+    "language": "TypeScript",
+    "url": "https://github.com/koala73/worldmonitor",
+    "created_at": "2026-01-08T17:26:06Z",
+    "owner": {
+      "login": "koala73",
+      "url": "https://github.com/koala73",
+      "avatar_url": "https://avatars.githubusercontent.com/u/996596?v=4"
+    },
+    "forks": 6880,
+    "issues": 76,
+    "social_preview_url": "https://opengraph.githubassets.com/1/koala73/worldmonitor"
+  },
+  {
+    "name": "VoltAgent/awesome-openclaw-skills",
+    "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
+    "stars": 40522,
+    "language": null,
+    "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "created_at": "2026-01-25T09:22:32Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 3884,
+    "issues": 30,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills"
+  },
+  {
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "stars": 35382,
+    "language": "TypeScript",
+    "url": "https://github.com/garrytan/gstack",
+    "created_at": "2026-03-11T21:22:45Z",
+    "owner": {
+      "login": "garrytan",
+      "url": "https://github.com/garrytan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
+    },
+    "forks": 4338,
+    "issues": 135,
+    "social_preview_url": "https://opengraph.githubassets.com/1/garrytan/gstack"
+  },
+  {
+    "name": "HKUDS/nanobot",
+    "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
+    "stars": 35334,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/nanobot",
+    "created_at": "2026-02-01T07:16:15Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 5985,
+    "issues": 739,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/nanobot"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "Open-source orchestration for zero-human companies",
+    "stars": 31186,
+    "language": "TypeScript",
+    "url": "https://github.com/paperclipai/paperclip",
+    "created_at": "2026-03-02T15:01:51Z",
+    "owner": {
+      "login": "paperclipai",
+      "url": "https://github.com/paperclipai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
+    },
+    "forks": 4303,
+    "issues": 969,
+    "social_preview_url": "https://opengraph.githubassets.com/1/paperclipai/paperclip"
+  },
+  {
+    "name": "zeroclaw-labs/zeroclaw",
+    "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀",
+    "stars": 28299,
+    "language": "Rust",
+    "url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "created_at": "2026-02-13T08:56:04Z",
+    "owner": {
+      "login": "zeroclaw-labs",
+      "url": "https://github.com/zeroclaw-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
+    },
+    "forks": 3856,
+    "issues": 291,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zeroclaw-labs/zeroclaw"
+  },
+  {
+    "name": "hesamsheikh/awesome-openclaw-usecases",
+    "description": "A community collection of OpenClaw use cases for making life easier.",
+    "stars": 26626,
+    "language": null,
+    "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "created_at": "2026-02-08T22:08:17Z",
+    "owner": {
+      "login": "hesamsheikh",
+      "url": "https://github.com/hesamsheikh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
+    },
+    "forks": 2216,
+    "issues": 39,
+    "social_preview_url": "https://opengraph.githubassets.com/1/hesamsheikh/awesome-openclaw-usecases"
+  },
+  {
+    "name": "sickn33/antigravity-awesome-skills",
+    "description": "Installable GitHub library of 1,304+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.",
+    "stars": 26415,
+    "language": "Python",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills",
+    "created_at": "2026-01-14T17:48:09Z",
+    "owner": {
+      "login": "sickn33",
+      "url": "https://github.com/sickn33",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184072420?v=4"
+    },
+    "forks": 4505,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sickn33/antigravity-awesome-skills"
+  }
+]

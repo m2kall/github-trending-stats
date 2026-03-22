@@ -1,0 +1,162 @@
+[
+  {
+    "name": "HKUDS/ClawTeam",
+    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
+    "stars": 2500,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/ClawTeam",
+    "created_at": "2026-03-17T14:42:46Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 312,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/ClawTeam"
+  },
+  {
+    "name": "VoltAgent/awesome-codex-subagents",
+    "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
+    "stars": 1985,
+    "language": null,
+    "url": "https://github.com/VoltAgent/awesome-codex-subagents",
+    "created_at": "2026-03-17T12:26:20Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 162,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-codex-subagents"
+  },
+  {
+    "name": "lcoutodemos/clui-cc",
+    "description": "Clui CC — Command Line User Interface for Claude Code",
+    "stars": 968,
+    "language": "TypeScript",
+    "url": "https://github.com/lcoutodemos/clui-cc",
+    "created_at": "2026-03-16T00:42:18Z",
+    "owner": {
+      "login": "lcoutodemos",
+      "url": "https://github.com/lcoutodemos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
+    },
+    "forks": 129,
+    "issues": 24,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lcoutodemos/clui-cc"
+  },
+  {
+    "name": "mattprusak/autoresearch-genealogy",
+    "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
+    "stars": 841,
+    "language": null,
+    "url": "https://github.com/mattprusak/autoresearch-genealogy",
+    "created_at": "2026-03-18T17:57:50Z",
+    "owner": {
+      "login": "mattprusak",
+      "url": "https://github.com/mattprusak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
+    },
+    "forks": 68,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mattprusak/autoresearch-genealogy"
+  },
+  {
+    "name": "lxf746/any-auto-register",
+    "description": null,
+    "stars": 821,
+    "language": "Python",
+    "url": "https://github.com/lxf746/any-auto-register",
+    "created_at": "2026-03-18T13:26:05Z",
+    "owner": {
+      "login": "lxf746",
+      "url": "https://github.com/lxf746",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
+    },
+    "forks": 419,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lxf746/any-auto-register"
+  },
+  {
+    "name": "math-inc/OpenGauss",
+    "description": null,
+    "stars": 805,
+    "language": "Python",
+    "url": "https://github.com/math-inc/OpenGauss",
+    "created_at": "2026-03-19T15:42:02Z",
+    "owner": {
+      "login": "math-inc",
+      "url": "https://github.com/math-inc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
+    },
+    "forks": 65,
+    "issues": 421,
+    "social_preview_url": "https://opengraph.githubassets.com/1/math-inc/OpenGauss"
+  },
+  {
+    "name": "frank890417/taiwan-md",
+    "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
+    "stars": 698,
+    "language": "Astro",
+    "url": "https://github.com/frank890417/taiwan-md",
+    "created_at": "2026-03-17T08:05:33Z",
+    "owner": {
+      "login": "frank890417",
+      "url": "https://github.com/frank890417",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
+    },
+    "forks": 76,
+    "issues": 33,
+    "social_preview_url": "https://opengraph.githubassets.com/1/frank890417/taiwan-md"
+  },
+  {
+    "name": "truongduy2611/app-store-preflight-skills",
+    "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
+    "stars": 634,
+    "language": null,
+    "url": "https://github.com/truongduy2611/app-store-preflight-skills",
+    "created_at": "2026-03-19T05:39:43Z",
+    "owner": {
+      "login": "truongduy2611",
+      "url": "https://github.com/truongduy2611",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
+    },
+    "forks": 33,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/truongduy2611/app-store-preflight-skills"
+  },
+  {
+    "name": "BryanLunduke/DoesItAgeVerify",
+    "description": "The age verification status of Open Source Operating Systems",
+    "stars": 626,
+    "language": null,
+    "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
+    "created_at": "2026-03-18T22:36:55Z",
+    "owner": {
+      "login": "BryanLunduke",
+      "url": "https://github.com/BryanLunduke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
+    },
+    "forks": 18,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/BryanLunduke/DoesItAgeVerify"
+  },
+  {
+    "name": "ghostty-org/ghostling",
+    "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
+    "stars": 596,
+    "language": "C",
+    "url": "https://github.com/ghostty-org/ghostling",
+    "created_at": "2026-03-20T19:31:34Z",
+    "owner": {
+      "login": "ghostty-org",
+      "url": "https://github.com/ghostty-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
+    },
+    "forks": 18,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ghostty-org/ghostling"
+  }
+]
