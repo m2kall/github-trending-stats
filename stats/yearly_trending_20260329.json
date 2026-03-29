@@ -1,0 +1,50 @@
+[
+  {
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "stars": 339545,
+    "language": "TypeScript",
+    "url": "https://github.com/openclaw/openclaw",
+    "created_at": "2025-11-24T10:16:47Z",
+    "owner": {
+      "login": "openclaw",
+      "url": "https://github.com/openclaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
+    },
+    "forks": 66885,
+    "issues": 16294,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openclaw/openclaw"
+  },
+  {
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "stars": 131994,
+    "language": "TypeScript",
+    "url": "https://github.com/anomalyco/opencode",
+    "created_at": "2025-04-30T20:08:00Z",
+    "owner": {
+      "login": "anomalyco",
+      "url": "https://github.com/anomalyco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66570915?v=4"
+    },
+    "forks": 14113,
+    "issues": 6162,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anomalyco/opencode"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "stars": 120952,
+    "language": "Shell",
+    "url": "https://github.com/obra/superpowers",
+    "created_at": "2025-10-09T19:45:18Z",
+    "owner": {
+      "login": "obra",
+      "url": "https://github.com/obra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45416?v=4"
+    },
+    "forks": 9817,
+    "issues": 191,
+    "social_preview_url": "https://opengraph.githubassets.com/1/obra/superpowers"
+  }
+]

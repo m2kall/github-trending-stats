@@ -1,0 +1,162 @@
+[
+  {
+    "name": "karpathy/autoresearch",
+    "description": "AI agents running research on single-GPU nanochat training automatically",
+    "stars": 59690,
+    "language": "Python",
+    "url": "https://github.com/karpathy/autoresearch",
+    "created_at": "2026-03-06T22:00:43Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 8284,
+    "issues": 161,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/autoresearch"
+  },
+  {
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "stars": 54243,
+    "language": "TypeScript",
+    "url": "https://github.com/garrytan/gstack",
+    "created_at": "2026-03-11T21:22:45Z",
+    "owner": {
+      "login": "garrytan",
+      "url": "https://github.com/garrytan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
+    },
+    "forks": 7038,
+    "issues": 253,
+    "social_preview_url": "https://opengraph.githubassets.com/1/garrytan/gstack"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "Open-source orchestration for zero-human companies",
+    "stars": 37229,
+    "language": "TypeScript",
+    "url": "https://github.com/paperclipai/paperclip",
+    "created_at": "2026-03-02T15:01:51Z",
+    "owner": {
+      "login": "paperclipai",
+      "url": "https://github.com/paperclipai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
+    },
+    "forks": 5438,
+    "issues": 1177,
+    "social_preview_url": "https://opengraph.githubassets.com/1/paperclipai/paperclip"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "CLI-Anything: Making ALL Software Agent-Native",
+    "stars": 24375,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "created_at": "2026-03-08T13:52:57Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 2172,
+    "issues": 70,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "googleworkspace/cli",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+    "stars": 22926,
+    "language": "Rust",
+    "url": "https://github.com/googleworkspace/cli",
+    "created_at": "2026-03-02T19:46:06Z",
+    "owner": {
+      "login": "googleworkspace",
+      "url": "https://github.com/googleworkspace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
+    },
+    "forks": 1115,
+    "issues": 52,
+    "social_preview_url": "https://opengraph.githubassets.com/1/googleworkspace/cli"
+  },
+  {
+    "name": "NVIDIA/NemoClaw",
+    "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+    "stars": 17504,
+    "language": "JavaScript",
+    "url": "https://github.com/NVIDIA/NemoClaw",
+    "created_at": "2026-03-15T17:04:09Z",
+    "owner": {
+      "login": "NVIDIA",
+      "url": "https://github.com/NVIDIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
+    },
+    "forks": 1998,
+    "issues": 478,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NVIDIA/NemoClaw"
+  },
+  {
+    "name": "tanweai/pua",
+    "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
+    "stars": 13070,
+    "language": "TypeScript",
+    "url": "https://github.com/tanweai/pua",
+    "created_at": "2026-03-08T16:55:16Z",
+    "owner": {
+      "login": "tanweai",
+      "url": "https://github.com/tanweai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
+    },
+    "forks": 707,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tanweai/pua"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "stars": 12978,
+    "language": "TypeScript",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "created_at": "2026-03-11T10:13:16Z",
+    "owner": {
+      "login": "THU-MAIC",
+      "url": "https://github.com/THU-MAIC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163809488?v=4"
+    },
+    "forks": 2036,
+    "issues": 143,
+    "social_preview_url": "https://opengraph.githubassets.com/1/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "microsoft/RustTraining",
+    "description": "Beginner, advanced, expert level Rust training material",
+    "stars": 11137,
+    "language": "Rust",
+    "url": "https://github.com/microsoft/RustTraining",
+    "created_at": "2026-03-13T04:25:17Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 748,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/RustTraining"
+  },
+  {
+    "name": "aiming-lab/AutoResearchClaw",
+    "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+    "stars": 9342,
+    "language": "Python",
+    "url": "https://github.com/aiming-lab/AutoResearchClaw",
+    "created_at": "2026-03-15T03:38:49Z",
+    "owner": {
+      "login": "aiming-lab",
+      "url": "https://github.com/aiming-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
+    },
+    "forks": 1006,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/aiming-lab/AutoResearchClaw"
+  }
+]

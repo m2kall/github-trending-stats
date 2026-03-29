@@ -1,0 +1,162 @@
+[
+  {
+    "name": "slavingia/skills",
+    "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
+    "stars": 5009,
+    "language": null,
+    "url": "https://github.com/slavingia/skills",
+    "created_at": "2026-03-23T19:16:00Z",
+    "owner": {
+      "login": "slavingia",
+      "url": "https://github.com/slavingia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74396?v=4"
+    },
+    "forks": 345,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/slavingia/skills"
+  },
+  {
+    "name": "magnum6actual/flipoff",
+    "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+    "stars": 2105,
+    "language": "JavaScript",
+    "url": "https://github.com/magnum6actual/flipoff",
+    "created_at": "2026-03-26T12:46:35Z",
+    "owner": {
+      "login": "magnum6actual",
+      "url": "https://github.com/magnum6actual",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65552837?v=4"
+    },
+    "forks": 254,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/magnum6actual/flipoff"
+  },
+  {
+    "name": "HKUDS/OpenSpace",
+    "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+    "stars": 1996,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/OpenSpace",
+    "created_at": "2026-03-24T08:01:49Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 221,
+    "issues": 29,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/OpenSpace"
+  },
+  {
+    "name": "larksuite/cli",
+    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+    "stars": 1901,
+    "language": "Go",
+    "url": "https://github.com/larksuite/cli",
+    "created_at": "2026-03-25T07:13:30Z",
+    "owner": {
+      "login": "larksuite",
+      "url": "https://github.com/larksuite",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
+    },
+    "forks": 86,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/larksuite/cli"
+  },
+  {
+    "name": "alvinunreal/awesome-opensource-ai",
+    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+    "stars": 1759,
+    "language": null,
+    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+    "created_at": "2026-03-24T15:58:22Z",
+    "owner": {
+      "login": "alvinunreal",
+      "url": "https://github.com/alvinunreal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
+    },
+    "forks": 134,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/alvinunreal/awesome-opensource-ai"
+  },
+  {
+    "name": "elder-plinius/G0DM0D3",
+    "description": "LIBERATED AI CHAT",
+    "stars": 1557,
+    "language": "TypeScript",
+    "url": "https://github.com/elder-plinius/G0DM0D3",
+    "created_at": "2026-03-25T17:43:02Z",
+    "owner": {
+      "login": "elder-plinius",
+      "url": "https://github.com/elder-plinius",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
+    },
+    "forks": 303,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/elder-plinius/G0DM0D3"
+  },
+  {
+    "name": "opa334/darksword-kexploit",
+    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C",
+    "stars": 992,
+    "language": "Objective-C",
+    "url": "https://github.com/opa334/darksword-kexploit",
+    "created_at": "2026-03-23T12:29:29Z",
+    "owner": {
+      "login": "opa334",
+      "url": "https://github.com/opa334",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
+    },
+    "forks": 372,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/opa334/darksword-kexploit"
+  },
+  {
+    "name": "nashsu/opencli-rs",
+    "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)",
+    "stars": 935,
+    "language": "Rust",
+    "url": "https://github.com/nashsu/opencli-rs",
+    "created_at": "2026-03-24T03:04:29Z",
+    "owner": {
+      "login": "nashsu",
+      "url": "https://github.com/nashsu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
+    },
+    "forks": 69,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nashsu/opencli-rs"
+  },
+  {
+    "name": "jxnxts/mcp-brasil",
+    "description": "MCP Server para 41 APIs públicas brasileiras",
+    "stars": 833,
+    "language": "Python",
+    "url": "https://github.com/jxnxts/mcp-brasil",
+    "created_at": "2026-03-26T00:38:54Z",
+    "owner": {
+      "login": "jxnxts",
+      "url": "https://github.com/jxnxts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16927419?v=4"
+    },
+    "forks": 99,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jxnxts/mcp-brasil"
+  },
+  {
+    "name": "LimHyungTae/Awesome-PhD-CV",
+    "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants.",
+    "stars": 833,
+    "language": "TeX",
+    "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
+    "created_at": "2026-03-24T03:44:52Z",
+    "owner": {
+      "login": "LimHyungTae",
+      "url": "https://github.com/LimHyungTae",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35317311?v=4"
+    },
+    "forks": 90,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/LimHyungTae/Awesome-PhD-CV"
+  }
+]
