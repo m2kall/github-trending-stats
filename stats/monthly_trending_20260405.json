@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ultraworkers/claw-code",
+    "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+    "stars": 167590,
+    "language": "Rust",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "created_at": "2026-03-31T08:58:08Z",
+    "owner": {
+      "login": "ultraworkers",
+      "url": "https://github.com/ultraworkers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
+    },
+    "forks": 101920,
+    "issues": 1413,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ultraworkers/claw-code"
+  },
+  {
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "stars": 64070,
+    "language": "TypeScript",
+    "url": "https://github.com/garrytan/gstack",
+    "created_at": "2026-03-11T21:22:45Z",
+    "owner": {
+      "login": "garrytan",
+      "url": "https://github.com/garrytan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
+    },
+    "forks": 8685,
+    "issues": 321,
+    "social_preview_url": "https://opengraph.githubassets.com/1/garrytan/gstack"
+  },
+  {
+    "name": "chenglou/pretext",
+    "description": null,
+    "stars": 38822,
+    "language": "TypeScript",
+    "url": "https://github.com/chenglou/pretext",
+    "created_at": "2026-03-07T21:06:28Z",
+    "owner": {
+      "login": "chenglou",
+      "url": "https://github.com/chenglou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1909539?v=4"
+    },
+    "forks": 2045,
+    "issues": 60,
+    "social_preview_url": "https://opengraph.githubassets.com/1/chenglou/pretext"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "stars": 28085,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "created_at": "2026-03-08T13:52:57Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 2651,
+    "issues": 72,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "NVIDIA/NemoClaw",
+    "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+    "stars": 18466,
+    "language": "JavaScript",
+    "url": "https://github.com/NVIDIA/NemoClaw",
+    "created_at": "2026-03-15T17:04:09Z",
+    "owner": {
+      "login": "NVIDIA",
+      "url": "https://github.com/NVIDIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
+    },
+    "forks": 2205,
+    "issues": 550,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NVIDIA/NemoClaw"
+  },
+  {
+    "name": "tanweai/pua",
+    "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
+    "stars": 15066,
+    "language": "TypeScript",
+    "url": "https://github.com/tanweai/pua",
+    "created_at": "2026-03-08T16:55:16Z",
+    "owner": {
+      "login": "tanweai",
+      "url": "https://github.com/tanweai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
+    },
+    "forks": 836,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tanweai/pua"
+  },
+  {
+    "name": "Gitlawb/openclaude",
+    "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
+    "stars": 14855,
+    "language": "TypeScript",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "created_at": "2026-04-01T03:15:49Z",
+    "owner": {
+      "login": "Gitlawb",
+      "url": "https://github.com/Gitlawb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268502891?v=4"
+    },
+    "forks": 5170,
+    "issues": 88,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Gitlawb/openclaude"
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "stars": 13806,
+    "language": "TypeScript",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "created_at": "2026-03-11T10:13:16Z",
+    "owner": {
+      "login": "THU-MAIC",
+      "url": "https://github.com/THU-MAIC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163809488?v=4"
+    },
+    "forks": 2365,
+    "issues": 136,
+    "social_preview_url": "https://opengraph.githubassets.com/1/THU-MAIC/OpenMAIC"
+  },
+  {
+    "name": "claude-code-best/claude-code",
+    "description": "原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动",
+    "stars": 13613,
+    "language": "TypeScript",
+    "url": "https://github.com/claude-code-best/claude-code",
+    "created_at": "2026-03-31T13:33:21Z",
+    "owner": {
+      "login": "claude-code-best",
+      "url": "https://github.com/claude-code-best",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272536312?v=4"
+    },
+    "forks": 13895,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/claude-code-best/claude-code"
+  },
+  {
+    "name": "jackwener/opencli",
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "stars": 13058,
+    "language": "TypeScript",
+    "url": "https://github.com/jackwener/opencli",
+    "created_at": "2026-03-14T22:10:23Z",
+    "owner": {
+      "login": "jackwener",
+      "url": "https://github.com/jackwener",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
+    },
+    "forks": 1166,
+    "issues": 78,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jackwener/opencli"
+  }
+]

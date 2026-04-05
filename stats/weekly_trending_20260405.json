@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ultraworkers/claw-code",
+    "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+    "stars": 167590,
+    "language": "Rust",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "created_at": "2026-03-31T08:58:08Z",
+    "owner": {
+      "login": "ultraworkers",
+      "url": "https://github.com/ultraworkers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
+    },
+    "forks": 101920,
+    "issues": 1413,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ultraworkers/claw-code"
+  },
+  {
+    "name": "Gitlawb/openclaude",
+    "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
+    "stars": 14855,
+    "language": "TypeScript",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "created_at": "2026-04-01T03:15:49Z",
+    "owner": {
+      "login": "Gitlawb",
+      "url": "https://github.com/Gitlawb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268502891?v=4"
+    },
+    "forks": 5170,
+    "issues": 88,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Gitlawb/openclaude"
+  },
+  {
+    "name": "claude-code-best/claude-code",
+    "description": "原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动",
+    "stars": 13613,
+    "language": "TypeScript",
+    "url": "https://github.com/claude-code-best/claude-code",
+    "created_at": "2026-03-31T13:33:21Z",
+    "owner": {
+      "login": "claude-code-best",
+      "url": "https://github.com/claude-code-best",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272536312?v=4"
+    },
+    "forks": 13895,
+    "issues": 14,
+    "social_preview_url": "https://opengraph.githubassets.com/1/claude-code-best/claude-code"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "stars": 11667,
+    "language": "JavaScript",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "created_at": "2026-03-30T15:29:52Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 611,
+    "issues": 98,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/codex-plugin-cc"
+  },
+  {
+    "name": "sanbuphy/learn-coding-agent",
+    "description": "Research on Coding Agents",
+    "stars": 11270,
+    "language": null,
+    "url": "https://github.com/sanbuphy/learn-coding-agent",
+    "created_at": "2026-03-31T09:07:08Z",
+    "owner": {
+      "login": "sanbuphy",
+      "url": "https://github.com/sanbuphy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96160062?v=4"
+    },
+    "forks": 19636,
+    "issues": 57,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sanbuphy/learn-coding-agent"
+  },
+  {
+    "name": "VoltAgent/awesome-design-md",
+    "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.",
+    "stars": 8835,
+    "language": "HTML",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "created_at": "2026-03-31T16:37:01Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 1116,
+    "issues": 44,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-design-md"
+  },
+  {
+    "name": "ChinaSiro/claude-code-sourcemap",
+    "description": null,
+    "stars": 8382,
+    "language": "TypeScript",
+    "url": "https://github.com/ChinaSiro/claude-code-sourcemap",
+    "created_at": "2026-03-31T08:15:54Z",
+    "owner": {
+      "login": "ChinaSiro",
+      "url": "https://github.com/ChinaSiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12388645?v=4"
+    },
+    "forks": 14031,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ChinaSiro/claude-code-sourcemap"
+  },
+  {
+    "name": "Kuberwastaken/claurst",
+    "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries",
+    "stars": 8069,
+    "language": "Rust",
+    "url": "https://github.com/Kuberwastaken/claurst",
+    "created_at": "2026-03-31T09:23:58Z",
+    "owner": {
+      "login": "Kuberwastaken",
+      "url": "https://github.com/Kuberwastaken",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97027230?v=4"
+    },
+    "forks": 7510,
+    "issues": 13,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Kuberwastaken/claurst"
+  },
+  {
+    "name": "titanwings/colleague-skill",
+    "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+    "stars": 7242,
+    "language": "Python",
+    "url": "https://github.com/titanwings/colleague-skill",
+    "created_at": "2026-03-30T05:22:23Z",
+    "owner": {
+      "login": "titanwings",
+      "url": "https://github.com/titanwings",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85022018?v=4"
+    },
+    "forks": 513,
+    "issues": 58,
+    "social_preview_url": "https://opengraph.githubassets.com/1/titanwings/colleague-skill"
+  },
+  {
+    "name": "emdash-cms/emdash",
+    "description": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress",
+    "stars": 7068,
+    "language": "TypeScript",
+    "url": "https://github.com/emdash-cms/emdash",
+    "created_at": "2026-04-01T08:45:02Z",
+    "owner": {
+      "login": "emdash-cms",
+      "url": "https://github.com/emdash-cms",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272658707?v=4"
+    },
+    "forks": 493,
+    "issues": 142,
+    "social_preview_url": "https://opengraph.githubassets.com/1/emdash-cms/emdash"
+  }
+]
