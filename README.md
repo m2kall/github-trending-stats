@@ -9,205 +9,199 @@
 - 📉 **季榜**：过去90天内创建的最受欢迎项目（TOP 10）
 - 🏆 **年榜**：过去365天内创建的最受欢迎项目（TOP 3）
 
-🕒 **最后更新时间**: 2026-04-05 03:20:44
+🕒 **最后更新时间**: 2026-04-12 03:28:27
 
 ---
 
 # 📊 周榜 (过去7天)
 
-## 1. [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+## 1. [farzaa/clicky](https://github.com/farzaa/clicky)
 
-![项目预览图](https://opengraph.githubassets.com/1/ultraworkers/claw-code)
+![项目预览图](https://opengraph.githubassets.com/1/farzaa/clicky)
 
-📝 **项目描述**: The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+⭐ **获得 Star**: 3,790
 
-⭐ **获得 Star**: 167,590
+💻 **主要编程语言**: Swift
 
-💻 **主要编程语言**: Rust
+📅 **创建时间**: 2026-04-07
 
-📅 **创建时间**: 2026-03-31
+👤 **作者**: [farzaa](https://github.com/farzaa)
 
-👤 **作者**: [ultraworkers](https://github.com/ultraworkers)
+🔄 **Fork 数量**: 669
 
-🔄 **Fork 数量**: 101,920
-
-⚠️ **未解决 Issues**: 1,413
+⚠️ **未解决 Issues**: 41
 
 ---
 
-## 2. [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+## 2. [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)
 
-![项目预览图](https://opengraph.githubassets.com/1/Gitlawb/openclaude)
+![项目预览图](https://opengraph.githubassets.com/1/xixu-me/awesome-persona-distill-skills)
 
-📝 **项目描述**: Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+📝 **项目描述**: 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives
 
-⭐ **获得 Star**: 14,855
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2026-04-01
-
-👤 **作者**: [Gitlawb](https://github.com/Gitlawb)
-
-🔄 **Fork 数量**: 5,170
-
-⚠️ **未解决 Issues**: 88
-
----
-
-## 3. [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
-
-![项目预览图](https://opengraph.githubassets.com/1/claude-code-best/claude-code)
-
-📝 **项目描述**: 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
-
-⭐ **获得 Star**: 13,613
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2026-03-31
-
-👤 **作者**: [claude-code-best](https://github.com/claude-code-best)
-
-🔄 **Fork 数量**: 13,895
-
-⚠️ **未解决 Issues**: 14
-
----
-
-## 4. [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
-
-![项目预览图](https://opengraph.githubassets.com/1/openai/codex-plugin-cc)
-
-📝 **项目描述**: Use Codex from Claude Code to review code or delegate tasks.
-
-⭐ **获得 Star**: 11,667
+⭐ **获得 Star**: 3,206
 
 💻 **主要编程语言**: JavaScript
 
-📅 **创建时间**: 2026-03-30
+📅 **创建时间**: 2026-04-06
 
-👤 **作者**: [openai](https://github.com/openai)
+👤 **作者**: [xixu-me](https://github.com/xixu-me)
 
-🔄 **Fork 数量**: 611
+🔄 **Fork 数量**: 361
 
-⚠️ **未解决 Issues**: 98
-
----
-
-## 5. [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
-
-![项目预览图](https://opengraph.githubassets.com/1/sanbuphy/learn-coding-agent)
-
-📝 **项目描述**: Research on Coding Agents
-
-⭐ **获得 Star**: 11,270
-
-📅 **创建时间**: 2026-03-31
-
-👤 **作者**: [sanbuphy](https://github.com/sanbuphy)
-
-🔄 **Fork 数量**: 19,636
-
-⚠️ **未解决 Issues**: 57
+⚠️ **未解决 Issues**: 1
 
 ---
 
-## 6. [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+## 3. [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
 
-![项目预览图](https://opengraph.githubassets.com/1/VoltAgent/awesome-design-md)
+![项目预览图](https://opengraph.githubassets.com/1/alchaincyf/hermes-agent-orange-book)
 
-📝 **项目描述**: Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
+📝 **项目描述**: Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
-⭐ **获得 Star**: 8,835
+⭐ **获得 Star**: 1,907
 
-💻 **主要编程语言**: HTML
+📅 **创建时间**: 2026-04-08
 
-📅 **创建时间**: 2026-03-31
+👤 **作者**: [alchaincyf](https://github.com/alchaincyf)
 
-👤 **作者**: [VoltAgent](https://github.com/VoltAgent)
+🔄 **Fork 数量**: 208
 
-🔄 **Fork 数量**: 1,116
-
-⚠️ **未解决 Issues**: 44
+⚠️ **未解决 Issues**: 2
 
 ---
 
-## 7. [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
+## 4. [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)
 
-![项目预览图](https://opengraph.githubassets.com/1/ChinaSiro/claude-code-sourcemap)
+![项目预览图](https://opengraph.githubassets.com/1/KKKKhazix/khazix-skills)
 
-⭐ **获得 Star**: 8,382
+📝 **项目描述**: 数字生命卡兹克开源的 AI Skills 合集
 
-💻 **主要编程语言**: TypeScript
+⭐ **获得 Star**: 1,605
 
-📅 **创建时间**: 2026-03-31
+📅 **创建时间**: 2026-04-06
 
-👤 **作者**: [ChinaSiro](https://github.com/ChinaSiro)
+👤 **作者**: [KKKKhazix](https://github.com/KKKKhazix)
 
-🔄 **Fork 数量**: 14,031
+🔄 **Fork 数量**: 339
 
-⚠️ **未解决 Issues**: 10
-
----
-
-## 8. [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
-
-![项目预览图](https://opengraph.githubassets.com/1/Kuberwastaken/claurst)
-
-📝 **项目描述**: Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
-
-⭐ **获得 Star**: 8,069
-
-💻 **主要编程语言**: Rust
-
-📅 **创建时间**: 2026-03-31
-
-👤 **作者**: [Kuberwastaken](https://github.com/Kuberwastaken)
-
-🔄 **Fork 数量**: 7,510
-
-⚠️ **未解决 Issues**: 13
+⚠️ **未解决 Issues**: 3
 
 ---
 
-## 9. [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
+## 5. [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal)
 
-![项目预览图](https://opengraph.githubassets.com/1/titanwings/colleague-skill)
+![项目预览图](https://opengraph.githubassets.com/1/mattmireles/gemma-tuner-multimodal)
 
-📝 **项目描述**: 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
+📝 **项目描述**: Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.
 
-⭐ **获得 Star**: 7,242
+⭐ **获得 Star**: 1,197
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2026-03-30
+📅 **创建时间**: 2026-04-07
 
-👤 **作者**: [titanwings](https://github.com/titanwings)
+👤 **作者**: [mattmireles](https://github.com/mattmireles)
 
-🔄 **Fork 数量**: 513
+🔄 **Fork 数量**: 76
 
-⚠️ **未解决 Issues**: 58
+⚠️ **未解决 Issues**: 0
 
 ---
 
-## 10. [emdash-cms/emdash](https://github.com/emdash-cms/emdash)
+## 6. [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)
 
-![项目预览图](https://opengraph.githubassets.com/1/emdash-cms/emdash)
+![项目预览图](https://opengraph.githubassets.com/1/yizhiyanhua-ai/fireworks-tech-graph)
 
-📝 **项目描述**: EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
+📝 **项目描述**: Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
 
-⭐ **获得 Star**: 7,068
+⭐ **获得 Star**: 1,057
+
+💻 **主要编程语言**: Shell
+
+📅 **创建时间**: 2026-04-10
+
+👤 **作者**: [yizhiyanhua-ai](https://github.com/yizhiyanhua-ai)
+
+🔄 **Fork 数量**: 80
+
+⚠️ **未解决 Issues**: 4
+
+---
+
+## 7. [phuryn/claude-usage](https://github.com/phuryn/claude-usage)
+
+![项目预览图](https://opengraph.githubassets.com/1/phuryn/claude-usage)
+
+📝 **项目描述**: A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.
+
+⭐ **获得 Star**: 856
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-04-07
+
+👤 **作者**: [phuryn](https://github.com/phuryn)
+
+🔄 **Fork 数量**: 120
+
+⚠️ **未解决 Issues**: 9
+
+---
+
+## 8. [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland)
+
+![项目预览图](https://opengraph.githubassets.com/1/wxtsky/CodeIsland)
+
+⭐ **获得 Star**: 840
+
+💻 **主要编程语言**: Swift
+
+📅 **创建时间**: 2026-04-06
+
+👤 **作者**: [wxtsky](https://github.com/wxtsky)
+
+🔄 **Fork 数量**: 97
+
+⚠️ **未解决 Issues**: 4
+
+---
+
+## 9. [adamlyttleapps/claude-skill-app-onboarding-questionnaire](https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire)
+
+![项目预览图](https://opengraph.githubassets.com/1/adamlyttleapps/claude-skill-app-onboarding-questionnaire)
+
+📝 **项目描述**:  A Claude Code skill that designs and builds high-converting questionnaire-style app onboarding flows — modelled    on proven conversion patterns from top subscription apps like Mob, Headspace and Noom
+
+⭐ **获得 Star**: 742
+
+📅 **创建时间**: 2026-04-06
+
+👤 **作者**: [adamlyttleapps](https://github.com/adamlyttleapps)
+
+🔄 **Fork 数量**: 90
+
+⚠️ **未解决 Issues**: 3
+
+---
+
+## 10. [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
+
+![项目预览图](https://opengraph.githubassets.com/1/nashsu/llm_wiki)
+
+📝 **项目描述**: LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+
+⭐ **获得 Star**: 728
 
 💻 **主要编程语言**: TypeScript
 
-📅 **创建时间**: 2026-04-01
+📅 **创建时间**: 2026-04-08
 
-👤 **作者**: [emdash-cms](https://github.com/emdash-cms)
+👤 **作者**: [nashsu](https://github.com/nashsu)
 
-🔄 **Fork 数量**: 493
+🔄 **Fork 数量**: 91
 
-⚠️ **未解决 Issues**: 142
+⚠️ **未解决 Issues**: 6
 
 ---
 
@@ -219,7 +213,7 @@
 
 📝 **项目描述**: The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-⭐ **获得 Star**: 167,590
+⭐ **获得 Star**: 181,648
 
 💻 **主要编程语言**: Rust
 
@@ -227,117 +221,97 @@
 
 👤 **作者**: [ultraworkers](https://github.com/ultraworkers)
 
-🔄 **Fork 数量**: 101,920
+🔄 **Fork 数量**: 107,249
 
 ⚠️ **未解决 Issues**: 1,413
 
 ---
 
-## 2. [garrytan/gstack](https://github.com/garrytan/gstack)
+## 2. [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 
-![项目预览图](https://opengraph.githubassets.com/1/garrytan/gstack)
+![项目预览图](https://opengraph.githubassets.com/1/VoltAgent/awesome-design-md)
 
-📝 **项目描述**: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+📝 **项目描述**: A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-⭐ **获得 Star**: 64,070
+⭐ **获得 Star**: 44,003
 
-💻 **主要编程语言**: TypeScript
+📅 **创建时间**: 2026-03-31
 
-📅 **创建时间**: 2026-03-11
+👤 **作者**: [VoltAgent](https://github.com/VoltAgent)
 
-👤 **作者**: [garrytan](https://github.com/garrytan)
+🔄 **Fork 数量**: 5,490
 
-🔄 **Fork 数量**: 8,685
-
-⚠️ **未解决 Issues**: 321
+⚠️ **未解决 Issues**: 256
 
 ---
 
-## 3. [chenglou/pretext](https://github.com/chenglou/pretext)
+## 3. [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
 
-![项目预览图](https://opengraph.githubassets.com/1/chenglou/pretext)
+![项目预览图](https://opengraph.githubassets.com/1/MemPalace/mempalace)
 
-⭐ **获得 Star**: 38,822
+📝 **项目描述**: The highest-scoring AI memory system ever benchmarked. And it's free.
 
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2026-03-07
-
-👤 **作者**: [chenglou](https://github.com/chenglou)
-
-🔄 **Fork 数量**: 2,045
-
-⚠️ **未解决 Issues**: 60
-
----
-
-## 4. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-
-![项目预览图](https://opengraph.githubassets.com/1/HKUDS/CLI-Anything)
-
-📝 **项目描述**: "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-
-⭐ **获得 Star**: 28,085
+⭐ **获得 Star**: 41,910
 
 💻 **主要编程语言**: Python
 
-📅 **创建时间**: 2026-03-08
+📅 **创建时间**: 2026-04-05
 
-👤 **作者**: [HKUDS](https://github.com/HKUDS)
+👤 **作者**: [MemPalace](https://github.com/MemPalace)
 
-🔄 **Fork 数量**: 2,651
+🔄 **Fork 数量**: 5,359
 
-⚠️ **未解决 Issues**: 72
+⚠️ **未解决 Issues**: 388
 
 ---
 
-## 5. [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)
+## 4. [santifer/career-ops](https://github.com/santifer/career-ops)
 
-![项目预览图](https://opengraph.githubassets.com/1/NVIDIA/NemoClaw)
+![项目预览图](https://opengraph.githubassets.com/1/santifer/career-ops)
 
-📝 **项目描述**: Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
+📝 **项目描述**: AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-⭐ **获得 Star**: 18,466
+⭐ **获得 Star**: 30,793
 
 💻 **主要编程语言**: JavaScript
 
-📅 **创建时间**: 2026-03-15
+📅 **创建时间**: 2026-04-04
 
-👤 **作者**: [NVIDIA](https://github.com/NVIDIA)
+👤 **作者**: [santifer](https://github.com/santifer)
 
-🔄 **Fork 数量**: 2,205
+🔄 **Fork 数量**: 6,004
 
-⚠️ **未解决 Issues**: 550
-
----
-
-## 6. [tanweai/pua](https://github.com/tanweai/pua)
-
-![项目预览图](https://opengraph.githubassets.com/1/tanweai/pua)
-
-📝 **项目描述**: 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
-
-⭐ **获得 Star**: 15,066
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2026-03-08
-
-👤 **作者**: [tanweai](https://github.com/tanweai)
-
-🔄 **Fork 数量**: 836
-
-⚠️ **未解决 Issues**: 23
+⚠️ **未解决 Issues**: 63
 
 ---
 
-## 7. [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+## 5. [safishamsi/graphify](https://github.com/safishamsi/graphify)
+
+![项目预览图](https://opengraph.githubassets.com/1/safishamsi/graphify)
+
+📝 **项目描述**: AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable knowledge graph
+
+⭐ **获得 Star**: 22,246
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-04-03
+
+👤 **作者**: [safishamsi](https://github.com/safishamsi)
+
+🔄 **Fork 数量**: 2,317
+
+⚠️ **未解决 Issues**: 83
+
+---
+
+## 6. [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
 
 ![项目预览图](https://opengraph.githubassets.com/1/Gitlawb/openclaude)
 
 📝 **项目描述**: Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-⭐ **获得 Star**: 14,855
+⭐ **获得 Star**: 20,710
 
 💻 **主要编程语言**: TypeScript
 
@@ -345,29 +319,49 @@
 
 👤 **作者**: [Gitlawb](https://github.com/Gitlawb)
 
-🔄 **Fork 数量**: 5,170
+🔄 **Fork 数量**: 7,220
 
-⚠️ **未解决 Issues**: 88
+⚠️ **未解决 Issues**: 112
 
 ---
 
-## 8. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+## 7. [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)
 
-![项目预览图](https://opengraph.githubassets.com/1/THU-MAIC/OpenMAIC)
+![项目预览图](https://opengraph.githubassets.com/1/NVIDIA/NemoClaw)
 
-📝 **项目描述**: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+📝 **项目描述**: Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-⭐ **获得 Star**: 13,806
+⭐ **获得 Star**: 18,975
 
 💻 **主要编程语言**: TypeScript
 
-📅 **创建时间**: 2026-03-11
+📅 **创建时间**: 2026-03-15
 
-👤 **作者**: [THU-MAIC](https://github.com/THU-MAIC)
+👤 **作者**: [NVIDIA](https://github.com/NVIDIA)
 
-🔄 **Fork 数量**: 2,365
+🔄 **Fork 数量**: 2,322
 
-⚠️ **未解决 Issues**: 136
+⚠️ **未解决 Issues**: 492
+
+---
+
+## 8. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+
+![项目预览图](https://opengraph.githubassets.com/1/JuliusBrussee/caveman)
+
+📝 **项目描述**: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+
+⭐ **获得 Star**: 18,796
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-04-04
+
+👤 **作者**: [JuliusBrussee](https://github.com/JuliusBrussee)
+
+🔄 **Fork 数量**: 858
+
+⚠️ **未解决 Issues**: 38
 
 ---
 
@@ -377,7 +371,7 @@
 
 📝 **项目描述**: 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
-⭐ **获得 Star**: 13,613
+⭐ **获得 Star**: 15,423
 
 💻 **主要编程语言**: TypeScript
 
@@ -385,29 +379,29 @@
 
 👤 **作者**: [claude-code-best](https://github.com/claude-code-best)
 
-🔄 **Fork 数量**: 13,895
+🔄 **Fork 数量**: 14,892
 
-⚠️ **未解决 Issues**: 14
+⚠️ **未解决 Issues**: 19
 
 ---
 
-## 10. [jackwener/opencli](https://github.com/jackwener/opencli)
+## 10. [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)
 
-![项目预览图](https://opengraph.githubassets.com/1/jackwener/opencli)
+![项目预览图](https://opengraph.githubassets.com/1/jackwener/OpenCLI)
 
 📝 **项目描述**: Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
 
-⭐ **获得 Star**: 13,058
+⭐ **获得 Star**: 15,144
 
-💻 **主要编程语言**: TypeScript
+💻 **主要编程语言**: JavaScript
 
 📅 **创建时间**: 2026-03-14
 
 👤 **作者**: [jackwener](https://github.com/jackwener)
 
-🔄 **Fork 数量**: 1,166
+🔄 **Fork 数量**: 1,442
 
-⚠️ **未解决 Issues**: 78
+⚠️ **未解决 Issues**: 92
 
 ---
 
@@ -419,7 +413,7 @@
 
 📝 **项目描述**: The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-⭐ **获得 Star**: 167,590
+⭐ **获得 Star**: 181,648
 
 💻 **主要编程语言**: Rust
 
@@ -427,7 +421,7 @@
 
 👤 **作者**: [ultraworkers](https://github.com/ultraworkers)
 
-🔄 **Fork 数量**: 101,920
+🔄 **Fork 数量**: 107,249
 
 ⚠️ **未解决 Issues**: 1,413
 
@@ -439,7 +433,7 @@
 
 📝 **项目描述**: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-⭐ **获得 Star**: 138,096
+⭐ **获得 Star**: 151,467
 
 💻 **主要编程语言**: JavaScript
 
@@ -447,9 +441,9 @@
 
 👤 **作者**: [affaan-m](https://github.com/affaan-m)
 
-🔄 **Fork 数量**: 20,555
+🔄 **Fork 数量**: 23,485
 
-⚠️ **未解决 Issues**: 99
+⚠️ **未解决 Issues**: 68
 
 ---
 
@@ -459,7 +453,7 @@
 
 📝 **项目描述**: AI agents running research on single-GPU nanochat training automatically
 
-⭐ **获得 Star**: 65,747
+⭐ **获得 Star**: 70,573
 
 💻 **主要编程语言**: Python
 
@@ -467,9 +461,9 @@
 
 👤 **作者**: [karpathy](https://github.com/karpathy)
 
-🔄 **Fork 数量**: 9,402
+🔄 **Fork 数量**: 10,294
 
-⚠️ **未解决 Issues**: 171
+⚠️ **未解决 Issues**: 179
 
 ---
 
@@ -479,7 +473,7 @@
 
 📝 **项目描述**: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-⭐ **获得 Star**: 64,070
+⭐ **获得 Star**: 69,983
 
 💻 **主要编程语言**: TypeScript
 
@@ -487,9 +481,9 @@
 
 👤 **作者**: [garrytan](https://github.com/garrytan)
 
-🔄 **Fork 数量**: 8,685
+🔄 **Fork 数量**: 9,822
 
-⚠️ **未解决 Issues**: 321
+⚠️ **未解决 Issues**: 342
 
 ---
 
@@ -499,7 +493,7 @@
 
 📝 **项目描述**: Open-source orchestration for zero-human companies
 
-⭐ **获得 Star**: 47,095
+⭐ **获得 Star**: 51,832
 
 💻 **主要编程语言**: TypeScript
 
@@ -507,47 +501,45 @@
 
 👤 **作者**: [paperclipai](https://github.com/paperclipai)
 
-🔄 **Fork 数量**: 7,536
+🔄 **Fork 数量**: 8,652
 
-⚠️ **未解决 Issues**: 1,737
-
----
-
-## 6. [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
-
-![项目预览图](https://opengraph.githubassets.com/1/koala73/worldmonitor)
-
-📝 **项目描述**: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-
-⭐ **获得 Star**: 46,601
-
-💻 **主要编程语言**: TypeScript
-
-📅 **创建时间**: 2026-01-08
-
-👤 **作者**: [koala73](https://github.com/koala73)
-
-🔄 **Fork 数量**: 7,507
-
-⚠️ **未解决 Issues**: 92
+⚠️ **未解决 Issues**: 2,091
 
 ---
 
-## 7. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
+## 6. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
 
 ![项目预览图](https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills)
 
 📝 **项目描述**: The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 
-⭐ **获得 Star**: 44,274
+⭐ **获得 Star**: 45,618
 
 📅 **创建时间**: 2026-01-25
 
 👤 **作者**: [VoltAgent](https://github.com/VoltAgent)
 
-🔄 **Fork 数量**: 4,270
+🔄 **Fork 数量**: 4,430
 
-⚠️ **未解决 Issues**: 3
+⚠️ **未解决 Issues**: 26
+
+---
+
+## 7. [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+
+![项目预览图](https://opengraph.githubassets.com/1/VoltAgent/awesome-design-md)
+
+📝 **项目描述**: A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+
+⭐ **获得 Star**: 44,003
+
+📅 **创建时间**: 2026-03-31
+
+👤 **作者**: [VoltAgent](https://github.com/VoltAgent)
+
+🔄 **Fork 数量**: 5,490
+
+⚠️ **未解决 Issues**: 256
 
 ---
 
@@ -555,7 +547,9 @@
 
 ![项目预览图](https://opengraph.githubassets.com/1/chenglou/pretext)
 
-⭐ **获得 Star**: 38,822
+📝 **项目描述**: Fast, accurate & comprehensive text measurement & layout
+
+⭐ **获得 Star**: 43,016
 
 💻 **主要编程语言**: TypeScript
 
@@ -563,19 +557,39 @@
 
 👤 **作者**: [chenglou](https://github.com/chenglou)
 
-🔄 **Fork 数量**: 2,045
+🔄 **Fork 数量**: 2,326
 
-⚠️ **未解决 Issues**: 60
+⚠️ **未解决 Issues**: 66
 
 ---
 
-## 9. [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+## 9. [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+
+![项目预览图](https://opengraph.githubassets.com/1/MemPalace/mempalace)
+
+📝 **项目描述**: The highest-scoring AI memory system ever benchmarked. And it's free.
+
+⭐ **获得 Star**: 41,910
+
+💻 **主要编程语言**: Python
+
+📅 **创建时间**: 2026-04-05
+
+👤 **作者**: [MemPalace](https://github.com/MemPalace)
+
+🔄 **Fork 数量**: 5,359
+
+⚠️ **未解决 Issues**: 388
+
+---
+
+## 10. [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
 
 ![项目预览图](https://opengraph.githubassets.com/1/HKUDS/nanobot)
 
-📝 **项目描述**: "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
+📝 **项目描述**: "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 
-⭐ **获得 Star**: 37,953
+⭐ **获得 Star**: 39,089
 
 💻 **主要编程语言**: Python
 
@@ -583,29 +597,9 @@
 
 👤 **作者**: [HKUDS](https://github.com/HKUDS)
 
-🔄 **Fork 数量**: 6,594
+🔄 **Fork 数量**: 6,830
 
-⚠️ **未解决 Issues**: 927
-
----
-
-## 10. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
-
-![项目预览图](https://opengraph.githubassets.com/1/sickn33/antigravity-awesome-skills)
-
-📝 **项目描述**: Installable GitHub library of 1,340+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
-
-⭐ **获得 Star**: 30,657
-
-💻 **主要编程语言**: Python
-
-📅 **创建时间**: 2026-01-14
-
-👤 **作者**: [sickn33](https://github.com/sickn33)
-
-🔄 **Fork 数量**: 5,123
-
-⚠️ **未解决 Issues**: 0
+⚠️ **未解决 Issues**: 946
 
 ---
 
@@ -617,7 +611,7 @@
 
 📝 **项目描述**: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-⭐ **获得 Star**: 348,193
+⭐ **获得 Star**: 355,048
 
 💻 **主要编程语言**: TypeScript
 
@@ -625,9 +619,9 @@
 
 👤 **作者**: [openclaw](https://github.com/openclaw)
 
-🔄 **Fork 数量**: 69,598
+🔄 **Fork 数量**: 71,816
 
-⚠️ **未解决 Issues**: 17,146
+⚠️ **未解决 Issues**: 18,370
 
 ---
 
@@ -637,7 +631,7 @@
 
 📝 **项目描述**: The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
-⭐ **获得 Star**: 167,590
+⭐ **获得 Star**: 181,648
 
 💻 **主要编程语言**: Rust
 
@@ -645,7 +639,7 @@
 
 👤 **作者**: [ultraworkers](https://github.com/ultraworkers)
 
-🔄 **Fork 数量**: 101,920
+🔄 **Fork 数量**: 107,249
 
 ⚠️ **未解决 Issues**: 1,413
 
@@ -657,7 +651,7 @@
 
 📝 **项目描述**: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-⭐ **获得 Star**: 138,096
+⭐ **获得 Star**: 151,467
 
 💻 **主要编程语言**: JavaScript
 
@@ -665,9 +659,9 @@
 
 👤 **作者**: [affaan-m](https://github.com/affaan-m)
 
-🔄 **Fork 数量**: 20,555
+🔄 **Fork 数量**: 23,485
 
-⚠️ **未解决 Issues**: 99
+⚠️ **未解决 Issues**: 68
 
 ---
 

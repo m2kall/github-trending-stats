@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ultraworkers/claw-code",
+    "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+    "stars": 181648,
+    "language": "Rust",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "created_at": "2026-03-31T08:58:08Z",
+    "owner": {
+      "login": "ultraworkers",
+      "url": "https://github.com/ultraworkers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
+    },
+    "forks": 107249,
+    "issues": 1413,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ultraworkers/claw-code"
+  },
+  {
+    "name": "VoltAgent/awesome-design-md",
+    "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "stars": 44003,
+    "language": null,
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "created_at": "2026-03-31T16:37:01Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 5490,
+    "issues": 256,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-design-md"
+  },
+  {
+    "name": "MemPalace/mempalace",
+    "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+    "stars": 41910,
+    "language": "Python",
+    "url": "https://github.com/MemPalace/mempalace",
+    "created_at": "2026-04-05T01:12:07Z",
+    "owner": {
+      "login": "MemPalace",
+      "url": "https://github.com/MemPalace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275135684?v=4"
+    },
+    "forks": 5359,
+    "issues": 388,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MemPalace/mempalace"
+  },
+  {
+    "name": "santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "stars": 30793,
+    "language": "JavaScript",
+    "url": "https://github.com/santifer/career-ops",
+    "created_at": "2026-04-04T18:21:18Z",
+    "owner": {
+      "login": "santifer",
+      "url": "https://github.com/santifer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256850418?v=4"
+    },
+    "forks": 6004,
+    "issues": 63,
+    "social_preview_url": "https://opengraph.githubassets.com/1/santifer/career-ops"
+  },
+  {
+    "name": "safishamsi/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable knowledge graph",
+    "stars": 22246,
+    "language": "Python",
+    "url": "https://github.com/safishamsi/graphify",
+    "created_at": "2026-04-03T15:49:07Z",
+    "owner": {
+      "login": "safishamsi",
+      "url": "https://github.com/safishamsi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216348667?v=4"
+    },
+    "forks": 2317,
+    "issues": 83,
+    "social_preview_url": "https://opengraph.githubassets.com/1/safishamsi/graphify"
+  },
+  {
+    "name": "Gitlawb/openclaude",
+    "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
+    "stars": 20710,
+    "language": "TypeScript",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "created_at": "2026-04-01T03:15:49Z",
+    "owner": {
+      "login": "Gitlawb",
+      "url": "https://github.com/Gitlawb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268502891?v=4"
+    },
+    "forks": 7220,
+    "issues": 112,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Gitlawb/openclaude"
+  },
+  {
+    "name": "NVIDIA/NemoClaw",
+    "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+    "stars": 18975,
+    "language": "TypeScript",
+    "url": "https://github.com/NVIDIA/NemoClaw",
+    "created_at": "2026-03-15T17:04:09Z",
+    "owner": {
+      "login": "NVIDIA",
+      "url": "https://github.com/NVIDIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
+    },
+    "forks": 2322,
+    "issues": 492,
+    "social_preview_url": "https://opengraph.githubassets.com/1/NVIDIA/NemoClaw"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "stars": 18796,
+    "language": "Python",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "created_at": "2026-04-04T10:03:00Z",
+    "owner": {
+      "login": "JuliusBrussee",
+      "url": "https://github.com/JuliusBrussee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104168679?v=4"
+    },
+    "forks": 858,
+    "issues": 38,
+    "social_preview_url": "https://opengraph.githubassets.com/1/JuliusBrussee/caveman"
+  },
+  {
+    "name": "claude-code-best/claude-code",
+    "description": "原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动",
+    "stars": 15423,
+    "language": "TypeScript",
+    "url": "https://github.com/claude-code-best/claude-code",
+    "created_at": "2026-03-31T13:33:21Z",
+    "owner": {
+      "login": "claude-code-best",
+      "url": "https://github.com/claude-code-best",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272536312?v=4"
+    },
+    "forks": 14892,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/claude-code-best/claude-code"
+  },
+  {
+    "name": "jackwener/OpenCLI",
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "stars": 15144,
+    "language": "JavaScript",
+    "url": "https://github.com/jackwener/OpenCLI",
+    "created_at": "2026-03-14T22:10:23Z",
+    "owner": {
+      "login": "jackwener",
+      "url": "https://github.com/jackwener",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
+    },
+    "forks": 1442,
+    "issues": 92,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jackwener/OpenCLI"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "farzaa/clicky",
+    "description": null,
+    "stars": 3790,
+    "language": "Swift",
+    "url": "https://github.com/farzaa/clicky",
+    "created_at": "2026-04-07T05:12:51Z",
+    "owner": {
+      "login": "farzaa",
+      "url": "https://github.com/farzaa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15614124?v=4"
+    },
+    "forks": 669,
+    "issues": 41,
+    "social_preview_url": "https://opengraph.githubassets.com/1/farzaa/clicky"
+  },
+  {
+    "name": "xixu-me/awesome-persona-distill-skills",
+    "description": "同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
+    "stars": 3206,
+    "language": "JavaScript",
+    "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
+    "created_at": "2026-04-06T20:02:21Z",
+    "owner": {
+      "login": "xixu-me",
+      "url": "https://github.com/xixu-me",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109734945?v=4"
+    },
+    "forks": 361,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/xixu-me/awesome-persona-distill-skills"
+  },
+  {
+    "name": "alchaincyf/hermes-agent-orange-book",
+    "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
+    "stars": 1907,
+    "language": null,
+    "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+    "created_at": "2026-04-08T02:49:02Z",
+    "owner": {
+      "login": "alchaincyf",
+      "url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "forks": 208,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/alchaincyf/hermes-agent-orange-book"
+  },
+  {
+    "name": "KKKKhazix/khazix-skills",
+    "description": "数字生命卡兹克开源的 AI Skills 合集",
+    "stars": 1605,
+    "language": null,
+    "url": "https://github.com/KKKKhazix/khazix-skills",
+    "created_at": "2026-04-06T07:37:02Z",
+    "owner": {
+      "login": "KKKKhazix",
+      "url": "https://github.com/KKKKhazix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
+    },
+    "forks": 339,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/KKKKhazix/khazix-skills"
+  },
+  {
+    "name": "mattmireles/gemma-tuner-multimodal",
+    "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
+    "stars": 1197,
+    "language": "Python",
+    "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+    "created_at": "2026-04-07T05:14:58Z",
+    "owner": {
+      "login": "mattmireles",
+      "url": "https://github.com/mattmireles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4949789?v=4"
+    },
+    "forks": 76,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mattmireles/gemma-tuner-multimodal"
+  },
+  {
+    "name": "yizhiyanhua-ai/fireworks-tech-graph",
+    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
+    "stars": 1057,
+    "language": "Shell",
+    "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+    "created_at": "2026-04-10T15:07:10Z",
+    "owner": {
+      "login": "yizhiyanhua-ai",
+      "url": "https://github.com/yizhiyanhua-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
+    },
+    "forks": 80,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yizhiyanhua-ai/fireworks-tech-graph"
+  },
+  {
+    "name": "phuryn/claude-usage",
+    "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.",
+    "stars": 856,
+    "language": "Python",
+    "url": "https://github.com/phuryn/claude-usage",
+    "created_at": "2026-04-07T18:49:32Z",
+    "owner": {
+      "login": "phuryn",
+      "url": "https://github.com/phuryn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
+    },
+    "forks": 120,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/phuryn/claude-usage"
+  },
+  {
+    "name": "wxtsky/CodeIsland",
+    "description": null,
+    "stars": 840,
+    "language": "Swift",
+    "url": "https://github.com/wxtsky/CodeIsland",
+    "created_at": "2026-04-06T06:29:27Z",
+    "owner": {
+      "login": "wxtsky",
+      "url": "https://github.com/wxtsky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79189721?v=4"
+    },
+    "forks": 97,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/wxtsky/CodeIsland"
+  },
+  {
+    "name": "adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+    "description": " A Claude Code skill that designs and builds high-converting questionnaire-style app onboarding flows — modelled    on proven conversion patterns from top subscription apps like Mob, Headspace and Noom",
+    "stars": 742,
+    "language": null,
+    "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+    "created_at": "2026-04-06T11:00:14Z",
+    "owner": {
+      "login": "adamlyttleapps",
+      "url": "https://github.com/adamlyttleapps",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40189502?v=4"
+    },
+    "forks": 90,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/adamlyttleapps/claude-skill-app-onboarding-questionnaire"
+  },
+  {
+    "name": "nashsu/llm_wiki",
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+    "stars": 728,
+    "language": "TypeScript",
+    "url": "https://github.com/nashsu/llm_wiki",
+    "created_at": "2026-04-08T11:24:01Z",
+    "owner": {
+      "login": "nashsu",
+      "url": "https://github.com/nashsu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
+    },
+    "forks": 91,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nashsu/llm_wiki"
+  }
+]
