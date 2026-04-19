@@ -1,0 +1,162 @@
+[
+  {
+    "name": "getagentseal/codeburn",
+    "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+    "stars": 2726,
+    "language": "TypeScript",
+    "url": "https://github.com/getagentseal/codeburn",
+    "created_at": "2026-04-13T22:11:53Z",
+    "owner": {
+      "login": "getagentseal",
+      "url": "https://github.com/getagentseal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277308000?v=4"
+    },
+    "forks": 192,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/getagentseal/codeburn"
+  },
+  {
+    "name": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "stars": 1979,
+    "language": "Python",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "created_at": "2026-04-15T17:59:48Z",
+    "owner": {
+      "login": "Robbyant",
+      "url": "https://github.com/Robbyant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
+    },
+    "forks": 145,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Robbyant/lingbot-map"
+  },
+  {
+    "name": "vercel-labs/wterm",
+    "description": "A terminal emulator for the web",
+    "stars": 1633,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel-labs/wterm",
+    "created_at": "2026-04-14T14:52:44Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 53,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/wterm"
+  },
+  {
+    "name": "Nightmare-Eclipse/RedSun",
+    "description": "The Red Sun vulnerability repository",
+    "stars": 1507,
+    "language": "C++",
+    "url": "https://github.com/Nightmare-Eclipse/RedSun",
+    "created_at": "2026-04-15T21:37:07Z",
+    "owner": {
+      "login": "Nightmare-Eclipse",
+      "url": "https://github.com/Nightmare-Eclipse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
+    },
+    "forks": 326,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Nightmare-Eclipse/RedSun"
+  },
+  {
+    "name": "alchaincyf/darwin-skill",
+    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
+    "stars": 1201,
+    "language": "HTML",
+    "url": "https://github.com/alchaincyf/darwin-skill",
+    "created_at": "2026-04-13T08:57:49Z",
+    "owner": {
+      "login": "alchaincyf",
+      "url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "forks": 143,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/alchaincyf/darwin-skill"
+  },
+  {
+    "name": "lewislulu/html-ppt-skill",
+    "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
+    "stars": 1165,
+    "language": "HTML",
+    "url": "https://github.com/lewislulu/html-ppt-skill",
+    "created_at": "2026-04-15T07:36:22Z",
+    "owner": {
+      "login": "lewislulu",
+      "url": "https://github.com/lewislulu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155287332?v=4"
+    },
+    "forks": 129,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lewislulu/html-ppt-skill"
+  },
+  {
+    "name": "Manavarya09/design-extract",
+    "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
+    "stars": 1013,
+    "language": "JavaScript",
+    "url": "https://github.com/Manavarya09/design-extract",
+    "created_at": "2026-04-15T10:11:22Z",
+    "owner": {
+      "login": "Manavarya09",
+      "url": "https://github.com/Manavarya09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
+    },
+    "forks": 81,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Manavarya09/design-extract"
+  },
+  {
+    "name": "BuilderPulse/BuilderPulse",
+    "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+    "stars": 934,
+    "language": null,
+    "url": "https://github.com/BuilderPulse/BuilderPulse",
+    "created_at": "2026-04-14T11:48:05Z",
+    "owner": {
+      "login": "BuilderPulse",
+      "url": "https://github.com/BuilderPulse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275986651?v=4"
+    },
+    "forks": 66,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/BuilderPulse/BuilderPulse"
+  },
+  {
+    "name": "sogonov/anubis",
+    "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
+    "stars": 915,
+    "language": "Kotlin",
+    "url": "https://github.com/sogonov/anubis",
+    "created_at": "2026-04-13T03:41:38Z",
+    "owner": {
+      "login": "sogonov",
+      "url": "https://github.com/sogonov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111385605?v=4"
+    },
+    "forks": 26,
+    "issues": 43,
+    "social_preview_url": "https://opengraph.githubassets.com/1/sogonov/anubis"
+  },
+  {
+    "name": "WeaveMindAI/weft",
+    "description": "A programming language for AI systems",
+    "stars": 837,
+    "language": "Rust",
+    "url": "https://github.com/WeaveMindAI/weft",
+    "created_at": "2026-04-15T04:09:40Z",
+    "owner": {
+      "login": "WeaveMindAI",
+      "url": "https://github.com/WeaveMindAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234981286?v=4"
+    },
+    "forks": 113,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/WeaveMindAI/weft"
+  }
+]
