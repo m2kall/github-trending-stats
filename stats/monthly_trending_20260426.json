@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ultraworkers/claw-code",
+    "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+    "stars": 188382,
+    "language": "Rust",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "created_at": "2026-03-31T08:58:08Z",
+    "owner": {
+      "login": "ultraworkers",
+      "url": "https://github.com/ultraworkers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
+    },
+    "forks": 109355,
+    "issues": 1425,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ultraworkers/claw-code"
+  },
+  {
+    "name": "VoltAgent/awesome-design-md",
+    "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "stars": 65495,
+    "language": null,
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "created_at": "2026-03-31T16:37:01Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 8084,
+    "issues": 277,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-design-md"
+  },
+  {
+    "name": "MemPalace/mempalace",
+    "description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "stars": 49668,
+    "language": "Python",
+    "url": "https://github.com/MemPalace/mempalace",
+    "created_at": "2026-04-05T01:12:07Z",
+    "owner": {
+      "login": "MemPalace",
+      "url": "https://github.com/MemPalace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275135684?v=4"
+    },
+    "forks": 6511,
+    "issues": 495,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MemPalace/mempalace"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "stars": 46587,
+    "language": "Python",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "created_at": "2026-04-04T10:03:00Z",
+    "owner": {
+      "login": "JuliusBrussee",
+      "url": "https://github.com/JuliusBrussee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104168679?v=4"
+    },
+    "forks": 2449,
+    "issues": 150,
+    "social_preview_url": "https://opengraph.githubassets.com/1/JuliusBrussee/caveman"
+  },
+  {
+    "name": "santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "stars": 39686,
+    "language": "JavaScript",
+    "url": "https://github.com/santifer/career-ops",
+    "created_at": "2026-04-04T18:21:18Z",
+    "owner": {
+      "login": "santifer",
+      "url": "https://github.com/santifer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256850418?v=4"
+    },
+    "forks": 8130,
+    "issues": 133,
+    "social_preview_url": "https://opengraph.githubassets.com/1/santifer/career-ops"
+  },
+  {
+    "name": "safishamsi/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
+    "stars": 34890,
+    "language": "Python",
+    "url": "https://github.com/safishamsi/graphify",
+    "created_at": "2026-04-03T15:49:07Z",
+    "owner": {
+      "login": "safishamsi",
+      "url": "https://github.com/safishamsi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216348667?v=4"
+    },
+    "forks": 3871,
+    "issues": 182,
+    "social_preview_url": "https://opengraph.githubassets.com/1/safishamsi/graphify"
+  },
+  {
+    "name": "Gitlawb/openclaude",
+    "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
+    "stars": 24394,
+    "language": "TypeScript",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "created_at": "2026-04-01T03:15:49Z",
+    "owner": {
+      "login": "Gitlawb",
+      "url": "https://github.com/Gitlawb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268502891?v=4"
+    },
+    "forks": 8022,
+    "issues": 178,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Gitlawb/openclaude"
+  },
+  {
+    "name": "claude-code-best/claude-code",
+    "description": "原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动",
+    "stars": 16926,
+    "language": "TypeScript",
+    "url": "https://github.com/claude-code-best/claude-code",
+    "created_at": "2026-03-31T13:33:21Z",
+    "owner": {
+      "login": "claude-code-best",
+      "url": "https://github.com/claude-code-best",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272536312?v=4"
+    },
+    "forks": 15433,
+    "issues": 22,
+    "social_preview_url": "https://opengraph.githubassets.com/1/claude-code-best/claude-code"
+  },
+  {
+    "name": "titanwings/colleague-skill",
+    "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+    "stars": 16590,
+    "language": "Python",
+    "url": "https://github.com/titanwings/colleague-skill",
+    "created_at": "2026-03-30T05:22:23Z",
+    "owner": {
+      "login": "titanwings",
+      "url": "https://github.com/titanwings",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85022018?v=4"
+    },
+    "forks": 1685,
+    "issues": 33,
+    "social_preview_url": "https://opengraph.githubassets.com/1/titanwings/colleague-skill"
+  },
+  {
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "stars": 16102,
+    "language": "JavaScript",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "created_at": "2026-03-30T15:29:52Z",
+    "owner": {
+      "login": "openai",
+      "url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "forks": 907,
+    "issues": 146,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openai/codex-plugin-cc"
+  }
+]

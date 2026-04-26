@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ultraworkers/claw-code",
+    "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+    "stars": 188382,
+    "language": "Rust",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "created_at": "2026-03-31T08:58:08Z",
+    "owner": {
+      "login": "ultraworkers",
+      "url": "https://github.com/ultraworkers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
+    },
+    "forks": 109355,
+    "issues": 1425,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ultraworkers/claw-code"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "stars": 88048,
+    "language": null,
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "created_at": "2026-01-27T03:53:13Z",
+    "owner": {
+      "login": "forrestchang",
+      "url": "https://github.com/forrestchang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7857126?v=4"
+    },
+    "forks": 8392,
+    "issues": 72,
+    "social_preview_url": "https://opengraph.githubassets.com/1/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "stars": 83390,
+    "language": "TypeScript",
+    "url": "https://github.com/garrytan/gstack",
+    "created_at": "2026-03-11T21:22:45Z",
+    "owner": {
+      "login": "garrytan",
+      "url": "https://github.com/garrytan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
+    },
+    "forks": 12162,
+    "issues": 446,
+    "social_preview_url": "https://opengraph.githubassets.com/1/garrytan/gstack"
+  },
+  {
+    "name": "karpathy/autoresearch",
+    "description": "AI agents running research on single-GPU nanochat training automatically",
+    "stars": 76631,
+    "language": "Python",
+    "url": "https://github.com/karpathy/autoresearch",
+    "created_at": "2026-03-06T22:00:43Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 11170,
+    "issues": 178,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/autoresearch"
+  },
+  {
+    "name": "VoltAgent/awesome-design-md",
+    "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "stars": 65495,
+    "language": null,
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "created_at": "2026-03-31T16:37:01Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 8084,
+    "issues": 277,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-design-md"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "Open-source orchestration for zero-human companies",
+    "stars": 58857,
+    "language": "TypeScript",
+    "url": "https://github.com/paperclipai/paperclip",
+    "created_at": "2026-03-02T15:01:51Z",
+    "owner": {
+      "login": "paperclipai",
+      "url": "https://github.com/paperclipai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
+    },
+    "forks": 10222,
+    "issues": 2776,
+    "social_preview_url": "https://opengraph.githubassets.com/1/paperclipai/paperclip"
+  },
+  {
+    "name": "MemPalace/mempalace",
+    "description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "stars": 49668,
+    "language": "Python",
+    "url": "https://github.com/MemPalace/mempalace",
+    "created_at": "2026-04-05T01:12:07Z",
+    "owner": {
+      "login": "MemPalace",
+      "url": "https://github.com/MemPalace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275135684?v=4"
+    },
+    "forks": 6511,
+    "issues": 495,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MemPalace/mempalace"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "stars": 46587,
+    "language": "Python",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "created_at": "2026-04-04T10:03:00Z",
+    "owner": {
+      "login": "JuliusBrussee",
+      "url": "https://github.com/JuliusBrussee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104168679?v=4"
+    },
+    "forks": 2449,
+    "issues": 150,
+    "social_preview_url": "https://opengraph.githubassets.com/1/JuliusBrussee/caveman"
+  },
+  {
+    "name": "chenglou/pretext",
+    "description": "Fast, accurate & comprehensive text measurement & layout",
+    "stars": 45354,
+    "language": "TypeScript",
+    "url": "https://github.com/chenglou/pretext",
+    "created_at": "2026-03-07T21:06:28Z",
+    "owner": {
+      "login": "chenglou",
+      "url": "https://github.com/chenglou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1909539?v=4"
+    },
+    "forks": 2496,
+    "issues": 78,
+    "social_preview_url": "https://opengraph.githubassets.com/1/chenglou/pretext"
+  },
+  {
+    "name": "HKUDS/nanobot",
+    "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+    "stars": 40871,
+    "language": "Python",
+    "url": "https://github.com/HKUDS/nanobot",
+    "created_at": "2026-02-01T07:16:15Z",
+    "owner": {
+      "login": "HKUDS",
+      "url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "forks": 7176,
+    "issues": 899,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HKUDS/nanobot"
+  }
+]

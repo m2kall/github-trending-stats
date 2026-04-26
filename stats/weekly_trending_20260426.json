@@ -1,0 +1,162 @@
+[
+  {
+    "name": "tw93/Kami",
+    "description": "👩‍🚒 Good content deserves good paper.",
+    "stars": 3280,
+    "language": "HTML",
+    "url": "https://github.com/tw93/Kami",
+    "created_at": "2026-04-20T16:35:19Z",
+    "owner": {
+      "login": "tw93",
+      "url": "https://github.com/tw93",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8736212?v=4"
+    },
+    "forks": 169,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tw93/Kami"
+  },
+  {
+    "name": "op7418/guizang-ppt-skill",
+    "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
+    "stars": 2744,
+    "language": "HTML",
+    "url": "https://github.com/op7418/guizang-ppt-skill",
+    "created_at": "2026-04-23T13:23:07Z",
+    "owner": {
+      "login": "op7418",
+      "url": "https://github.com/op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "forks": 299,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/op7418/guizang-ppt-skill"
+  },
+  {
+    "name": "masterking32/MasterHttpRelayVPN",
+    "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
+    "stars": 1251,
+    "language": "Python",
+    "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+    "created_at": "2026-04-20T10:32:26Z",
+    "owner": {
+      "login": "masterking32",
+      "url": "https://github.com/masterking32",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1076030?v=4"
+    },
+    "forks": 121,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/masterking32/MasterHttpRelayVPN"
+  },
+  {
+    "name": "ConardLi/garden-skills",
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "stars": 1251,
+    "language": "JavaScript",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "created_at": "2026-04-21T11:56:17Z",
+    "owner": {
+      "login": "ConardLi",
+      "url": "https://github.com/ConardLi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30708545?v=4"
+    },
+    "forks": 236,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ConardLi/garden-skills"
+  },
+  {
+    "name": "deepseek-ai/TileKernels",
+    "description": "A kernel library written in tilelang",
+    "stars": 1168,
+    "language": "Python",
+    "url": "https://github.com/deepseek-ai/TileKernels",
+    "created_at": "2026-04-22T05:38:31Z",
+    "owner": {
+      "login": "deepseek-ai",
+      "url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "forks": 89,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/deepseek-ai/TileKernels"
+  },
+  {
+    "name": "Einsia/OpenChronicle",
+    "description": null,
+    "stars": 1155,
+    "language": "Python",
+    "url": "https://github.com/Einsia/OpenChronicle",
+    "created_at": "2026-04-21T14:50:33Z",
+    "owner": {
+      "login": "Einsia",
+      "url": "https://github.com/Einsia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246131017?v=4"
+    },
+    "forks": 61,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Einsia/OpenChronicle"
+  },
+  {
+    "name": "cosmicstack-labs/mercury-agent",
+    "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+    "stars": 1140,
+    "language": "TypeScript",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent",
+    "created_at": "2026-04-20T12:46:31Z",
+    "owner": {
+      "login": "cosmicstack-labs",
+      "url": "https://github.com/cosmicstack-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277752932?v=4"
+    },
+    "forks": 132,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cosmicstack-labs/mercury-agent"
+  },
+  {
+    "name": "leigest519/OpenGame",
+    "description": "OpenGame: Open Agentic Coding for Games",
+    "stars": 1101,
+    "language": "TypeScript",
+    "url": "https://github.com/leigest519/OpenGame",
+    "created_at": "2026-04-20T15:28:16Z",
+    "owner": {
+      "login": "leigest519",
+      "url": "https://github.com/leigest519",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57628855?v=4"
+    },
+    "forks": 132,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/leigest519/OpenGame"
+  },
+  {
+    "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+    "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
+    "stars": 870,
+    "language": null,
+    "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
+    "created_at": "2026-04-24T06:34:54Z",
+    "owner": {
+      "login": "victorchen96",
+      "url": "https://github.com/victorchen96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19264756?v=4"
+    },
+    "forks": 47,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/victorchen96/deepseek_v4_rolepaly_instruct"
+  },
+  {
+    "name": "openclaw/clawsweeper",
+    "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
+    "stars": 688,
+    "language": "JavaScript",
+    "url": "https://github.com/openclaw/clawsweeper",
+    "created_at": "2026-04-23T22:14:49Z",
+    "owner": {
+      "login": "openclaw",
+      "url": "https://github.com/openclaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
+    },
+    "forks": 66,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openclaw/clawsweeper"
+  }
+]
