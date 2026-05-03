@@ -1,0 +1,50 @@
+[
+  {
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "stars": 367613,
+    "language": "TypeScript",
+    "url": "https://github.com/openclaw/openclaw",
+    "created_at": "2025-11-24T10:16:47Z",
+    "owner": {
+      "login": "openclaw",
+      "url": "https://github.com/openclaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
+    },
+    "forks": 75615,
+    "issues": 6662,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openclaw/openclaw"
+  },
+  {
+    "name": "ultraworkers/claw-code",
+    "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+    "stars": 189695,
+    "language": "Rust",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "created_at": "2026-03-31T08:58:08Z",
+    "owner": {
+      "login": "ultraworkers",
+      "url": "https://github.com/ultraworkers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
+    },
+    "forks": 109610,
+    "issues": 1515,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ultraworkers/claw-code"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "stars": 176641,
+    "language": "Shell",
+    "url": "https://github.com/obra/superpowers",
+    "created_at": "2025-10-09T19:45:18Z",
+    "owner": {
+      "login": "obra",
+      "url": "https://github.com/obra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45416?v=4"
+    },
+    "forks": 15649,
+    "issues": 289,
+    "social_preview_url": "https://opengraph.githubassets.com/1/obra/superpowers"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "nexu-io/open-design",
+    "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+    "stars": 16457,
+    "language": "TypeScript",
+    "url": "https://github.com/nexu-io/open-design",
+    "created_at": "2026-04-28T04:25:20Z",
+    "owner": {
+      "login": "nexu-io",
+      "url": "https://github.com/nexu-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+    },
+    "forks": 1857,
+    "issues": 96,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nexu-io/open-design"
+  },
+  {
+    "name": "cursor/cookbook",
+    "description": null,
+    "stars": 3149,
+    "language": "TypeScript",
+    "url": "https://github.com/cursor/cookbook",
+    "created_at": "2026-04-27T08:27:12Z",
+    "owner": {
+      "login": "cursor",
+      "url": "https://github.com/cursor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126759922?v=4"
+    },
+    "forks": 366,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cursor/cookbook"
+  },
+  {
+    "name": "theori-io/copy-fail-CVE-2026-31431",
+    "description": null,
+    "stars": 2918,
+    "language": "Python",
+    "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
+    "created_at": "2026-04-29T12:15:28Z",
+    "owner": {
+      "login": "theori-io",
+      "url": "https://github.com/theori-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18063559?v=4"
+    },
+    "forks": 606,
+    "issues": 102,
+    "social_preview_url": "https://opengraph.githubassets.com/1/theori-io/copy-fail-CVE-2026-31431"
+  },
+  {
+    "name": "denuitt1/mhr-cfw",
+    "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+    "stars": 1710,
+    "language": "Python",
+    "url": "https://github.com/denuitt1/mhr-cfw",
+    "created_at": "2026-04-27T22:26:16Z",
+    "owner": {
+      "login": "denuitt1",
+      "url": "https://github.com/denuitt1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279854002?v=4"
+    },
+    "forks": 192,
+    "issues": 51,
+    "social_preview_url": "https://opengraph.githubassets.com/1/denuitt1/mhr-cfw"
+  },
+  {
+    "name": "willchen96/mike",
+    "description": "OSS AI Legal Platform",
+    "stars": 1434,
+    "language": "TypeScript",
+    "url": "https://github.com/willchen96/mike",
+    "created_at": "2026-04-29T17:41:12Z",
+    "owner": {
+      "login": "willchen96",
+      "url": "https://github.com/willchen96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85235185?v=4"
+    },
+    "forks": 380,
+    "issues": 18,
+    "social_preview_url": "https://opengraph.githubassets.com/1/willchen96/mike"
+  },
+  {
+    "name": "darrylmorley/whatcable",
+    "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+    "stars": 1274,
+    "language": "Swift",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "created_at": "2026-05-01T07:45:10Z",
+    "owner": {
+      "login": "darrylmorley",
+      "url": "https://github.com/darrylmorley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20406137?v=4"
+    },
+    "forks": 28,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/darrylmorley/whatcable"
+  },
+  {
+    "name": "DanOps-1/Gpt-Agreement-Payment",
+    "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+    "stars": 920,
+    "language": "Python",
+    "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
+    "created_at": "2026-04-27T03:48:28Z",
+    "owner": {
+      "login": "DanOps-1",
+      "url": "https://github.com/DanOps-1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136412026?v=4"
+    },
+    "forks": 410,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/DanOps-1/Gpt-Agreement-Payment"
+  },
+  {
+    "name": "b-nnett/codex-plusplus",
+    "description": "Codex++ tweak system for the Codex desktop app",
+    "stars": 838,
+    "language": "TypeScript",
+    "url": "https://github.com/b-nnett/codex-plusplus",
+    "created_at": "2026-04-28T10:35:16Z",
+    "owner": {
+      "login": "b-nnett",
+      "url": "https://github.com/b-nnett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
+    },
+    "forks": 40,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/b-nnett/codex-plusplus"
+  },
+  {
+    "name": "GENEXIS-AI/chromex",
+    "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
+    "stars": 757,
+    "language": "TypeScript",
+    "url": "https://github.com/GENEXIS-AI/chromex",
+    "created_at": "2026-04-28T11:08:06Z",
+    "owner": {
+      "login": "GENEXIS-AI",
+      "url": "https://github.com/GENEXIS-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131945398?v=4"
+    },
+    "forks": 63,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/GENEXIS-AI/chromex"
+  },
+  {
+    "name": "t8y2/dbx",
+    "description": "lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
+    "stars": 716,
+    "language": "Vue",
+    "url": "https://github.com/t8y2/dbx",
+    "created_at": "2026-04-29T03:00:36Z",
+    "owner": {
+      "login": "t8y2",
+      "url": "https://github.com/t8y2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77960507?v=4"
+    },
+    "forks": 38,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/t8y2/dbx"
+  }
+]

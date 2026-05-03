@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ultraworkers/claw-code",
+    "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+    "stars": 189695,
+    "language": "Rust",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "created_at": "2026-03-31T08:58:08Z",
+    "owner": {
+      "login": "ultraworkers",
+      "url": "https://github.com/ultraworkers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
+    },
+    "forks": 109610,
+    "issues": 1515,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ultraworkers/claw-code"
+  },
+  {
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "stars": 88235,
+    "language": "TypeScript",
+    "url": "https://github.com/garrytan/gstack",
+    "created_at": "2026-03-11T21:22:45Z",
+    "owner": {
+      "login": "garrytan",
+      "url": "https://github.com/garrytan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
+    },
+    "forks": 12989,
+    "issues": 497,
+    "social_preview_url": "https://opengraph.githubassets.com/1/garrytan/gstack"
+  },
+  {
+    "name": "karpathy/autoresearch",
+    "description": "AI agents running research on single-GPU nanochat training automatically",
+    "stars": 78529,
+    "language": "Python",
+    "url": "https://github.com/karpathy/autoresearch",
+    "created_at": "2026-03-06T22:00:43Z",
+    "owner": {
+      "login": "karpathy",
+      "url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "forks": 11448,
+    "issues": 202,
+    "social_preview_url": "https://opengraph.githubassets.com/1/karpathy/autoresearch"
+  },
+  {
+    "name": "VoltAgent/awesome-design-md",
+    "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "stars": 69822,
+    "language": null,
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "created_at": "2026-03-31T16:37:01Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 8580,
+    "issues": 279,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-design-md"
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "description": "Open-source orchestration for zero-human companies",
+    "stars": 61808,
+    "language": "TypeScript",
+    "url": "https://github.com/paperclipai/paperclip",
+    "created_at": "2026-03-02T15:01:51Z",
+    "owner": {
+      "login": "paperclipai",
+      "url": "https://github.com/paperclipai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
+    },
+    "forks": 10941,
+    "issues": 3129,
+    "social_preview_url": "https://opengraph.githubassets.com/1/paperclipai/paperclip"
+  },
+  {
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "stars": 55310,
+    "language": "Shell",
+    "url": "https://github.com/mattpocock/skills",
+    "created_at": "2026-02-03T11:15:53Z",
+    "owner": {
+      "login": "mattpocock",
+      "url": "https://github.com/mattpocock",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28293365?v=4"
+    },
+    "forks": 4667,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/mattpocock/skills"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "stars": 52562,
+    "language": "Python",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "created_at": "2026-04-04T10:03:00Z",
+    "owner": {
+      "login": "JuliusBrussee",
+      "url": "https://github.com/JuliusBrussee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104168679?v=4"
+    },
+    "forks": 2840,
+    "issues": 176,
+    "social_preview_url": "https://opengraph.githubassets.com/1/JuliusBrussee/caveman"
+  },
+  {
+    "name": "MemPalace/mempalace",
+    "description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "stars": 50792,
+    "language": "Python",
+    "url": "https://github.com/MemPalace/mempalace",
+    "created_at": "2026-04-05T01:12:07Z",
+    "owner": {
+      "login": "MemPalace",
+      "url": "https://github.com/MemPalace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275135684?v=4"
+    },
+    "forks": 6666,
+    "issues": 516,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MemPalace/mempalace"
+  },
+  {
+    "name": "chenglou/pretext",
+    "description": "Fast, accurate & comprehensive text measurement & layout",
+    "stars": 46040,
+    "language": "TypeScript",
+    "url": "https://github.com/chenglou/pretext",
+    "created_at": "2026-03-07T21:06:28Z",
+    "owner": {
+      "login": "chenglou",
+      "url": "https://github.com/chenglou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1909539?v=4"
+    },
+    "forks": 2551,
+    "issues": 81,
+    "social_preview_url": "https://opengraph.githubassets.com/1/chenglou/pretext"
+  },
+  {
+    "name": "santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "stars": 41913,
+    "language": "JavaScript",
+    "url": "https://github.com/santifer/career-ops",
+    "created_at": "2026-04-04T18:21:18Z",
+    "owner": {
+      "login": "santifer",
+      "url": "https://github.com/santifer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256850418?v=4"
+    },
+    "forks": 8714,
+    "issues": 158,
+    "social_preview_url": "https://opengraph.githubassets.com/1/santifer/career-ops"
+  }
+]
