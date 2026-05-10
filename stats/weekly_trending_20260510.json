@@ -1,0 +1,162 @@
+[
+  {
+    "name": "antirez/ds4",
+    "description": "DeepSeek 4 Flash local inference engine for Metal",
+    "stars": 4733,
+    "language": "C",
+    "url": "https://github.com/antirez/ds4",
+    "created_at": "2026-05-06T17:17:05Z",
+    "owner": {
+      "login": "antirez",
+      "url": "https://github.com/antirez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
+    },
+    "forks": 326,
+    "issues": 21,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antirez/ds4"
+  },
+  {
+    "name": "V4bel/dirtyfrag",
+    "description": null,
+    "stars": 3701,
+    "language": "C",
+    "url": "https://github.com/V4bel/dirtyfrag",
+    "created_at": "2026-05-07T18:18:28Z",
+    "owner": {
+      "login": "V4bel",
+      "url": "https://github.com/V4bel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42788779?v=4"
+    },
+    "forks": 559,
+    "issues": 50,
+    "social_preview_url": "https://opengraph.githubassets.com/1/V4bel/dirtyfrag"
+  },
+  {
+    "name": "vercel-labs/zero-native",
+    "description": "Build desktop + mobile apps with Zig and web UI",
+    "stars": 1723,
+    "language": "Zig",
+    "url": "https://github.com/vercel-labs/zero-native",
+    "created_at": "2026-05-08T19:53:41Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 69,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/zero-native"
+  },
+  {
+    "name": "strukto-ai/mirage",
+    "description": "A Unified Virtual Filesystem For AI Agents",
+    "stars": 1647,
+    "language": "TypeScript",
+    "url": "https://github.com/strukto-ai/mirage",
+    "created_at": "2026-05-06T17:00:48Z",
+    "owner": {
+      "login": "strukto-ai",
+      "url": "https://github.com/strukto-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248286111?v=4"
+    },
+    "forks": 96,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/strukto-ai/mirage"
+  },
+  {
+    "name": "yaojingang/yao-open-prompts",
+    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+    "stars": 1500,
+    "language": "Python",
+    "url": "https://github.com/yaojingang/yao-open-prompts",
+    "created_at": "2026-05-06T13:04:20Z",
+    "owner": {
+      "login": "yaojingang",
+      "url": "https://github.com/yaojingang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
+    },
+    "forks": 239,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yaojingang/yao-open-prompts"
+  },
+  {
+    "name": "XBuilderLAB/cheat-on-content",
+    "description": "You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system.",
+    "stars": 1446,
+    "language": "Shell",
+    "url": "https://github.com/XBuilderLAB/cheat-on-content",
+    "created_at": "2026-05-05T10:28:33Z",
+    "owner": {
+      "login": "XBuilderLAB",
+      "url": "https://github.com/XBuilderLAB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280592915?v=4"
+    },
+    "forks": 297,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/XBuilderLAB/cheat-on-content"
+  },
+  {
+    "name": "lightseekorg/tokenspeed",
+    "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+    "stars": 863,
+    "language": "Python",
+    "url": "https://github.com/lightseekorg/tokenspeed",
+    "created_at": "2026-05-06T13:13:21Z",
+    "owner": {
+      "login": "lightseekorg",
+      "url": "https://github.com/lightseekorg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238925110?v=4"
+    },
+    "forks": 60,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lightseekorg/tokenspeed"
+  },
+  {
+    "name": "zarazhangrui/beautiful-html-templates",
+    "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.",
+    "stars": 623,
+    "language": "HTML",
+    "url": "https://github.com/zarazhangrui/beautiful-html-templates",
+    "created_at": "2026-05-05T06:18:21Z",
+    "owner": {
+      "login": "zarazhangrui",
+      "url": "https://github.com/zarazhangrui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
+    },
+    "forks": 53,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zarazhangrui/beautiful-html-templates"
+  },
+  {
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+    "stars": 554,
+    "language": "Python",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "created_at": "2026-05-04T22:18:51Z",
+    "owner": {
+      "login": "WenyuChiou",
+      "url": "https://github.com/WenyuChiou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162016108?v=4"
+    },
+    "forks": 55,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "name": "zzzhhh1/Sing-Flare-Auto",
+    "description": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接：",
+    "stars": 493,
+    "language": "Dockerfile",
+    "url": "https://github.com/zzzhhh1/Sing-Flare-Auto",
+    "created_at": "2026-05-05T13:59:37Z",
+    "owner": {
+      "login": "zzzhhh1",
+      "url": "https://github.com/zzzhhh1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58203962?v=4"
+    },
+    "forks": 465,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zzzhhh1/Sing-Flare-Auto"
+  }
+]
