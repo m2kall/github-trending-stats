@@ -1,0 +1,162 @@
+[
+  {
+    "name": "nexu-io/open-design",
+    "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+    "stars": 42663,
+    "language": "TypeScript",
+    "url": "https://github.com/nexu-io/open-design",
+    "created_at": "2026-04-28T04:25:20Z",
+    "owner": {
+      "login": "nexu-io",
+      "url": "https://github.com/nexu-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+    },
+    "forks": 4866,
+    "issues": 374,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nexu-io/open-design"
+  },
+  {
+    "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "description": "GPT-Image-2 API and Prompts",
+    "stars": 14722,
+    "language": "Python",
+    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "created_at": "2026-04-18T11:22:14Z",
+    "owner": {
+      "login": "EvoLinkAI",
+      "url": "https://github.com/EvoLinkAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253253881?v=4"
+    },
+    "forks": 1480,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
+  },
+  {
+    "name": "alchaincyf/huashu-design",
+    "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
+    "stars": 13975,
+    "language": "HTML",
+    "url": "https://github.com/alchaincyf/huashu-design",
+    "created_at": "2026-04-19T14:42:06Z",
+    "owner": {
+      "login": "alchaincyf",
+      "url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "forks": 1923,
+    "issues": 12,
+    "social_preview_url": "https://opengraph.githubassets.com/1/alchaincyf/huashu-design"
+  },
+  {
+    "name": "kyegomez/OpenMythos",
+    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+    "stars": 13050,
+    "language": "Python",
+    "url": "https://github.com/kyegomez/OpenMythos",
+    "created_at": "2026-04-18T12:57:52Z",
+    "owner": {
+      "login": "kyegomez",
+      "url": "https://github.com/kyegomez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98760976?v=4"
+    },
+    "forks": 2977,
+    "issues": 53,
+    "social_preview_url": "https://opengraph.githubassets.com/1/kyegomez/OpenMythos"
+  },
+  {
+    "name": "antirez/ds4",
+    "description": "DeepSeek 4 Flash local inference engine for Metal and CUDA",
+    "stars": 10092,
+    "language": "C",
+    "url": "https://github.com/antirez/ds4",
+    "created_at": "2026-05-06T17:17:05Z",
+    "owner": {
+      "login": "antirez",
+      "url": "https://github.com/antirez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
+    },
+    "forks": 827,
+    "issues": 76,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antirez/ds4"
+  },
+  {
+    "name": "op7418/guizang-ppt-skill",
+    "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
+    "stars": 9276,
+    "language": "HTML",
+    "url": "https://github.com/op7418/guizang-ppt-skill",
+    "created_at": "2026-04-23T13:23:07Z",
+    "owner": {
+      "login": "op7418",
+      "url": "https://github.com/op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "forks": 756,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/op7418/guizang-ppt-skill"
+  },
+  {
+    "name": "Yuan1z0825/nature-skills",
+    "description": "符合nature论文学术表达和科研绘图的Skill",
+    "stars": 7166,
+    "language": "Python",
+    "url": "https://github.com/Yuan1z0825/nature-skills",
+    "created_at": "2026-04-24T03:11:46Z",
+    "owner": {
+      "login": "Yuan1z0825",
+      "url": "https://github.com/Yuan1z0825",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140061814?v=4"
+    },
+    "forks": 485,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Yuan1z0825/nature-skills"
+  },
+  {
+    "name": "anthropics/claude-for-legal",
+    "description": "A suite of plugins for legal workflows",
+    "stars": 6573,
+    "language": "Python",
+    "url": "https://github.com/anthropics/claude-for-legal",
+    "created_at": "2026-04-21T15:43:42Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 898,
+    "issues": 32,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/claude-for-legal"
+  },
+  {
+    "name": "OpenCoworkAI/open-codesign",
+    "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.",
+    "stars": 5998,
+    "language": "TypeScript",
+    "url": "https://github.com/OpenCoworkAI/open-codesign",
+    "created_at": "2026-04-18T03:14:33Z",
+    "owner": {
+      "login": "OpenCoworkAI",
+      "url": "https://github.com/OpenCoworkAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254727761?v=4"
+    },
+    "forks": 633,
+    "issues": 53,
+    "social_preview_url": "https://opengraph.githubassets.com/1/OpenCoworkAI/open-codesign"
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "stars": 5459,
+    "language": "JavaScript",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "created_at": "2026-04-25T09:19:13Z",
+    "owner": {
+      "login": "freestylefly",
+      "url": "https://github.com/freestylefly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
+    },
+    "forks": 740,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/freestylefly/awesome-gpt-image-2"
+  }
+]

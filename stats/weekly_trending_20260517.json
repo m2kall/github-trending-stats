@@ -1,0 +1,162 @@
+[
+  {
+    "name": "FULU-Foundation/OrcaSlicer-bambulab",
+    "description": null,
+    "stars": 5403,
+    "language": "C++",
+    "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+    "created_at": "2026-05-11T17:44:55Z",
+    "owner": {
+      "login": "FULU-Foundation",
+      "url": "https://github.com/FULU-Foundation",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223959643?v=4"
+    },
+    "forks": 3451,
+    "issues": 24,
+    "social_preview_url": "https://opengraph.githubassets.com/1/FULU-Foundation/OrcaSlicer-bambulab"
+  },
+  {
+    "name": "Nightmare-Eclipse/YellowKey",
+    "description": "YellowKey Bitlocker Bypass Vulnerability",
+    "stars": 2895,
+    "language": null,
+    "url": "https://github.com/Nightmare-Eclipse/YellowKey",
+    "created_at": "2026-05-12T15:54:59Z",
+    "owner": {
+      "login": "Nightmare-Eclipse",
+      "url": "https://github.com/Nightmare-Eclipse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
+    },
+    "forks": 608,
+    "issues": 23,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Nightmare-Eclipse/YellowKey"
+  },
+  {
+    "name": "nexu-io/html-anything",
+    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
+    "stars": 2498,
+    "language": "HTML",
+    "url": "https://github.com/nexu-io/html-anything",
+    "created_at": "2026-05-11T09:40:38Z",
+    "owner": {
+      "login": "nexu-io",
+      "url": "https://github.com/nexu-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+    },
+    "forks": 295,
+    "issues": 26,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nexu-io/html-anything"
+  },
+  {
+    "name": "yetone/native-feel-skill",
+    "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
+    "stars": 1237,
+    "language": null,
+    "url": "https://github.com/yetone/native-feel-skill",
+    "created_at": "2026-05-14T19:28:43Z",
+    "owner": {
+      "login": "yetone",
+      "url": "https://github.com/yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+    },
+    "forks": 58,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/yetone/native-feel-skill"
+  },
+  {
+    "name": "vercel-labs/zero",
+    "description": "The programming language for agents",
+    "stars": 1108,
+    "language": "C",
+    "url": "https://github.com/vercel-labs/zero",
+    "created_at": "2026-05-15T16:55:16Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 63,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/zero"
+  },
+  {
+    "name": "HermannBjorgvin/Clawdmeter",
+    "description": "ESP32 desk dashboard that shows Claude Code usage",
+    "stars": 1088,
+    "language": "C",
+    "url": "https://github.com/HermannBjorgvin/Clawdmeter",
+    "created_at": "2026-05-11T03:07:49Z",
+    "owner": {
+      "login": "HermannBjorgvin",
+      "url": "https://github.com/HermannBjorgvin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5817854?v=4"
+    },
+    "forks": 98,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/HermannBjorgvin/Clawdmeter"
+  },
+  {
+    "name": "simonlin1212/a-stock-data",
+    "description": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
+    "stars": 1008,
+    "language": null,
+    "url": "https://github.com/simonlin1212/a-stock-data",
+    "created_at": "2026-05-11T01:08:15Z",
+    "owner": {
+      "login": "simonlin1212",
+      "url": "https://github.com/simonlin1212",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166034225?v=4"
+    },
+    "forks": 234,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/simonlin1212/a-stock-data"
+  },
+  {
+    "name": "ywnd1144/Gopay_plus_automatic",
+    "description": null,
+    "stars": 905,
+    "language": "Python",
+    "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
+    "created_at": "2026-05-12T11:29:47Z",
+    "owner": {
+      "login": "ywnd1144",
+      "url": "https://github.com/ywnd1144",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264395641?v=4"
+    },
+    "forks": 536,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ywnd1144/Gopay_plus_automatic"
+  },
+  {
+    "name": "DepthFirstDisclosures/Nginx-Rift",
+    "description": "exploit for CVE-2026-42945",
+    "stars": 648,
+    "language": "Python",
+    "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+    "created_at": "2026-05-12T23:05:32Z",
+    "owner": {
+      "login": "DepthFirstDisclosures",
+      "url": "https://github.com/DepthFirstDisclosures",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229222067?v=4"
+    },
+    "forks": 105,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/DepthFirstDisclosures/Nginx-Rift"
+  },
+  {
+    "name": "DenisSergeevitch/agents-best-practices",
+    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+    "stars": 586,
+    "language": null,
+    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+    "created_at": "2026-05-15T21:32:21Z",
+    "owner": {
+      "login": "DenisSergeevitch",
+      "url": "https://github.com/DenisSergeevitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2140110?v=4"
+    },
+    "forks": 49,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/DenisSergeevitch/agents-best-practices"
+  }
+]
