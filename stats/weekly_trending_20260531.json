@@ -1,0 +1,162 @@
+[
+  {
+    "name": "op7418/guizang-social-card-skill",
+    "description": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
+    "stars": 1697,
+    "language": "HTML",
+    "url": "https://github.com/op7418/guizang-social-card-skill",
+    "created_at": "2026-05-27T12:05:05Z",
+    "owner": {
+      "login": "op7418",
+      "url": "https://github.com/op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "forks": 179,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/op7418/guizang-social-card-skill"
+  },
+  {
+    "name": "helloianneo/ian-xiaohei-illustrations",
+    "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+    "stars": 1188,
+    "language": null,
+    "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "created_at": "2026-05-27T22:47:56Z",
+    "owner": {
+      "login": "helloianneo",
+      "url": "https://github.com/helloianneo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89686060?v=4"
+    },
+    "forks": 101,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/helloianneo/ian-xiaohei-illustrations"
+  },
+  {
+    "name": "UditAkhourii/adhd",
+    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+    "stars": 611,
+    "language": "TypeScript",
+    "url": "https://github.com/UditAkhourii/adhd",
+    "created_at": "2026-05-25T11:06:35Z",
+    "owner": {
+      "login": "UditAkhourii",
+      "url": "https://github.com/UditAkhourii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156824020?v=4"
+    },
+    "forks": 27,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/UditAkhourii/adhd"
+  },
+  {
+    "name": "MatinSenPai/SenPaiScanner",
+    "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
+    "stars": 609,
+    "language": "Go",
+    "url": "https://github.com/MatinSenPai/SenPaiScanner",
+    "created_at": "2026-05-28T17:02:54Z",
+    "owner": {
+      "login": "MatinSenPai",
+      "url": "https://github.com/MatinSenPai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99926753?v=4"
+    },
+    "forks": 41,
+    "issues": 10,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MatinSenPai/SenPaiScanner"
+  },
+  {
+    "name": "withkynam/vibecode-pro-max-kit",
+    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+    "stars": 606,
+    "language": "JavaScript",
+    "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+    "created_at": "2026-05-27T05:46:25Z",
+    "owner": {
+      "login": "withkynam",
+      "url": "https://github.com/withkynam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85094695?v=4"
+    },
+    "forks": 151,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/withkynam/vibecode-pro-max-kit"
+  },
+  {
+    "name": "Sophomoresty/gemini-web2api",
+    "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+    "stars": 586,
+    "language": "Python",
+    "url": "https://github.com/Sophomoresty/gemini-web2api",
+    "created_at": "2026-05-28T11:25:55Z",
+    "owner": {
+      "login": "Sophomoresty",
+      "url": "https://github.com/Sophomoresty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94944221?v=4"
+    },
+    "forks": 192,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Sophomoresty/gemini-web2api"
+  },
+  {
+    "name": "Michaelliv/pi-dynamic-workflows",
+    "description": null,
+    "stars": 584,
+    "language": "TypeScript",
+    "url": "https://github.com/Michaelliv/pi-dynamic-workflows",
+    "created_at": "2026-05-28T20:46:15Z",
+    "owner": {
+      "login": "Michaelliv",
+      "url": "https://github.com/Michaelliv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
+    },
+    "forks": 33,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Michaelliv/pi-dynamic-workflows"
+  },
+  {
+    "name": "baoweise-bot/aimili-vpngate",
+    "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
+    "stars": 522,
+    "language": "Python",
+    "url": "https://github.com/baoweise-bot/aimili-vpngate",
+    "created_at": "2026-05-25T14:13:24Z",
+    "owner": {
+      "login": "baoweise-bot",
+      "url": "https://github.com/baoweise-bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287723012?v=4"
+    },
+    "forks": 211,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/baoweise-bot/aimili-vpngate"
+  },
+  {
+    "name": "2aronS/Duel-Agents",
+    "description": "CLI, SDK, and IDE plugins for Duel Agents",
+    "stars": 465,
+    "language": "TypeScript",
+    "url": "https://github.com/2aronS/Duel-Agents",
+    "created_at": "2026-05-28T10:45:44Z",
+    "owner": {
+      "login": "2aronS",
+      "url": "https://github.com/2aronS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106634141?v=4"
+    },
+    "forks": 12,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/2aronS/Duel-Agents"
+  },
+  {
+    "name": "nv-tlabs/Gamma-World",
+    "description": "Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
+    "stars": 434,
+    "language": null,
+    "url": "https://github.com/nv-tlabs/Gamma-World",
+    "created_at": "2026-05-25T02:35:01Z",
+    "owner": {
+      "login": "nv-tlabs",
+      "url": "https://github.com/nv-tlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49653101?v=4"
+    },
+    "forks": 2,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nv-tlabs/Gamma-World"
+  }
+]

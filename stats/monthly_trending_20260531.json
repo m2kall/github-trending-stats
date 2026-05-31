@@ -1,0 +1,162 @@
+[
+  {
+    "name": "antirez/ds4",
+    "description": "DeepSeek 4 Flash local inference engine for Metal and CUDA",
+    "stars": 12565,
+    "language": "C",
+    "url": "https://github.com/antirez/ds4",
+    "created_at": "2026-05-06T17:17:05Z",
+    "owner": {
+      "login": "antirez",
+      "url": "https://github.com/antirez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
+    },
+    "forks": 1075,
+    "issues": 130,
+    "social_preview_url": "https://opengraph.githubassets.com/1/antirez/ds4"
+  },
+  {
+    "name": "BigPizzaV3/CodexPlusPlus",
+    "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
+    "stars": 8977,
+    "language": "Rust",
+    "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+    "created_at": "2026-05-06T09:32:49Z",
+    "owner": {
+      "login": "BigPizzaV3",
+      "url": "https://github.com/BigPizzaV3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237402563?v=4"
+    },
+    "forks": 605,
+    "issues": 204,
+    "social_preview_url": "https://opengraph.githubassets.com/1/BigPizzaV3/CodexPlusPlus"
+  },
+  {
+    "name": "FULU-Foundation/OrcaSlicer-bambulab",
+    "description": null,
+    "stars": 6673,
+    "language": "C++",
+    "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+    "created_at": "2026-05-11T17:44:55Z",
+    "owner": {
+      "login": "FULU-Foundation",
+      "url": "https://github.com/FULU-Foundation",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223959643?v=4"
+    },
+    "forks": 5099,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/FULU-Foundation/OrcaSlicer-bambulab"
+  },
+  {
+    "name": "nexu-io/html-anything",
+    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
+    "stars": 5457,
+    "language": "HTML",
+    "url": "https://github.com/nexu-io/html-anything",
+    "created_at": "2026-05-11T09:40:38Z",
+    "owner": {
+      "login": "nexu-io",
+      "url": "https://github.com/nexu-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+    },
+    "forks": 543,
+    "issues": 41,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nexu-io/html-anything"
+  },
+  {
+    "name": "V4bel/dirtyfrag",
+    "description": null,
+    "stars": 4787,
+    "language": "C",
+    "url": "https://github.com/V4bel/dirtyfrag",
+    "created_at": "2026-05-07T18:18:28Z",
+    "owner": {
+      "login": "V4bel",
+      "url": "https://github.com/V4bel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42788779?v=4"
+    },
+    "forks": 769,
+    "issues": 61,
+    "social_preview_url": "https://opengraph.githubassets.com/1/V4bel/dirtyfrag"
+  },
+  {
+    "name": "vercel-labs/zerolang",
+    "description": "The programming language for agents",
+    "stars": 4737,
+    "language": "C",
+    "url": "https://github.com/vercel-labs/zerolang",
+    "created_at": "2026-05-15T16:55:16Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 304,
+    "issues": 124,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/zerolang"
+  },
+  {
+    "name": "vercel-labs/zero-native",
+    "description": "Build desktop + mobile apps with Zig and web UI",
+    "stars": 4037,
+    "language": "Zig",
+    "url": "https://github.com/vercel-labs/zero-native",
+    "created_at": "2026-05-08T19:53:41Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 164,
+    "issues": 39,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/zero-native"
+  },
+  {
+    "name": "perplexityai/bumblebee",
+    "description": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
+    "stars": 3992,
+    "language": "Go",
+    "url": "https://github.com/perplexityai/bumblebee",
+    "created_at": "2026-05-20T18:11:37Z",
+    "owner": {
+      "login": "perplexityai",
+      "url": "https://github.com/perplexityai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185426709?v=4"
+    },
+    "forks": 346,
+    "issues": 28,
+    "social_preview_url": "https://opengraph.githubassets.com/1/perplexityai/bumblebee"
+  },
+  {
+    "name": "simplifaisoul/osiris",
+    "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative",
+    "stars": 3758,
+    "language": "TypeScript",
+    "url": "https://github.com/simplifaisoul/osiris",
+    "created_at": "2026-05-12T20:09:25Z",
+    "owner": {
+      "login": "simplifaisoul",
+      "url": "https://github.com/simplifaisoul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241641249?v=4"
+    },
+    "forks": 753,
+    "issues": 16,
+    "social_preview_url": "https://opengraph.githubassets.com/1/simplifaisoul/osiris"
+  },
+  {
+    "name": "microsoft/SkillOpt",
+    "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+    "stars": 3305,
+    "language": "Python",
+    "url": "https://github.com/microsoft/SkillOpt",
+    "created_at": "2026-05-08T06:41:01Z",
+    "owner": {
+      "login": "microsoft",
+      "url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "forks": 331,
+    "issues": 9,
+    "social_preview_url": "https://opengraph.githubassets.com/1/microsoft/SkillOpt"
+  }
+]
