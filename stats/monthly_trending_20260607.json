@@ -1,0 +1,162 @@
+[
+  {
+    "name": "pewdiepie-archdaemon/odysseus",
+    "description": "Self-hosted AI workspace. ",
+    "stars": 59410,
+    "language": "Python",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "created_at": "2026-05-31T14:05:51Z",
+    "owner": {
+      "login": "pewdiepie-archdaemon",
+      "url": "https://github.com/pewdiepie-archdaemon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
+    },
+    "forks": 7155,
+    "issues": 993,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pewdiepie-archdaemon/odysseus"
+  },
+  {
+    "name": "unicity-astrid/sdk-js",
+    "description": "JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.",
+    "stars": 7684,
+    "language": "TypeScript",
+    "url": "https://github.com/unicity-astrid/sdk-js",
+    "created_at": "2026-05-18T10:47:45Z",
+    "owner": {
+      "login": "unicity-astrid",
+      "url": "https://github.com/unicity-astrid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261740341?v=4"
+    },
+    "forks": 20,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/unicity-astrid/sdk-js"
+  },
+  {
+    "name": "FULU-Foundation/OrcaSlicer-bambulab",
+    "description": null,
+    "stars": 6809,
+    "language": "C++",
+    "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+    "created_at": "2026-05-11T17:44:55Z",
+    "owner": {
+      "login": "FULU-Foundation",
+      "url": "https://github.com/FULU-Foundation",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223959643?v=4"
+    },
+    "forks": 5149,
+    "issues": 31,
+    "social_preview_url": "https://opengraph.githubassets.com/1/FULU-Foundation/OrcaSlicer-bambulab"
+  },
+  {
+    "name": "nexu-io/html-anything",
+    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
+    "stars": 6219,
+    "language": "HTML",
+    "url": "https://github.com/nexu-io/html-anything",
+    "created_at": "2026-05-11T09:40:38Z",
+    "owner": {
+      "login": "nexu-io",
+      "url": "https://github.com/nexu-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+    },
+    "forks": 608,
+    "issues": 47,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nexu-io/html-anything"
+  },
+  {
+    "name": "vercel-labs/zerolang",
+    "description": "The programming language for agents",
+    "stars": 4909,
+    "language": "C",
+    "url": "https://github.com/vercel-labs/zerolang",
+    "created_at": "2026-05-15T16:55:16Z",
+    "owner": {
+      "login": "vercel-labs",
+      "url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "forks": 318,
+    "issues": 131,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel-labs/zerolang"
+  },
+  {
+    "name": "anthropics/defending-code-reference-harness",
+    "description": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize",
+    "stars": 4602,
+    "language": "Python",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "created_at": "2026-05-22T16:00:56Z",
+    "owner": {
+      "login": "anthropics",
+      "url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "forks": 294,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/anthropics/defending-code-reference-harness"
+  },
+  {
+    "name": "simplifaisoul/osiris",
+    "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative",
+    "stars": 4552,
+    "language": "TypeScript",
+    "url": "https://github.com/simplifaisoul/osiris",
+    "created_at": "2026-05-12T20:09:25Z",
+    "owner": {
+      "login": "simplifaisoul",
+      "url": "https://github.com/simplifaisoul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241641249?v=4"
+    },
+    "forks": 938,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/simplifaisoul/osiris"
+  },
+  {
+    "name": "perplexityai/bumblebee",
+    "description": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
+    "stars": 4311,
+    "language": "Go",
+    "url": "https://github.com/perplexityai/bumblebee",
+    "created_at": "2026-05-20T18:11:37Z",
+    "owner": {
+      "login": "perplexityai",
+      "url": "https://github.com/perplexityai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185426709?v=4"
+    },
+    "forks": 382,
+    "issues": 27,
+    "social_preview_url": "https://opengraph.githubassets.com/1/perplexityai/bumblebee"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "stars": 4171,
+    "language": "Rust",
+    "url": "https://github.com/AprilNEA/OpenLogi",
+    "created_at": "2026-05-24T10:10:36Z",
+    "owner": {
+      "login": "AprilNEA",
+      "url": "https://github.com/AprilNEA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37977109?v=4"
+    },
+    "forks": 78,
+    "issues": 63,
+    "social_preview_url": "https://opengraph.githubassets.com/1/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "alibaba/open-code-review",
+    "description": "Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "stars": 3821,
+    "language": "Go",
+    "url": "https://github.com/alibaba/open-code-review",
+    "created_at": "2026-05-18T02:16:36Z",
+    "owner": {
+      "login": "alibaba",
+      "url": "https://github.com/alibaba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1961952?v=4"
+    },
+    "forks": 173,
+    "issues": 17,
+    "social_preview_url": "https://opengraph.githubassets.com/1/alibaba/open-code-review"
+  }
+]

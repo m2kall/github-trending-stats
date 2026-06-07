@@ -1,0 +1,162 @@
+[
+  {
+    "name": "b-nnett/goose",
+    "description": "Goose Swift proof-of-concept README",
+    "stars": 2170,
+    "language": "Rust",
+    "url": "https://github.com/b-nnett/goose",
+    "created_at": "2026-06-02T12:16:37Z",
+    "owner": {
+      "login": "b-nnett",
+      "url": "https://github.com/b-nnett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
+    },
+    "forks": 507,
+    "issues": 26,
+    "social_preview_url": "https://opengraph.githubassets.com/1/b-nnett/goose"
+  },
+  {
+    "name": "cpaczek/skylight",
+    "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+    "stars": 2103,
+    "language": "TypeScript",
+    "url": "https://github.com/cpaczek/skylight",
+    "created_at": "2026-06-02T23:40:28Z",
+    "owner": {
+      "login": "cpaczek",
+      "url": "https://github.com/cpaczek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25715982?v=4"
+    },
+    "forks": 200,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/cpaczek/skylight"
+  },
+  {
+    "name": "jd-opensource/JoyAI-Echo",
+    "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+    "stars": 741,
+    "language": "Python",
+    "url": "https://github.com/jd-opensource/JoyAI-Echo",
+    "created_at": "2026-06-02T03:25:51Z",
+    "owner": {
+      "login": "jd-opensource",
+      "url": "https://github.com/jd-opensource",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
+    },
+    "forks": 44,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/jd-opensource/JoyAI-Echo"
+  },
+  {
+    "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+    "description": null,
+    "stars": 592,
+    "language": "Python",
+    "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+    "created_at": "2026-06-01T08:52:27Z",
+    "owner": {
+      "login": "qiuqiubuchongle-cloud",
+      "url": "https://github.com/qiuqiubuchongle-cloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227941353?v=4"
+    },
+    "forks": 125,
+    "issues": 1,
+    "social_preview_url": "https://opengraph.githubassets.com/1/qiuqiubuchongle-cloud/chokepoint-atlas"
+  },
+  {
+    "name": "VAST-AI-Research/TripoSplat",
+    "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+    "stars": 497,
+    "language": "Python",
+    "url": "https://github.com/VAST-AI-Research/TripoSplat",
+    "created_at": "2026-06-01T12:50:21Z",
+    "owner": {
+      "login": "VAST-AI-Research",
+      "url": "https://github.com/VAST-AI-Research",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149052137?v=4"
+    },
+    "forks": 47,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VAST-AI-Research/TripoSplat"
+  },
+  {
+    "name": "tastyeffectco/sandboxes",
+    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+    "stars": 472,
+    "language": "Go",
+    "url": "https://github.com/tastyeffectco/sandboxes",
+    "created_at": "2026-06-03T18:55:02Z",
+    "owner": {
+      "login": "tastyeffectco",
+      "url": "https://github.com/tastyeffectco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205345397?v=4"
+    },
+    "forks": 10,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tastyeffectco/sandboxes"
+  },
+  {
+    "name": "tiantianGPU/reg-factory",
+    "description": null,
+    "stars": 461,
+    "language": "Python",
+    "url": "https://github.com/tiantianGPU/reg-factory",
+    "created_at": "2026-06-01T13:38:37Z",
+    "owner": {
+      "login": "tiantianGPU",
+      "url": "https://github.com/tiantianGPU",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164491093?v=4"
+    },
+    "forks": 226,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/tiantianGPU/reg-factory"
+  },
+  {
+    "name": "Jane-xiaoer/xiaoer-videolab",
+    "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+    "stars": 455,
+    "language": "JavaScript",
+    "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+    "created_at": "2026-06-04T05:20:47Z",
+    "owner": {
+      "login": "Jane-xiaoer",
+      "url": "https://github.com/Jane-xiaoer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175961422?v=4"
+    },
+    "forks": 70,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Jane-xiaoer/xiaoer-videolab"
+  },
+  {
+    "name": "Fullive-AI/Anima",
+    "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+    "stars": 394,
+    "language": "Python",
+    "url": "https://github.com/Fullive-AI/Anima",
+    "created_at": "2026-06-01T10:06:21Z",
+    "owner": {
+      "login": "Fullive-AI",
+      "url": "https://github.com/Fullive-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285607428?v=4"
+    },
+    "forks": 9,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Fullive-AI/Anima"
+  },
+  {
+    "name": "S-Sigdel/vimhjkl",
+    "description": "learn vim from your terminal with spaced repetition",
+    "stars": 387,
+    "language": "Python",
+    "url": "https://github.com/S-Sigdel/vimhjkl",
+    "created_at": "2026-06-01T08:08:33Z",
+    "owner": {
+      "login": "S-Sigdel",
+      "url": "https://github.com/S-Sigdel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108139412?v=4"
+    },
+    "forks": 6,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/S-Sigdel/vimhjkl"
+  }
+]
