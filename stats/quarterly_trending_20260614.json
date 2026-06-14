@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ultraworkers/claw-code",
+    "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "stars": 193749,
+    "language": "Rust",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "created_at": "2026-03-31T08:58:08Z",
+    "owner": {
+      "login": "ultraworkers",
+      "url": "https://github.com/ultraworkers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
+    },
+    "forks": 109965,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ultraworkers/claw-code"
+  },
+  {
+    "name": "VoltAgent/awesome-design-md",
+    "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "stars": 90029,
+    "language": null,
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "created_at": "2026-03-31T16:37:01Z",
+    "owner": {
+      "login": "VoltAgent",
+      "url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "forks": 10708,
+    "issues": 288,
+    "social_preview_url": "https://opengraph.githubassets.com/1/VoltAgent/awesome-design-md"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "stars": 72209,
+    "language": "JavaScript",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "created_at": "2026-04-04T10:03:00Z",
+    "owner": {
+      "login": "JuliusBrussee",
+      "url": "https://github.com/JuliusBrussee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104168679?v=4"
+    },
+    "forks": 4069,
+    "issues": 283,
+    "social_preview_url": "https://opengraph.githubassets.com/1/JuliusBrussee/caveman"
+  },
+  {
+    "name": "pewdiepie-archdaemon/odysseus",
+    "description": "Self-hosted AI workspace. ",
+    "stars": 70232,
+    "language": "Python",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "created_at": "2026-05-31T14:05:51Z",
+    "owner": {
+      "login": "pewdiepie-archdaemon",
+      "url": "https://github.com/pewdiepie-archdaemon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
+    },
+    "forks": 8918,
+    "issues": 1339,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pewdiepie-archdaemon/odysseus"
+  },
+  {
+    "name": "safishamsi/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "stars": 66767,
+    "language": "Python",
+    "url": "https://github.com/safishamsi/graphify",
+    "created_at": "2026-04-03T15:49:07Z",
+    "owner": {
+      "login": "safishamsi",
+      "url": "https://github.com/safishamsi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216348667?v=4"
+    },
+    "forks": 6751,
+    "issues": 340,
+    "social_preview_url": "https://opengraph.githubassets.com/1/safishamsi/graphify"
+  },
+  {
+    "name": "nexu-io/open-design",
+    "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
+    "stars": 64419,
+    "language": "TypeScript",
+    "url": "https://github.com/nexu-io/open-design",
+    "created_at": "2026-04-28T04:25:20Z",
+    "owner": {
+      "login": "nexu-io",
+      "url": "https://github.com/nexu-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+    },
+    "forks": 7206,
+    "issues": 391,
+    "social_preview_url": "https://opengraph.githubassets.com/1/nexu-io/open-design"
+  },
+  {
+    "name": "MemPalace/mempalace",
+    "description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "stars": 55545,
+    "language": "Python",
+    "url": "https://github.com/MemPalace/mempalace",
+    "created_at": "2026-04-05T01:12:07Z",
+    "owner": {
+      "login": "MemPalace",
+      "url": "https://github.com/MemPalace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275135684?v=4"
+    },
+    "forks": 7204,
+    "issues": 606,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MemPalace/mempalace"
+  },
+  {
+    "name": "santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "stars": 53564,
+    "language": "JavaScript",
+    "url": "https://github.com/santifer/career-ops",
+    "created_at": "2026-04-04T18:21:18Z",
+    "owner": {
+      "login": "santifer",
+      "url": "https://github.com/santifer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256850418?v=4"
+    },
+    "forks": 10663,
+    "issues": 144,
+    "social_preview_url": "https://opengraph.githubassets.com/1/santifer/career-ops"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "stars": 32005,
+    "language": "Python",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "created_at": "2026-03-18T18:38:02Z",
+    "owner": {
+      "login": "rohitg00",
+      "url": "https://github.com/rohitg00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
+    },
+    "forks": 5246,
+    "issues": 70,
+    "social_preview_url": "https://opengraph.githubassets.com/1/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "name": "Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything",
+    "stars": 28676,
+    "language": "TypeScript",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "created_at": "2026-04-01T03:15:49Z",
+    "owner": {
+      "login": "Gitlawb",
+      "url": "https://github.com/Gitlawb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268502891?v=4"
+    },
+    "forks": 8731,
+    "issues": 167,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Gitlawb/openclaude"
+  }
+]

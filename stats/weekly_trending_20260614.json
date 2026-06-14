@@ -1,0 +1,162 @@
+[
+  {
+    "name": "XiaomiMiMo/MiMo-Code",
+    "description": null,
+    "stars": 8013,
+    "language": "TypeScript",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "created_at": "2026-06-10T11:52:41Z",
+    "owner": {
+      "login": "XiaomiMiMo",
+      "url": "https://github.com/XiaomiMiMo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
+    },
+    "forks": 666,
+    "issues": 483,
+    "social_preview_url": "https://opengraph.githubassets.com/1/XiaomiMiMo/MiMo-Code"
+  },
+  {
+    "name": "shadcn/improve",
+    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "stars": 3560,
+    "language": null,
+    "url": "https://github.com/shadcn/improve",
+    "created_at": "2026-06-10T11:06:58Z",
+    "owner": {
+      "login": "shadcn",
+      "url": "https://github.com/shadcn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
+    },
+    "forks": 128,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/shadcn/improve"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "stars": 1659,
+    "language": "JavaScript",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "created_at": "2026-06-12T00:52:37Z",
+    "owner": {
+      "login": "DietrichGebert",
+      "url": "https://github.com/DietrichGebert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
+    },
+    "forks": 75,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/DietrichGebert/ponytail"
+  },
+  {
+    "name": "MSNightmare/RoguePlanet",
+    "description": "RoguePlanet Windows Defender Vulnerability",
+    "stars": 1255,
+    "language": "C++",
+    "url": "https://github.com/MSNightmare/RoguePlanet",
+    "created_at": "2026-06-09T19:10:18Z",
+    "owner": {
+      "login": "MSNightmare",
+      "url": "https://github.com/MSNightmare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
+    },
+    "forks": 519,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MSNightmare/RoguePlanet"
+  },
+  {
+    "name": "SkyBlue997/enableMacosAI",
+    "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+    "stars": 1045,
+    "language": "Shell",
+    "url": "https://github.com/SkyBlue997/enableMacosAI",
+    "created_at": "2026-06-10T13:23:39Z",
+    "owner": {
+      "login": "SkyBlue997",
+      "url": "https://github.com/SkyBlue997",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74125386?v=4"
+    },
+    "forks": 53,
+    "issues": 15,
+    "social_preview_url": "https://opengraph.githubassets.com/1/SkyBlue997/enableMacosAI"
+  },
+  {
+    "name": "apple/coreai-models",
+    "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+    "stars": 875,
+    "language": "Swift",
+    "url": "https://github.com/apple/coreai-models",
+    "created_at": "2026-06-08T04:32:27Z",
+    "owner": {
+      "login": "apple",
+      "url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "forks": 64,
+    "issues": 11,
+    "social_preview_url": "https://opengraph.githubassets.com/1/apple/coreai-models"
+  },
+  {
+    "name": "plannotator/effective-html",
+    "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+    "stars": 755,
+    "language": "HTML",
+    "url": "https://github.com/plannotator/effective-html",
+    "created_at": "2026-06-09T23:24:51Z",
+    "owner": {
+      "login": "plannotator",
+      "url": "https://github.com/plannotator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287026406?v=4"
+    },
+    "forks": 49,
+    "issues": 2,
+    "social_preview_url": "https://opengraph.githubassets.com/1/plannotator/effective-html"
+  },
+  {
+    "name": "lenucksi/aur-malware-check",
+    "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+    "stars": 629,
+    "language": "Shell",
+    "url": "https://github.com/lenucksi/aur-malware-check",
+    "created_at": "2026-06-12T13:17:07Z",
+    "owner": {
+      "login": "lenucksi",
+      "url": "https://github.com/lenucksi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2451899?v=4"
+    },
+    "forks": 15,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/lenucksi/aur-malware-check"
+  },
+  {
+    "name": "levy-street/world-of-claudecraft",
+    "description": null,
+    "stars": 605,
+    "language": "TypeScript",
+    "url": "https://github.com/levy-street/world-of-claudecraft",
+    "created_at": "2026-06-10T05:55:59Z",
+    "owner": {
+      "login": "levy-street",
+      "url": "https://github.com/levy-street",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149554763?v=4"
+    },
+    "forks": 137,
+    "issues": 71,
+    "social_preview_url": "https://opengraph.githubassets.com/1/levy-street/world-of-claudecraft"
+  },
+  {
+    "name": "Tencent-Hunyuan/UniRL",
+    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+    "stars": 582,
+    "language": "Python",
+    "url": "https://github.com/Tencent-Hunyuan/UniRL",
+    "created_at": "2026-06-08T12:29:36Z",
+    "owner": {
+      "login": "Tencent-Hunyuan",
+      "url": "https://github.com/Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "forks": 32,
+    "issues": 19,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Tencent-Hunyuan/UniRL"
+  }
+]
