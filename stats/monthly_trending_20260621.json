@@ -1,0 +1,162 @@
+[
+  {
+    "name": "pewdiepie-archdaemon/odysseus",
+    "description": "Self-hosted AI workspace. ",
+    "stars": 75168,
+    "language": "Python",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "created_at": "2026-05-31T14:05:51Z",
+    "owner": {
+      "login": "pewdiepie-archdaemon",
+      "url": "https://github.com/pewdiepie-archdaemon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
+    },
+    "forks": 9749,
+    "issues": 1406,
+    "social_preview_url": "https://opengraph.githubassets.com/1/pewdiepie-archdaemon/odysseus"
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "stars": 43799,
+    "language": "JavaScript",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "created_at": "2026-06-12T00:52:37Z",
+    "owner": {
+      "login": "DietrichGebert",
+      "url": "https://github.com/DietrichGebert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
+    },
+    "forks": 2140,
+    "issues": 44,
+    "social_preview_url": "https://opengraph.githubassets.com/1/DietrichGebert/ponytail"
+  },
+  {
+    "name": "XiaomiMiMo/MiMo-Code",
+    "description": "MiMo Code: Where Models and Agents Co-Evolve",
+    "stars": 10100,
+    "language": "TypeScript",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "created_at": "2026-06-10T11:52:41Z",
+    "owner": {
+      "login": "XiaomiMiMo",
+      "url": "https://github.com/XiaomiMiMo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
+    },
+    "forks": 934,
+    "issues": 519,
+    "social_preview_url": "https://opengraph.githubassets.com/1/XiaomiMiMo/MiMo-Code"
+  },
+  {
+    "name": "shadcn/improve",
+    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "stars": 5792,
+    "language": null,
+    "url": "https://github.com/shadcn/improve",
+    "created_at": "2026-06-10T11:06:58Z",
+    "owner": {
+      "login": "shadcn",
+      "url": "https://github.com/shadcn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
+    },
+    "forks": 227,
+    "issues": 7,
+    "social_preview_url": "https://opengraph.githubassets.com/1/shadcn/improve"
+  },
+  {
+    "name": "helloianneo/ian-xiaohei-illustrations",
+    "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+    "stars": 5449,
+    "language": null,
+    "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "created_at": "2026-05-27T22:47:56Z",
+    "owner": {
+      "login": "helloianneo",
+      "url": "https://github.com/helloianneo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89686060?v=4"
+    },
+    "forks": 635,
+    "issues": 8,
+    "social_preview_url": "https://opengraph.githubassets.com/1/helloianneo/ian-xiaohei-illustrations"
+  },
+  {
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "stars": 5189,
+    "language": "Rust",
+    "url": "https://github.com/AprilNEA/OpenLogi",
+    "created_at": "2026-05-24T10:10:36Z",
+    "owner": {
+      "login": "AprilNEA",
+      "url": "https://github.com/AprilNEA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37977109?v=4"
+    },
+    "forks": 98,
+    "issues": 78,
+    "social_preview_url": "https://opengraph.githubassets.com/1/AprilNEA/OpenLogi"
+  },
+  {
+    "name": "zgwl/chinese-buy-us-stock-guide",
+    "description": "美股指南",
+    "stars": 4763,
+    "language": null,
+    "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
+    "created_at": "2026-05-30T04:27:25Z",
+    "owner": {
+      "login": "zgwl",
+      "url": "https://github.com/zgwl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6014068?v=4"
+    },
+    "forks": 734,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zgwl/chinese-buy-us-stock-guide"
+  },
+  {
+    "name": "omnigent-ai/omnigent",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+    "stars": 4218,
+    "language": "Python",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "created_at": "2026-06-11T12:18:13Z",
+    "owner": {
+      "login": "omnigent-ai",
+      "url": "https://github.com/omnigent-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292215228?v=4"
+    },
+    "forks": 475,
+    "issues": 227,
+    "social_preview_url": "https://opengraph.githubassets.com/1/omnigent-ai/omnigent"
+  },
+  {
+    "name": "op7418/guizang-social-card-skill",
+    "description": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
+    "stars": 3822,
+    "language": "HTML",
+    "url": "https://github.com/op7418/guizang-social-card-skill",
+    "created_at": "2026-05-27T12:05:05Z",
+    "owner": {
+      "login": "op7418",
+      "url": "https://github.com/op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "forks": 334,
+    "issues": 5,
+    "social_preview_url": "https://opengraph.githubassets.com/1/op7418/guizang-social-card-skill"
+  },
+  {
+    "name": "diffusionstudio/lottie",
+    "description": "Generate production-ready Lottie animations with Claude Code or Codex",
+    "stars": 3519,
+    "language": "TypeScript",
+    "url": "https://github.com/diffusionstudio/lottie",
+    "created_at": "2026-06-04T13:39:32Z",
+    "owner": {
+      "login": "diffusionstudio",
+      "url": "https://github.com/diffusionstudio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135729001?v=4"
+    },
+    "forks": 188,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/diffusionstudio/lottie"
+  }
+]

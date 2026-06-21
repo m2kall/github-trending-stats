@@ -1,0 +1,162 @@
+[
+  {
+    "name": "vercel/eve",
+    "description": "The Framework for Building Agents",
+    "stars": 1886,
+    "language": "TypeScript",
+    "url": "https://github.com/vercel/eve",
+    "created_at": "2026-06-16T10:51:20Z",
+    "owner": {
+      "login": "vercel",
+      "url": "https://github.com/vercel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4"
+    },
+    "forks": 123,
+    "issues": 69,
+    "social_preview_url": "https://opengraph.githubassets.com/1/vercel/eve"
+  },
+  {
+    "name": "alchaincyf/loop-engineering-orange-book",
+    "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+    "stars": 718,
+    "language": null,
+    "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+    "created_at": "2026-06-15T05:27:07Z",
+    "owner": {
+      "login": "alchaincyf",
+      "url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "forks": 62,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/alchaincyf/loop-engineering-orange-book"
+  },
+  {
+    "name": "rebel0789/codexpro",
+    "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "stars": 566,
+    "language": "JavaScript",
+    "url": "https://github.com/rebel0789/codexpro",
+    "created_at": "2026-06-16T21:22:43Z",
+    "owner": {
+      "login": "rebel0789",
+      "url": "https://github.com/rebel0789",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126284057?v=4"
+    },
+    "forks": 51,
+    "issues": 3,
+    "social_preview_url": "https://opengraph.githubassets.com/1/rebel0789/codexpro"
+  },
+  {
+    "name": "Forsy-AI/agent-apprenticeship",
+    "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+    "stars": 539,
+    "language": null,
+    "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+    "created_at": "2026-06-19T16:19:37Z",
+    "owner": {
+      "login": "Forsy-AI",
+      "url": "https://github.com/Forsy-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273874842?v=4"
+    },
+    "forks": 0,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Forsy-AI/agent-apprenticeship"
+  },
+  {
+    "name": "Plaer1/junction",
+    "description": "VS Code chat sidebar for local AI coding agents",
+    "stars": 516,
+    "language": "TypeScript",
+    "url": "https://github.com/Plaer1/junction",
+    "created_at": "2026-06-17T05:27:09Z",
+    "owner": {
+      "login": "Plaer1",
+      "url": "https://github.com/Plaer1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3485414?v=4"
+    },
+    "forks": 7,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/Plaer1/junction"
+  },
+  {
+    "name": "dongshuyan/compass-skills",
+    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "stars": 398,
+    "language": "Python",
+    "url": "https://github.com/dongshuyan/compass-skills",
+    "created_at": "2026-06-15T06:28:04Z",
+    "owner": {
+      "login": "dongshuyan",
+      "url": "https://github.com/dongshuyan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17682201?v=4"
+    },
+    "forks": 34,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/dongshuyan/compass-skills"
+  },
+  {
+    "name": "zhongerxin/cowart",
+    "description": null,
+    "stars": 373,
+    "language": "JavaScript",
+    "url": "https://github.com/zhongerxin/cowart",
+    "created_at": "2026-06-18T16:08:30Z",
+    "owner": {
+      "login": "zhongerxin",
+      "url": "https://github.com/zhongerxin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8215057?v=4"
+    },
+    "forks": 33,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/zhongerxin/cowart"
+  },
+  {
+    "name": "ngrok/webernetes",
+    "description": "Kubernetes in the browser.",
+    "stars": 370,
+    "language": "TypeScript",
+    "url": "https://github.com/ngrok/webernetes",
+    "created_at": "2026-06-16T16:52:34Z",
+    "owner": {
+      "login": "ngrok",
+      "url": "https://github.com/ngrok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10625446?v=4"
+    },
+    "forks": 24,
+    "issues": 4,
+    "social_preview_url": "https://opengraph.githubassets.com/1/ngrok/webernetes"
+  },
+  {
+    "name": "boogu-project/Boogu-Image",
+    "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+    "stars": 362,
+    "language": "Python",
+    "url": "https://github.com/boogu-project/Boogu-Image",
+    "created_at": "2026-06-16T14:59:20Z",
+    "owner": {
+      "login": "boogu-project",
+      "url": "https://github.com/boogu-project",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243518726?v=4"
+    },
+    "forks": 16,
+    "issues": 6,
+    "social_preview_url": "https://opengraph.githubassets.com/1/boogu-project/Boogu-Image"
+  },
+  {
+    "name": "MstKail/polymarket-trading-bot-services-polyedge365",
+    "description": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot",
+    "stars": 358,
+    "language": null,
+    "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+    "created_at": "2026-06-18T05:56:44Z",
+    "owner": {
+      "login": "MstKail",
+      "url": "https://github.com/MstKail",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26532345?v=4"
+    },
+    "forks": 710,
+    "issues": 0,
+    "social_preview_url": "https://opengraph.githubassets.com/1/MstKail/polymarket-trading-bot-services-polyedge365"
+  }
+]

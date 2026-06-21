@@ -1,0 +1,50 @@
+[
+  {
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "stars": 379702,
+    "language": "TypeScript",
+    "url": "https://github.com/openclaw/openclaw",
+    "created_at": "2025-11-24T10:16:47Z",
+    "owner": {
+      "login": "openclaw",
+      "url": "https://github.com/openclaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
+    },
+    "forks": 79484,
+    "issues": 6461,
+    "social_preview_url": "https://opengraph.githubassets.com/1/openclaw/openclaw"
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "stars": 234346,
+    "language": "Shell",
+    "url": "https://github.com/obra/superpowers",
+    "created_at": "2025-10-09T19:45:18Z",
+    "owner": {
+      "login": "obra",
+      "url": "https://github.com/obra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45416?v=4"
+    },
+    "forks": 20799,
+    "issues": 279,
+    "social_preview_url": "https://opengraph.githubassets.com/1/obra/superpowers"
+  },
+  {
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 218926,
+    "language": "JavaScript",
+    "url": "https://github.com/affaan-m/ECC",
+    "created_at": "2026-01-18T00:51:51Z",
+    "owner": {
+      "login": "affaan-m",
+      "url": "https://github.com/affaan-m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4"
+    },
+    "forks": 33566,
+    "issues": 51,
+    "social_preview_url": "https://opengraph.githubassets.com/1/affaan-m/ECC"
+  }
+]
